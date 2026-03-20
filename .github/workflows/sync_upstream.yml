@@ -1,0 +1,71 @@
+name: Sync Upstream Listings & Update NYC READMEs
+
+on:
+  schedule:
+    # Run every 6 hours to stay in sync with upstream
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # Allow manual trigger
+
+concurrency:
+  group: sync_upstream
+  cancel-in-progress: true
+
+jobs:
+  sync-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: dev
+          fetch-depth: 0
+
+      - name: Sync listings.json from upstream
+        run: |
+          # Fetch the latest listings.json directly from the upstream repo
+          curl -sL "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json" \
+            -o .github/scripts/listings.json
+
+          # Check if listings.json actually changed
+          if git diff --quiet .github/scripts/listings.json; then
+            echo "listings_changed=false" >> "$GITHUB_ENV"
+            echo "No changes in listings.json — skipping README update."
+          else
+            echo "listings_changed=true" >> "$GITHUB_ENV"
+            echo "listings.json has been updated from upstream."
+          fi
+
+      - name: Set up Python
+        if: env.listings_changed == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install uv
+        if: env.listings_changed == 'true'
+        uses: astral-sh/setup-uv@v5
+
+      - name: Update READMEs (NYC filter applied)
+        if: env.listings_changed == 'true'
+        id: python_script
+        run: uv run main.py readme update
+
+      - name: Commit and push changes
+        if: env.listings_changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .github/scripts/listings.json
+          git add README.md
+          git add README-Inactive.md
+          git add README-Off-Season.md
+          git diff-index --quiet HEAD || \
+            git commit -m "Sync upstream listings & update NYC READMEs — $(date +'%B %d, %Y %H:%M')"
+
+      - name: Push changes
+        if: env.listings_changed == 'true'
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: dev
