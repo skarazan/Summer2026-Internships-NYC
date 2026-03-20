@@ -3,25 +3,7 @@
   A filtered view of Summer 2026 tech internships **located in New York City only**. Sourced from the [Pitt CSC & Simplify internship list](https://github.com/SimplifyJobs/Summer2026-Internships) and filtered to show only NYC-based roles across software, data science, quant, and more.
 
 
-  🧠 For valuable tips on navigating the internship process, be sure to check out our guide: [**Zero to Offer**](https://web.archive.org/web/20250319235510/https://pittcs.wiki/zero-to-offer/) 🧠 
 
-  🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2026-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
-
----
-
-### Browse 169 Internship Roles by Category
-
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (52)
-
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (18)
-
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (84)
-
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (10)
-
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (5)
-
----
 
 <div align="center">
     <h3>😫 Hate retyping your resume for every application?</h3>
