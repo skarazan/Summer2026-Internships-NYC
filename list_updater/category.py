@@ -336,7 +336,7 @@ def create_category_table(
         header += "[Back to top](#summer-2026-tech-internships-inactive-listings)\n\n"
     else:
         header = f"\n\n## {emoji} {category_name} Internship Roles\n\n"
-        header += "[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)\n\n"
+        header += "[Back to top](#summer-2026-nyc-tech-internships)\n\n"
 
     # Optional callout under Data Science section (only for active listings)
     if not inactive_only and category_name == "Data Science, AI & Machine Learning":

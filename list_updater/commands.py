@@ -11,6 +11,7 @@ from list_updater.constants import CATEGORY_MAPPING
 from list_updater.github import fail, set_output
 from list_updater.listings import (
     check_schema,
+    filter_nyc,
     filter_off_season,
     filter_summer,
     get_listings_from_json,
@@ -32,13 +33,20 @@ type ResultDict = dict[str, dict[str, str]]
 
 
 def cmd_readme_update() -> None:
-    """Update README files from listings.json."""
+    """Update README files from listings.json.
+
+    Applies a NYC location filter so only internships located in
+    New York City are displayed in the README.
+    """
     listings = get_listings_from_json()
 
     check_schema(listings)
     sort_listings(listings)
 
     summer_2026_listings = filter_summer(listings, "2026", earliest_date=1748761200)
+
+    # Apply NYC filter — only keep listings with a New York City location
+    summer_2026_listings = filter_nyc(summer_2026_listings)
 
     # Generate main README with active listings only
     embed_table(summer_2026_listings, "README.md", active_only=True)
@@ -47,9 +55,10 @@ def cmd_readme_update() -> None:
     embed_table(summer_2026_listings, "README-Inactive.md", inactive_only=True)
 
     offseason_listings = filter_off_season(listings)
+    offseason_listings = filter_nyc(offseason_listings)
     embed_table(offseason_listings, "README-Off-Season.md", off_season=True)
 
-    set_output("commit_message", "Updating READMEs at " + datetime.now().strftime("%B %d, %Y %H:%M:%S"))
+    set_output("commit_message", "Updating READMEs (NYC only) at " + datetime.now().strftime("%B %d, %Y %H:%M:%S"))
 
 
 # =============================================================================

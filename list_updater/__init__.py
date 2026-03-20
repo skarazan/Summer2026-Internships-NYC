@@ -41,6 +41,7 @@ from list_updater.github import fail, set_output
 from list_updater.listings import (
     check_schema,
     filter_active,
+    filter_nyc,
     filter_off_season,
     filter_summer,
     get_listings_from_json,
@@ -80,6 +81,7 @@ __all__ = [
     # Listings
     "check_schema",
     "filter_active",
+    "filter_nyc",
     "filter_off_season",
     "filter_summer",
     "get_listings_from_json",

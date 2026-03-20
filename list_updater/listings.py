@@ -90,6 +90,35 @@ def filter_summer(listings: list[Listing], year: str, earliest_date: int) -> lis
     return final_listings
 
 
+def filter_nyc(listings: list[Listing]) -> list[Listing]:
+    """Filter listings to only those with a New York City location.
+
+    Matches locations containing 'NYC', 'New York', or 'New York City'.
+    Also rewrites each listing's locations list to only include the
+    NYC-matching locations so the README only displays NYC locations.
+
+    Args:
+        listings: List of listing dictionaries.
+
+    Returns:
+        Filtered list containing only listings with NYC locations.
+    """
+    nyc_keywords = ["nyc", "new york"]
+    filtered: list[Listing] = []
+
+    for listing in listings:
+        nyc_locations = [
+            loc for loc in listing.get("locations", [])
+            if any(kw in loc.lower() for kw in nyc_keywords)
+        ]
+        if nyc_locations:
+            # Shallow copy so we don't mutate the original listing
+            nyc_listing = {**listing, "locations": nyc_locations}
+            filtered.append(nyc_listing)
+
+    return filtered
+
+
 def filter_off_season(listings: list[Listing]) -> list[Listing]:
     """Filter listings for off-season (Fall, Winter, Spring) internships.
 
