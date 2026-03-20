@@ -5,29 +5,6 @@
 
 
 
-<div align="center">
-    <h3>😫 Hate retyping your resume for every application?</h3>
-    <p>
-      <strong><a href="https://simplify.jobs/install?utm_source=GHList&utm_medium=banner">Autofill all your applications in a single click</strong></p></a>
-    <a href="https://simplify.jobs/copilot?utm_source=GHList&utm_medium=banner">
-      <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="500" alt="Simplify Copilot Banner">
-    </a>
-    <p><sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub></p>
-  </div>
-
-  ---
-
-  <div align="center">
-    <h3>😮‍💨 Tired of checking every day for new internships?</h3>
-    <p>A community member made ⬇️ <a href="https://swelist.com"><strong>SWEList</strong></a> ⬇️ that sends email alerts for new roles in this repo.</p>
-    <a href="https://swelist.com">
-      <img src="https://i.imgur.com/u7xWcQi.png" width="400" alt="Email Updates">
-    </a>
-    <p><sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub></p>
-  </div>
-
-  ---
-
   ## Legend
 
   🛂 Does NOT offer sponsorship
