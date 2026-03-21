@@ -448,52 +448,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Virtu Financial",
-        "id": "537506fa-8161-4592-bc12-3148cee4cb76",
-        "title": "Internship - Quantitative Trading",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756119280,
-        "date_posted": 1753324262,
-        "url": "https://job-boards.greenhouse.io/virtu/jobs/7848562002",
-        "locations": [
-            "Austin, TX",
-            "Chicago, IL",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Virtu-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Virtu Financial",
-        "id": "e7e7311b-f4f9-4904-a2aa-c7381e1c41da",
-        "title": "Internship - Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755593282,
-        "date_posted": 1753324260,
-        "url": "https://job-boards.greenhouse.io/virtu/jobs/7848570002",
-        "locations": [
-            "Austin, TX",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Virtu-Financial",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "KeyCorp",
         "id": "83360f53-a0e3-4a8a-90b3-6441c1c75013",
@@ -51919,7 +51873,7 @@
         "company_name": "DriveTime",
         "id": "428826a7-ec28-4d3e-8f9e-1128b4c972a3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -159361,7 +159315,7 @@
         "company_name": "CACI",
         "id": "7d74b2a5-a588-4594-83bb-fb25249b84f5",
         "title": "Software Development Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2025"
@@ -424913,7 +424867,7 @@
         "company_name": "State of Nebraska",
         "id": "4724e282-5bdd-447a-a246-803ee6029077",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -425143,7 +425097,7 @@
         "company_name": "Sprinklr",
         "id": "f115de81-5d6d-4c17-a247-433963cb5381",
         "title": "AI & Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427788,7 +427742,7 @@
         "company_name": "Altera Corporation",
         "id": "b93aaaff-8d35-4d02-b598-930f9d37f70c",
         "title": "Graduate Silicon Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427925,7 +427879,7 @@
         "company_name": "Synchrony Financial",
         "id": "6fe079a4-9c10-46f5-a526-6567ac50ca5f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -428498,7 +428452,7 @@
         "company_name": "EverCommerce",
         "id": "9622d654-b6c2-447c-bbca-fa6dd92f3727",
         "title": "Evercommerce \u2013 Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435948,7 +435902,7 @@
         "company_name": "Ciena",
         "id": "88b2419a-2538-46a0-894a-c1ab719ab612",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437468,6 +437422,95 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "87d2128b-3848-4972-9409-546b9c3669b4",
+        "title": "Software Engineering Intern - AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774046681,
+        "date_posted": 1774046681,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Software-Engineering-Intern--AI--Summer-2026_10143621-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Coherent ",
+        "id": "5f8fd091-e12f-4f56-b633-baa2a678e1af",
+        "title": "Intern Software Developer - Document Control - Global Quality",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774073343,
+        "date_posted": 1774073343,
+        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011079",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coherent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Guild Education",
+        "id": "ac400ed4-854f-4f21-adf8-1a8c05dc6f7f",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774073758,
+        "date_posted": 1774073758,
+        "url": "https://www.guild.com/open-positions-at-guild?gh_jid=7732992",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Guild-Education",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "9b8e4726-77af-4fd7-9e6f-9986925021ff",
+        "title": "Software Engineer Project Intern - Network Security",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774073406,
+        "date_posted": 1774073406,
+        "url": "https://jobs.bytedance.com/en/position/7595749912930420997/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
