@@ -1,25 +1,5 @@
 [
     {
-        "date_updated": 1753972515,
-        "url": "https://asana.com/jobs/apply/7078079?gh_jid=7078079",
-        "company_name": "Asana",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "San Francisco CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "William-Leung",
-        "id": "1f084a00-0869-4ddf-a62e-d7a33c7a13a4",
-        "date_posted": 1753403845,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Chainlink Labs",
@@ -100,26 +80,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CompScience",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Definity Financial",
-        "id": "c7b25112-cf8f-4396-aec9-11a1e4eadb48",
-        "title": "Risk Services Analyst",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753409989,
-        "date_posted": 1753409989,
-        "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/8374",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Definity-Financial",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -27060,29 +27020,6 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Navy Federal",
-        "id": "a81504cf-aea1-4d3e-9f86-ca818b490303",
-        "title": "Intern \u2013 Year Round - Product Engineering and Delivery Services",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1756205060,
-        "date_posted": 1753410271,
-        "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/25936",
-        "locations": [
-            "Vienna, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Navy-Federal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -404796,7 +404733,7 @@
         "company_name": "PG&E",
         "id": "3e6691cb-b878-46bb-87e4-1927b0112d48",
         "title": "Business Systems Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
