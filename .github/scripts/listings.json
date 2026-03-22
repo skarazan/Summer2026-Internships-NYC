@@ -1,90 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Chainlink Labs",
-        "id": "781f484d-eb88-40fb-9276-bcf4b9d5fe6c",
-        "title": "Research Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756118380,
-        "date_posted": 1753418703,
-        "url": "https://jobs.ashbyhq.com/chainlink-labs/203f6551-100f-42a5-90a6-3bb29e58a9f6/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chainlink-Labs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fizz",
-        "id": "2b9c6225-2cfa-4dea-8b2b-d48dbf13661a",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753418233,
-        "date_posted": 1753418233,
-        "url": "https://jobs.ashbyhq.com/fizz/6ba63204-10ab-47d4-a991-259091d82053/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Fizz-Social",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GE Aerospace",
-        "id": "ea019bd3-3a85-4f49-b027-cd92cd78fd28",
-        "title": "Digital Technology Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1753972578,
-        "date_posted": 1753418974,
-        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Intern---US---Summer-2026_R5002160-1",
-        "locations": [
-            "Livonia, MI",
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Aerospace",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CompScience",
-        "id": "73899a9e-ce46-4fd5-880e-b47eca53da42",
-        "title": "Engineering Internship Program",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753424312,
-        "date_posted": 1753424312,
-        "url": "https://jobs.ashbyhq.com/compscience/0701a16f-4858-4d63-b9fb-2f052655369d/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CompScience",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "JP Morgan Chase",
         "id": "1b806319-cc33-48f2-b80c-72890a2eb4ec",
@@ -286,26 +202,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "United Parcel Service (UPS)",
-        "id": "6d4e59b1-765c-4c09-9833-47d5c3bc7922",
-        "title": "Engineering Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754507966,
-        "date_posted": 1753412639,
-        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MIRA-LOMA-OPERATIONS-CAMRL/Solutions-Engineering-Co-Op_R25007890-1",
-        "locations": [
-            "Mira Loma, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Eight Sleep",
         "id": "f661f3e1-e3bd-4e3b-921a-87a50652d0be",
@@ -321,88 +217,6 @@
             "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/Eight-Sleep",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Morningstar",
-        "id": "52e7f9c6-6d83-4e41-b5d2-0b69e7820638",
-        "title": "Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753412508,
-        "date_posted": 1753412508,
-        "url": "https://morningstar.wd5.myworkdayjobs.com/Americas/job/London/Intern_AP-22645146",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Morningstar",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Blockhouse",
-        "id": "c83bc117-7f93-4416-b994-ac0f460a74e5",
-        "title": "Quantitative Developer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754508530,
-        "date_posted": 1753412556,
-        "url": "https://jobs.ashbyhq.com/blockhouse/6d7d9c01-5524-4ecd-854c-0dce64cc4696/application",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Blockhouse",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GE Aerospace",
-        "id": "5aa10fb5-3d39-408c-9311-932f526d394d",
-        "title": "Digital Technology Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1753413607,
-        "date_posted": 1753413607,
-        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Spring-2026_R5002161-1",
-        "locations": [
-            "Livonia, MI",
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GE Aerospace",
-        "id": "c85290c7-5fdf-40ed-b7f7-4c14438a1317",
-        "title": "Digital Technology Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1753413601,
-        "date_posted": 1753413601,
-        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Fall-2026_R5002162-1",
-        "locations": [
-            "Livonia, MI",
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Aerospace",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -19499,29 +19313,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Cohere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ChipStack",
-        "id": "a45c270f-3536-467d-9855-b868ba3fb060",
-        "title": "Research Intern - Ph.D",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753419262,
-        "date_posted": 1753419262,
-        "url": "https://jobs.ashbyhq.com/chipstack/f7101544-d308-4049-a649-32a6b009be2a/application",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ChipStack",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
