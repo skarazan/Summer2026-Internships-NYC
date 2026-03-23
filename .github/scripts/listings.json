@@ -6599,7 +6599,7 @@
         "company_name": "TikTok",
         "id": "e0b68754-f6bf-4417-b34d-9809dde9c3e0",
         "title": "Tool Software Engineer Intern - Tiktok-Intelligent Creation-Effect House",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -124120,7 +124120,7 @@
         "company_name": "Handshake",
         "id": "4e8048ad-35df-40eb-b0ed-4c5ca981577a",
         "title": "Handshake AI Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406938,9 +406938,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1772815523,
+        "date_updated": 1774253666,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -432749,9 +432749,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773908610,
+        "date_updated": 1774253666,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -432772,9 +432772,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773908687,
+        "date_updated": 1774253666,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -437108,5 +437108,419 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1774256365,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Chandler-Arizona-United-States-Of-America/Cloud-Operations-Intern_JR-022103",
+        "company_name": "Avnet",
+        "title": "Cloud Operations Intern",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "098e4f77-4d82-4bfd-8b51-0184cb3999a3",
+        "date_posted": 1774256365,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774256565,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-biorad.icims.com/jobs/38299/software-business-analyst-intern/job",
+        "company_name": "Bio-Rad Laboratories",
+        "title": "Software Business Analyst Intern",
+        "locations": [
+            "Hercules, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "a2d5eaed-1da6-4dfa-98b3-dd21dc4dd43f",
+        "date_posted": 1774256565,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774256810,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://erickson.wd108.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Software-Engineer_R0094752",
+        "company_name": "Erickson Senior Living",
+        "title": "Intern \u2013 Software Engineer",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "85ab0b15-1cd7-4a33-b440-ead39af8dc3a",
+        "date_posted": 1774256810,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774257593,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/sanmar/jobs/5084702007?gh_jid=5084702007",
+        "company_name": "SanMar",
+        "title": "IT Intern, Software Development",
+        "locations": [
+            "Issaquah, WA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "9aac97bb-9076-4dd2-8d33-9577c0e6a158",
+        "date_posted": 1774257593,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774258509,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://skechers.wd5.myworkdayjobs.com/one-career-site/job/Manhattan-Beach-CA/Cloud-Analyst-Intern--Summer-2026-_JR126223",
+        "company_name": "Skechers",
+        "title": "Cloud Analyst Intern",
+        "locations": [
+            "Manhattan Beach, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "99ac722a-91b3-4c9e-98f3-6ba482a69f70",
+        "date_posted": 1774258509,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774258566,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://bsa.applytojob.com/apply/dvXDzc11tD/Customer-Solutions-Intern-ERP-Software",
+        "company_name": "BS&A Software",
+        "title": "Customer Solutions Intern (ERP Software)",
+        "locations": [
+            "Lansing, MI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "e5e7f956-3419-466d-837f-e7522257a9f6",
+        "date_posted": 1774258566,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774259114,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://salesforce.wd12.myworkdayjobs.com/futureforce_newgradroles/job/California---San-Francisco/Summer-2026-Intern---Applied-AI-Strategy---Research_JR334473",
+        "company_name": "Salesforce",
+        "title": "Intern - Applied AI Strategy & Research",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "2e307846-15fa-4251-aa91-ae7d3946aef9",
+        "date_posted": 1774259114,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774259213,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/sanmar/jobs/5084516007?gh_jid=5084516007",
+        "company_name": "SanMar",
+        "title": "IT Intern, AI",
+        "locations": [
+            "Issaquah, WA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "49017fce-72d6-4e4e-9369-37ce955ef19f",
+        "date_posted": 1774259213,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774260102,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-biorad.icims.com/jobs/38121/data-engineer-intern/job",
+        "company_name": "Bio-Rad Laboratories",
+        "title": "Data Engineer Intern",
+        "locations": [
+            "Hercules, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "d6de9c50-68d9-49f7-8ee9-6a2e8c404cb0",
+        "date_posted": 1774260102,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774261894,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-calamp.icims.com/jobs/4326/intern%2c-engineer-software---carlsbad%2c-ca-%28summer-2026%29/job",
+        "company_name": "CalAmp",
+        "title": "ntern, Engineer Software",
+        "locations": [
+            "Carlsbad, Ca"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1554a295-c149-425e-addc-4d97676807a8",
+        "date_posted": 1774261894,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774261965,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/coverdash/52181e3d-c2d4-4982-b7e5-3a51403ec7c3",
+        "company_name": "Coverdash",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "b5d5d753-fb15-4c91-9a3a-89e9b18b204d",
+        "date_posted": 1774261965,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774262037,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/impiricus/jobs/5160169008",
+        "company_name": "Impiricus",
+        "title": "Intern - Software Engineer (Backend)",
+        "locations": [
+            "Atlanta, GA",
+            "New York, NY",
+            "Remote in USA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f48013f0-974e-4f38-9df9-4cef686fdcc7",
+        "date_posted": 1774262037,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774262139,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5158034008",
+        "company_name": "RF-SMART",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "terms": [
+            "Spring 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "40240365-d768-4a62-82c4-6f0e0e24c886",
+        "date_posted": 1774262139,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774262277,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.smartrecruiters.com/CityofPhiladelphia/4bb2befc-ab56-48bb-b2f2-969c40c78ca9",
+        "company_name": "City of Philadelphia",
+        "title": "Data Analyst Intern",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "20a68bda-00cf-48bf-a861-5abbdd8c14ae",
+        "date_posted": 1774262277,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774262356,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/cognitiv/jobs/4192536009",
+        "company_name": "Cognitiv",
+        "title": "Machine Learning Engineer Intern",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "20176164-15c1-4bc5-b71a-4e82b3ab5c2f",
+        "date_posted": 1774262356,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774262477,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/drivewealth/jobs/7673424003?gh_jid=7673424003",
+        "company_name": "DriveWealth",
+        "title": "AI Consulting Associate Program (AI CAP) Brokerage Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "3c911f9a-2be9-4adc-be3f-8bd436385151",
+        "date_posted": 1774262477,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774263255,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5085231007",
+        "company_name": "Geneva Trading",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "58821bd1-bd22-45bf-82f0-c375329b1523",
+        "date_posted": 1774263048,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Tencent",
+        "id": "fda6a6f4-bcf9-4cd1-9ee5-7a6f3d3b32b6",
+        "title": "Investment Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774260933,
+        "date_posted": 1774260933,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Investment-Analyst-Intern_R107139",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
