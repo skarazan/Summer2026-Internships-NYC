@@ -1,166 +1,5 @@
 [
     {
-        "date_updated": 1753492422,
-        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/ok1Awfwb",
-        "company_name": "Metropolitan Transportation Authority",
-        "title": "Software Development, Emerging Talent Intern",
-        "locations": [
-            "New York City, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "hamim23z",
-        "id": "9d48f5ab-5719-43f7-bfc8-b7d1409d0121",
-        "date_posted": 1753480519,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Geotab",
-        "id": "ae8461f4-875e-4754-84eb-77f3f893d974",
-        "title": "Embedded Developer Intern - Platform Reliability & Security",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753493807,
-        "date_posted": 1753493807,
-        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4669628008",
-        "locations": [
-            "Oakville, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Geotab",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Accenture",
-        "id": "c5e2a6e7-15d7-4f60-8131-1e9a26916bb5",
-        "title": "Graduate Intern - Applied Research Scientist",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753494846,
-        "date_posted": 1753494846,
-        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mountain-View-650-Castro-Corp/Center-for-Advanced-AI---Applied-Research-Scientist---Fall-Graduate-Intern---NAELFY26_R00279161",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Leidos",
-        "id": "a90371df-bcff-4ccd-acbf-e98dee89c3d3",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1753472518,
-        "date_posted": 1753472518,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Software-Development-Intern_R-00163313",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "N1",
-        "id": "d48ec36f-aeb5-4c12-92bc-b624855ba19d",
-        "title": "Research Intern",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753484552,
-        "date_posted": 1753484552,
-        "url": "https://jobs.ashbyhq.com/n1/f40a263f-dc1a-4d67-81ed-2ba3c893567c/application",
-        "locations": [
-            "Oakland, CA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/N1",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "United Parcel Service (UPS)",
-        "id": "7795cff9-7de8-4256-b810-d3e481b2d8ba",
-        "title": "Physical Automation Co-Op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753481376,
-        "date_posted": 1753481376,
-        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MCKINNEY-TXMCY/Physical-Automation-Co-Op_R25025593",
-        "locations": [
-            "McKinney, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BorgWarner",
-        "id": "564a7cb1-829f-4e2f-bd89-26dab87c5903",
-        "title": "Simulation and Applied Statistics Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753477890,
-        "date_posted": 1753477890,
-        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Arden---North-Carolina---USA/Simulation-and-Applied-Statistics-Intern_R2025-2872",
-        "locations": [
-            "Arden, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/BorgWarner",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": " PrizePicks",
-        "id": "ad043edd-7bfb-41b6-aeee-c9274666b67a",
-        "title": "Machine Learning Engineer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753484202,
-        "date_posted": 1753484202,
-        "url": "http://prizepicks.com/position?gh_jid=6660981003",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/PrizePicks",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sony Pictures Entertainment",
@@ -19197,76 +19036,6 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Scientech Research",
-        "id": "fdc65a61-a8f4-45c2-b2c9-35531bfb321b",
-        "title": "Quantitative Researcher Intern",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753486825,
-        "date_posted": 1753486825,
-        "url": "https://jobs.ashbyhq.com/scientech-research/b05bcb2f-2bb6-40c4-8702-3ba386eeab80/application",
-        "locations": [
-            "Jackson Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Scientech-Research",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Observe",
-        "id": "2f53c4ce-4f7d-4354-8edc-cd53889f522a",
-        "title": "Software Engineering Intern for Database Backend",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753480904,
-        "date_posted": 1753480904,
-        "url": "https://jobs.ashbyhq.com/observeinc/09b71d19-6b8e-406e-9ab9-6668747d6ccb/application",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ObserveInc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Handshake",
-        "id": "97aed95b-8c9b-4757-b9f6-eb176612b149",
-        "title": "Handshake AI Research Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1754039813,
-        "date_posted": 1753495085,
-        "url": "https://jobs.ashbyhq.com/handshake/8774468e-7c5b-4371-b712-9d4c03e43caa/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Handshake",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -190701,27 +190470,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "N1",
-        "id": "10559bb0-7039-4ac9-a576-d2c4a67eb3b4",
-        "title": "Software Engineer Intern - Fullstack",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1753485810,
-        "date_posted": 1753485810,
-        "url": "https://jobs.ashbyhq.com/n1/298585c3-96b1-4728-8d37-31482f85a064/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/N1",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Scientech Research",
         "id": "88f7ebc1-17a9-413b-b5bc-8dad0e1a1339",
@@ -190737,27 +190485,6 @@
             "Jackson Township, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Scientech-Research",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "N1",
-        "id": "69a2935c-ec96-405a-a1aa-80f9203ae74a",
-        "title": "Software Engineer Intern - Backend - Rust",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1753489912,
-        "date_posted": 1753489912,
-        "url": "https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/N1",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -414059,7 +413786,7 @@
         "company_name": "Motorola",
         "id": "cd856015-59e7-43e0-b905-b3df1ef541e2",
         "title": "Sales Product Owner \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437356,6 +437083,28 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Treefera",
+        "id": "fc2f87c9-f97c-48c8-8d6a-bd1af3a4d31a",
+        "title": "Treefera Intern Programme",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774228372,
+        "date_posted": 1774228372,
+        "url": "https://jobs.ashbyhq.com/treefera/800f0bc8-ca10-4d6e-8b89-f9bc8867e63f/application",
+        "locations": [
+            "London, UK",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Treefera",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
