@@ -342623,7 +342623,7 @@
         "company_name": "Draper",
         "id": "e9b86fb9-0372-4f03-8939-148253dcaa57",
         "title": "Software Modeling and Validation Intern - Analysis",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -359319,7 +359319,7 @@
         "company_name": "NVIDIA",
         "id": "caaef2b0-7636-429e-a9d6-36a933c6c766",
         "title": "Product Management Intern - Accelerated Computing GPU",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396190,7 +396190,7 @@
         "company_name": "OpenAI",
         "id": "4211c50d-d6e2-44ba-bf47-5cd582bcd3cc",
         "title": "Software Engineer Systems Research Intern - Applied Emerging Talent",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438287,7 +438287,7 @@
         "company_name": "Micron Technology",
         "id": "dc963693-ce40-4274-8d5c-b4d5e8ab90db",
         "title": "Intern SPG Operations/AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439441,6 +439441,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cadence Design Systems",
+        "id": "fff2f429-e143-43e0-9c0c-a6a376a294ea",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774307723,
+        "date_posted": 1774307723,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-Intern_R53146",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
