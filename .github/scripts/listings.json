@@ -1,48 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T. Rowe Price",
-        "id": "8ee5b986-8499-4a01-9c96-f6ff2ed6ebe8",
-        "title": "Software Engineering Internship",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2026"
-        ],
-        "date_updated": 1753943555,
-        "date_posted": 1753943555,
-        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2026-Global-Technology-Software-Engineering-Internship_77527",
-        "locations": [
-            "Owings Mills, MD",
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/t-rowe-price",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "T. Rowe Price",
-        "id": "7e554010-b9ad-4be3-b642-5b4a13ed6298",
-        "title": "2026 Global Trading Internship Program",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2027"
-        ],
-        "date_updated": 1753943545,
-        "date_posted": 1753943545,
-        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2026-Global-Trading-Internship-Program_77576",
-        "locations": [
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/t-rowe-price",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1753985972,
         "url": "https://careers-kimley-horn.icims.com/jobs/19367/software-developer-intern/job",
         "company_name": "Kimley Horn",
@@ -499,7 +456,7 @@
         "company_name": "ByteDance",
         "id": "e0a535f5-af94-4bd1-857b-d90b51b54e2c",
         "title": "Backend Software Engineer Intern - Global E-Commerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249855,7 +249812,7 @@
         "company_name": "Intuitive Surgical",
         "id": "1b70190a-925e-4ddf-9856-46887661f3c8",
         "title": "Manufacturing Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -270615,7 +270572,7 @@
         "company_name": "Nokia",
         "id": "d9957029-b1b8-4ed7-b55b-aa54c694a64a",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292615,52 +292572,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "d06c4b1a-d837-4488-8f49-4b31c23f52c1",
-        "title": "Student Researcher - Multiple Teams",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1753929907,
-        "date_posted": 1753929907,
-        "url": "https://jobs.bytedance.com/en/position/7533020375207479570/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "7585aef2-eec8-4fe1-9ec2-271782dbbadc",
-        "title": "Student Researcher - Seed LLM Horizon - Memory",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1753929907,
-        "date_posted": 1753929907,
-        "url": "https://jobs.bytedance.com/en/position/7533025573287954695/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Auctane",
         "id": "9a4bb2dd-90a7-47b4-bbc8-f65bfe3a038b",
         "title": "Data Engineering Intern",
@@ -293669,7 +293580,7 @@
         "company_name": "Cohere",
         "id": "5df12005-e047-41d9-b511-73c3303154c1",
         "title": "Intern Technical Staff - Sovereign AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -425898,7 +425809,7 @@
         "company_name": "Zayo",
         "id": "90c483c0-5cb2-4bf2-aa91-74d8bba0bbf1",
         "title": "Intern \u2013 Revenue Retention & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -436457,7 +436368,7 @@
         "company_name": "Pinterest",
         "id": "f08c95c8-68ab-46b1-a8bf-714af3156c17",
         "title": "Apprentice Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445064,6 +444975,29 @@
             "King County, WA"
         ],
         "company_url": "https://simplify.jobs/c/SanMar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Legal & General",
+        "id": "ebe93664-526d-4016-aa66-93329c38fc1e",
+        "title": "Intern Onetech Services",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774667423,
+        "date_posted": 1774649036,
+        "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000117360110",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Legal-And-General",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
