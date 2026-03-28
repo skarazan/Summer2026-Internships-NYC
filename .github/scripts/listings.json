@@ -1,65 +1,5 @@
 [
     {
-        "date_updated": 1753985972,
-        "url": "https://careers-kimley-horn.icims.com/jobs/19367/software-developer-intern/job",
-        "company_name": "Kimley Horn",
-        "title": "Software Developer Intern",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "polinavishnev",
-        "id": "23f9b154-2ee9-47f4-b87d-25c5c8aec18c",
-        "date_posted": 1753985972,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1754477433,
-        "url": "https://jobs.ashbyhq.com/atomicsemi/68fba2a4-ca8c-448c-ad39-4d12b26a93e5",
-        "company_name": "Atomic Semi",
-        "title": "Full Stack Software Engineering Intern - Fall",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "polinavishnev",
-        "id": "e07eb3f7-bf2c-45a6-bf96-116fc88bb677",
-        "date_posted": 1753986055,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1754274551,
-        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/Software-Developer-Associate--Intern-_RQ204199",
-        "company_name": "GDIT",
-        "title": "Software Developer Associate (Intern)",
-        "locations": [
-            "Bossier City, LA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "polinavishnev",
-        "id": "f2f1c82c-371f-4e92-92b1-0e1b75e9819c",
-        "date_posted": 1753986313,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Chase",
@@ -102,26 +42,6 @@
         "company_url": "https://simplify.jobs/c/Chase",
         "is_visible": true,
         "sponsorship": "Does Not Offer Sponsorship"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wealth.com",
-        "id": "3b9c9e36-fa52-4dd0-9a56-09a52dfd6e31",
-        "title": "Applied Scientist - AI/ML",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754506591,
-        "date_posted": 1753978307,
-        "url": "https://jobs.lever.co/WealthFinancialTechnologies/84c7ccc3-774c-47e3-a0e6-696a5e99f537/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wealth",
-        "is_visible": true,
-        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -741,26 +661,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tencent",
-        "id": "a9497452-a419-40ae-aa8a-c37fe469414a",
-        "title": "Agent Development Intern - Marketing and UA Support",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754506486,
-        "date_posted": 1753981638,
-        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/UK-London/Agent-Development-Intern--Marketing-and-UA-Support-_R105863-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "DV Trading",
         "id": "b2dd48be-2d59-4034-abba-cb0e05dfdea7",
@@ -839,26 +739,6 @@
             "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/DV-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AppLovin",
-        "id": "791b1718-d06b-413e-afa6-f462e66de6c5",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753980490,
-        "date_posted": 1753980490,
-        "url": "https://boards.greenhouse.io/applovin/jobs/4552288006",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/AppLovin",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -247156,7 +247036,7 @@
         "company_name": "General Motors",
         "id": "4983bc36-345d-49ee-ad79-7c92c9e7a0c8",
         "title": "Intern - Autonomous Driving - Simulation Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -365551,7 +365431,7 @@
         "company_name": "Okta",
         "id": "19984a65-1fe1-452c-b8cc-a5fc4a85bac5",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432390,7 +432270,7 @@
         "company_name": "DriveWealth",
         "id": "24ea6e61-9ca2-4a1a-963c-611e998bdc83",
         "title": "AI Consulting Associate Program \u2013 Engineering Intern - AI CAP",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437592,7 +437472,7 @@
         "company_name": "American Tower",
         "id": "07a045a0-d912-4349-b7e9-44073a572458",
         "title": "Technology Enablement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445236,6 +445116,165 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rocket Mortgage",
+        "id": "1dbafedb-9843-40dc-9e04-f8aff6b1face",
+        "title": "Data Analyst & Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774649159,
+        "date_posted": 1774649159,
+        "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Remote---California/Data-Analyst---Engineer-Intern---Summer-2026_R-081926",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Mortgage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tonal",
+        "id": "d05c625e-d58d-432a-8916-5f8851466875",
+        "title": "Product Management Intern - Retail Sales & Demo Conversion",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774649274,
+        "date_posted": 1774649274,
+        "url": "https://jobs.ashbyhq.com/tonal/cf73d31d-c250-425b-9748-01a7dbc47406/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Tonal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "5e4dccbf-7520-40d3-b547-7a2f044e4417",
+        "title": "Part-Time Research Assistant - Farooque/Saha - AI in Education Project",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774649389,
+        "date_posted": 1774649389,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Farooque-Saha---AI-in-Education-Project_REQ_0000076925-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "8fac4464-6436-44ee-a24a-e7794208b55b",
+        "title": "Electrical Engineering Intern - Hardware Test",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774708463,
+        "date_posted": 1774649250,
+        "url": "https://jobs.lever.co/shieldai/1c88f1db-4372-42a7-a0a4-0fa1919be3de/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "10a Labs",
+        "id": "a1bc5739-2d47-4f6c-8627-5b11e873e160",
+        "title": "Engineering Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774708229,
+        "date_posted": 1774649393,
+        "url": "https://job-boards.greenhouse.io/10alabs/jobs/4203095009",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/10a-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "800f2df7-f887-41a3-b493-1d92879cb03f",
+        "title": "Applied Scientist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774659966,
+        "date_posted": 1774659966,
+        "url": "https://amazon.jobs/en/jobs/10378626/applied-scientist",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cloudflare",
+        "id": "568effcf-219b-4256-9c04-6e7ded19c1a9",
+        "title": "DCSC Automation Coordinator Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774650145,
+        "date_posted": 1774650145,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/7751595",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
