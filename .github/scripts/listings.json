@@ -1,72 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Chase",
-        "id": "61a2608b-35e4-4743-bdc4-763b642e1dab",
-        "title": "2026 Data Science Analyst Program \u2013 Summer Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754032803,
-        "date_posted": 1754032803,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/jobs/job/210648373",
-        "locations": [
-            "Delaware",
-            "Dallas, TX",
-            "Chicago, IL",
-            "Columbus, OH",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Chase",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chase",
-        "id": "2a36841c-b128-4f9b-a663-04fe307327c2",
-        "title": "2026 Software Engineer Program \u2013 Summer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754274872,
-        "date_posted": 1754032808,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/jobs/job/210650080",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Chase",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Medtronic",
-        "id": "65cba1ba-e064-47df-85a7-e8ae7fa2d2d3",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754034217,
-        "date_posted": 1754034217,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Software-Engineering-Intern---Summer-2026_R40546-1",
-        "locations": [
-            "North Haven, CT",
-            "Lafayette, CO",
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Medtronic",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "PennState University",
         "id": "9b3a298c-8894-407e-bb7b-b72434713c39",
@@ -338826,7 +338760,7 @@
         "company_name": "Samsung",
         "id": "afa194d3-d9cb-4cde-99b0-2d17e31ee37c",
         "title": "E-Commerce Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439713,7 +439647,7 @@
         "company_name": "Torch Technologies",
         "id": "11e94799-7f1b-4fcc-987b-b1e0796514c0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445072,7 +445006,7 @@
         "company_name": "Kinaxis",
         "id": "56af5c93-ff4a-4acf-9ef2-a61291dc9b09",
         "title": "Intern Developer - Front End Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445416,6 +445350,98 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MSX International",
+        "id": "939b5468-ec40-4176-9e84-66cf3d968048",
+        "title": "Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774699290,
+        "date_posted": 1774699290,
+        "url": "https://jobs.smartrecruiters.com/MSXInternational/3743990012354126",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/MSX-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Moog ",
+        "id": "46cc6019-d91a-4c22-bd2b-227a908ecd97",
+        "title": "Intern \u2013 Product Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774648986,
+        "date_posted": 1774648986,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-25-15188",
+        "locations": [
+            "Cheektowaga, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Flagship Pioneering",
+        "id": "6d19c9fa-8aa4-4e2c-ac42-c79a1d477803",
+        "title": "Data Science Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774771636,
+        "date_posted": 1774735622,
+        "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8480502002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/FlagshipPioneering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
+        "title": "Cosmos Graduate Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774771207,
+        "date_posted": 1774688915,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
