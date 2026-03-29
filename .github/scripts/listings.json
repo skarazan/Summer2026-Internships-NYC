@@ -16373,29 +16373,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cotiviti",
-        "id": "e91361ee-1440-4c6e-9bc4-d79612385f59",
-        "title": "Temporary Intern - Generative AI Research Engineer",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754031462,
-        "date_posted": 1754031462,
-        "url": "https://careers-cotiviti.icims.com/jobs/15661/job",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cotiviti",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -27571,7 +27548,7 @@
         "company_name": "Zebra Technologies",
         "id": "c43f9f29-e4c1-40f2-a701-9942c3b3f78f",
         "title": "2026 Summer Internship - Software Engineer Mobile Computing - Corporate and Business Services - CEO",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -35949,7 +35926,7 @@
         "company_name": "GE Healthcare",
         "id": "3053145a-30f3-49ae-8c17-77ba332c8e11",
         "title": "Edison Engineering Development Program Internship - Hardware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -333144,7 +333121,7 @@
         "company_name": "Samsung",
         "id": "f6b1ac51-957f-4ef1-b770-36823e576b19",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343807,7 +343784,7 @@
         "company_name": "Samsung",
         "id": "9cc80f56-8151-4f62-a1fb-fea04a44ec30",
         "title": "AI Applications Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349535,7 +349512,7 @@
         "company_name": "Samsung",
         "id": "fc226ef2-f279-4807-b6a0-de786fc9349e",
         "title": "A Series Smartphone Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379255,7 +379232,7 @@
         "company_name": "Bank of Montreal",
         "id": "4bb35b52-61bb-450e-ba8c-83f61bf42dc2",
         "title": "Data Analyst \u2013 Co-op/Intern - Anti Money Laundering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380794,7 +380771,7 @@
         "company_name": "Samsung",
         "id": "73dead25-c7c9-420f-a820-f963831882e5",
         "title": "Engineering Intern - Associate RAN Virtualization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406187,7 +406164,7 @@
         "company_name": "Madison Energy Infrastructure",
         "id": "52c899c7-5608-4a11-821d-29de0716fe70",
         "title": "Digital Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420549,7 +420526,7 @@
         "company_name": "Pennsylvania State University",
         "id": "a29766ff-554e-4aea-82d5-a2a52d9a3c9c",
         "title": "Part-Time Research Assistant/Programmer - Yanxi Liu",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -428052,7 +428029,7 @@
         "company_name": "Johnson & Johnson",
         "id": "141a0c09-a2a3-45a8-83af-cd6a6fa4746b",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437704,7 +437681,7 @@
         "company_name": "Moderna",
         "id": "cdcd177d-b4dc-4ee0-afb1-2cc96af4d805",
         "title": "Data Analytics Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -437774,7 +437751,7 @@
         "company_name": "Gen",
         "id": "79178dea-ae11-4f4a-a4d5-cbc6f0b299a6",
         "title": "Intern - Product Management - Marketplace / Auto Vertical",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -445415,6 +445392,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "0fd887b4-89e4-4fdb-8f84-96c3b11e5ff6",
+        "title": "Software Developer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774758323,
+        "date_posted": 1774649033,
+        "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NY-Albany/Summer-2026-Software-Developer--Intern-_RQ216779-2",
+        "locations": [
+            "Albany, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
