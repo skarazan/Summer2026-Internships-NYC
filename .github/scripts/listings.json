@@ -1,167 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "PennState University",
-        "id": "9b3a298c-8894-407e-bb7b-b72434713c39",
-        "title": "Embedded Systems and Hardware Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754509412,
-        "date_posted": 1754055979,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2",
-        "locations": [
-            "Warminster, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "6ab6835f-e402-420e-b119-a7c369286ab4",
-        "title": "Frontend Software Engineer Intern - Global E-Commerce",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754062321,
-        "date_posted": 1754062321,
-        "url": "https://jobs.bytedance.com/en/position/7533346008655825159/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "082ca7b9-5288-4b74-98f7-b5c17bef229f",
-        "title": "Software Development Engineer in Test Intern - Global E-Commerce",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754062868,
-        "date_posted": 1754062868,
-        "url": "https://jobs.bytedance.com/en/position/7533346574367377672/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "HPR (Hyannis Port Research)",
-        "id": "3f55a41c-bd7c-4855-83ca-36cd58dfe0ea",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754274730,
-        "date_posted": 1754066819,
-        "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/6667961003",
-        "locations": [
-            "Needham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/HyannisPortResearch",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vanguard",
-        "id": "6feb48ea-78ab-4a85-ab90-66862ecc00a6",
-        "title": "IT Co-Op",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1754066456,
-        "date_posted": 1754066456,
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Fall-Winter-2025-IT-Co-Op_168888",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Vanguard",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SEL",
-        "id": "4e16d5dc-8fd7-4b4e-a047-d2a34d3d4566",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1754068009,
-        "date_posted": 1754068009,
-        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2025-17584",
-        "locations": [
-            "Moscow, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/SEL",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SEL",
-        "id": "6025f88a-da96-4b57-8e5c-df65e272dc83",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754067997,
-        "date_posted": 1754067997,
-        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2025-17597",
-        "locations": [
-            "Moscow, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/SEL",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sony",
-        "id": "3d16e213-d290-4dc5-9795-d9d9903e1a74",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754504652,
-        "date_posted": 1754067958,
-        "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-117822",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sony",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Jonas Software",
         "id": "a72e5801-dc21-4894-aeff-a01d5784addd",
@@ -303,233 +142,6 @@
         "company_url": "https://simplify.jobs/c/Truist",
         "is_visible": true,
         "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "e0a535f5-af94-4bd1-857b-d90b51b54e2c",
-        "title": "Backend Software Engineer Intern - Global E-Commerce",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754061178,
-        "date_posted": 1754061178,
-        "url": "https://jobs.bytedance.com/en/position/7532668388906256658/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "24de70ea-fa26-48ab-8ce5-dcdcfbf45b7a",
-        "title": "Backend Software Engineer Intern - Global E-Commerce",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754061178,
-        "date_posted": 1754061178,
-        "url": "https://jobs.bytedance.com/en/position/7532670930951178503/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Jump Trading",
-        "id": "dc377bc8-2dda-40b8-87af-873d80d8980a",
-        "title": "Campus Quantitative Researcher \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754508377,
-        "date_posted": 1754056323,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6758938",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jump-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "1db08df4-23e3-427d-b70e-dab6dd910782",
-        "title": "Software Engineer \u2013 Internship - Infrastructure",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754504797,
-        "date_posted": 1754055704,
-        "url": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "a7141d7b-1a29-4ce4-9635-9412583c6a96",
-        "title": "AI/ML Research and Development Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1754055962,
-        "date_posted": 1754055962,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-and-Development-Intern_REQ_0000064471-1",
-        "locations": [
-            "State College, PA",
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Otis",
-        "id": "0dde2b0d-74e5-4394-8832-154407fa73ed",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754058574,
-        "date_posted": 1754058574,
-        "url": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Software-Engineering-Intern_20140057",
-        "locations": [
-            "Farmington, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Otis",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "6dd1a9b0-0256-45ec-944a-7a3019907002",
-        "title": "Computer Programming Research and Development Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1754055928,
-        "date_posted": 1754055928,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Computer-Programming-Research-and-Development-Intern_REQ_0000065066-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Otis",
-        "id": "fc5686b0-c829-4dfa-b045-deaf05e76adc",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754058574,
-        "date_posted": 1754058574,
-        "url": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Software-Engineering-Intern_20140058",
-        "locations": [
-            "Farmington, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Otis",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "PennState University",
-        "id": "aed32cf0-efc1-4370-be34-e08e7c8cfb66",
-        "title": "Agile Methods Management Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1754055945,
-        "date_posted": 1754055945,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Agile-Methods-Management-Intern_REQ_0000058000-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "b087999c-e99d-4ecb-bb33-4b37e4be0a5e",
-        "title": "Software Engineer \u2013 Internship - Production Infrastructure",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754504865,
-        "date_posted": 1754055699,
-        "url": "https://jobs.lever.co/palantir/bc5c4098-07d5-49ed-a398-a27e6191aa30/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "749e1c58-7fba-43b1-b44c-f82ec21546ae",
-        "title": "Navigation \u2013 And Controls Co-Op - Estimation",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754506089,
-        "date_posted": 1754055962,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Navigation--Estimation--and-Controls-Co-Op_REQ_0000066565-1",
-        "locations": [
-            "Warminster, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -16203,106 +15815,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Virtua Health",
-        "id": "2b3be301-d9a8-41a8-8e7b-0f4d1173e3d6",
-        "title": "IT Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754069239,
-        "date_posted": 1754069239,
-        "url": "https://virtua.wd1.myworkdayjobs.com/Virtua_Health_External_Career_Site/job/Marlton-NJ/IT-Intern_R1054561",
-        "locations": [
-            "Mt Laurel Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Virtua-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "TransPerfect",
-        "id": "c686e1e1-1bdc-4cbc-a977-d7e881459fd8",
-        "title": "Digital Forensics Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754068309,
-        "date_posted": 1754068309,
-        "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-Dallas-TX/Digital-Forensics-Intern_R2025-241542",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/TransPerfect",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sony",
-        "id": "e9c4e548-c46c-4116-8cd2-2448435b4148",
-        "title": "Research Intern - Vision Foundation Model and Generative AI",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754067949,
-        "date_posted": 1754067949,
-        "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Maryland/Research-Intern--Vision-Foundation-Model-and-Generative-AI_JR-117761",
-        "locations": [
-            "California",
-            "Texas",
-            "San Jose, CA",
-            "Jackson Township, NJ",
-            "West Virginia",
-            "NYC",
-            "Maryland"
-        ],
-        "company_url": "https://simplify.jobs/c/Sony",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "AssetWorks",
-        "id": "d49a287a-3edd-47b0-ad42-74e6a714fea4",
-        "title": "Resolution Consultant Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754067780,
-        "date_posted": 1754067780,
-        "url": "https://volarisgroup.wd3.myworkdayjobs.com/AssetWorks/job/United-States---San-Antonio-Texas/Resolution-Consultant-Intern_R57915-1",
-        "locations": [
-            "San Antonio, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AssetWorks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
             "Master's"
         ]
     },
@@ -103095,52 +102607,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Palantir",
-        "id": "4696ce14-3ae8-4ed6-80e1-61072ce87544",
-        "title": "Forward Deployed Software Engineer Intern - UK Government",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758556487,
-        "date_posted": 1754055690,
-        "url": "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "930b6c2c-a5c0-4871-a545-bf43ae8c31a9",
-        "title": "Software Engineer \u2013 Internship",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1754055695,
-        "date_posted": 1754055695,
-        "url": "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Verizon Communications",
         "id": "a1f6c567-e298-4858-b782-21a41ee75548",
         "title": "Global Solutions Intern - Technology Solutions",
@@ -149594,30 +149060,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Jump Trading",
-        "id": "18a3b897-7d72-4255-9c88-02bda3774294",
-        "title": "Campus Quantitative Researcher Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758585004,
-        "date_posted": 1754056326,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7126724",
-        "locations": [
-            "London, UK",
-            "Paris, France"
-        ],
-        "company_url": "https://simplify.jobs/c/Jump-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lenovo",
         "id": "ecd2ffb3-8b8f-4e1f-8169-290a2876c1a3",
@@ -187530,48 +186972,6 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "f431b8cc-e02e-45da-8f59-49a0324b5d6b",
-        "title": "Summer Research Associate",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1754055897,
-        "date_posted": 1754055897,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Summer-Research-Associate_REQ_0000067968-1",
-        "locations": [
-            "Pennsylvania"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "HPR (Hyannis Port Research)",
-        "id": "cd8be661-f9c2-4163-9acb-c5c796f84a64",
-        "title": "FPGA Engineer Intern - FPGA",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761934301,
-        "date_posted": 1754066802,
-        "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/6667886003",
-        "locations": [
-            "Needham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/HyannisPortResearch",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -276694,7 +276094,7 @@
         "company_name": "GlobalFoundries",
         "id": "aaa52361-272d-4413-9076-7e2642ad1081",
         "title": "IP Design Engineering Intern - Design Verification Winter/Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -303364,7 +302764,7 @@
         "company_name": "Trane Technologies",
         "id": "5837269a-ba0f-44f7-8bde-5df11b902c3b",
         "title": "Energy Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399427,27 +398827,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Allium",
-        "id": "07f3b181-c4d0-4e58-afd6-36cfe0189518",
-        "title": "Generalist Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772703388,
-        "date_posted": 1754070403,
-        "url": "https://jobs.ashbyhq.com/allium/8f86b4af-6e4d-42ab-ab6d-6155443542d3/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Allium",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Field AI",
         "id": "89115513-4549-4b36-8c92-3e19b77adf9e",
@@ -410474,7 +409853,7 @@
         "company_name": "Cadence Design Systems",
         "id": "51d2b518-8a4c-4a03-bcfb-e1d13172cd6e",
         "title": "LLM/ML Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -420941,7 +420320,7 @@
         "company_name": "DotDash Meredith",
         "id": "3c86989c-765a-4a9a-8376-eb58809091a4",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -431690,7 +431069,7 @@
         "company_name": "Northrop Grumman",
         "id": "914d3aec-ff96-418e-a886-d30d686215f4",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -445427,7 +444806,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -445438,6 +444817,55 @@
             "Little Rock, AR"
         ],
         "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UiPath",
+        "id": "f5e38bba-d081-4d39-a3ed-4b2770e4ead1",
+        "title": "Applied Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774649302,
+        "date_posted": 1774649302,
+        "url": "https://jobs.ashbyhq.com/uipath/d934d6a2-750a-485d-a23c-51bc1f65fb6e/application",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/UiPath",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "1db08df4-23e3-427d-b70e-dab6dd910782",
+        "title": "Software Engineer \u2013 Internship - Infrastructure",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1761869810,
+        "date_posted": 1761869810,
+        "url": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
