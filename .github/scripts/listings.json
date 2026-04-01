@@ -6821,7 +6821,7 @@
         "company_name": "ByteDance",
         "id": "a3ea962f-b9c2-4816-9100-7ac7ceafe70a",
         "title": "Software Engineer Intern - Media Network Global Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378316,7 +378316,7 @@
         "company_name": "Rochester Regional Health",
         "id": "a50e4caf-7051-4d1d-b3b1-268fd1f33d40",
         "title": "RIT Co-op: Information Systems & Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411816,7 +411816,7 @@
         "company_name": "Centerfield",
         "id": "00b51e12-96a6-40b6-ae66-0024b4fe02db",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -424336,7 +424336,7 @@
         "company_name": "Nucor",
         "id": "e0da9b4a-f984-468d-b042-7ab88503e0b8",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427902,7 +427902,7 @@
         "company_name": "Xcel Energy",
         "id": "80cdde7a-3074-45c5-99e3-c0fc30652f1b",
         "title": "Renewable Operation Center Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -430032,7 +430032,7 @@
         "company_name": "John Deere",
         "id": "aad71849-0b3f-4d1f-b666-856effdc3b7b",
         "title": "Part Time Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -436196,7 +436196,7 @@
         "company_name": "The Walt Disney Company",
         "id": "95b82ede-27bb-4cbf-b094-f0f512a68b6a",
         "title": "Graduate Associate - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -436242,7 +436242,7 @@
         "company_name": "The Walt Disney Company",
         "id": "644ed101-2fd7-4b57-b989-2ebb5ac4988e",
         "title": "Graduate Associate - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -437126,7 +437126,7 @@
         "company_name": "The Walt Disney Company",
         "id": "382a6b76-e85e-41de-ad33-13ba6435cd72",
         "title": "WDI Software Developer Intern-Art and Media Pipeline - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437150,7 +437150,7 @@
         "company_name": "The Walt Disney Company",
         "id": "0a56fa78-f8eb-486a-a341-25160685d820",
         "title": "WDI Software Developer Intern-Art and Media Pipeline",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439358,7 +439358,7 @@
         "company_name": "Mediaocean",
         "id": "1d3b902c-d3fc-4ccd-90d0-dbd848117de6",
         "title": "Core Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441661,7 +441661,7 @@
         "company_name": "Oshkosh",
         "id": "0f03bcf3-b76b-4420-8bf1-badd4597cfc0",
         "title": "Engineering Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443753,7 +443753,7 @@
         "company_name": "Samba TV",
         "id": "746a61fa-c0f4-4b45-a8e4-b03b631c13da",
         "title": "Measurement Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443961,7 +443961,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -445361,7 +445361,7 @@
         "company_name": "Quantum Workplace",
         "id": "e45d65d2-1b09-45a0-a1b9-5acd2b137c36",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446431,7 +446431,7 @@
         "company_name": "Microchip Technology",
         "id": "8ce99f32-4c8a-454b-a997-08b37a93228c",
         "title": "Intern Engineer - Test Systems Group Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450100,6 +450100,161 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Octopus Energy",
+        "id": "52477347-67fa-444b-ba31-4770207c2acb",
+        "title": "Octopus in Colour Intern - Backend Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775036538,
+        "date_posted": 1775034312,
+        "url": "https://jobs.lever.co/octoenergy/763336cc-befe-4df8-882d-f3fff44a9e87/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Octopus-energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Covestro",
+        "id": "d30085fd-1463-4b89-ad20-e92f34d8e231",
+        "title": "Intern in Lab Automation for R&D Processes",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775035621,
+        "date_posted": 1775035275,
+        "url": "https://covestro.wd3.myworkdayjobs.com/cov_external/job/Leverkusen/Praktikant-in-im-Bereich-Datenanalyse-fr-F-E-Datensets--m-w-d----mit-Gehaltsangabe_JR-2026-00570",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/a64ca911-92ef-4bce-99ec-a890a343a30c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "State Street",
+        "id": "8b37d536-42f6-4d16-b47b-e250182e3793",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775036451,
+        "date_posted": 1775035289,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Summer-Internship-Program---Charles-River-Development-Product-Management-Intern_R-784228-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rockwell Automation",
+        "id": "514d23a9-435e-44f4-a1cb-6cb7b04a098e",
+        "title": "Apprentice Repair Technician",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775035621,
+        "date_posted": 1775035180,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milton-Keynes-England-United-Kingdom/Apprentice-Repair-Technician_R26-1603",
+        "locations": [
+            "Milton Keynes, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jackson",
+        "id": "e35a65cd-2c08-454a-9d26-364b01659668",
+        "title": "Strategic Support Associate - Service Desk",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775038558,
+        "date_posted": 1774966153,
+        "url": "https://jackson.wd1.myworkdayjobs.com/Jackson_Careers/job/Lansing-MI/PART-TIME-Strategic-Support-Associate--Service-Desk_REQ-03708-1",
+        "locations": [
+            "East Lansing, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Jackson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CME Group",
+        "id": "d8421101-5075-44e6-859c-9b2f6112b3d7",
+        "title": "Data Services Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775036431,
+        "date_posted": 1775034867,
+        "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/London---Fruit--Wool-Exchange/Data-Services-Summer-Internship_34222",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/CME-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "State Street",
+        "id": "39616439-f1d8-426e-b63b-f1f51d96b2bc",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775036470,
+        "date_posted": 1775035207,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/equest/job/London-England/Summer-Internship-Program---Charles-River-Development-Product-Management-Intern_R-784228",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
