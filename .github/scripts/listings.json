@@ -1,79 +1,5 @@
 [
     {
-        "date_updated": 1754663912,
-        "url": "https://nbtbancorp.wd12.myworkdayjobs.com/en-US/epic/job/Rochester-New-York/Student-Associate---Software-Engineer---EPIC_JR3617",
-        "company_name": "EPIC",
-        "title": "Student Associate - Software Engineer",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2025",
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "68a97b61-7e02-4e63-b578-00bb0a61420e",
-        "date_posted": 1754377883,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1757544016,
-        "url": "https://jobs.lever.co/convergentresearch/ae2f38c7-804e-45e0-b4c5-b5c666698d30",
-        "company_name": "Cultivarium",
-        "title": "Computer Vision and Machine Learning Intern",
-        "locations": [
-            "Watertown, MA"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2026",
-            "Summer 2025"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "f0046d13-bf59-4933-8985-28efd75937d9",
-        "date_posted": 1754378083,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "category": "Data Science, AI & Machine Learning"
-    },
-    {
-        "date_updated": 1754663970,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2026_R218613-1",
-        "company_name": "Capital One",
-        "title": "Cyber Security Internship Program",
-        "locations": [
-            "Mclean, VA",
-            "Plano, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "7dc4bfa6-d1e8-466a-983a-3f81f926fe65",
-        "date_posted": 1754378177,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "ByteDance",
@@ -338227,7 +338153,7 @@
         "company_name": "Paccar",
         "id": "a32d171a-be3b-437d-b7c1-73ba2d4f83f0",
         "title": "Engine Systems Verification Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -349151,7 +349077,7 @@
         "company_name": "Microchip Technology",
         "id": "ac10fab9-ee1a-4dc5-9a5c-e7f54bc60b16",
         "title": "Intern-Engineering - Software AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389943,7 +389869,7 @@
         "company_name": "The Boeing Company",
         "id": "90e7bfdc-ceb5-4058-b062-f04e28008199",
         "title": "Millennium Space Systems Intern Program \u2013 Circuit and System Reliability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389989,7 +389915,7 @@
         "company_name": "The Boeing Company",
         "id": "7d9ee752-a247-486f-b125-88a4909ae730",
         "title": "Millennium Space Systems Intern Program \u2013 Circuit and System Reliability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394006,7 +393932,7 @@
         "company_name": "TikTok",
         "id": "cb51dc27-0503-4a7e-b361-e7f489cb616f",
         "title": "Data Analyst Intern - Tiktok Shop-FMCG",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417968,7 +417894,7 @@
         "company_name": "Microchip Technology",
         "id": "7561c6ee-9dce-4d3c-a9b1-5c303010772b",
         "title": "Engineering Month Student Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -439058,7 +438984,7 @@
         "company_name": "AES",
         "id": "dea06a40-d0b2-4256-b742-6f4db9b9fe53",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439129,7 +439055,7 @@
         "company_name": "AES",
         "id": "00c7cb8b-6fdd-4c6c-8be5-5ed9fa914a24",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447288,7 +447214,7 @@
         "company_name": "Paccar",
         "id": "486e5722-063b-445e-8da2-c24e94945032",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447473,7 +447399,7 @@
         "company_name": "GEHA",
         "id": "bace08a0-91db-4961-9dd8-92c3167d174e",
         "title": "Intern \u2013 Dental Clinical & Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449740,7 +449666,7 @@
         "company_name": "Harris Computer",
         "id": "55cedef8-4aea-4517-a0c3-bff8a1a8d152",
         "title": "Software Developer Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -451897,6 +451823,146 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GEHA",
+        "id": "eee5cd36-2ed2-481c-9133-df10ec8bcfd2",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775120263,
+        "date_posted": 1774994790,
+        "url": "https://geha.wd5.myworkdayjobs.com/en-US/GEHACareers/job/Remote/Intern---Data-Analytics_R-005244",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/b41d30d5-14c9-4328-9741-f8a45e378976",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GEHA",
+        "id": "8697f149-f398-43d5-8696-75330b1b252f",
+        "title": "Full Stack Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775125394,
+        "date_posted": 1774994790,
+        "url": "https://geha.wd5.myworkdayjobs.com/en-US/GEHACareers/job/Remote/Intern---Full-Stack-Developer_R-005245",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/b41d30d5-14c9-4328-9741-f8a45e378976",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "f0865c39-c2d0-4de6-9758-7218853be989",
+        "title": "Software Engineer 1",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775122561,
+        "date_posted": 1775052369,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004645",
+        "locations": [
+            "Des Moines, IA",
+            "Richmond, VA",
+            "Reno, NV",
+            "Sioux City, IA",
+            "Davenport, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thermo Fisher Scientific",
+        "id": "e81b17bf-6d9c-4069-a079-83bc244eaa90",
+        "title": "Engineering Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775124655,
+        "date_posted": 1774649237,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Winter-Engineering-Co-Op_R-01329364",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Snowflake",
+        "id": "427afc02-f659-4fae-85b1-318a967d24b0",
+        "title": "Order to Cash",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775122561,
+        "date_posted": 1771888760,
+        "url": "https://jobs.ashbyhq.com/snowflake/26316468-f156-40e1-b037-db3337d5fe4c/application",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "f8d81dd0-84d1-4cde-90aa-a9fb470f17be",
+        "title": "Systems Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775123641,
+        "date_posted": 1765988629,
+        "url": "https://careers-gdms.icims.com/jobs/70181/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
