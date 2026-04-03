@@ -1,25 +1,5 @@
 [
     {
-        "date_updated": 1754479401,
-        "url": "https://jobs.ashbyhq.com/Talos-Trading/2db01769-8f00-4652-b790-b7cff80bc891",
-        "company_name": "Talos Trading",
-        "title": "Software Engineer Intern, Front-End, PMS",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "b677ea27-398f-4293-b2ed-f261f89ffa59",
-        "date_posted": 1754479401,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
         "date_updated": 1754500959,
         "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3",
         "company_name": "Palantir",
@@ -38255,7 +38235,7 @@
         "company_name": "Qualcomm",
         "id": "ea5560ef-f805-48bd-8876-ea9ecf085c91",
         "title": "Multimedia Engineering Internship - Interim Engineering Intern - Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -38281,7 +38261,7 @@
         "company_name": "Qualcomm",
         "id": "dda95b0c-7463-4a39-9ff2-d1241bea2ba2",
         "title": "Embedded Engineering Internship - Interim Engineering Intern - SW",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -38306,7 +38286,7 @@
         "company_name": "Qualcomm",
         "id": "d8d24238-2393-4f86-bdae-0d4f16400dec",
         "title": "Machine Learning & Artificial Intelligence Engineering Internship - Interim Engineering Intern - SW",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -38356,7 +38336,7 @@
         "company_name": "Qualcomm",
         "id": "a084eb80-7d00-480c-a9f3-5d04a91c0b29",
         "title": "Software Engineering Internship - Interim Engineering Intern - SW",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -160415,7 +160395,7 @@
         "company_name": "Qualcomm",
         "id": "5e9ba39f-338b-4b11-a5a5-0c275ee82bca",
         "title": "Automotive Engineering Internship - Interim Engineering Intern - SW - QCT Engineering Mgmt - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -259874,7 +259854,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Nutanix",
-        "id": "b0100e7e-c9a3-4daa-ac98-1d7a8f5091c0",
+        "id": "4517181b-c420-4514-a0df-1059ec52b260",
         "title": "Software Engineering Intern - Undergrad ONLY - Distributed systems",
         "active": true,
         "terms": [
@@ -328830,7 +328810,7 @@
         "company_name": "Applied Materials",
         "id": "874a64ce-7524-458c-a9be-c61e968d86e8",
         "title": "Product Line Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336533,7 +336513,7 @@
         "company_name": "Paccar",
         "id": "cb725b48-7a2f-43b6-aeec-fa2cd46489f7",
         "title": "Software Engineering Intern - Powertrain Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -337708,7 +337688,7 @@
         "company_name": "Paccar",
         "id": "a32d171a-be3b-437d-b7c1-73ba2d4f83f0",
         "title": "Engine Systems Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358861,7 +358841,7 @@
         "company_name": "Cisco",
         "id": "9f67b392-3479-47c7-a8ca-507b1e0ff71d",
         "title": "Software Developer \u2013 Intern - I - Canada",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394957,7 +394937,7 @@
         "company_name": "Bloom Energy",
         "id": "76198740-2fe4-47fe-a658-c4f9714845b0",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409703,7 +409683,7 @@
         "company_name": "Applied Materials",
         "id": "f67d9b4f-525b-485d-8afe-a01564ac2912",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411572,7 +411552,7 @@
         "company_name": "Northrop Grumman",
         "id": "4b3ff341-926d-40cd-9f89-3a52df428b20",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441459,7 +441439,7 @@
         "company_name": "NBCUniversal",
         "id": "d3beceeb-585c-49d6-8478-ae5480fd807f",
         "title": "Culinary Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450707,7 +450687,7 @@
         "company_name": "Fortrea",
         "id": "98207eea-421a-4273-b753-8d92a770efb7",
         "title": "AIML Rapid Development Studio Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451729,7 +451709,7 @@
         "company_name": "Airbus",
         "id": "b765ac38-6154-45ff-8063-e168faa37b33",
         "title": "Cost Engineering Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -452045,7 +452025,7 @@
         "company_name": "Intel",
         "id": "6abe0e83-41c0-4195-88db-2178067dfb92",
         "title": "MET Student Technician \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453351,6 +453331,103 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Charles River Analytics",
+        "id": "bc65be34-3d28-49bd-8446-2ea08205a291",
+        "title": "Scientist Intern - Human Computer Interaction",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775210413,
+        "date_posted": 1775081199,
+        "url": "https://cra.com/job-listings/job?gh_jid=7772938",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-River-Analytics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Philips",
+        "id": "d658b127-b563-4ec2-913c-d3f00465615b",
+        "title": "Intern/Co-op Software Ultrasound R&D Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1775210380,
+        "date_posted": 1775052580,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/CO-OP---Software-Ultrasound-R-D-Engineer--Cambridge--MA-June-December-2026_579890",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Philips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "X Development",
+        "id": "ea676687-2aed-4508-ba3d-fc66f2c21586",
+        "title": "PhD / Master\u2019s Residency - Revolutionary Nanodevice Measurement and Characterization - Early Stage Project",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775210406,
+        "date_posted": 1774055363,
+        "url": "https://x.company/careers/8472640002?gh_jid=8472640002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/X-Development",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "586d8296-0f48-4db0-9891-97a6b0754f98",
+        "title": "Field Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775212226,
+        "date_posted": 1775178460,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice--San-Antonio--TX-_R4035111-1",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Certificate"
         ]
     }
 ]
