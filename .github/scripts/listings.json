@@ -1,103 +1,5 @@
 [
     {
-        "date_updated": 1754754046,
-        "url": "https://job-boards.greenhouse.io/xantium/jobs/7104184",
-        "company_name": "Xantium",
-        "title": "Quantitative Researcher Intern",
-        "locations": [
-            "New York, NY",
-            "London, UK"
-        ],
-        "terms": [
-            "Summer 2026",
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "Simplify",
-        "id": "a711ba41-e256-4c31-a145-413dcf173032",
-        "date_posted": 1754664637,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Quantitative Finance"
-    },
-    {
-        "date_updated": 1754747262,
-        "url": "https://www.tesla.com/careers/search/job/247659",
-        "company_name": "Tesla",
-        "title": "Machine Learning Engineer, Model Optimization & Deployment, Optimus",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "terms": [
-            "Summer 2026",
-            "Fall 2025",
-            "Summer 2025",
-            "Winter 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "896c4b0a-56e1-4bc7-aeab-6b3b06fb9835",
-        "date_posted": 1754675762,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Data Science, AI & Machine Learning"
-    },
-    {
-        "date_updated": 1754675840,
-        "url": "https://www.tesla.com/careers/search/job/247595",
-        "company_name": "Tesla",
-        "title": "Automation Controls Engineer, Megapack",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "0d7d3106-ea59-4f71-a6e2-af27575452cc",
-        "date_posted": 1754675840,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1758057882,
-        "url": "https://www.tesla.com/careers/search/job/247480",
-        "company_name": "Tesla",
-        "title": "Systems Engineer, Collision Avoidance, Autonomy & Robotics",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "79082960-43be-40a2-9f64-c2c78545e405",
-        "date_posted": 1754676049,
-        "company_url": "",
-        "is_visible": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "category": "Hardware Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Chamberlain Group",
@@ -8707,30 +8609,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Avery Dennison",
-        "id": "e47957d4-bec8-4194-abce-a42b79e85b42",
-        "title": "Product Marketing Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1754672425,
-        "date_posted": 1754672425,
-        "url": "https://jobs.smartrecruiters.com/AveryDennison/744000068231032",
-        "locations": [
-            "Miamisburg, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Avery-Dennison",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -208619,7 +208497,7 @@
         "company_name": "Cisco",
         "id": "4dae6ba7-9a7b-4938-b50e-1fed56ecd99e",
         "title": "ASIC Design Verification Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -415495,7 +415373,7 @@
         "company_name": "Guidewire",
         "id": "148a72b7-bc13-4b01-a17e-84eb6dd9858c",
         "title": "Services Solutions Technical Architect Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
