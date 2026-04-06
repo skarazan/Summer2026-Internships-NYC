@@ -22810,7 +22810,7 @@
     {
         "date_updated": 1761617703,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -44556,7 +44556,7 @@
         "company_name": "Solidigm",
         "id": "7e37923b-7955-4fe4-91f6-d5a8b32eca2d",
         "title": "2026 Undergrad Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -141694,7 +141694,7 @@
         "company_name": "Solidigm",
         "id": "107bfc32-911d-4af7-864d-280513dbd04d",
         "title": "Undergraduate Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -330661,7 +330661,7 @@
         "company_name": "Prior Labs",
         "id": "a39a86bb-991c-4915-982e-8a1388db3fd9",
         "title": "Research Scientist Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -387126,9 +387126,9 @@
         ]
     },
     {
-        "date_updated": 1772637407,
+        "date_updated": 1775481655,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -405491,9 +405491,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773321483,
+        "date_updated": 1775481655,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -406775,7 +406775,7 @@
         "company_name": "Planet",
         "id": "1dacf019-c999-4213-9f17-f4b206a1d67e",
         "title": "Intern Software Engineer - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412068,9 +412068,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773650238,
+        "date_updated": 1775481655,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -415194,9 +415194,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773747260,
+        "date_updated": 1775481655,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -418106,7 +418106,7 @@
         "company_name": "Dordt University",
         "id": "4ee17792-9e79-45b5-9220-262361268933",
         "title": "Returning Intern - Hardware Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -420592,9 +420592,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773908990,
+        "date_updated": 1775481655,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -420615,9 +420615,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773909034,
+        "date_updated": 1775481655,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -420870,7 +420870,7 @@
         "company_name": "Dordt University",
         "id": "49c8d7bf-5d5e-45e7-80b0-41b891310766",
         "title": "Associate Developer Co-op - Financial Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -422005,7 +422005,7 @@
         "company_name": "Nordson",
         "id": "3bf0257b-7a74-4ad5-8503-d012abd2f02f",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -425162,9 +425162,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774262277,
+        "date_updated": 1775481655,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -427334,7 +427334,7 @@
         "company_name": "IBM",
         "id": "05e4181e-7b50-44c1-972d-0f0705cb6504",
         "title": "Application Developer Intern - Oracle Middleware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432368,7 +432368,7 @@
         "company_name": "PG&E",
         "id": "0aae4ffb-72c9-451a-8146-82a24921ac2d",
         "title": "Diablo Canyon Power Plant Data and Web Administration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432734,7 +432734,7 @@
         "company_name": "Dordt University",
         "id": "ca84b342-84a0-4a02-a73c-574d8d8788d6",
         "title": "Application Developer Intern - Salesforce",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -432757,7 +432757,7 @@
         "company_name": "Dordt University",
         "id": "b426c1ab-7205-4d2c-9a7e-055d95156982",
         "title": "Application Developer Intern - Asset Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -432781,7 +432781,7 @@
         "company_name": "Dordt University",
         "id": "a894e098-d96e-430c-bb51-dcf6a4c839bc",
         "title": "Application Developer Intern - Azure Cloud Migration",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -432808,7 +432808,7 @@
         "company_name": "Dordt University",
         "id": "9370fc25-4eb8-4a1d-b5f1-67a4919659d4",
         "title": "Application Developer Intern - Azure Cloud Migration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436704,9 +436704,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774873639,
+        "date_updated": 1775481655,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -436845,9 +436845,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774875307,
+        "date_updated": 1775481655,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -436891,9 +436891,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774875704,
+        "date_updated": 1775481655,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -438686,7 +438686,7 @@
         "company_name": "Microchip Technology",
         "id": "8ce99f32-4c8a-454b-a997-08b37a93228c",
         "title": "Intern Engineer - Test Systems Group Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439271,9 +439271,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774936113,
+        "date_updated": 1775481655,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -439294,9 +439294,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774936203,
+        "date_updated": 1775481655,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -439340,9 +439340,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774936488,
+        "date_updated": 1775481655,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -439363,9 +439363,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774936575,
+        "date_updated": 1775481655,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -447327,7 +447327,7 @@
         "company_name": "Merck",
         "id": "fbac5cec-954c-4f72-a8c3-9dfd2ec7afb7",
         "title": "Future Talent Program \u2013 External Manufacturing Co-op - Global Pharmaceutical Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450163,5 +450163,285 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1775472043,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/whatnot/8250532f-4bfd-4ee5-a041-4a2e54047cf7",
+        "company_name": "Whatnot",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Francisco, CA",
+            "Los Angeles, CA",
+            "New York, NY",
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "38958284-9f56-456f-a30c-c30a0d020e34",
+        "date_posted": 1775472043,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1775477807,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://priscorp.applicantpro.com/jobs/4042721",
+        "company_name": "Preferred Risk Insurance Services",
+        "title": "Internship: Full Stack Developer (Java)",
+        "locations": [
+            "Bedford Park, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "0ee1534d-c77f-46cb-b0ea-45fd8b3d4796",
+        "date_posted": 1775477807,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1775477887,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://priscorp.applicantpro.com/jobs/4042878",
+        "company_name": "Preferred Risk Insurance Services",
+        "title": "Internship: Full Stack Developer (C# .Net Core and React)",
+        "locations": [
+            "Bedford Park, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "d2770c4d-6372-4b0f-be1c-8e8ef4bafa76",
+        "date_posted": 1775477887,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1775478019,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.veeva.com/job/4df9c2ca-d702-4d41-af82-290deff66564/intern-software-engineer-summer-2026-pleasanton-ca/",
+        "company_name": "Veeva",
+        "title": "Intern Software Engineer",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "d07dc6c0-69ed-42e6-a0f0-732bbe5b72fc",
+        "date_posted": 1775478019,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1775478975,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://ats.rippling.com/omnis-corporation/jobs/e389ff2d-5be5-4571-8cc1-f361a139b753",
+        "company_name": "Omnis",
+        "title": "Software Engineering Internship/Co-Op",
+        "locations": [
+            "Venice, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "2547b989-7e3c-4396-91bc-44de4e601bc7",
+        "date_posted": 1775478975,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1775479145,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.lever.co/alltrails/f934fba7-5159-4dab-a6ff-8cbda90579dd",
+        "company_name": "AllTrails",
+        "title": "Android Engineer Intern, Disco",
+        "locations": [
+            "Remote in US"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "99d82318-1b9f-4e6c-8aea-5da1b48f7cc5",
+        "date_posted": 1775479145,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1775479202,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.lever.co/alltrails/431d989a-3c29-4a15-a869-fc0a2e3f6043",
+        "company_name": "AllTrails",
+        "title": "Android Engineer Intern, Core",
+        "locations": [
+            "Remote in US"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "9583a31c-c492-416d-a235-fc66be2612e5",
+        "date_posted": 1775479202,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1775479562,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.dayforcehcm.com/en-US/texasfarm/CANDIDATEPORTAL/jobs/634",
+        "company_name": "Texas Farm Bureau Casualty Insurance Company",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Waco, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "5f2ef691-3a2c-45ed-acd4-7eb201abafea",
+        "date_posted": 1775479562,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1775479638,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/cartesiansystems/jobs/4201825009",
+        "company_name": "Cartesian",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "b63f589c-9307-47b6-8a01-29d64c687d41",
+        "date_posted": 1775479638,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1775479783,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.gem.com/albacore/am9icG9zdDo0W8STbXMq8F9HcjJ8m7yZ",
+        "company_name": "Albacore",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "98babda2-eed7-4c52-835b-1fcd1d4d5594",
+        "date_posted": 1775479783,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1775480039,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-se.icims.com/jobs/111032/embedded-sw-fw-engineering-intern/job",
+        "company_name": "Schneider Electric",
+        "title": "Embedded SW/FW Engineering Intern",
+        "locations": [
+            "Andover, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "5aa0ed3f-ab50-443b-9db1-9120f9e7d8d5",
+        "date_posted": 1775480039,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1775480146,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://jobs.lever.co/alltrails/83007ddb-703c-4dc6-a80a-09c379efdf7c",
+        "company_name": "AllTrails",
+        "title": "iOS Engineer Graduate Intern, Growth",
+        "locations": [
+            "Remote in US"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "f9ec0908-7681-4048-bcea-58847222d0b9",
+        "date_posted": 1775480146,
+        "company_url": "",
+        "is_visible": true
     }
 ]

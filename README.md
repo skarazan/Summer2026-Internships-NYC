@@ -50,6 +50,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Whatnot</strong></td>
+<td>Software Engineer Intern</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/whatnot/8250532f-4bfd-4ee5-a041-4a2e54047cf7?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Omnicom-Health?utm_source=GHList&utm_medium=company">Omnicom Health</a></strong></td>
 <td>Bold Beginners Full Stack Developer Intern</td>
 <td>NYC</td>
@@ -82,7 +89,7 @@
 <td>Software Engineering Intern</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/farsight/096cdc49-06ae-4724-8f46-c58184e98334?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Eulerity?utm_source=GHList&utm_medium=company">Eulerity</a></strong></td>
@@ -103,7 +110,7 @@
 <td>Full-Stack Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/uncountable/b9495eab-c04c-4333-b338-7dabdbddcaae/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c5d99aec-a24e-48a7-a680-3954ba770c54?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/DoubleVerify?utm_source=GHList&utm_medium=company">DoubleVerify</a></strong></td>
@@ -124,14 +131,14 @@
 <td>Intern - Software Engineer (Backend)</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/impiricus/jobs/5160169008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/facdfc4d-a213-40ea-9950-122c283d8c44?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong>Coverdash</strong></td>
 <td>Software Engineering Intern</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/coverdash/52181e3d-c2d4-4982-b7e5-3a51403ec7c3?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Impiricus?utm_source=GHList&utm_medium=company">Impiricus</a></strong></td>
@@ -194,7 +201,7 @@
 <td>Intern – Application Security</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Intern--Application-Security_JR100899?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b6ae6597-8d6c-4510-834d-6968dd97ad75?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company">Palantir</a></strong></td>
@@ -222,7 +229,7 @@
 <td>Software Engineer Intern 🛂</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://specialisterne.applytojob.com/apply/Vt3hev3H0E/Software-Engineer-Intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Mizuho-Securities-USA?utm_source=GHList&utm_medium=company">Mizuho Securities USA</a></strong></td>
@@ -422,7 +429,7 @@
 <td>Product Marketing Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Product-Marketing-Intern_JR104050?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a53a8bff-e1b5-4d8e-a942-8291d20896c3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Diligent-Corporation?utm_source=GHList&utm_medium=company">Diligent Corporation</a></strong></td>
@@ -519,7 +526,7 @@
 <td>Data Science Intern 🎓</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/msfcareers/jobs/4993728008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company">JP Morgan Chase</a></strong></td>
@@ -864,11 +871,18 @@
 <td><div align="center"><a href="https://fhlbny.wd1.myworkdayjobs.com/FHLBNY/job/New-York/Intern---Financial-Risk-Management_R677?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/be9f9c32-046d-4328-8435-3b0837099996?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Prior-Labs?utm_source=GHList&utm_medium=company">Prior Labs</a></strong></td>
+<td>Research Scientist Intern - PhD 🎓</td>
+<td>NYC</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/prior-labs/09410424-8e94-4747-8155-bbcd0b1d4f6e/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a39a86bb-991c-4915-982e-8a1388db3fd9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
 
-🔒 **[See 362 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 361 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
