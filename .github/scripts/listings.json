@@ -1,229 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Belvedere Trading",
-        "id": "71cf7b01-0bb3-4b71-bbef-50a29e75910d",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755783417,
-        "date_posted": 1754707552,
-        "url": "https://jobs.lever.co/belvederetrading/eddfd030-1b27-46db-9ef6-5b65e1e2484c/apply",
-        "locations": [
-            "Chicago, IL",
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Belvedere Trading",
-        "id": "1233ad35-102c-4555-8b84-1296f57eecbc",
-        "title": "Quantitative Trading Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754707551,
-        "date_posted": 1754707551,
-        "url": "https://jobs.lever.co/belvederetrading/ec52b73e-54b8-4f87-909d-a74cb288dc4d/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PNC Financial Services",
-        "id": "6db494bb-d721-494b-88f4-44282fcf2bc2",
-        "title": "Data Analytics Undergraduate Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1754708305,
-        "date_posted": 1754708305,
-        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Analytics-Undergraduate-Intern_R196750",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Samsung",
-        "id": "7ab88450-5b0b-412a-8c11-59c63ef5e1bc",
-        "title": "Summer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754707932,
-        "date_posted": 1754707932,
-        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/XMLNAME-2026-Summer-Internship_R107280",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GlobalFoundries",
-        "id": "220538b1-ce6b-425e-ab10-bfc5d8f05e35",
-        "title": "3D Advanced Heterogeneous Integration Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754711157,
-        "date_posted": 1754711157,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/XMLNAME-3D-Advanced-Heterogeneous-Integration-Development-Intern--Summer-2026-_JR-2502800",
-        "locations": [
-            "Malta, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/GlobalFoundries",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GlobalFoundries",
-        "id": "0437bd10-bdd3-457b-a8dd-9d99b4d8c150",
-        "title": "3D Advanced Heterogeneous Integration Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754711157,
-        "date_posted": 1754711157,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/XMLNAME-3D-Advanced-Heterogeneous-Integration-Development-Intern--Summer-2026-_JR-2502799",
-        "locations": [
-            "Malta, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/GlobalFoundries",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nextiva",
-        "id": "ca9aa085-672f-467f-afe9-1ea438a7d115",
-        "title": "AI Engineer Intern - Go-to-Market - Part-time",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754711135,
-        "date_posted": 1754711135,
-        "url": "https://www.nextiva.com/company/careers-listing?gh_jid=8106564002",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Nextiva",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WGU",
-        "id": "ae7b9acb-3d87-46c2-a4ea-cad85161e2d7",
-        "title": "Intern \u2013 Technical",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754712386,
-        "date_posted": 1754712386,
-        "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-Office/Intern---Technical_JR-022518",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "8b7487b4-2afb-4936-8fd5-58e6125750f0",
-        "title": "Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team - 2026 Summer - BS/MS",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754714032,
-        "date_posted": 1754714032,
-        "url": "https://lifeattiktok.com/search/7534851658053830930",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "279a7df5-ceb2-4c32-9ec5-77f6d31d354a",
-        "title": "AI Effects Workflow Engineer Intern - Tiktok-Intelligent Creation-LLM Driven Creation - BS/MS",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754714032,
-        "date_posted": 1754714032,
-        "url": "https://lifeattiktok.com/search/7536323523712583954",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "21809924-cc40-4f2d-9f0e-6c096067ba32",
-        "title": "Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team - BS/MS",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754714033,
-        "date_posted": 1754714033,
-        "url": "https://lifeattiktok.com/search/7535234137146444040",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1758583981,
         "url": "https://careers.confluent.io/jobs/job/d9ebd50b-967e-4f35-8ebd-f0ce2705136a",
         "company_name": "Confluent",
@@ -8177,194 +7953,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "bba700d3-c528-4872-bb7f-1394a210b5f9",
-        "title": "Product Marketing Project Intern - SMB Advertising",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754714035,
-        "date_posted": 1754714035,
-        "url": "https://lifeattiktok.com/search/7536194922488580370",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "General Dynamics Information Technology",
-        "id": "9e2be13c-a5bc-4b19-8c3a-5151e2c71f10",
-        "title": "Scitls Coop/Dr Manager",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755298992,
-        "date_posted": 1754712661,
-        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NE-Offutt-AFB/SCITLS-COOP-DR-Manager_RQ204898-1",
-        "locations": [
-            "Offutt AFB, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/e5d9f8c8-cd9c-4097-a9cb-fed51fec6168",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Wells Fargo",
-        "id": "a5639efe-dcc2-4421-8a5a-04b826234d4e",
-        "title": "2026 Quantitative Analytics Summer Internship Risk Analytics and Decision Science - PhD - Early Careers",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754710400,
-        "date_posted": 1754710400,
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2026-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Science--PhD----Early-Careers_R-481497",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Wells-Fargo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Dow Chemical Company",
-        "id": "da92a5bd-d176-4415-af02-f0fe56fd7d83",
-        "title": "2025 \u2013 2026 Campus Internship - Information Systems/Information Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755351105,
-        "date_posted": 1754709304,
-        "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2025-2026-Campus-Internship---Information-Systems-Information-Technology_R2061680",
-        "locations": [
-            "Houston, TX",
-            "Bay City, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Dow-Chemical-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "f4913c23-9b80-4198-949a-54caa3b6ffba",
-        "title": "Researcher Intern - Intelligent Creation-Vision and Graphics - PhD",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1754708980,
-        "date_posted": 1754708980,
-        "url": "https://jobs.bytedance.com/en/position/7533685770852059410/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "80d6a52f-8b0e-41cb-9ddd-0c97a3c7e8ec",
-        "title": "Research Intern - Infrastructure System Lab",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754708975,
-        "date_posted": 1754708975,
-        "url": "https://jobs.bytedance.com/en/position/7535609157736745234/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "7bc2ed3b-fb22-486b-a610-140134aed186",
-        "title": "Research Intern - Infrastructure System Lab",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754708975,
-        "date_posted": 1754708975,
-        "url": "https://jobs.bytedance.com/en/position/7535609211549813000/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "PNC Financial Services",
-        "id": "2411550a-3c72-45b0-b2a3-3e1eb492019d",
-        "title": "Retail Product Innovation Undergraduate Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1754708323,
-        "date_posted": 1754708323,
-        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Retail-Product-Innovation-Undergraduate-Intern_R196703",
-        "locations": [
-            "Philadelphia, PA",
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -179126,27 +178714,6 @@
             "Grove City, PA"
         ],
         "company_url": "https://simplify.jobs/c/Wabtec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Heidelberg Materials",
-        "id": "b8bf2ce2-c7c8-4313-93b9-97f6d74aefc6",
-        "title": "Geology Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1754712900,
-        "date_posted": 1754712900,
-        "url": "https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Geology-Intern_JR10009273",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Heidelberg-Materials",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -393843,7 +393410,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "6e733aaa-7b73-47b4-89c5-b3a3fc50451c",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -398254,7 +397821,7 @@
         "company_name": "Sigma Computing",
         "id": "9e79890e-7c54-4dc3-94ae-81869e5a79a2",
         "title": "Software Engineer - New Grad Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -426555,7 +426122,7 @@
         "company_name": "City of Austin",
         "id": "cb4dfc7b-9670-430e-9388-2f403086582a",
         "title": "Water Conservation Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441026,7 +440593,7 @@
         "company_name": "Fiserv",
         "id": "4fecf7bc-c63c-4e31-b808-38f238e3b7a4",
         "title": "Technology Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442257,7 +441824,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "cf0fd3ad-2679-4946-9ab5-dfbcb974a15a",
         "title": "Data and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447455,7 +447022,7 @@
         "company_name": "GE Healthcare",
         "id": "586d8296-0f48-4db0-9891-97a6b0754f98",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450493,6 +450060,103 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "21809924-cc40-4f2d-9f0e-6c096067ba32",
+        "title": "Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773096668,
+        "date_posted": 1761902267,
+        "url": "https://lifeattiktok.com/search/7535234137146444040",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "8b7487b4-2afb-4936-8fd5-58e6125750f0",
+        "title": "Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761877652,
+        "date_posted": 1761877652,
+        "url": "https://lifeattiktok.com/search/7534851658053830930",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sigma Computing",
+        "id": "f0c09f25-6461-4b5e-8bce-950aa917c086",
+        "title": "Software Engineer - New Grad Program",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775456936,
+        "date_posted": 1775456189,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "AspenTech",
+        "id": "98b09220-e506-4cb0-aee9-f227947e9fa2",
+        "title": "Product Owner Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775456641,
+        "date_posted": 1775455613,
+        "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern_R8783",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/AspenTech",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
