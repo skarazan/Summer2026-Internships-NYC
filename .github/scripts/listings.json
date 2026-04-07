@@ -49639,7 +49639,7 @@
         "company_name": "Figma",
         "id": "e6109e46-4542-49dc-bcb8-534ae4e9ae18",
         "title": "Software Engineer Intern - Developer Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -340185,7 +340185,7 @@
         "company_name": "Fiserv",
         "id": "49192ab5-c040-475a-af49-753748a69c98",
         "title": "Application Development \u2013 Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -350275,7 +350275,7 @@
         "company_name": "Parspec",
         "id": "c7f59c23-d84d-44b1-bdd0-ed7f523ca97b",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357089,7 +357089,7 @@
         "company_name": "Moog ",
         "id": "29db59d0-1628-439f-a06a-b122ec32765b",
         "title": "Intern \u2013 Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361769,7 +361769,7 @@
         "company_name": "Kaiser Permanente",
         "id": "e6915106-8e3f-4e5d-bd5d-ccbdaef16738",
         "title": "AI Tools Master%27s Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384837,7 +384837,7 @@
         "company_name": "Bose",
         "id": "f0030814-36dc-43bb-9abf-b2032829a1e1",
         "title": "Data Science Co-Op - NLP & GenAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391447,7 +391447,7 @@
         "company_name": "Antora Energy",
         "id": "4e650812-53f5-427f-abdf-132ef773af76",
         "title": "Power Supply Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427631,7 +427631,7 @@
         "company_name": "Johnson & Johnson",
         "id": "792af229-ec6f-4e81-8fed-4d7f746ede7c",
         "title": "Performance Evaluation R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437915,7 +437915,7 @@
         "company_name": "The Walt Disney Company",
         "id": "6955145c-2e43-4298-ae8d-0bc96b00549e",
         "title": "Decision Science Product Graduate Associate - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -438452,7 +438452,7 @@
         "company_name": "Moog ",
         "id": "1c3a0963-973f-478f-a615-1014558068a1",
         "title": "Intern - Test Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438752,7 +438752,7 @@
         "company_name": "The Walt Disney Company",
         "id": "aafc39d6-9072-4a6c-a500-fa118d1d79e0",
         "title": "Decision Science Product Graduate Associate - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -441985,7 +441985,7 @@
         "company_name": "Roku",
         "id": "a43a6779-1921-4ecc-9e8f-e319b884bdf8",
         "title": "Software Engineer Intern - Embedded Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -450519,7 +450519,7 @@
         "company_name": "Daktronics",
         "id": "01dc3eb8-c766-4b3d-90c3-77fda5a55c03",
         "title": "Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -452629,6 +452629,78 @@
             "Coppell, TX"
         ],
         "company_url": "https://simplify.jobs/c/AAA-Club-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SiFive",
+        "id": "72874aa8-4f06-4f8f-931e-a84f076d1f48",
+        "title": "Intern Platform Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775543082,
+        "date_posted": 1775542006,
+        "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Austin-Texas-United-States/Intern---Platform-Technology_R-101065",
+        "locations": [
+            "Boston, MA",
+            "Austin, TX",
+            "Cambridge, UK",
+            "Santa Clara, CA",
+            "Berkeley, CA",
+            "Marseille, France"
+        ],
+        "company_url": "https://simplify.jobs/c/SiFive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SiFive",
+        "id": "20b07139-5b6f-4f2a-b807-446f62276e8e",
+        "title": "Intern Firesim Development",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775543019,
+        "date_posted": 1775542005,
+        "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Berkeley-California-United-States/Intern---Firesim-Development_R-101079",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SiFive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LMI ",
+        "id": "20a9a46b-618a-4e14-8759-949cb8a2bbe0",
+        "title": "Data Scientist Intern - GenAI & ML Research",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775542681,
+        "date_posted": 1775542073,
+        "url": "https://careers-lmi.icims.com/jobs/13863/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/LMI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
