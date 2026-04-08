@@ -330342,7 +330342,7 @@
         "company_name": "Auctor",
         "id": "5a48777f-0af6-4e37-b9d2-1766b5c02ea2",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382297,7 +382297,7 @@
         "company_name": "Fidelity Investments",
         "id": "fe7bb8a8-5407-4d88-abca-757fab6a92db",
         "title": "Co-Op Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413385,7 +413385,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "fee39cac-9618-4bee-8ac5-0353cd9987f6",
         "title": "Hardware Engineering \u2013 Radio Frequency Intern - HP IQ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413921,7 +413921,7 @@
         "company_name": "Sun Life",
         "id": "28ed6ebe-eb8c-400b-af6a-76c61c45dbc1",
         "title": "Student Campaign Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436311,7 +436311,7 @@
         "company_name": "JP Morgan Chase",
         "id": "d6c30ab4-e60a-4234-a43e-ce7c8fe10952",
         "title": "Data Analytics/Business Intelligence/Process Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442854,7 +442854,7 @@
         "company_name": "Moog ",
         "id": "a9ef2ccf-58e9-4192-b47b-4cb0fd668858",
         "title": "Intern Design Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443660,7 +443660,7 @@
         "company_name": "Elevance Health",
         "id": "ec436044-864c-4691-8a9e-1ab4e2d9834a",
         "title": "Commercial Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446600,7 +446600,7 @@
         "company_name": "Amazon",
         "id": "c2d688dd-c73c-4cd7-b9d4-84921ec7f6fb",
         "title": "Intern Economics - Return and Recommerce Economics Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454644,5 +454644,76 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tessera Labs",
+        "id": "5023b582-d7cc-49cf-9ae0-49dca04f35b1",
+        "title": "Software Engineering Intern - Frontend",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775629261,
+        "date_posted": 1775628495,
+        "url": "https://jobs.ashbyhq.com/tessera-labs/4614d053-2c8f-4317-8cd2-1d1290721b06/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tessera-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LMI ",
+        "id": "b4af7487-860d-4d23-825b-6a638dcf0981",
+        "title": "Data & Financial Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775629261,
+        "date_posted": 1775628284,
+        "url": "https://careers-lmi.icims.com/jobs/13868/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/LMI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "00b962ad-7300-4a69-b5ea-dc0b7bad5669",
+        "title": "Security Engineering Project - Watermark",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775629599,
+        "date_posted": 1775628547,
+        "url": "https://jobs.bytedance.com/en/position/7625759034518128901/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
