@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "ff58d3ad-8682-4ba8-9364-8d427ce7df7b",
-        "title": "Firmware Engineering Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1755071002,
-        "date_posted": 1755071002,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22974",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Tower Research Capital",
         "id": "e7e30283-df3c-4082-b2b8-84380b809798",
@@ -6739,29 +6718,6 @@
             "Redmond, WA"
         ],
         "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "0a90cc5a-fb4b-4372-8b29-7882203bb4e1",
-        "title": "Researcher Intern - Vision and Graphics - PhD",
-        "active": true,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1755070658,
-        "date_posted": 1755070658,
-        "url": "https://jobs.bytedance.com/en/position/7528196025854380306/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -381954,7 +381910,7 @@
         "company_name": "Leonardo",
         "id": "8623d05e-0c6d-4be0-8049-9932bf3e1f0a",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -434931,7 +434887,7 @@
         "company_name": "Mohawk",
         "id": "435eb7f4-e807-4f17-9901-9ab2dd0a43a9",
         "title": "Technical Coordinator",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -441814,7 +441770,7 @@
         "company_name": "Mackenzie Investments",
         "id": "90b8b2e4-8179-46e8-a563-cd995443de5c",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -441928,7 +441884,7 @@
         "company_name": "The Walt Disney Company",
         "id": "2011eb95-a283-481b-be50-770b04ba5753",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444342,7 +444298,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Planet",
-        "id": "90cea15d-5b4d-49e9-aa48-4921c3917398",
+        "id": "91988944-30f1-4da0-8377-172ed60ac3f4",
         "title": "Intern Mission Optimization Engineer",
         "active": true,
         "terms": [
@@ -445012,7 +444968,7 @@
         "company_name": "Microchip Technology",
         "id": "33daee25-77d8-4121-b890-6a2667f3510c",
         "title": "Intern Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445173,7 +445129,7 @@
         "company_name": "Marathon Fusion",
         "id": "84664a1e-f4f3-4084-a0ae-e34ca1f5e6a8",
         "title": "Experiment Controls Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452970,7 +452926,7 @@
         "company_name": "ATPCO",
         "id": "89eeb8dd-a98a-478f-880b-8f419a639c50",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455820,7 +455776,7 @@
         "company_name": "Centific",
         "id": "3af23a89-6275-4d46-a4f0-153614021e10",
         "title": "Technical Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -457506,6 +457462,119 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Orion Innovation",
+        "id": "75e0d373-e3e1-40d3-9411-6679b0c8e350",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775815891,
+        "date_posted": 1775167665,
+        "url": "https://www.orioninc.com/careers/job/?gh_jid=4669668006",
+        "locations": [
+            "Iselin, Woodbridge Township, NJ",
+            "Edison, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Orion-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Mackenzie Investments",
+        "id": "c6a3b6d2-a39d-477c-a1da-f74c80d3a45c",
+        "title": "Intern - Product Innovation and Development",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1775814728,
+        "date_posted": 1775513253,
+        "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5866/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pearson",
+        "id": "14b2bb6d-74c1-4dac-9870-336d43169a16",
+        "title": "Intelligence Data Analyst Apprenticeship Coach",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775814551,
+        "date_posted": 1772792551,
+        "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22946",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Pearson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NOV",
+        "id": "10dcbc02-0cdb-4de8-9af9-66df2c03fca0",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775814849,
+        "date_posted": 1775686066,
+        "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/40521",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NOV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centific",
+        "id": "8133b5fd-8359-4a5e-9f4e-f84691be0e81",
+        "title": "Vision Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775818089,
+        "date_posted": 1775297773,
+        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Vision-Research-Intern_JR106812-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Centific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
