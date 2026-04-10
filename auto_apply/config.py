@@ -29,7 +29,14 @@ MAX_RETRIES = 3
 
 # ── Simplify page selectors (confirmed via live browser inspection) ──────────
 # On simplify.jobs/p/{id}
-SIMPLIFY_APPLY_BTN = "button:has-text('Apply')"
+# Try multiple selectors in order of specificity
+SIMPLIFY_APPLY_BTN_SELECTORS = [
+    "button[data-testid='apply-button']",           # Test ID if available
+    "button.btn-primary:has-text('Apply')",          # Primary button with Apply text
+    "button[type='button']:has-text('Apply')",      # Any button type with Apply
+    "button:has-text('Apply')",                      # Fallback to any button with Apply
+]
+SIMPLIFY_APPLY_BTN = "button:has-text('Apply')"  # Keep for backward compat
 SIMPLIFY_APPLY_ANYWAY_BTN = "button:has-text('Apply Anyway')"
 SIMPLIFY_MODAL_DETECT = "text=Download Chrome Extension"
 

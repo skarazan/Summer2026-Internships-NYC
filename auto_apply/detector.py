@@ -16,13 +16,15 @@ from auto_apply.config import (
 from auto_apply.state import get_applied_ids, load_applied_state
 
 
-def detect_new_listings(limit_recent: int | None = None) -> list[dict[str, Any]]:
+def detect_new_listings(limit_recent: int | None = None, category: str | None = None) -> list[dict[str, Any]]:
     """Find active NYC Summer 2026 listings not previously seen or already applied to.
 
     Args:
         limit_recent: If set, only include the N most recently posted listings (safety for first run).
                      Example: limit_recent=50 will only include 50 newest listings.
                      Recommended for first run to avoid applying to old listings.
+        category: If set, only include listings matching this category (case-insensitive).
+                 Example: category="Software" will match "Software Engineering", "Software", etc.
 
     Returns:
         List of new listing dicts ready to be written to pending_applications.json.
@@ -46,6 +48,12 @@ def detect_new_listings(limit_recent: int | None = None) -> list[dict[str, Any]]
     filtered = filter_nyc(filtered)
     filtered = filter_active(filtered)
     print(f"Active NYC Summer 2026 listings: {len(filtered)}")
+
+    # Filter by category if requested
+    if category:
+        category_lower = category.lower()
+        filtered = [l for l in filtered if category_lower in l.get("category", "").lower()]
+        print(f"Filtered to {category} category: {len(filtered)}")
 
     # Diff: keep only listings not seen before
     new_only = [l for l in filtered if l["id"] not in old_ids]
@@ -96,11 +104,12 @@ def write_pending(pending: list[dict[str, Any]]) -> None:
     print(f"Wrote {len(records)} pending applications to {PENDING_PATH}")
 
 
-def cmd_detect(limit_recent: int | None = None) -> None:
+def cmd_detect(limit_recent: int | None = None, category: str | None = None) -> None:
     """Detect new NYC listings and write them to pending_applications.json.
 
     Args:
         limit_recent: If set, only include the N most recent listings (safety for first run).
+        category: If set, only include listings matching this category.
     """
-    pending = detect_new_listings(limit_recent=limit_recent)
+    pending = detect_new_listings(limit_recent=limit_recent, category=category)
     write_pending(pending)

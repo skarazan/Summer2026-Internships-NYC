@@ -14,6 +14,7 @@ from auto_apply.config import (
     PAGE_LOAD_TIMEOUT,
     SIMPLIFY_APPLY_ANYWAY_BTN,
     SIMPLIFY_APPLY_BTN,
+    SIMPLIFY_APPLY_BTN_SELECTORS,
     SIMPLIFY_MODAL_DETECT,
     SUCCESS_TEXT_PATTERNS,
     SUCCESS_URL_PATTERNS,
@@ -44,11 +45,26 @@ async def apply_via_simplify(context: BrowserContext, listing: dict[str, Any]) -
         await page.goto(simplify_url, wait_until="domcontentloaded", timeout=PAGE_LOAD_TIMEOUT)
         await page.wait_for_timeout(1500)  # let extension detection scripts run
 
-        # ── Step 2: Click the Apply button ───────────────────────────────────
+        # ── Step 2: Click the Apply button (try multiple selectors) ─────────────
+        apply_btn = None
+        for selector in SIMPLIFY_APPLY_BTN_SELECTORS:
+            try:
+                apply_btn = await page.query_selector(selector)
+                if apply_btn and await apply_btn.is_visible():
+                    logger.debug(f"Found Apply button with selector: {selector}")
+                    break
+            except Exception:
+                continue
+
+        if not apply_btn:
+            logger.warning(f"Apply button not found on {simplify_url} — tried all selectors")
+            return "failed"
+
         try:
-            await page.click(SIMPLIFY_APPLY_BTN, timeout=10_000)
-        except PWTimeout:
-            logger.warning(f"Apply button not found on {simplify_url}")
+            await apply_btn.click()
+            logger.debug("Clicked Apply button")
+        except Exception as e:
+            logger.error(f"Failed to click Apply button: {e}")
             return "failed"
 
         await page.wait_for_timeout(1500)

@@ -14,13 +14,15 @@ apply_app = typer.Typer(help="Auto-apply to NYC internships via Simplify Copilot
 @apply_app.command("detect")
 def detect(
     limit: int | None = typer.Option(None, "--limit", help="Only include N most recent listings (safety for first run)"),
+    category: str | None = typer.Option(None, "--category", "-c", help="Only include listings matching category (e.g., Software)"),
 ) -> None:
     """Detect new NYC listings and write them to pending_applications.json.
 
     Run automatically by GitHub Actions after each sync.
     Use --limit 50 on first run to avoid applying to all old listings.
+    Use --category Software to filter by category.
     """
-    cmd_detect(limit_recent=limit)
+    cmd_detect(limit_recent=limit, category=category)
 
 
 @apply_app.command("run")
