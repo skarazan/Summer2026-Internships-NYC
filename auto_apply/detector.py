@@ -16,8 +16,13 @@ from auto_apply.config import (
 from auto_apply.state import get_applied_ids, load_applied_state
 
 
-def detect_new_listings() -> list[dict[str, Any]]:
+def detect_new_listings(limit_recent: int | None = None) -> list[dict[str, Any]]:
     """Find active NYC Summer 2026 listings not previously seen or already applied to.
+
+    Args:
+        limit_recent: If set, only include the N most recently posted listings (safety for first run).
+                     Example: limit_recent=50 will only include 50 newest listings.
+                     Recommended for first run to avoid applying to old listings.
 
     Returns:
         List of new listing dicts ready to be written to pending_applications.json.
@@ -45,6 +50,14 @@ def detect_new_listings() -> list[dict[str, Any]]:
     # Diff: keep only listings not seen before
     new_only = [l for l in filtered if l["id"] not in old_ids]
     print(f"New listings since last sync: {len(new_only)}")
+
+    # Limit to most recent if requested (first run protection)
+    if limit_recent is not None:
+        # Sort by date_posted descending (newest first)
+        new_only_sorted = sorted(new_only, key=lambda x: x.get("date_posted", 0), reverse=True)
+        limited = new_only_sorted[:limit_recent]
+        print(f"Limited to {limit_recent} most recent listings: {len(limited)} (filtered from {len(new_only)})")
+        new_only = limited
 
     # Exclude already-applied/skipped listings
     state = load_applied_state()
@@ -83,7 +96,11 @@ def write_pending(pending: list[dict[str, Any]]) -> None:
     print(f"Wrote {len(records)} pending applications to {PENDING_PATH}")
 
 
-def cmd_detect() -> None:
-    """Detect new NYC listings and write them to pending_applications.json."""
-    pending = detect_new_listings()
+def cmd_detect(limit_recent: int | None = None) -> None:
+    """Detect new NYC listings and write them to pending_applications.json.
+
+    Args:
+        limit_recent: If set, only include the N most recent listings (safety for first run).
+    """
+    pending = detect_new_listings(limit_recent=limit_recent)
     write_pending(pending)

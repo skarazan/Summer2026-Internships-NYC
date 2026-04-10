@@ -1,9 +1,65 @@
 {
-  "applied": [],
+  "applied": [
+    {
+      "listing_id": "90b18f30-a2fb-4d61-9c01-ebce10eeca83",
+      "company_name": "Squarepoint",
+      "title": "Intern Quant Researcher",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=243853",
+      "simplify_url": null,
+      "applied_at": null,
+      "status": "failed",
+      "attempts": 2,
+      "last_error": "needs_review"
+    },
+    {
+      "listing_id": "d1ae8439-77a5-4545-a92d-a994cfe2603a",
+      "company_name": "Allium",
+      "title": "Engineering Intern - AI",
+      "url": "https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e",
+      "simplify_url": null,
+      "applied_at": null,
+      "status": "failed",
+      "attempts": 2,
+      "last_error": "needs_review"
+    },
+    {
+      "listing_id": "39ae9c3c-4474-4565-b0b3-897552f89b41",
+      "company_name": "Ramp",
+      "title": "Software Engineering Internship - Frontend",
+      "url": "https://jobs.ashbyhq.com/ramp/31f7e045-9a51-4a75-9ffc-d815d6db6daa/application",
+      "simplify_url": "https://simplify.jobs/p/39ae9c3c-4474-4565-b0b3-897552f89b41",
+      "applied_at": null,
+      "status": "failed",
+      "attempts": 2,
+      "last_error": "application flow failed"
+    },
+    {
+      "listing_id": "5f43856c-3bde-465b-bd43-9778ad86133d",
+      "company_name": "New York Life",
+      "title": "Technology Analyst Intern",
+      "url": "https://careers.newyorklife.com/careers?query=%23Techcampus&location=any&pid=30149944&domain=newyorklife.com&sort_by=relevance",
+      "simplify_url": null,
+      "applied_at": null,
+      "status": "failed",
+      "attempts": 1,
+      "last_error": "needs_review"
+    },
+    {
+      "listing_id": "b677ea27-398f-4293-b2ed-f261f89ffa59",
+      "company_name": "Talos Trading",
+      "title": "Software Engineer Intern, Front-End, PMS",
+      "url": "https://jobs.ashbyhq.com/Talos-Trading/2db01769-8f00-4652-b790-b7cff80bc891",
+      "simplify_url": null,
+      "applied_at": null,
+      "status": "failed",
+      "attempts": 1,
+      "last_error": "needs_review"
+    }
+  ],
   "stats": {
     "total_applied": 0,
-    "total_failed": 0,
+    "total_failed": 8,
     "total_skipped": 0,
-    "last_run": 0
+    "last_run": 1775791027
   }
 }
