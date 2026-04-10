@@ -5,6 +5,7 @@ from pathlib import Path
 
 import typer
 
+from auto_apply.cli import apply_app
 from list_updater import (
     cmd_contribution_process,
     cmd_listings_diff,
@@ -136,6 +137,13 @@ def listings_fix(
 ) -> None:
     """Interactively fix issues in listings.json."""
     cmd_listings_fix(dry_run=dry_run, issue_type=issue_type, auto=auto)
+
+
+# =============================================================================
+# Auto-Apply Commands
+# =============================================================================
+
+app.add_typer(apply_app, name="auto-apply")
 
 
 if __name__ == "__main__":

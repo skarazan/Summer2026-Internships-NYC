@@ -2,7 +2,7 @@
 name = "list-updater"
 version = "1.0.0"
 requires-python = ">=3.12"
-dependencies = ["typer>=0.21.1"]
+dependencies = ["typer>=0.21.1", "playwright>=1.49.0"]
 
 [dependency-groups]
 dev = ["ruff>=0.14.11", "mypy>=1.19.1", "taskipy>=1.14.1"]

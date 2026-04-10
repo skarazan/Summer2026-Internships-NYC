@@ -21,6 +21,10 @@ jobs:
           ref: dev
           fetch-depth: 0
 
+      - name: Save current listings for diff
+        run: |
+          cp .github/scripts/listings.json .github/scripts/listings_old.json 2>/dev/null || true
+
       - name: Sync listings.json from upstream
         run: |
           # Fetch the latest listings.json directly from the upstream repo
@@ -51,12 +55,17 @@ jobs:
         id: python_script
         run: uv run main.py readme update
 
+      - name: Detect new NYC listings for auto-apply
+        if: env.listings_changed == 'true'
+        run: uv run main.py auto-apply detect
+
       - name: Commit and push changes
         if: env.listings_changed == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .github/scripts/listings.json
+          git add .github/scripts/pending_applications.json
           git add README.md
           git add README-Inactive.md
           git add README-Off-Season.md
