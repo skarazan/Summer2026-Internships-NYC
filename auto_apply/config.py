@@ -70,6 +70,22 @@ SUCCESS_TEXT_PATTERNS = [
     "we've received your application",
 ]
 
+# ── ATS "Apply Now" button selectors (company page, before the form appears) ──
+# These are intermediate buttons on ATS pages that must be clicked to reveal the form.
+# Confirmed from live inspection (e.g. Oracle Cloud / JPMC uses "APPLY NOW").
+ATS_APPLY_NOW_SELECTORS = [
+    "button.apply-now-button",                       # Oracle Cloud / JPMC confirmed
+    "button:has-text('APPLY NOW')",
+    "button:has-text('Apply Now')",
+    "a:has-text('Apply Now')",
+    "button:has-text('Apply for this job')",
+    "button:has-text('Apply for this position')",
+    "a:has-text('Apply for this job')",
+    "[data-ui='apply-btn']",
+    "#apply-button",
+    ".apply-button",
+]
+
 # ── CAPTCHA detection selectors ───────────────────────────────────────────────
 CAPTCHA_SELECTORS = [
     'iframe[src*="recaptcha"]',

@@ -7,6 +7,7 @@ from typing import Any
 from playwright.async_api import BrowserContext, ElementHandle, Page, TimeoutError as PWTimeout
 
 from auto_apply.config import (
+    ATS_APPLY_NOW_SELECTORS,
     CAPTCHA_SELECTORS,
     EXTENSION_SELECTORS,
     EXTENSION_WAIT_TIMEOUT,
@@ -88,6 +89,11 @@ async def apply_via_simplify(context: BrowserContext, listing: dict[str, Any]) -
         await ats_page.wait_for_load_state("networkidle", timeout=PAGE_LOAD_TIMEOUT)
         logger.info(f"ATS page: {ats_page.url}")
 
+        # ── Step 4.5: Click ATS "Apply Now" button if present ─────────────────
+        # Many ATS pages (Oracle Cloud, Workday, etc.) show the job description
+        # first with an "APPLY NOW" / "Apply Now" button that opens the actual form.
+        await _click_ats_apply_now(ats_page)
+
         # ── Step 5: Wait for extension autofill button ────────────────────────
         autofill_btn = await _wait_for_extension(ats_page)
         if autofill_btn is None:
@@ -132,6 +138,30 @@ async def _wait_for_new_tab(context: BrowserContext, timeout: int) -> Page | Non
         return new_page
     except PWTimeout:
         return None
+
+
+async def _click_ats_apply_now(page: Page) -> None:
+    """Click the ATS-level 'Apply Now' button if present.
+
+    Some ATS pages (Oracle Cloud / JPMC, Workday, etc.) show the job description
+    first. The actual application form only appears after clicking 'APPLY NOW'.
+    We try each selector with a short timeout — if none found, silently continue.
+    """
+    for selector in ATS_APPLY_NOW_SELECTORS:
+        try:
+            el = await page.wait_for_selector(selector, timeout=3_000)
+            if el and await el.is_visible():
+                logger.info(f"Found ATS 'Apply Now' button ({selector}) — clicking")
+                await el.click()
+                # Wait for the form to load after clicking
+                await page.wait_for_load_state("networkidle", timeout=PAGE_LOAD_TIMEOUT)
+                await page.wait_for_timeout(1500)
+                return
+        except PWTimeout:
+            continue
+        except Exception:
+            continue
+    logger.debug("No ATS 'Apply Now' button found — proceeding directly to form")
 
 
 async def _wait_for_extension(page: Page) -> ElementHandle | None:
