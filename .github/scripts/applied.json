@@ -65,12 +65,23 @@
       "status": "failed",
       "attempts": 1,
       "last_error": "needs_review"
+    },
+    {
+      "listing_id": "9f789f05-5c88-4ab3-8da4-7620564d71d6",
+      "company_name": "JP Morgan Chase",
+      "title": "2026 Software Engineer Program \u2013 Jobs CEO Council Tech Apprenticeship",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210657659",
+      "simplify_url": "https://simplify.jobs/p/9f789f05-5c88-4ab3-8da4-7620564d71d6",
+      "applied_at": null,
+      "status": "failed",
+      "attempts": 1,
+      "last_error": "application flow failed"
     }
   ],
   "stats": {
     "total_applied": 0,
-    "total_failed": 9,
+    "total_failed": 10,
     "total_skipped": 0,
-    "last_run": 1775791455
+    "last_run": 1775791962
   }
 }

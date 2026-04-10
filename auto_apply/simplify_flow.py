@@ -46,7 +46,7 @@ async def apply_via_simplify(context: BrowserContext, listing: dict[str, Any]) -
         await page.goto(simplify_url, wait_until="domcontentloaded", timeout=PAGE_LOAD_TIMEOUT)
         await page.wait_for_timeout(1500)  # let extension detection scripts run
 
-        # ── Step 2: Click the Apply button (try multiple selectors) ─────────────
+        # ── Step 2: Find the Apply button ────────────────────────────────────
         apply_btn = None
         for selector in SIMPLIFY_APPLY_BTN_SELECTORS:
             try:
@@ -61,27 +61,35 @@ async def apply_via_simplify(context: BrowserContext, listing: dict[str, Any]) -
             logger.warning(f"Apply button not found on {simplify_url} — tried all selectors")
             return "failed"
 
+        # ── Step 3: Register new-tab listener BEFORE clicking Apply ──────────
+        # Must be set up before the click or the tab may open before we listen.
+        pages_before = set(context.pages)
+        async with context.expect_page(timeout=NEW_TAB_TIMEOUT) as new_page_info:
+            # Click Apply — may open ATS directly (extension installed)
+            # or show the "Download Chrome Extension" modal first.
+            try:
+                await apply_btn.click()
+                logger.debug("Clicked Apply button")
+            except Exception as e:
+                logger.error(f"Failed to click Apply button: {e}")
+                return "failed"
+
+            await page.wait_for_timeout(1500)
+
+            # ── Step 3a: Handle modal if extension not detected ───────────────
+            try:
+                await page.wait_for_selector(SIMPLIFY_MODAL_DETECT, timeout=2_000)
+                logger.debug("Extension-prompt modal detected — clicking Apply Anyway")
+                await page.click(SIMPLIFY_APPLY_ANYWAY_BTN, timeout=5_000)
+            except PWTimeout:
+                logger.debug("No modal — extension detected by Simplify, ATS opening directly")
+
+        # ── Step 4: Get the ATS page ──────────────────────────────────────────
         try:
-            await apply_btn.click()
-            logger.debug("Clicked Apply button")
-        except Exception as e:
-            logger.error(f"Failed to click Apply button: {e}")
-            return "failed"
+            ats_page = await new_page_info.value
+        except Exception:
+            ats_page = None
 
-        await page.wait_for_timeout(1500)
-
-        # ── Step 3: Handle "Download Chrome Extension" modal if present ───────
-        #   (appears when extension is not detected by Simplify)
-        try:
-            await page.wait_for_selector(SIMPLIFY_MODAL_DETECT, timeout=2_000)
-            logger.debug("Extension-prompt modal detected — clicking Apply Anyway")
-            await page.click(SIMPLIFY_APPLY_ANYWAY_BTN, timeout=5_000)
-        except PWTimeout:
-            # Modal didn't appear — extension was detected, ATS tab should open directly
-            logger.debug("No modal — extension detected by Simplify, ATS opening directly")
-
-        # ── Step 4: Wait for the ATS page to open in a new tab ───────────────
-        ats_page = await _wait_for_new_tab(context, timeout=NEW_TAB_TIMEOUT)
         if ats_page is None:
             logger.warning(f"ATS tab never opened for {listing['company_name']}")
             return "failed"
@@ -127,17 +135,6 @@ async def apply_via_simplify(context: BrowserContext, listing: dict[str, Any]) -
             await page.close()
         except Exception:
             pass
-
-
-async def _wait_for_new_tab(context: BrowserContext, timeout: int) -> Page | None:
-    """Wait up to `timeout` ms for a new page to appear in the context."""
-    try:
-        async with context.expect_page(timeout=timeout) as page_info:
-            pass
-        new_page = await page_info.value
-        return new_page
-    except PWTimeout:
-        return None
 
 
 async def _click_ats_apply_now(page: Page) -> None:
