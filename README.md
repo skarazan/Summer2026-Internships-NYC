@@ -50,39 +50,46 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/The-New-York-Times?utm_source=GHList&utm_medium=company">The New York Times</a></strong></td>
+<td>Full Stack Engineer Intern</td>
+<td>NYC</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4624814005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/088a818a-ed12-4863-99ab-039f68e35a74?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Cypress-Creek-Renewables?utm_source=GHList&utm_medium=company">Cypress Creek Renewables</a></strong></td>
 <td>AI Automation Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://ccrenew.com/careers/job-listing/?gh_jid=7793341&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bfd60e8f-ca28-4657-a8bd-a54571f61a04?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Point72?utm_source=GHList&utm_medium=company">Point72</a></strong></td>
 <td>AI Engineer Intern - Long/Short Equities</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/point72/jobs/8500448002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ddd38f53-6805-453a-a682-e88205db318c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Attentive?utm_source=GHList&utm_medium=company">Attentive</a></strong></td>
 <td>AI Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/attentive/jobs/4209296009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4eedf593-6f08-42d5-ab62-81b6e6f5b280?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Eulerity?utm_source=GHList&utm_medium=company">Eulerity</a></strong></td>
 <td>Mobile iOS Developer Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/eulerity/jobs/4671025006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/624a2b7b-51e9-4b7e-87d8-5e15ae69b867?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Android Developer Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/eulerity/jobs/4671031006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6f53e7a8-a859-4111-972d-988f2d4b31e2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong>Whatnot</strong></td>
@@ -96,14 +103,14 @@
 <td>AI Intern - Long/Short Equities</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/point72/jobs/8486146002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bb8619dc-9ece-472c-ba31-1325f586291c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Accenture-FS?utm_source=GHList&utm_medium=company">Accenture</a></strong></td>
 <td>Youth Apprenticeship 2 - Technology NAELFY26</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/CareerWise-Youth-Apprenticeship-2---Technology-NAELFY26_R00321766?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1a5e2252-f2cb-450b-8782-563753e360d1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong>Farsight</strong></td>
@@ -117,7 +124,7 @@
 <td>Backend Developer Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/eulerity/jobs/4666015006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/120a581b-07a7-488c-8947-a7a7c018bd10?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Arcesium?utm_source=GHList&utm_medium=company">Arcesium</a></strong></td>
@@ -138,14 +145,14 @@
 <td>Software Engineer Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/doubleverify/jobs/8464443002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/171dec72-bac1-4cea-bf60-d050d63e235c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/doubleverify/jobs/8464445002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8cf9f9a4-41a1-4690-95a6-5a3953deb8ed?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Impiricus?utm_source=GHList&utm_medium=company">Impiricus</a></strong></td>
@@ -166,7 +173,7 @@
 <td>Software Engineer Intern - Full Stack</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/impiricus/jobs/5160382008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a51651ef-323e-4a64-afea-c7ab40c14f60?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Judi-Health?utm_source=GHList&utm_medium=company">Judi Health</a></strong></td>
@@ -180,7 +187,7 @@
 <td>Research Scientist Intern - PyTorch Compiler 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://www.metacareers.com/jobs/871535115847099?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f8d37956-48c3-49bf-bc07-ece917d6ae7c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cockroach-Labs?utm_source=GHList&utm_medium=company">Cockroach Labs</a></strong></td>
@@ -201,14 +208,14 @@
 <td>Intern - Software Engineering</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://gen.wd1.myworkdayjobs.com/careers/job/USA---New-York-New-York/Intern--Software-Engineering---Summer-Internship_55246?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ce3dcfbd-86bd-46b5-a6fc-639f4341929d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Point72?utm_source=GHList&utm_medium=company">Point72</a></strong></td>
 <td>Technology Intern - UI/UX Engineer - Full Stack</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/point72/jobs/8465224002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/832aa476-ae91-49b2-ad86-266c36d0bb38?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Circle?utm_source=GHList&utm_medium=company">Circle</a></strong></td>
@@ -222,14 +229,14 @@
 <td>Forward Deployed Software Engineer Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://jobs.lever.co/palantir/030ece08-c341-4959-bdfe-314e89b691ce/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2a548980-d0dc-4f6d-bffa-4530eae92c4b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Fanatics?utm_source=GHList&utm_medium=company">Fanatics</a></strong></td>
 <td>AI Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27180?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b8ae5631-fcba-47bf-a0d0-e14c18d4a882?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company">Salesforce</a></strong></td>
@@ -257,7 +264,7 @@
 <td>Product Builder Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/diligentcorporation/jobs/5800451004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/29d49157-a95a-432e-9f52-fda1f017e447?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tatari?utm_source=GHList&utm_medium=company">Tatari</a></strong></td>
@@ -362,67 +369,74 @@
 </thead>
 <tbody>
 <tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>Product Operations Project Intern 🎓</td>
+<td>NYC</td>
+<td><div align="center"><a href="https://lifeattiktok.com/search/7626859143691766021?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dfa5367e-f20a-4327-8bb8-256c91bc1ed3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Hearst?utm_source=GHList&utm_medium=company">Hearst</a></strong></td>
 <td>Product Management Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2026494?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/50b56cca-4019-4619-829d-fcbeba0a105f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Progyny?utm_source=GHList&utm_medium=company">Progyny</a></strong></td>
 <td>Clinical Programs-Product Intern 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://progyny.wd5.myworkdayjobs.com/en-US/progyny/job/New-York-New-York/Clinical-Programs--Product-Intern_JR101027?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/454fcc90-e99e-4e05-aa6a-3aeb81ed6ae4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SambaTV?utm_source=GHList&utm_medium=company">Samba TV</a></strong></td>
 <td>Product Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://jobs.lever.co/sambatv/23c03150-b159-4900-9ef8-fb9e04debc61/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fe951282-e252-44f8-8544-ad60411541fc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SP-Global?utm_source=GHList&utm_medium=company">S&P Global </a></strong></td>
 <td>Intern - Product Corporate Actions</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/XMLNAME-2026-Summer-Intern---Product-Corporate-Actions_326599-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/13c1662f-75f5-491c-9bd2-b11959b8d094?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Gen?utm_source=GHList&utm_medium=company">Gen</a></strong></td>
 <td>Intern - Product Management - Marketplace / Auto Vertical</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://gen.wd1.myworkdayjobs.com/careers/job/USA---New-York-New-York/Summer-Internship--Product-Management---Marketplace---Auto-Vertical-_55295-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/79178dea-ae11-4f4a-a4d5-cbc6f0b299a6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Shake-Shack?utm_source=GHList&utm_medium=company">Shake Shack</a></strong></td>
 <td>Intern Digital Product</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://shakeshack.wd5.myworkdayjobs.com/External/job/Home-Office-225-Varick-Street-Suite-301-New-York-NY-10014/Intern---Digital-Product_JR12024?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0508ebe3-766f-4e7f-8866-3ad8a7b98c14?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Galaxy?utm_source=GHList&utm_medium=company">Galaxy</a></strong></td>
 <td>Product Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5834759004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/29a0f333-c2fd-4ae3-9933-db740e7f0a7c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Cloudflare?utm_source=GHList&utm_medium=company">Cloudflare</a></strong></td>
 <td>MBA Product Marketing Intern 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/7712472?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b7ae62f6-d27d-44aa-a4c4-3db1f5e54134?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Judi-Health?utm_source=GHList&utm_medium=company">Judi Health</a></strong></td>
 <td>Product Manager Intern - Undergraduate</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/capitalrx/jobs/5155173008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b7c2c973-2aaf-478d-ba90-893dce3a884a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Apex-Fintech-Solutions?utm_source=GHList&utm_medium=company">Apex Fintech Solutions</a></strong></td>
@@ -436,7 +450,7 @@
 <td>Product Marketing Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/diligentcorporation/jobs/5822511004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dedcc703-79cc-4e4e-9063-3b24848ac7c6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/New-York-Post-Holdings?utm_source=GHList&utm_medium=company">New York Post Holdings</a></strong></td>
@@ -456,7 +470,7 @@
 </table>
 
 
-🔒 **[See 95 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
+🔒 **[See 94 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
 
 
 
@@ -480,25 +494,32 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/EXL?utm_source=GHList&utm_medium=company">EXL</a></strong></td>
+<td>Intern</td>
+<td>NYC</td>
+<td><div align="center"><a href="https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/12754?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b4e5d089-614c-49a2-89db-ae63de31cd87?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/CVS-Health?utm_source=GHList&utm_medium=company">CVS Health</a></strong></td>
 <td>Data Science Graduate Intern 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Data-Science-Graduate-Internship---Summer-2026_R0882132?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4c5398d9-de17-4823-9ff9-f31b2d6ae9b3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/AvePoint?utm_source=GHList&utm_medium=company">AvePoint</a></strong></td>
 <td>People Data Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/avepoint/jobs/7768800?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2442d052-7b23-40c2-a75b-753f40b7834c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
 <td>Research Intern - Inference Economics and Human Agency 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556856507?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4590da8c-866b-4a49-b418-33f140d82933?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong>Doctors Without Borders</strong></td>
@@ -512,77 +533,84 @@
 <td>Data Analyst Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/rtwinvestments/jobs/5161894008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/363f4e1e-f202-4b73-b674-cc6819bb718d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Scale-AI?utm_source=GHList&utm_medium=company">Scale AI</a></strong></td>
 <td>AI Deployment Strategist Intern 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/scaleai/jobs/4677519005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/26b73af1-2a9b-4a10-b6ae-7bb797dccf5a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SitusAMC?utm_source=GHList&utm_medium=company">SitusAMC</a></strong></td>
 <td>Intern – Business Intelligence</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://situsamc.wd1.myworkdayjobs.com/SitusAMC/job/Remote/Intern---Business-Intelligence_JR02598-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/097e1331-4666-41a7-8c1b-09e87520a983?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TransPerfect?utm_source=GHList&utm_medium=company">TransPerfect</a></strong></td>
 <td>Operations Intern-Data Analytics</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Operations-Intern--Data-Analytics_R2025-243516?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/35f1c344-c840-4d85-910a-8602ba11f2f6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>17d</td>
+<td>18d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company">Capital One</a></strong></td>
+<td>Current PhD – Applied Research Intern Program 🎓</td>
+<td>NYC</td>
+<td><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2026_R218606-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6c8ee6ed-a86a-41d4-9681-3e49eb43810b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sony?utm_source=GHList&utm_medium=company">Sony</a></strong></td>
 <td>Research Intern on Generative and Protective AI for Content Creation 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8caf3ad4-fc32-4435-ada2-1b9d5a89b24f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Impiricus?utm_source=GHList&utm_medium=company">Impiricus</a></strong></td>
 <td>Intern Data Analytics</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/impiricus/jobs/5160568008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b4ea56db-dcfd-4479-8dde-abdf95b8431d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Spot-And-Tango?utm_source=GHList&utm_medium=company">Spot & Tango</a></strong></td>
 <td>Product Analyst Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="http://www.spotandtango.com/careers?gh_jid=4674928005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/11566f6d-b2bd-4ff2-a16c-a79ddb0652fd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Talkspace?utm_source=GHList&utm_medium=company">Talkspace</a></strong></td>
 <td>NLP Research Intern 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://www.talkspace.com/careers/job?gh_jid=5831413004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e967d13e-b4b2-42ee-9eb6-0e0193f8783f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Marketing Data Analyst Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://www.talkspace.com/careers/job?gh_jid=5831793004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/447cca8a-203d-4734-950d-384438326d1b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Judi-Health?utm_source=GHList&utm_medium=company">Judi Health</a></strong></td>
 <td>AI / Machine Learning Intern – Graduate level 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/capitalrx/jobs/5153808008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c8d488fa-2dd0-4f48-bcad-7fd577af03be?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Judi-Health?utm_source=GHList&utm_medium=company">Judi Health</a></strong></td>
 <td>Data Engineering Intern – Graduate Level 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/capitalrx/jobs/5153861008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/de0cbdcc-7edd-409d-be50-0537e8e5ebed?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Starz?utm_source=GHList&utm_medium=company">Starz</a></strong></td>
@@ -596,21 +624,21 @@
 <td>Data Scientist Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://goodrx.wd1.myworkdayjobs.com/Careers/job/NY-Office/Data-Scientist-Intern_JR100571?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c05b9f22-7c63-4954-997a-12f5219b2e61?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
 <td>Research Scientist Intern - Optimization - Privacy and Inference 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://www.metacareers.com/jobs/26336808892622129?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f16bea76-aabe-4992-b704-b4655433ae5d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Pathos?utm_source=GHList&utm_medium=company">Pathos</a></strong></td>
 <td>Applied Scientist, Oncology Foundation Model 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://ats.rippling.com/pathos/jobs/939623e3-fe14-4d0e-b9f7-08c0411a060e?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d45c4020-8afa-4fe7-bd48-63b97cf8eb74?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Netflix?utm_source=GHList&utm_medium=company">Netflix</a></strong></td>
@@ -683,7 +711,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/New-York-Post-Holdings?utm_source=GHList&utm_medium=company">New York Post Holdings</a></strong></td>
+<td>↳</td>
 <td>Data Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://dowjones.wd1.myworkdayjobs.com/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Data-Intern_Job_Req_51875?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6a6f7212-29b1-4c46-a3a8-e6b40bdea784?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -805,7 +833,7 @@
 </table>
 
 
-🔒 **[See 370 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 369 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
@@ -829,28 +857,28 @@
 <td>Quantitative Research Intern - Equity Arbitrage</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Research-Intern---Equity-Arbitrage_JR100450-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b94377c7-7c95-4b09-bbbc-d8e46f2d0001?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/American-Century-Investments?utm_source=GHList&utm_medium=company">American Century Investments</a></strong></td>
 <td>Quantitative Research Intern 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/New-York---330-Madison/Quantitative-Research-Intern_R0005419?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/40fe218f-0e2d-49d6-84e9-6a80d629ca27?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CME-Group?utm_source=GHList&utm_medium=company">CME Group</a></strong></td>
 <td>Quant Risk Management Intern 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quant-Risk-Management-Intern---Year-Round_34255?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/56ae60a3-da6b-407b-a4bc-e550bb8393c9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Schonfeld?utm_source=GHList&utm_medium=company">Schonfeld</a></strong></td>
 <td>DMFI Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/7749783?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4b48db71-cd70-4896-ae8a-08edad96a791?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/AXQ-Capital?utm_source=GHList&utm_medium=company">AXQ Capital</a></strong></td>
