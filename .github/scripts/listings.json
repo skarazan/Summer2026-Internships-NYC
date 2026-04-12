@@ -1,43 +1,5 @@
 [
     {
-        "date_updated": 1755567456,
-        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1448534",
-        "company_name": "Cisco",
-        "title": "Software Engineer I (Intern)",
-        "locations": [
-            "San Jose, CA",
-            "Remote, USA",
-            "Milpitas, CA",
-            "New York, NY",
-            "RTP, NC",
-            "Atlanta, GA",
-            "Alpharetta, GA",
-            "Austin, TX",
-            "Dallas, TX",
-            "Knoxville, TN",
-            "Fulton, MD",
-            "Maynard, MA",
-            "Boston, MA",
-            "Hillsboro, OR"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2026",
-            "Summer 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "Simplify",
-        "id": "4193bd89-d8b8-4e02-aab3-7f2a5dd6f423",
-        "date_posted": 1755248292,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
         "date_updated": 1755782446,
         "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f03044b2dac6/spa-1/candidate/so/pm/1/pl/1/opp/19975-2026-Firmwide-AI-Strategy-Solutions-Summer-Analyst-Program-New-York/en-GB",
         "company_name": "Morgan Stanley",
@@ -178630,7 +178592,7 @@
         "company_name": "Salesforce",
         "id": "b476d6e3-d5b0-4179-8453-71f2a34f632e",
         "title": "Summer 2026 Intern-Tableau Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -221577,7 +221539,7 @@
         "company_name": "Cisco",
         "id": "aacdbbaf-a5cc-4079-a368-0ef4edd79fac",
         "title": "Data Science Analyst 1 \u2013 Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -235283,7 +235245,7 @@
         "company_name": "General Motors",
         "id": "000848a2-c7a7-49f1-af93-0068bd5e68d3",
         "title": "2026 Summer Intern - AI/ML Software Engineer - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -298968,7 +298930,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -443652,7 +443614,7 @@
         "company_name": "Salesforce",
         "id": "1aa662ef-b4e7-4286-9f3a-dfd9f9055bef",
         "title": "Intern-Tableau Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457454,6 +457416,54 @@
             "Hillsboro, OR"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nebius",
+        "id": "6364799b-c10e-4f4f-8cd0-740fadbce721",
+        "title": "AI Researcher",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775987111,
+        "date_posted": 1774574703,
+        "url": "https://careers.nebius.com/?gh_jid=4812140101",
+        "locations": [
+            "Europe",
+            "La Ronge, SK, Canada",
+            "Berlin, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Nebius",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Parsons",
+        "id": "b0765f9a-486a-4128-979c-3cd1149f3f3d",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775985850,
+        "date_posted": 1775984616,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CA-Camarillo/Software-Engineer-Intern_R179340-1",
+        "locations": [
+            "Camarillo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
