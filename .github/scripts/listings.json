@@ -25852,7 +25852,7 @@
         "company_name": "NVIDIA",
         "id": "fc280798-cfd5-434a-aee5-77eba36b6bcb",
         "title": "NVIDIA Internships: PhD Hardware Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -168792,7 +168792,7 @@
         "company_name": "GE Appliances",
         "id": "b1a50830-e5ae-4f43-a69b-471c3c58ea97",
         "title": "Engineering Co-op Fall 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -169768,7 +169768,7 @@
         "company_name": "TikTok",
         "id": "2bb44dc9-b217-44bd-b0b7-b6aebd3ad58d",
         "title": "Online Architecture Research Intern - Tiktok-Generalized Arch - 2026 Start - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -255395,7 +255395,7 @@
         "company_name": "Genentech",
         "id": "97619c38-15f8-400f-a75c-36cbdccee7a4",
         "title": "2026 Summer Intern - Gcs Aidd",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278629,7 +278629,7 @@
         "company_name": "Air Liquide",
         "id": "0ff6a28b-0c9e-4962-867c-73a635ac4f7a",
         "title": "Modelling & Simulation Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -295450,7 +295450,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -350194,7 +350194,7 @@
         "company_name": "Moog ",
         "id": "f8eae464-d6ed-4ea3-b547-b300c18601de",
         "title": "Intern \u2013 Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373523,7 +373523,7 @@
         "company_name": "Halliburton",
         "id": "25dc9608-ee21-474c-84a9-3b24d5868a6f",
         "title": "Intern Automation Geoscientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -400209,7 +400209,7 @@
         "company_name": "Leidos",
         "id": "9455d0d5-4ce7-4b79-8000-d09d06943854",
         "title": "Computer Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -407774,7 +407774,7 @@
         "company_name": "Guidewire",
         "id": "148a72b7-bc13-4b01-a17e-84eb6dd9858c",
         "title": "Services Solutions Technical Architect Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -435030,7 +435030,7 @@
         "company_name": "Roku",
         "id": "a43a6779-1921-4ecc-9e8f-e319b884bdf8",
         "title": "Software Engineer Intern - Embedded Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435402,7 +435402,7 @@
         "company_name": "Jackson",
         "id": "e35a65cd-2c08-454a-9d26-364b01659668",
         "title": "Strategic Support Associate - Service Desk",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -442213,7 +442213,7 @@
         "company_name": "GE Appliances",
         "id": "a4d76612-8c17-43cd-ae7e-d0bcebd21928",
         "title": "Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -443450,7 +443450,7 @@
         "company_name": "The Walt Disney Company",
         "id": "7a7405cf-34cf-4c12-af91-a9d398652be1",
         "title": "Revenue Planning & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -443629,7 +443629,7 @@
         "company_name": "GE Healthcare",
         "id": "686e276d-49c6-45d3-8197-15cf65299b77",
         "title": "Field Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444514,7 +444514,7 @@
         "company_name": "T1D Exchange",
         "id": "d87f42d0-dba3-4469-aaef-0e9ddf6af6b6",
         "title": "QI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444538,7 +444538,7 @@
         "company_name": "AEG",
         "id": "9f2a8990-cfbf-4ced-9ee7-8c1040309eb4",
         "title": "Intern - Global Partnerships - Data & Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452474,7 +452474,7 @@
         "company_name": "amika",
         "id": "99df7941-ab06-4f58-836f-c189a809ba1f",
         "title": "Intern - Packaging Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453903,7 +453903,7 @@
         "company_name": "Intel",
         "id": "3e394c36-8da5-4c27-bf62-4c58ea81a857",
         "title": "CPU Verification Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454525,6 +454525,326 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1776068694,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jbb.applytojob.com/apply/SCtkdVCvur/Software-Engineering-Intern",
+        "company_name": "JB&B",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "5eab8b50-11eb-463a-9918-f693b94ccd2d",
+        "date_posted": 1776068694,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776069239,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4056745",
+        "company_name": "System Automation",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Remote in US"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "8e3a591d-76d3-43be-a196-ad518e330ef1",
+        "date_posted": 1776069239,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776069480,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern",
+        "company_name": "Sandhills Global",
+        "title": "Software Development Intern",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "c59aa3f2-08bd-413a-a82e-29840631cfd4",
+        "date_posted": 1776069480,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776069597,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3772852",
+        "company_name": "Arrow International",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "b18e4b3b-369a-4075-9992-60432561f6d0",
+        "date_posted": 1776069597,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776069858,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.paycomonline.net/v4/ats/web.php/portal/4689D9AB2F6F99AD5F352379B206FD14/jobs/497616",
+        "company_name": "HealthStream",
+        "title": "Intern, Software Developer",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "6a107277-e440-4924-bcd2-aa6e97178f2a",
+        "date_posted": 1776069858,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776069985,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-Infotainment-Software-Engineering-Intern-%28Internship-Summer-2026%29-MI-48198/1335957800",
+        "company_name": "Hyundai Motor Company",
+        "title": "Infotainment Software Engineering Intern",
+        "locations": [
+            "Superior Charter Township, MI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "af182cdf-8e6f-4c4a-90e7-4adf88584023",
+        "date_posted": 1776069985,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776070106,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://careers.amperecomputing.com/jobs/17398918-technical-intern-compiler-software",
+        "company_name": "Ampere",
+        "title": "Technical Intern, Compiler Software",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "9ae96148-b56b-474f-91f7-30d7014076f0",
+        "date_posted": 1776070106,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776074539,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/golinks/a744b69b-2ef9-4865-ab80-2f68a3815d7e",
+        "company_name": "GoLinks",
+        "title": "Fullstack Engineering Intern - Hybrid",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "ed386f82-9d50-47fb-9c13-51c92a28b0c4",
+        "date_posted": 1776074539,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776074714,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5845/fall-intern-2026----investment-management---software-developer/job",
+        "company_name": "Mackenzie Investments",
+        "title": "Investment Management - Fixed Income Platform Engineering",
+        "locations": [
+            "Toronto, ON, CAN"
+        ],
+        "terms": [
+            "Fall 2026"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "79c1b9a2-339b-4d21-9e3c-5d6f4147b346",
+        "date_posted": 1776074714,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776075089,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://gainsystems.applytojob.com/apply/LYgorNYL2m/Data-Science-Intern",
+        "company_name": "GAINS",
+        "title": "Data Science Intern",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "cf0b636f-e3fc-4f8c-aa5e-863546aa8d03",
+        "date_posted": 1776075089,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "1df8808f-a878-46a2-ba15-70c3fbeae304",
+        "title": "Research Scientist Intern - Nextgen Recommendation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776076395,
+        "date_posted": 1776071714,
+        "url": "https://lifeattiktok.com/search/7519768631745087752",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "PlayStation",
+        "id": "12a4a3eb-1484-4a1a-83e1-66738a5c4539",
+        "title": "Graduate Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776080169,
+        "date_posted": 1776071364,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5834432004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hyundai Motor Company",
+        "id": "443a3ba1-9ea3-424c-adca-0b78c01edcfb",
+        "title": "Infotainment Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776080563,
+        "date_posted": 1776070898,
+        "url": "https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-Infotainment-Software-Engineering-Intern-(Internship-Summer-2026)-MI-48198/1335957800/?ats=successfactors",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/b5474c30-ac69-40c8-8387-51dcf3675b12",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Insulet Corporation",
+        "id": "37247c5e-c5de-413e-8c5c-b0d07229626a",
+        "title": "Co-op \u2013 Systems Engineering-Design Verification",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776077006,
+        "date_posted": 1775297366,
+        "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op--Systems-Engineering--Design-Verification--July---December-2026--Onsite-_REQ-2026-15209",
+        "locations": [
+            "Acton, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Insulet-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
