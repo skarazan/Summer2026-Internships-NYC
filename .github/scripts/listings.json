@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "MKS Instruments",
-        "id": "183518a7-5db7-4124-954d-a80b982c5f66",
-        "title": "IT Analytics and Dashboards Intern/co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755502747,
-        "date_posted": 1755502747,
-        "url": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Andover-MA/XMLNAME-2025-IT-Analytics-and-Dashboards-Intern-co-op_R15468",
-        "locations": [
-            "Andover, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "7660e5d2-40da-4127-b60b-36490497ad02",
-        "title": "Walt Disney World Transportation Logistics & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1755522659,
-        "date_posted": 1755522659,
-        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2026_10129286",
-        "locations": [
-            "Celebration, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Ecolab",
         "id": "c8f7bdbe-3548-4a34-9594-9a5f978e8bd2",
@@ -1905,30 +1863,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "f1f94ccd-22cb-496d-907f-ec288a912e53",
-        "title": "Product Manager \u2013 Ads Attribution and Measurement Intern - Measurement Signal and Privacy Product",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755505473,
-        "date_posted": 1755505473,
-        "url": "https://lifeattiktok.com/search/7538893258701818119",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -83405,37 +83339,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PricewaterhouseCoopers (PwC)",
-        "id": "bbe5b5aa-3fd1-464c-a4d2-d4280818c0f9",
-        "title": "Tax LLM Associate - Industry Tax Practice",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1755503289,
-        "date_posted": 1755503289,
-        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-LLM-Associate---Summer---Fall-2026_657577WD",
-        "locations": [
-            "Boston, MA",
-            "Washington, DC",
-            "SF",
-            "LA",
-            "Miami, FL",
-            "Philadelphia, PA",
-            "Norridge, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PwC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "MBA"
         ]
     },
     {
@@ -201883,7 +201786,7 @@
         "company_name": "Cisco",
         "id": "6e891cb1-1cbd-4d19-a472-949beff3a81b",
         "title": "Hardware Engineer 1",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -246858,7 +246761,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Nutanix",
-        "id": "b0100e7e-c9a3-4daa-ac98-1d7a8f5091c0",
+        "id": "4517181b-c420-4514-a0df-1059ec52b260",
         "title": "Software Engineering Intern - Undergrad ONLY - Distributed systems",
         "active": true,
         "terms": [
@@ -321515,7 +321418,7 @@
         "company_name": "John Deere",
         "id": "9ebb7abe-22ce-4fb2-a834-beaec6a8474a",
         "title": "Part-Time Student - Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342389,7 +342292,7 @@
         "company_name": "Amazon",
         "id": "b355296c-83b3-4e2e-9dd0-eef4d6016757",
         "title": "Data Center Operations Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -367043,7 +366946,7 @@
         "company_name": "Palantir",
         "id": "0d20db7c-197a-4ec4-91c2-a72684374d51",
         "title": "Software Engineer Internship - Production Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374804,7 +374707,7 @@
         "company_name": "Citco",
         "id": "f2f720ff-852f-44ac-8765-6e5d89ab46b3",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397520,7 +397423,7 @@
         "company_name": "Western Digital",
         "id": "34f423a3-cf91-486d-b772-1ae4bec4cf61",
         "title": "Intern - HDD Testing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -400731,7 +400634,7 @@
         "company_name": "Spectrum Control",
         "id": "75c7dc69-2a9a-4b68-aa15-d2cbf8686ae2",
         "title": "Electromechanical Design Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404123,7 +404026,7 @@
         "company_name": "Uline",
         "id": "e5f988ae-85e8-4e65-aac6-726cba3ffceb",
         "title": "Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412768,7 +412671,7 @@
         "company_name": "Spot & Tango",
         "id": "11566f6d-b2bd-4ff2-a16c-a79ddb0652fd",
         "title": "Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415592,7 +415495,7 @@
         "company_name": "Legal & General",
         "id": "e38862f8-5e36-4ddd-aeef-b3a611edb598",
         "title": "Apprenticeship - Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -417882,7 +417785,7 @@
     {
         "date_updated": 1774262037,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -418260,7 +418163,7 @@
         "company_name": "MSX International",
         "id": "62cb8d34-d2cb-4d28-87a5-cfe2f3fd7dba",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429029,7 +428932,7 @@
         "company_name": "Palantir",
         "id": "1db08df4-23e3-427d-b70e-dab6dd910782",
         "title": "Software Engineer \u2013 Internship - Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -436316,7 +436219,7 @@
         "company_name": "X Development",
         "id": "fa7aa0ac-1cb0-47e8-9079-a460006b82f3",
         "title": "PhD Residency - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -437357,7 +437260,7 @@
         "company_name": "Sarasota County",
         "id": "08c870fa-9a2a-4718-a772-5d10cc91d885",
         "title": "Web Development / SharePoint Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438113,7 +438016,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "ee1ded09-1735-43f7-b45f-398d43f50c1d",
         "title": "College Sports Systems Technician",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -440601,7 +440504,7 @@
         "company_name": "Berkshire Grey",
         "id": "9df4e5c5-c767-456b-8378-aad8bf4ff0f9",
         "title": "Hardware Quality Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -442163,7 +442066,7 @@
         "company_name": "RTX",
         "id": "86ac54ba-e408-483b-9198-286ba5650195",
         "title": "Industrial Intern - Rapid Prototyping",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -443870,7 +443773,7 @@
         "company_name": "Western Digital",
         "id": "029ba50c-849c-4680-8be2-637f47053436",
         "title": "Intern - HDD Testing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446874,7 +446777,7 @@
         "company_name": "The Walt Disney Company",
         "id": "5ca83943-41bb-42f5-a8a1-e79c31c861ad",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446897,7 +446800,7 @@
         "company_name": "The Walt Disney Company",
         "id": "110e77b8-8424-4e83-8dbc-a857d684a7a1",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -448822,7 +448725,7 @@
         "company_name": "Moog ",
         "id": "ce2f2c8b-be6f-45cf-90be-7eef088c03fb",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458523,6 +458426,170 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "bbe5b5aa-3fd1-464c-a4d2-d4280818c0f9",
+        "title": "Tax LLM Associate",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1775904488,
+        "date_posted": 1775903644,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-LLM-Associate---Summer---Fall-2026_657577WD",
+        "locations": [
+            "Washington, DC",
+            "Norridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Uline",
+        "id": "bb943695-4c72-49a8-ae96-172fe5e8f219",
+        "title": "Product Marketing Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776245051,
+        "date_posted": 1776244799,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Marketing-Internship---Summer-2026_R263043",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Pleasant Prairie, WI",
+            "Morton Grove, IL",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tencent",
+        "id": "6b4d8345-e963-4503-9cfd-00c53161f3e5",
+        "title": "IT Application Developer \u2013 Intern - AI-Driven IT Ops",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776245712,
+        "date_posted": 1776244861,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/IT-Application-Developer--AI-Driven-IT-Ops--Intern_R107285",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "5bcd38ab-be5b-4681-8154-547829037d0c",
+        "title": "Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776247722,
+        "date_posted": 1775772168,
+        "url": "https://careers-gdms.icims.com/jobs/71899/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
+        "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776242398,
+        "date_posted": 1776204516,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Part-Time-Researcher-in-Explainable-Privacy-Preserving-Cryptographic-Systems-w--Dr-Sharma_REQ_0000077335-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Public Service Enterprise Group",
+        "id": "f9280019-0754-4e7d-9b25-c9afe4176a8d",
+        "title": "Technical Intern - Benchmarking Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776242632,
+        "date_posted": 1775167415,
+        "url": "https://jobs.pseg.com/job/South-Plainfield-Summer-2026-Technical-Intern-Benchmarking-Team-NJ-07080/1379094000/?ats=successfactors",
+        "locations": [
+            "South Plainfield, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Public-Service-Enterprise-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "b9599af8-f9b8-49bc-b91c-12213eee38ad",
+        "title": "Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776247728,
+        "date_posted": 1775772169,
+        "url": "https://careers-gdms.icims.com/jobs/71898/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
