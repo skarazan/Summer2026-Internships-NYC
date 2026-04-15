@@ -1,3 +1,56 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "listing_id": "c21f2c6e-fd58-49e5-b9a6-4a0a8da2acf4",
+      "company_name": "Trumid",
+      "title": "Delivery Management Intern",
+      "url": "https://job-boards.greenhouse.io/trumid/jobs/7700695003",
+      "simplify_url": "https://simplify.jobs/p/c21f2c6e-fd58-49e5-b9a6-4a0a8da2acf4",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "AI/ML/Data",
+      "date_detected": 1776221589
+    },
+    {
+      "listing_id": "9baf1525-a130-4441-99c4-9d150c2936e9",
+      "company_name": "The Walt Disney Company",
+      "title": "ABC News Product Management and Engineering Intern",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/ABC-News-Product-Management-and-Engineering-Intern--Summer-Fall-2026_10147928-1",
+      "simplify_url": "https://simplify.jobs/p/9baf1525-a130-4441-99c4-9d150c2936e9",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "Product",
+      "date_detected": 1776221589
+    },
+    {
+      "listing_id": "966fe07a-96cf-4f67-a917-18ec647c7afe",
+      "company_name": "The Walt Disney Company",
+      "title": "ABC News Product Management and Engineering Intern",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ABC-News-Product-Management-and-Engineering-Intern--Summer-Fall-2026_10147928",
+      "simplify_url": "https://simplify.jobs/p/966fe07a-96cf-4f67-a917-18ec647c7afe",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "Product",
+      "date_detected": 1776221589
+    },
+    {
+      "listing_id": "6b0ce6d3-4837-41f7-9096-be81cab92c24",
+      "company_name": "Analytical Mechanics Associates",
+      "title": "Surface Radiation \u2013 Aerosol and Meteorological Measurements and Analysis Intern",
+      "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Surface-Radiation--Aerosol-and-Meteorological-Measurements-and-Analysis-Intern_R-100557",
+      "simplify_url": "https://simplify.jobs/p/6b0ce6d3-4837-41f7-9096-be81cab92c24",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "Hardware",
+      "date_detected": 1776221589
+    }
+  ]
 }
