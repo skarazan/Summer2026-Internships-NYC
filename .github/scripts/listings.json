@@ -1,26 +1,5 @@
 [
     {
-        "date_updated": 1755594678,
-        "url": "https://careers.datadoghq.com/detail/7127832/?gh_jid=7127832",
-        "company_name": "Datadog",
-        "title": "Product Management Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "26f81b94-8d18-462b-97df-91b074f04852",
-        "date_posted": 1755594678,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Product Management"
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "WEC Energy Group",
@@ -813,29 +792,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Anduril",
-        "id": "c21b04fe-29ad-4078-9ab0-fe132833c029",
-        "title": "Operations Analyst Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755609634,
-        "date_posted": 1755609634,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4829860007",
-        "locations": [
-            "Newport Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -88949,7 +88905,7 @@
         "company_name": "Barry's",
         "id": "1343957a-ad99-4bd9-ab97-c4208e7810fe",
         "title": "Undergraduate Summer Scholar, Data Analyst - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -121652,7 +121608,7 @@
         "company_name": "General Motors",
         "id": "6c43b7e6-b33c-491e-bcd0-f6a363450901",
         "title": "Co-Op - Software Developer - Virtualization and SIL Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -217685,7 +217641,7 @@
         "company_name": "Cisco",
         "id": "7462efbc-f039-4632-a600-7230c301607d",
         "title": "Software Engineer Full Stack & Application Development 1 \u2013 Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -229422,7 +229378,7 @@
         "company_name": "General Motors",
         "id": "5803f9bc-8ae8-4932-a0d2-dcf7112dae7a",
         "title": "Intern \u2013 AI/ML Software Engineering Intern - Simulation Core",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -229650,7 +229606,7 @@
         "company_name": "General Motors",
         "id": "000848a2-c7a7-49f1-af93-0068bd5e68d3",
         "title": "2026 Summer Intern - AI/ML Software Engineer - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -297708,7 +297664,7 @@
         "company_name": "TikTok",
         "id": "9ae17953-0076-4002-836b-5fa77a168c24",
         "title": "Data Scientist Intern - Vod Data - 2026 Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341288,7 +341244,7 @@
         "company_name": "Oshkosh",
         "id": "a6042f17-b332-4466-a1c9-5191bd0522b8",
         "title": "Testing & Development Rotational Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -363735,7 +363691,7 @@
         "company_name": "RTX",
         "id": "b26b6e02-b563-49f7-8a2b-404d1a65778d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365512,7 +365468,7 @@
         "company_name": "Trimble",
         "id": "7b79e563-8c19-4e85-b321-4b1e7a1fc750",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368358,7 +368314,7 @@
         "company_name": "Cisco",
         "id": "c58a8a91-6421-4ed5-844b-c8eda99fcdb7",
         "title": "AI/ML Modeling Engineer 2 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412622,7 +412578,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "61eae924-0d99-4803-ac36-c6e9b65c4247",
         "title": "Service Department Market Research & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420349,7 +420305,7 @@
         "company_name": "The Walt Disney Company",
         "id": "382a6b76-e85e-41de-ad33-13ba6435cd72",
         "title": "WDI Software Developer Intern-Art and Media Pipeline - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -421994,7 +421950,7 @@
         "company_name": "Bank of Montreal",
         "id": "c4175aa0-8acf-4042-97f2-91a111b641fd",
         "title": "Technology Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -424024,7 +423980,7 @@
         "company_name": "DXC Technology",
         "id": "e83b1c18-664b-43a5-b2a6-45ae369be556",
         "title": "DXC Degree Academic Programme - Data/AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -448782,7 +448738,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "2eecbbe5-be6c-48e5-874c-42850c183a88",
         "title": "Agentic Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -449044,7 +449000,7 @@
         "company_name": "Pennsylvania State University",
         "id": "b97ddabb-63b9-42c8-bd9e-a063e1f84d82",
         "title": "Geospatial Engineering Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449988,7 +449944,7 @@
         "company_name": "Pearson",
         "id": "14b2bb6d-74c1-4dac-9870-336d43169a16",
         "title": "Intelligence Data Analyst Apprenticeship Coach",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450867,7 +450823,7 @@
         "company_name": "Moog ",
         "id": "10f946fe-c9d7-45f1-bcb6-91e9a23a8cb9",
         "title": "Intern \u2013 Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453685,7 +453641,7 @@
         "company_name": "Microchip Technology",
         "id": "2a601c62-8d11-4f91-ba97-26cda5f5061d",
         "title": "Engineering Intern - Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456017,7 +455973,7 @@
         "company_name": "Ascensus",
         "id": "0ba925d8-f316-4dcf-90c1-050b5c19ba81",
         "title": "Product & Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -458627,6 +458583,97 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "1ec0a2b6-2cc9-4667-b452-854d4f0c6865",
+        "title": "AI Vision Research Scientist Intern - Global Tech Research Program - PhD",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776324782,
+        "date_posted": 1776323173,
+        "url": "https://jobs.bytedance.com/en/position/7629159699020024069/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "1b59e09e-ab8d-40f0-ab29-f6a0a5ad3ade",
+        "title": "Research Scientist Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776324782,
+        "date_posted": 1776323180,
+        "url": "https://jobs.bytedance.com/en/position/7629159746370406661/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "New Lantern",
+        "id": "36c6049a-d5b2-4e24-9714-5db445af995f",
+        "title": "New Grad Olympics Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776330070,
+        "date_posted": 1776291021,
+        "url": "https://jobs.ashbyhq.com/newlantern/cb64f26f-93ec-4fcd-a9be-5ba75687f987/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/New-Lantern",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Overview Energy",
+        "id": "cde1a46d-0ae8-42f0-8c3b-4884133610da",
+        "title": "Hardware Development Intern - Electrical",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776334321,
+        "date_posted": 1772752433,
+        "url": "https://jobs.ashbyhq.com/overviewenergy/46f967f0-65a6-4e76-9869-f10468cdb13e/application",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Overview-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
