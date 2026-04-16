@@ -1,128 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ByteDance",
-        "id": "7ce623f7-258e-4baf-8e05-fb37b6e3c0e8",
-        "title": "Software Development Engineer Intern - Storage-HDFS - BS/ MS",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755572411,
-        "date_posted": 1755572411,
-        "url": "https://jobs.bytedance.com/en/position/7539978900564281618/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "f95b6d4c-8d48-4544-8aa2-612c7211106c",
-        "title": "Campus Undergraduate Summer Internship Program - 2026 Software Engineer - Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755572161,
-        "date_posted": 1755572161,
-        "url": "https://aexp.eightfold.ai/careers/job/30702546",
-        "locations": [
-            "Plantation, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "1a638e09-e313-47e4-90bf-92b6362c5111",
-        "title": "Campus Undergraduate Summer Internship Program - 2026 Software Engineer - Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756117622,
-        "date_posted": 1755572162,
-        "url": "https://aexp.eightfold.ai/careers/job/30702556",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "006bf013-2ac3-4cf1-8f83-99ac30b9fc89",
-        "title": "Campus Undergraduate Summer Internship Program - 2026 Software Engineer - Technology",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755572159,
-        "date_posted": 1755572159,
-        "url": "https://aexp.eightfold.ai/careers/job/30702550",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "FNBO",
-        "id": "960bc9b7-5a6f-4a2c-b1b8-200149bba0da",
-        "title": "Internship - Data Analytics",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755571824,
-        "date_posted": 1755571824,
-        "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Internship---Data-Analytics--Omaha--NE-_R-20250987-1",
-        "locations": [
-            "Omaha, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/FNBO",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Emerson Electric",
-        "id": "2c50f9ca-dce1-4a0c-8bea-24f9072e735e",
-        "title": "Software Development Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755573823,
-        "date_posted": 1755573823,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25024741",
-        "locations": [
-            "Elyria, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1755594678,
         "url": "https://careers.datadoghq.com/detail/7127832/?gh_jid=7127832",
         "company_name": "Datadog",
@@ -458,332 +335,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "f96f37aa-90f1-4570-b25c-870dcbcee499",
-        "title": "Research Intern - AI/LLM Network",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755572441,
-        "date_posted": 1755572441,
-        "url": "https://jobs.bytedance.com/en/position/7539992380817639687/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "bbb8e81d-4069-4690-ad42-3a59712a3798",
-        "title": "Research Intern - Iaas AI Infra - PhD",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755572453,
-        "date_posted": 1755572453,
-        "url": "https://jobs.bytedance.com/en/position/7537118884496312584/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "a6223a31-ac8c-476d-8887-dcf951e37dfe",
-        "title": "Research Intern - RDMA/High Speed Network - PhD",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755572448,
-        "date_posted": 1755572448,
-        "url": "https://jobs.bytedance.com/en/position/7539992615111559442/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "970d05aa-cc8e-4178-b49f-b59222293b55",
-        "title": "Research Intern - RDMA/High Speed Network - PhD",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755572446,
-        "date_posted": 1755572446,
-        "url": "https://jobs.bytedance.com/en/position/7540025509111990546/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "754319ed-6893-46c5-8db7-ba99475b2316",
-        "title": "Research Intern - Iaas AI Infra - PhD",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755572454,
-        "date_posted": 1755572454,
-        "url": "https://jobs.bytedance.com/en/position/7537121176616847624/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "72a3e549-a2c0-4365-a2df-1210910b0451",
-        "title": "Research Intern - AI/LLM Network",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755572442,
-        "date_posted": 1755572442,
-        "url": "https://jobs.bytedance.com/en/position/7539991964504017170/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "American Express",
-        "id": "d8cea7d7-fb28-4cd3-949f-4e95a37fda6f",
-        "title": "Campus Graduate Summer Internship Program - 2026 Information Security - Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755572172,
-        "date_posted": 1755572172,
-        "url": "https://aexp.eightfold.ai/careers/job/30702554",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "American Express",
-        "id": "58597b86-eac3-4996-81f6-b23d204d2290",
-        "title": "Campus Graduate Summer Internship Program - 2026 Information Security - Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755572173,
-        "date_posted": 1755572173,
-        "url": "https://aexp.eightfold.ai/careers/job/30702555",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "American Express",
-        "id": "47eb09cb-668e-43cc-ac31-a3cadd9cbcd3",
-        "title": "Campus Undergraduate Summer Internship Program - 2026 Information Security - Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755572176,
-        "date_posted": 1755572176,
-        "url": "https://aexp.eightfold.ai/careers/job/30702559",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "40e2795d-c6b5-4103-beb4-cbd81b1e9f43",
-        "title": "Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756118795,
-        "date_posted": 1755572166,
-        "url": "https://aexp.eightfold.ai/careers/job/30702558",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "American Express",
-        "id": "3ed7b439-00b0-49ad-a058-fe57140ec946",
-        "title": "Campus Undergraduate Summer Internship Program - 2026 Information Security - Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755572176,
-        "date_posted": 1755572176,
-        "url": "https://aexp.eightfold.ai/careers/job/30702567",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "287a2e39-556d-4469-8cf7-5d884bd23e76",
-        "title": "Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756364284,
-        "date_posted": 1755572163,
-        "url": "https://aexp.eightfold.ai/careers/job/30702553",
-        "locations": [
-            "Sunrise, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "001b4703-d924-4138-b1e2-6cfe66089562",
-        "title": "Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755572163,
-        "date_posted": 1755572163,
-        "url": "https://aexp.eightfold.ai/careers/job/30702548",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sony",
-        "id": "5046b620-2668-46f4-8114-c063a1426401",
-        "title": "Reinforcement Learning Research Intern for Game AI",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1755571419,
-        "date_posted": 1755571419,
-        "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Rhode-Island/Reinforcement-Learning-Research-Intern-for-Game-AI_JR-118118",
-        "locations": [
-            "Rhode Island"
-        ],
-        "company_url": "https://simplify.jobs/c/Sony",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -122101,7 +121652,7 @@
         "company_name": "General Motors",
         "id": "6c43b7e6-b33c-491e-bcd0-f6a363450901",
         "title": "Co-Op - Software Developer - Virtualization and SIL Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -229871,7 +229422,7 @@
         "company_name": "General Motors",
         "id": "5803f9bc-8ae8-4932-a0d2-dcf7112dae7a",
         "title": "Intern \u2013 AI/ML Software Engineering Intern - Simulation Core",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -230099,7 +229650,7 @@
         "company_name": "General Motors",
         "id": "000848a2-c7a7-49f1-af93-0068bd5e68d3",
         "title": "2026 Summer Intern - AI/ML Software Engineer - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -308294,7 +307845,7 @@
         "company_name": "Johnson & Johnson",
         "id": "34ed787e-f0db-415c-be45-e34765fffe85",
         "title": "Post Approval Lifecycle Management Oncology and Artificial Intelligence Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -449231,7 +448782,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "2eecbbe5-be6c-48e5-874c-42850c183a88",
         "title": "Agentic Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -459030,6 +458581,52 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "006bf013-2ac3-4cf1-8f83-99ac30b9fc89",
+        "title": "Campus Undergraduate Intern - Software Engineer - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771687091,
+        "date_posted": 1771687091,
+        "url": "https://aexp.eightfold.ai/careers/job/30702550",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "bbb8e81d-4069-4690-ad42-3a59712a3798",
+        "title": "Research Intern - AI Infra Compute",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761902056,
+        "date_posted": 1761902056,
+        "url": "https://jobs.bytedance.com/en/position/7537118884496312584/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]

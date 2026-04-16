@@ -1,30 +1,3 @@
 {
-  "pending": [
-    {
-      "listing_id": "ebbd7faf-0b20-4f1f-85ee-df6503fbd541",
-      "company_name": "Jencap",
-      "title": "IT Internship - Computer Science",
-      "url": "https://job-boards.greenhouse.io/jencapinc/jobs/5100074007",
-      "simplify_url": "https://simplify.jobs/p/ebbd7faf-0b20-4f1f-85ee-df6503fbd541",
-      "locations": [
-        "NYC"
-      ],
-      "source": "Simplify",
-      "category": "Software",
-      "date_detected": 1776308433
-    },
-    {
-      "listing_id": "410384e3-6fa5-4f9c-ad4b-02188799b7f3",
-      "company_name": "Jencap",
-      "title": "IT Intern-Data Analytics",
-      "url": "https://job-boards.greenhouse.io/jencapinc/jobs/5100066007",
-      "simplify_url": "https://simplify.jobs/p/410384e3-6fa5-4f9c-ad4b-02188799b7f3",
-      "locations": [
-        "NYC"
-      ],
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "date_detected": 1776308433
-    }
-  ]
+  "pending": []
 }
