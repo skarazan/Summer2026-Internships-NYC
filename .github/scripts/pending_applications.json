@@ -1,3 +1,43 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "listing_id": "119b0717-1a41-4e9a-a5e1-24d90c66c404",
+      "company_name": "Nielsen",
+      "title": "Cloud Resilience & Security Automation Intern",
+      "url": "https://jobs.smartrecruiters.com/TheNielsenCompany/2fc0f14c-a4f3-4768-9881-0a181061a224",
+      "simplify_url": null,
+      "locations": [
+        "New York, NY"
+      ],
+      "source": "AlmondCroffle",
+      "category": "Software Engineering",
+      "date_detected": 1776367543
+    },
+    {
+      "listing_id": "962f8dd7-11a9-44be-ac89-c33c3c8fb2b2",
+      "company_name": "Nielsen",
+      "title": "Information Security AI Strategy Intern",
+      "url": "https://jobs.smartrecruiters.com/TheNielsenCompany/6f74ca95-24db-47c7-8306-2429031bee8c",
+      "simplify_url": null,
+      "locations": [
+        "New York, NY"
+      ],
+      "source": "AlmondCroffle",
+      "category": "Data Science, AI & Machine Learning",
+      "date_detected": 1776367543
+    },
+    {
+      "listing_id": "afcd8bc1-a2bf-4b15-92e6-454d03adcd71",
+      "company_name": "Lexeo Therapeutics",
+      "title": "AI/ML Clinical Data Science Intern",
+      "url": "https://jobs.lever.co/lexeotx/6d02ad76-f9c2-4660-8f29-7ad6f23b3d31",
+      "simplify_url": null,
+      "locations": [
+        "New York, NY"
+      ],
+      "source": "AlmondCroffle",
+      "category": "Data Science, AI & Machine Learning",
+      "date_detected": 1776367543
+    }
+  ]
 }
