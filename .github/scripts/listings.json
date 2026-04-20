@@ -390051,7 +390051,7 @@
         "company_name": "Western Digital",
         "id": "34f423a3-cf91-486d-b772-1ae4bec4cf61",
         "title": "Intern - HDD Testing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420932,7 +420932,7 @@
         "company_name": "Tonal",
         "id": "d05c625e-d58d-432a-8916-5f8851466875",
         "title": "Product Management Intern - Retail Sales & Demo Conversion",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436401,7 +436401,7 @@
         "company_name": "Western Digital",
         "id": "029ba50c-849c-4680-8be2-637f47053436",
         "title": "Intern - HDD Testing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -447764,7 +447764,7 @@
         "company_name": "TMX Group",
         "id": "9d657400-a8ec-4dd6-9812-a38da480983b",
         "title": "Fixed Income and Reference Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450667,7 +450667,7 @@
         "company_name": "XPO",
         "id": "d30aaa25-0fa1-4df6-b68e-6413bca21628",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458135,5 +458135,50 @@
         "date_posted": 1776667462,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "8e3d641a-8bc6-43f8-9fc3-16e49711a6d9",
+        "title": "Software Engineer Project Intern - Recommendation Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776676501,
+        "date_posted": 1776676329,
+        "url": "https://lifeattiktok.com/search/7629500062003218741",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Royal Bank of Canada",
+        "id": "f638db09-500b-4ede-9493-96b5f440cab6",
+        "title": "Wealth Management \u2013 Distribution Product Management Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1776676566,
+        "date_posted": 1776676479,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/XMLNAME-2026-Wealth-Management--Fall-Distribution-Product-Management-Intern--12-months-_R-0000167778",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
