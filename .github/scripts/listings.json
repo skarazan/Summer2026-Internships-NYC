@@ -1,75 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "BitGo",
-        "id": "85795dd1-9105-4331-acbb-6f7f27749028",
-        "title": "Winter 2026 Internship - Wallet Core",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1755929347,
-        "date_posted": 1755929347,
-        "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133819002",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BitGo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BitGo",
-        "id": "d708ee93-5aea-458d-9de8-30594edfebdd",
-        "title": "Internship - Crypto as a Service & Staking",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1755929340,
-        "date_posted": 1755929340,
-        "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133823002",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BitGo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BitGo",
-        "id": "34d9d7c5-a28e-40ae-b54e-39eea673438d",
-        "title": "Winter 2026 Internship - Hsm Team",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1755929341,
-        "date_posted": 1755929341,
-        "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133783002",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BitGo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "NVIDIA",
         "id": "352060c4-ea0f-46d1-b57f-c3874eb6edd5",
@@ -244545,7 +244476,7 @@
         "company_name": "Voltus",
         "id": "0b7d9c7a-6864-4792-846e-e52cf3087746",
         "title": "Energy Markets Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -282793,7 +282724,7 @@
         "company_name": "Booz Allen",
         "id": "ede6409b-3f5d-44e0-84fe-98931b6a4e71",
         "title": "University \u2013 2026 Summer Games Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330024,7 +329955,7 @@
         "company_name": "Applied Materials",
         "id": "d8d315c5-b34e-4647-b756-691e8b925226",
         "title": "Radio Frequency Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -390926,9 +390857,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773322021,
+        "date_updated": 1776663682,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -390978,9 +390909,9 @@
         ]
     },
     {
-        "date_updated": 1773322330,
+        "date_updated": 1776663682,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -405774,9 +405705,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773907917,
+        "date_updated": 1776663682,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -405797,9 +405728,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773907981,
+        "date_updated": 1776663682,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -405843,9 +405774,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773908344,
+        "date_updated": 1776663682,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -424328,7 +424259,7 @@
         "company_name": "Accenture",
         "id": "1a5e2252-f2cb-450b-8782-563753e360d1",
         "title": "Youth Apprenticeship 2 - Technology NAELFY26",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -424423,7 +424354,7 @@
         "company_name": "Toyota Research Institute",
         "id": "8ff9b4c4-05af-4f81-9617-cbdc968a6737",
         "title": "AI Research Intern - Wellbeing - Communities & Organizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427637,7 +427568,7 @@
         "company_name": "CME Group",
         "id": "d8421101-5075-44e6-859c-9b2f6112b3d7",
         "title": "Data Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449203,9 +449134,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776157415,
+        "date_updated": 1776663682,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -455476,7 +455407,7 @@
         "company_name": "Fifth Third Bank",
         "id": "ef55f078-97dd-4d24-b83e-fe4a5d11a422",
         "title": "IT Leadership Program Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -457803,5 +457734,406 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "bee4f634-b066-4b67-85a0-3b61ae09c376",
+        "title": "Insurance Business and Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1776665658,
+        "date_posted": 1776665250,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026-Insurance--Fall-Business-and-Data-Analyst--4-16-months-_R-0000168616",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "bc86a327-426c-4eaa-bf04-23ee45e1e75d",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776665682,
+        "date_posted": 1776665348,
+        "url": "https://careers-gdms.icims.com/jobs/72142/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "9d2064ca-ca7f-424d-9b8f-fded29b5baea",
+        "title": "Wealth Management Data Analyst Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1776665797,
+        "date_posted": 1776665250,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Wealth-Management--Fall-Data-Analyst--4-16-months-_R-0000168559",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Royal Bank of Canada",
+        "id": "7e0ef515-c339-40fa-87a2-be97139bc246",
+        "title": "Wealth Management Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776665693,
+        "date_posted": 1776665250,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Wealth-Management--Fall-Technology-Developer--4-16-months-_R-0000168550",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "7a76ccc1-4ddb-4863-8dd0-843cc4620a57",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776665678,
+        "date_posted": 1776665348,
+        "url": "https://careers-gdms.icims.com/jobs/72143/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Royal Bank of Canada",
+        "id": "6b2cd944-dcc8-4d69-a9bb-2a89296ffb62",
+        "title": "Machine Learning Software Engineer Co-op - 4 - 8 Months",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776665757,
+        "date_posted": 1776665250,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-8-Months_R-0000168679-1",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Calgary, AB, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "530e2b5d-812c-4d58-8d80-35d0cd49e2f6",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776665675,
+        "date_posted": 1776665348,
+        "url": "https://careers-gdms.icims.com/jobs/72141/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "1ab09564-3e9c-487b-87e5-d1d09649053c",
+        "title": "Co-op Machine Learning Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776665677,
+        "date_posted": 1776665452,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/XMLNAME-2026-Fall-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-Months---Montreal_R-0000168690",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "97069be8-eae8-4b6d-913c-955e9bffd9c0",
+        "title": "Machine Learning Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776665587,
+        "date_posted": 1776665453,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-8-Months_R-0000168679",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Calgary, AB, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "341dd474-0a73-41eb-979d-d43aee51e156",
+        "title": "Machine Learning Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776665515,
+        "date_posted": 1776665249,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/XMLNAME-2026-Fall-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-Months---Montreal_R-0000168690-1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "date_updated": 1776666777,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.chargepoint.com/about/opportunities/software-qa-engineering-intern?gh_jid=8505201002",
+        "company_name": "ChargePoint",
+        "title": "Software QA Engineering - Intern",
+        "locations": [
+            "Campbell, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "99ce35ce-28f1-40bf-acb9-d113d74b66f6",
+        "date_posted": 1776666777,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776666856,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-gdms.icims.com/jobs/72071/intern-engineer---systems%2c-software%2c-electrical%2c-test/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Intern Engineer - Systems, Software, Electrical, Test",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "062119b2-e397-4099-91d2-6c9f6e774d07",
+        "date_posted": 1776666856,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776666965,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa",
+        "company_name": "Poshmark",
+        "title": "Cloud Platform Engineer Intern",
+        "locations": [
+            "Redwood, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6303fb7b-67f3-497f-8f84-7658ce0a557e",
+        "date_posted": 1776666965,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776667051,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://spacedynamicslaboratory.applytojob.com/apply/wdcyiwF6Sv/Software-Engineer-Intern",
+        "company_name": "Space Dynamics Laboratory",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Ogden, UT"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "41b2c75b-baec-4256-a428-3c40c7c466b9",
+        "date_posted": 1776667051,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776667215,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/4b4e8d9d-bb9c-46e5-b617-1274806096f3",
+        "company_name": "Bosch Group",
+        "title": "Automated Driving Machine Learning Intern",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "02c6d3cb-bcc7-4b0a-b2a9-066f9f7fedf3",
+        "date_posted": 1776667215,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776667339,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://apply.workable.com/kestra-medical-technologies-inc/j/A96D24A022/",
+        "company_name": "Kestra",
+        "title": "AI Enablement Intern",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6a5c1180-21a1-4e90-b57d-51dfdc247e8d",
+        "date_posted": 1776667339,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776667462,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/poshmark/0eee9939-6306-47a2-9b24-8cb7bf1dec71",
+        "company_name": "Poshmark",
+        "title": "AI/ML Engineering Intern",
+        "locations": [
+            "Redwood, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "dced3456-cbc5-4552-9731-48c08e3d0daf",
+        "date_posted": 1776667462,
+        "company_url": "",
+        "is_visible": true
     }
 ]
