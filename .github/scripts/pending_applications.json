@@ -1,17 +1,43 @@
 {
   "pending": [
     {
-      "listing_id": "234ff49d-84f7-497d-8446-e3f0904c953b",
-      "company_name": "Practising Law Institute",
-      "title": "Product Management Intern",
-      "url": "https://job-boards.greenhouse.io/practisinglawinstitute/jobs/4673072006",
-      "simplify_url": "https://simplify.jobs/p/234ff49d-84f7-497d-8446-e3f0904c953b",
+      "listing_id": "965e8307-5d17-41c4-b8c8-8268d80b61a0",
+      "company_name": "Vendelux",
+      "title": "Product Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/vendelux/58bd403e-6ad2-4f85-8d0f-db9ee33f068a/application",
+      "simplify_url": "https://simplify.jobs/p/965e8307-5d17-41c4-b8c8-8268d80b61a0",
       "locations": [
         "NYC"
       ],
       "source": "Simplify",
-      "category": "Product",
-      "date_detected": 1776712519
+      "category": "Software",
+      "date_detected": 1776740236
+    },
+    {
+      "listing_id": "1cf89732-646d-47ad-8428-6f8c42f02b49",
+      "company_name": "Intercontinental Exchange",
+      "title": "Data & Machine Learning Intern - Artificial Intelligence",
+      "url": "https://careers-ice.icims.com/jobs/12830/job?mobile=true&needsRedirect=false",
+      "simplify_url": "https://simplify.jobs/p/1cf89732-646d-47ad-8428-6f8c42f02b49",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "AI/ML/Data",
+      "date_detected": 1776740236
+    },
+    {
+      "listing_id": "200d58f3-cae5-46c2-a603-5e289e29b19b",
+      "company_name": "Environmental Defense Fund",
+      "title": "Psychological Science Intern",
+      "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/New-York/Psychological-Science-Intern_REQ-002479",
+      "simplify_url": "https://simplify.jobs/p/200d58f3-cae5-46c2-a603-5e289e29b19b",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "AI/ML/Data",
+      "date_detected": 1776740236
     }
   ]
 }
