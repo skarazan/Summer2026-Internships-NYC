@@ -1,337 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PricewaterhouseCoopers (PwC)",
-        "id": "54adf01a-c62e-40d5-b5ac-122f19ae59b0",
-        "title": "Cloud Engineering \u2013 Data Science Intern - Data & Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756107209,
-        "date_posted": 1756107209,
-        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Cloud-Engineering--Data---Analytics----Data-Science-Intern---Summer-2026_658436WD",
-        "locations": [
-            "Boston, MA",
-            "Seattle, WA",
-            "Houston, TX",
-            "Washington, DC",
-            "SF",
-            "LA",
-            "Dallas, TX",
-            "Philadelphia, PA",
-            "Chicago, IL",
-            "Norridge, IL",
-            "NYC",
-            "Minneapolis, MN",
-            "Mountain View, CA",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/PwC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PricewaterhouseCoopers (PwC)",
-        "id": "babf9eea-59bd-4e8b-83f5-6d39483cd42d",
-        "title": "Data & Analytics Technology Consulting Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756107568,
-        "date_posted": 1756107568,
-        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Data---Analytics-Technology-Consulting-Intern---Summer-2026_658980WD",
-        "locations": [
-            "Boston, MA",
-            "Washington, DC",
-            "Chicago, IL",
-            "Norridge, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PwC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "87600012-fe9b-444d-be93-06426be1b725",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1761274141,
-        "date_posted": 1756107515,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Software-Engineering-Intern_1193025",
-        "locations": [
-            "Roseville, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "PricewaterhouseCoopers (PwC)",
-        "id": "975e8623-3425-43a6-b9e9-d45f0e267245",
-        "title": "Commercial Technology & Innovation Office \u2013 Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756107392,
-        "date_posted": 1756107392,
-        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Commercial-Technology---Innovation-Office---Software-Engineering-Intern---Summer-2026_659026WD",
-        "locations": [
-            "Boston, MA",
-            "Seattle, WA",
-            "Houston, TX",
-            "Washington, DC",
-            "Dallas, TX",
-            "Philadelphia, PA",
-            "Chicago, IL",
-            "Norridge, IL",
-            "NYC",
-            "Minneapolis, MN",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/PwC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "date_updated": 1757543919,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2026_R56900",
-        "company_name": "Motorola Solutions",
-        "title": "Supply Chain Data Analyst Internship",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "f14d6fc0-ec6c-40ab-9998-dd4c4970c0b3",
-        "date_posted": 1756111635,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756111885,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Suwanee-GA/Summer-2026--Enterprise-Applications-Intern_R2025-0973",
-        "company_name": "QTS",
-        "title": "Enterprise Applications Intern",
-        "locations": [
-            "Suwanee, GA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "e3fc4320-562c-40a0-a251-2158620c682f",
-        "date_posted": 1756111846,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756111965,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Atlanta-GA/Summer-2026-Development-Project-Intern_R2025-0951",
-        "company_name": "QTS",
-        "title": "Development Project Intern",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Hardware Engineering",
-        "source": "AlmondCroffle",
-        "id": "b2719784-85b4-4670-8778-6df32f8f103b",
-        "date_posted": 1756111965,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761316727,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Summer-2026-Internship--IT-Asset-Management_R2025-0980",
-        "company_name": "QTS",
-        "title": "IT Asset Management",
-        "locations": [
-            "Suwanee, GA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "268d220f-5826-4389-bc04-738dcd8e743c",
-        "date_posted": 1756112164,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1761333283,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Summer-2026-Internship--Technology-Project-Management_R2025-0981-1",
-        "company_name": "QTS",
-        "title": "Technology Project Management",
-        "locations": [
-            "Suwanee, GA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "6d061905-d565-42a8-8f7f-20e21be092d2",
-        "date_posted": 1756112273,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756112433,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.eu.lever.co/cirrus/61217b55-e2f9-410d-8758-4847fbf80720",
-        "company_name": "Cirrus Logic",
-        "title": "Software Tools Developer",
-        "locations": [
-            "Austin, TX"
-        ],
-        "terms": [
-            "Spring 2026"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "e34a2c74-63a5-4d4e-a109-1992e42bfbea",
-        "date_posted": 1756112433,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1759953483,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.tesla.com/careers/search/job/248805",
-        "company_name": "Tesla",
-        "title": "Commercial UI Software Engineer, Energy Engineering",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "f52291a1-98fd-4a87-838d-74f8200e857f",
-        "date_posted": 1756113973,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757728783,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.tesla.com/careers/search/job/248920",
-        "company_name": "Tesla",
-        "title": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/5677",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "e234c95d-5eec-4042-a20e-79da80592a12",
-        "date_posted": 1756114044,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756114144,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/zip/83c0a4d8-7a88-4921-be8e-347ba3f3bedd",
-        "company_name": "Zip",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "aceec36b-e052-461c-a4de-be76d84735c8",
-        "date_posted": 1756114144,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "L3Harris Technologies",
         "id": "e97c9c58-1516-48e1-8212-0d15f8082628",
@@ -195657,7 +195326,7 @@
         "company_name": "Cisco",
         "id": "eab10ff3-e9aa-4052-a4ed-a7ad28f5000e",
         "title": "AI Product Management Engineer 2 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -216128,7 +215797,7 @@
         "company_name": "Microsoft",
         "id": "aa0c7c8d-8f66-4848-8ad0-bdaee530ebdf",
         "title": "Research Intern - Computer Vision and Deep Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -339512,7 +339181,7 @@
         "company_name": "Proofpoint",
         "id": "0f8ff6f7-a204-427a-bb97-2d46968edcfa",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370311,7 +369980,7 @@
         "company_name": "Analog Devices",
         "id": "c9d44c39-22c2-4bb7-8d50-3c1aa6868e2e",
         "title": "AI/ML Design Layout Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427291,7 +426960,7 @@
         "company_name": "Legal & General",
         "id": "3e066289-8345-4f58-a9f9-6a634ee87222",
         "title": "Industry Year Intern - Reinsurance Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -429479,7 +429148,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "f0865c39-c2d0-4de6-9758-7218853be989",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -457831,7 +457500,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "e9d446f2-fbc0-485f-a2dd-59767b24c4fd",
         "title": "Data Engineering and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -459700,7 +459369,7 @@
         "company_name": "S&P Global ",
         "id": "16d8aa4f-5c2d-48e3-9ea2-4c8cba0e7881",
         "title": "ETF Analyst Intern - Business & Product Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -461338,6 +461007,56 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "80da4b08-dbef-443a-8cb9-63547e51becf",
+        "title": "Data Analyst Project Intern - TikTok Shop - Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776849121,
+        "date_posted": 1776849038,
+        "url": "https://lifeattiktok.com/search/7630767896739154229",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "a94fc300-8fc2-4984-9a37-b49c6a6daa9c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776849901,
+        "date_posted": 1773353643,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004529",
+        "locations": [
+            "Des Moines, IA",
+            "Richmond, VA",
+            "Reno, NV",
+            "Sioux City, IA",
+            "Davenport, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
