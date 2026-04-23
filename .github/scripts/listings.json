@@ -1,163 +1,5 @@
 [
     {
-        "date_updated": 1756205943,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://www.google.com/about/careers/applications/jobs/results/100216277234000582-research-intern-phd-summer-2026",
-        "company_name": "Google",
-        "title": "Research Intern",
-        "locations": [
-            "Mountain View, CA",
-            "Atlanta, GA",
-            "Austin, TX",
-            "Boulder, CO",
-            "Cambridge, MA",
-            "Bellevue, WA",
-            "Chicago, IL",
-            "Irvine, CA",
-            "Kirkland, WA",
-            "Los Angeles, CA",
-            "Madison, WI",
-            "New York, NY",
-            "Palo Alto, CA",
-            "Portland, OR",
-            "Pittsburgh, PA",
-            "Raleigh, NC",
-            "Durham, NC",
-            "Reston, VA",
-            "Redmond, WA",
-            "Redwood City, CA",
-            "San Diego, CA",
-            "Goleta, CA",
-            "San Bruno, CA",
-            "Seattle, WA",
-            "San Francisco, CA",
-            "San Jose, CA",
-            "Santa Cruz, CA",
-            "Sunnyvale, CA",
-            "Washington D.C., DC"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "8e09c31b-7067-4eae-b202-495eb2a8878b",
-        "date_posted": 1756205943,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1758245293,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Cloud-Engineering--Data---Analytics----Software-Engineering-Intern---Summer-2026_658438WD",
-        "company_name": "PwC",
-        "title": "Cloud Engineering, Data & Analytics - Software Engineering Intern",
-        "locations": [
-            "Rosemont, IL",
-            "Atlanta, GA",
-            "Minneapolis, MN",
-            "Chicago, IL",
-            "Washington, DC",
-            "Boston, MA",
-            "New York, NY",
-            "Dallas, TX",
-            "Philadelphia, PA",
-            "Seattle, WA",
-            "Houston, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "cac0a99a-3b93-4ad2-be46-f7a3cc32f358",
-        "date_posted": 1756211541,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756211651,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://www.metacareers.com/jobs/1312570617147546",
-        "company_name": "Meta",
-        "title": "Research Scientist Intern, Computational Chemist (PhD)",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Simplify",
-        "id": "61e842c9-5838-4caa-a094-310209bb319d",
-        "date_posted": 1756211651,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1757037748,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine-Software-Electrical-Engineering-Co-op--Spring-or-Fall-Term-_JR-047253",
-        "company_name": "Brunswick",
-        "title": "Mercury Marine Software/Electrical Engineering Co-op",
-        "locations": [
-            "Fond du Lac, WI"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Fall 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "61db1bb6-213b-4495-b2bd-7de25842dcbb",
-        "date_posted": 1756211738,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756211812,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/8131844002",
-        "company_name": "Epic",
-        "title": "Software Development Intern",
-        "locations": [
-            "Madison, WI"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "5e963070-74a6-4e7e-aa81-2017783583aa",
-        "date_posted": 1756211812,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "GE Vernova",
@@ -938,32 +780,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tencent",
-        "id": "2946abba-2614-479a-8180-ae10137664ba",
-        "title": "Artificial General Intelligence \u2013 Research Internship - Audio/Speech/Language Processing and Large Multimodal Model Focus",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1756214400,
-        "date_posted": 1756214400,
-        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Washington-Bellevue/Artificial-General-Intelligence--Audio-Speech-Language-Processing-and-Large-Multimodal-Model-Focus--RESEARCH-INTERNSHIP_R105928",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -80925,7 +80741,7 @@
         "company_name": "JP Morgan Chase",
         "id": "09167fcd-e620-4ed6-966f-245c7f4420d1",
         "title": "Machine Learning Summer Associate - Machine Learning Center of Excellence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209070,7 +208886,7 @@
         "company_name": "Wintermute",
         "id": "2319e255-13ec-4b97-a75b-1377d4fe5be7",
         "title": "Defi Algorithmic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -387985,9 +387801,9 @@
         ]
     },
     {
-        "date_updated": 1773321275,
+        "date_updated": 1776943643,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -388247,9 +388063,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773323147,
+        "date_updated": 1776943643,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -397641,9 +397457,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1773746818,
+        "date_updated": 1776943643,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -400641,9 +400457,9 @@
         ]
     },
     {
-        "date_updated": 1773845355,
+        "date_updated": 1776943643,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -400738,7 +400554,7 @@
         "company_name": "Thomson Reuters",
         "id": "830cb4ae-23a6-42a2-81d9-3c2124d958ed",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419244,9 +419060,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774873990,
+        "date_updated": 1776943643,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -419290,9 +419106,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774874928,
+        "date_updated": 1776943643,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -432481,9 +432297,9 @@
         ]
     },
     {
-        "date_updated": 1775472043,
+        "date_updated": 1776943643,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -438180,7 +437996,7 @@
         "company_name": "Electronic Arts",
         "id": "3a0b0dbb-fbd9-49e9-92b1-489a27764605",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -440000,7 +439816,7 @@
         "company_name": "Ford Motor Company",
         "id": "aa6e4ffb-8418-4bbb-9110-0fc81e39f1b9",
         "title": "Student Worker Program - Physical Prototypes Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -443174,7 +442990,7 @@
         "company_name": "W.W. Grainger",
         "id": "1682fbfc-b5b6-4a5d-a5ec-f0138208298d",
         "title": "GTG Intern - Applied Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443989,9 +443805,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776069858,
+        "date_updated": 1776943643,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -446425,9 +446241,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776157788,
+        "date_updated": 1776943643,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -446498,7 +446314,7 @@
         "company_name": "Xylem",
         "id": "f395a0cf-3059-4cc5-986d-ca495b48dbca",
         "title": "Application Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -448258,7 +448074,7 @@
         "company_name": "PG&E",
         "id": "10e05443-775e-460c-858c-b6a0c505ffef",
         "title": "AC Vehicle-to-Grid Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450293,9 +450109,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776348303,
+        "date_updated": 1776943643,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -450385,9 +450201,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776348693,
+        "date_updated": 1776943643,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -450477,9 +450293,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776349211,
+        "date_updated": 1776943643,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -453068,7 +452884,7 @@
         "company_name": "Western Union",
         "id": "34e92c06-587f-4918-af6c-7b442f8023b8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454572,7 +454388,7 @@
         "company_name": "Insulet Corporation",
         "id": "a368a6c2-4153-407c-874d-e5e610ffbf7b",
         "title": "Supplier Engineering Co-op - Project Excellence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454665,7 +454481,7 @@
         "company_name": "Upvest",
         "id": "db8c50e2-fefb-4370-b564-f0449b89ceca",
         "title": "Trainee Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -455241,9 +455057,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776666965,
+        "date_updated": 1776943643,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -455264,9 +455080,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776667051,
+        "date_updated": 1776943643,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -455310,9 +455126,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776667339,
+        "date_updated": 1776943643,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -455334,9 +455150,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776667462,
+        "date_updated": 1776943643,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -456019,7 +455835,7 @@
         "company_name": "Uber",
         "id": "8c8eeaf7-fc70-421c-ba95-ec814cf5570a",
         "title": "PhD Software Engineer Intern - Search",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457302,7 +457118,7 @@
         "company_name": "NBCUniversal",
         "id": "dddcae61-dcb5-491f-95fe-c6fd1920bbcf",
         "title": "Advertising & Partnerships Ad Products Intern - Academic Year",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -460660,7 +460476,7 @@
         "company_name": "Amazon",
         "id": "e3a9f714-561a-45f3-9c22-6873fe4efadd",
         "title": "Applied Science Internships Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -461006,6 +460822,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cotiviti",
+        "id": "435435da-6685-421a-9d26-adb65a49a8cb",
+        "title": "Intern - AI Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776933618,
+        "date_posted": 1776204495,
+        "url": "https://careers-cotiviti.icims.com/jobs/18804/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cotiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
