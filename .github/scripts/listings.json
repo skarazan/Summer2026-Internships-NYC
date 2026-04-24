@@ -142645,7 +142645,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "97f0e4c1-6281-4a57-a4c1-92bbefb829b8",
         "title": "Relationship Manager \u2013 Business Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -164600,7 +164600,7 @@
         "company_name": "Analog Devices",
         "id": "ad46e6b7-802c-482b-9c03-83efde04eea7",
         "title": "Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -173192,7 +173192,7 @@
         "company_name": "Tenstorrent",
         "id": "f1832834-484f-42b6-b760-3de788093f08",
         "title": "Intern Scaleout Software - Fabric",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -206712,7 +206712,7 @@
         "company_name": "Cisco",
         "id": "7462efbc-f039-4632-a600-7230c301607d",
         "title": "Software Engineer Full Stack & Application Development 1 \u2013 Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -234087,7 +234087,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Nutanix",
-        "id": "b0100e7e-c9a3-4daa-ac98-1d7a8f5091c0",
+        "id": "4517181b-c420-4514-a0df-1059ec52b260",
         "title": "Software Engineering Intern - Undergrad ONLY - Distributed systems",
         "active": true,
         "terms": [
@@ -339003,7 +339003,7 @@
         "company_name": "Bio-Techne",
         "id": "f3ce0494-256c-4884-acf3-f8db79e4216d",
         "title": "Hardware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -423862,7 +423862,7 @@
         "company_name": "Oregon State Government",
         "id": "fc09641e-cac8-4e2a-830d-c509e3eaf75b",
         "title": "Research Intern - Student Professional/Technical Worker",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -424542,7 +424542,7 @@
         "company_name": "Applied Materials",
         "id": "15f6858f-e8d7-4897-9ace-2e9574051dd5",
         "title": "AI Application Engineer for Quantum Development Intern - Masters/PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446411,7 +446411,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "44068537-7f22-4dc4-a81b-3927ed77443f",
         "title": "Wealth Management \u2013 Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447107,7 +447107,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "46095ac3-0393-4b73-bc70-48a92493f2e9",
         "title": "Wealth Management Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449815,7 +449815,7 @@
         "company_name": "Baker Hughes",
         "id": "3edc6776-1c45-4d0a-a025-79a47742bb18",
         "title": "Emerging Talent-Testing Apprentice Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450252,7 +450252,7 @@
         "company_name": "PG&E",
         "id": "0b80a0c6-3bc2-4797-8451-1a0dd3b2e2f9",
         "title": "Data Visualization Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451558,7 +451558,7 @@
         "company_name": "Draper",
         "id": "b12a4678-179a-4a27-8f26-27c0449849e3",
         "title": "Software Modeling \u2013 & Validation Co-op - Analysis",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -457111,7 +457111,7 @@
         "company_name": "Formlabs",
         "id": "02c91ded-e1c1-4fe2-bbde-f4e04c39e339",
         "title": "Marketing Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457417,7 +457417,7 @@
         "company_name": "McGill University",
         "id": "8594aa65-77c7-4d39-b249-231567af74e1",
         "title": "Research Assistant Intern - Prof. Dubois",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -458701,7 +458701,7 @@
         "company_name": "HARMAN International",
         "id": "ee94c5cb-b1ce-4605-be03-fbac58a8e914",
         "title": "Intern - Cpm",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458770,7 +458770,7 @@
         "company_name": "United Wholesale Mortgage",
         "id": "a42dcbc0-164a-4b6c-9de8-f5a3dcbd294d",
         "title": "Masters Generative AI Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -459867,6 +459867,74 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "177690e4-6703-4698-a2bd-350db211f356",
+        "title": "Software Engineer Intern - AI Model Optimization",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774981081,
+        "date_posted": 1774966426,
+        "url": "https://lifeattiktok.com/search/7540823148805032210",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Mackenzie Investments",
+        "id": "3135e472-53f3-4bbd-8f08-dc2d0ca0ca6c",
+        "title": "Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777019081,
+        "date_posted": 1774534245,
+        "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5832/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "083a1f26-6eec-4817-8d05-0a60a4b79b83",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777017961,
+        "date_posted": 1776953363,
+        "url": "https://careers-gdms.icims.com/jobs/72226/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
