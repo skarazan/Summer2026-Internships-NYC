@@ -1,3 +1,43 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "listing_id": "03a7e59e-6d1e-41ee-9a3f-8e59e59dee6a",
+      "company_name": "Hello Fresh",
+      "title": "AI Operations & Automation Intern",
+      "url": "https://careers.hellofresh.com/global/en/job/7848068?gh_jid=7848068",
+      "simplify_url": "https://simplify.jobs/p/03a7e59e-6d1e-41ee-9a3f-8e59e59dee6a",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "Software",
+      "date_detected": 1776999581
+    },
+    {
+      "listing_id": "5ab7f171-6755-443c-9525-f172d1526e49",
+      "company_name": "Hello Fresh",
+      "title": "AI Operations & Automation Intern",
+      "url": "https://careers.hellofresh.com/global/en/job/7848068",
+      "simplify_url": "https://simplify.jobs/p/5ab7f171-6755-443c-9525-f172d1526e49",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "Software",
+      "date_detected": 1776999581
+    },
+    {
+      "listing_id": "48b498cd-3c0f-4131-b3ed-e3bea8492f06",
+      "company_name": "Fenwick & West",
+      "title": "Business Innovation Intern",
+      "url": "https://fenwick.wd1.myworkdayjobs.com/Fenwick_External_Careers/job/Silicon-Valley/Marketing-Intern_R2863-1",
+      "simplify_url": "https://simplify.jobs/p/48b498cd-3c0f-4131-b3ed-e3bea8492f06",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "Software",
+      "date_detected": 1776999581
+    }
+  ]
 }
