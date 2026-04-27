@@ -1,192 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "06c04f3d-f1ab-475a-9cfa-b958c6fbe704",
-        "title": "Software Engineer Intern - Business Integrity - BS/MS",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756522946,
-        "date_posted": 1756522946,
-        "url": "https://lifeattiktok.com/search/7543420658085185799",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics UK",
-        "id": "b87e2353-babd-4d9b-bb00-db68fc13a8de",
-        "title": "Co-op - Software Development and Test",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1756528643,
-        "date_posted": 1756528643,
-        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079048584",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics UK",
-        "id": "8e4588bd-686b-4725-a852-9fcfe4a64c9d",
-        "title": "Co-op - Software Developer",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1756528648,
-        "date_posted": 1756528648,
-        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079047471",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics UK",
-        "id": "83b18715-3030-46d9-bd7f-8083173d1824",
-        "title": "Co-op - Firmware Development and Test",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1756528638,
-        "date_posted": 1756528638,
-        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079049454",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics UK",
-        "id": "7d7d8281-6e4f-4f56-8ee6-013f574bbb49",
-        "title": "Co-op - Embedded Software Developer",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1756528673,
-        "date_posted": 1756528673,
-        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079029886",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics UK",
-        "id": "6edd936f-76a2-488b-bab8-11395e2a2f65",
-        "title": "Co-op - Software/Systems Engineering",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1756528652,
-        "date_posted": 1756528652,
-        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079047292",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics UK",
-        "id": "5f88ae1b-d78c-4658-888e-b6ecb45a123d",
-        "title": "Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1756528661,
-        "date_posted": 1756528661,
-        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079044549",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics UK",
-        "id": "5bcb4de2-aa1f-4fc7-ae32-244a8e5b9961",
-        "title": "Co-op - Embedded Software Test",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1756528670,
-        "date_posted": 1756528670,
-        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079034324",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Qorvo",
         "id": "0a5aa59d-90ef-400e-b895-c227b6eb7241",
@@ -159392,7 +159206,7 @@
         "company_name": "Leidos",
         "id": "1b89031e-7b1f-455d-8cee-925b84440adc",
         "title": "AI Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -209523,7 +209337,7 @@
         "company_name": "General Motors",
         "id": "18453d33-690b-4db4-b88d-268765e694bb",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -241166,7 +240980,7 @@
         "company_name": "Typeface",
         "id": "a8174c1b-2723-4de8-96f0-d045dac89c40",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -257994,7 +257808,7 @@
         "company_name": "Air Liquide",
         "id": "0ff6a28b-0c9e-4962-867c-73a635ac4f7a",
         "title": "Modelling & Simulation Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -258041,7 +257855,7 @@
         "company_name": "TENEX.AI",
         "id": "214f12da-7d0d-4625-96b9-108cc4ed94ce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -274815,7 +274629,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -309118,7 +308932,7 @@
         "company_name": "Resmed",
         "id": "111227cc-4a41-4f41-ab54-96b2d0a6c569",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396837,7 +396651,7 @@
         "company_name": "Agentis Capital",
         "id": "93b543f6-f482-422e-bb24-535df6779a92",
         "title": "Capital Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412048,7 +411862,7 @@
         "company_name": "Benchling",
         "id": "13ca75f9-0d76-4939-882e-23456998a4c0",
         "title": "Software Engineer - Full Stack - Admin & Identity Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -419174,7 +418988,7 @@
         "company_name": "Microsoft",
         "id": "1ca6773c-4121-4812-9507-100fc99ae9a6",
         "title": "Research Intern - AI Frontiers - Reasoning & Agentic Models",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427666,7 +427480,7 @@
         "company_name": "GE Healthcare",
         "id": "0da4f21e-5ea5-4043-ae33-afe7b0d69088",
         "title": "Surgery Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434658,7 +434472,7 @@
         "company_name": "Suncor",
         "id": "10bb88c7-60ea-4f3b-8e25-6e329d89c3bd",
         "title": "Data Science Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -439861,7 +439675,7 @@
         "company_name": "Jonas Software",
         "id": "0d51b7a4-7e60-4e70-94e0-f6e86085946c",
         "title": "Jonas Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -451650,7 +451464,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "14dcee99-b506-4efe-a80a-63151e541c4d",
         "title": "Quantitative Strategy Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -453694,5 +453508,311 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "06c04f3d-f1ab-475a-9cfa-b958c6fbe704",
+        "title": "Software Engineer Intern - Business Integrity - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761911250,
+        "date_posted": 1761911250,
+        "url": "https://lifeattiktok.com/search/7543420658085185799",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AI Fund",
+        "id": "c615a079-c472-4400-b6b3-5dfffcdb5c28",
+        "title": "Visiting Engineer Gesture Based Mobile Games Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777266774,
+        "date_posted": 1777266411,
+        "url": "https://jobs.lever.co/AIFund/7a921322-2215-483d-a28b-8da7a815b6cf/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AI Fund",
+        "id": "9af0550d-0286-4c7e-84b4-436df2559978",
+        "title": "Visiting Engineer: Interlock AI Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777266754,
+        "date_posted": 1777266400,
+        "url": "https://jobs.lever.co/AIFund/625bffe2-a669-4a7d-ae64-4811597d5bb6/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AI Fund",
+        "id": "62c54395-f8f5-49b5-9697-8ea6c693ee31",
+        "title": "Visiting Engineer: CAD Design AI Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777266721,
+        "date_posted": 1777266400,
+        "url": "https://jobs.lever.co/AIFund/bb31c5e4-57da-4909-8f78-373497172e79/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AI Fund",
+        "id": "130031de-4390-465c-819b-f088fd95a160",
+        "title": "Visiting Engineer: Live Selling Copilot Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777267043,
+        "date_posted": 1777266404,
+        "url": "https://jobs.lever.co/AIFund/6b9fc8cd-f405-48ca-a071-5873a9233ef4/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AI Fund",
+        "id": "e9898a58-4917-4924-8d8b-8fbd0e6fd90b",
+        "title": "Visiting Engineer: STRATA Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777266826,
+        "date_posted": 1777266439,
+        "url": "https://jobs.lever.co/AIFund/873ddf4c-8f49-468d-824c-d44f29fea87b/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AI Fund",
+        "id": "2b301aee-6d8a-4e84-b5fb-8ab5a676bfd5",
+        "title": "Visiting Engineer: Briocare Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777266820,
+        "date_posted": 1777266398,
+        "url": "https://jobs.lever.co/AIFund/a5f3a47b-93e0-4941-9061-b3ee1ed82959/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AI Fund",
+        "id": "8b264568-329a-42e7-bb22-7fbca4ec06a5",
+        "title": "Visiting Engineer: Research Coach Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777266698,
+        "date_posted": 1777266438,
+        "url": "https://jobs.lever.co/AIFund/655b44a2-1e23-453f-b708-07e412701507/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AI Fund",
+        "id": "ebf52626-2dfc-474e-b73c-3dab551d47d9",
+        "title": "Visiting Engineer Ecommerce Infrastructure Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777269217,
+        "date_posted": 1777266401,
+        "url": "https://jobs.lever.co/AIFund/9b8fa451-e30d-46e6-8ba3-e89c9a996c77/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AI Fund",
+        "id": "59dfe4d1-9bb9-48d1-887c-05abedf8e167",
+        "title": "Visiting Engineer: Aicos Intern - AI Chief of Staff",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777269218,
+        "date_posted": 1777266411,
+        "url": "https://jobs.lever.co/AIFund/46a9eb55-ebd7-441f-bb12-81c130cb6722/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "f9409f79-48bb-4a2c-9236-57425948e3e6",
+        "title": "Creative Product Operations Project Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777270501,
+        "date_posted": 1777270245,
+        "url": "https://lifeattiktok.com/search/7632363492922034485",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "ae87d528-23ff-4841-8c2c-6834b05e0f5c",
+        "title": "AI/ML Software Engineer Intern - Data Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777270321,
+        "date_posted": 1777270246,
+        "url": "https://lifeattiktok.com/search/7499689149813950727",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Figure",
+        "id": "532365aa-763e-4acf-8311-f08981d4c8b0",
+        "title": "Electrical Interconnect Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777270141,
+        "date_posted": 1777269962,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4676468006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Figure-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Air Liquide",
+        "id": "cc2d75b2-d0ef-44c4-a501-b19754a503a8",
+        "title": "VIE-Data Scientist Intern - m/f/d",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777269307,
+        "date_posted": 1777266673,
+        "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/United-Kingdom-Coleshill/VIE-Data-Scientist-M-F-D-_R10085052",
+        "locations": [
+            "Solihull, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Air-Liquide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
