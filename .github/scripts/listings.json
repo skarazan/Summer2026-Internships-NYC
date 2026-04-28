@@ -248938,7 +248938,7 @@
         "company_name": "Anthropic",
         "id": "8a17a8bb-179e-4026-be78-6324749ad898",
         "title": "Anthropic AI Security Fellow",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -252684,7 +252684,7 @@
         "company_name": "Sherwin-Williams",
         "id": "e14b48f3-f417-4e6d-9843-9426d2eaa12e",
         "title": "Leadership Development Program R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -266181,7 +266181,7 @@
         "company_name": "Marvell",
         "id": "19adb890-3588-42e8-ac86-3d099f703889",
         "title": "Applied Machine Learning Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -288217,7 +288217,7 @@
         "company_name": "First Canadian Title",
         "id": "2497f5fa-ec27-4a8b-9304-0f027e85f262",
         "title": "Summer Student - IT RPA",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -379126,7 +379126,7 @@
         "company_name": "Palantir",
         "id": "2a548980-d0dc-4f6d-bffa-4530eae92c4b",
         "title": "Forward Deployed Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409516,7 +409516,7 @@
         "company_name": "Booz Allen",
         "id": "6eaee25d-c08c-4688-9b8a-5f02c1c27f81",
         "title": "University Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -409696,7 +409696,7 @@
         "company_name": "Palantir",
         "id": "175959c7-7674-4600-b477-a030461cda4c",
         "title": "UK Meritocracy Fellowship",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -423205,7 +423205,7 @@
         "company_name": "City of Austin",
         "id": "9a2346a9-6f51-42a7-84ab-df46a4f0edfb",
         "title": "Demographics GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431069,7 +431069,7 @@
         "company_name": "Anthropic",
         "id": "0d4ecc36-f29c-4669-acc0-ccbfbdf04c9a",
         "title": "Anthropic Fellows Program - AI Safety",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -448851,7 +448851,7 @@
         "company_name": "Johnson & Johnson",
         "id": "fae3ac45-3929-4b91-b778-ac0866ea8b29",
         "title": "Technology Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -449652,7 +449652,7 @@
         "company_name": "Trane Technologies",
         "id": "77101225-cae2-45be-a1f0-2915f58527a0",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -450895,7 +450895,7 @@
         "company_name": "Moog ",
         "id": "ad676c21-a536-4690-813f-972b0d4d735a",
         "title": "Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453325,7 +453325,7 @@
         "company_name": "Chamberlain Group",
         "id": "ca78020b-a0c8-4bb4-9a33-d7f0e6c2ac30",
         "title": "Myq Front End Developer Intern - Android or iOS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454471,7 +454471,7 @@
         "company_name": "Intel",
         "id": "ee0e2b6e-b85f-4065-a6c4-46f52e9fd83c",
         "title": "Graduate Software Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455045,6 +455045,148 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "76de1d57-7c93-4833-89f9-17604295e2f3",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777356541,
+        "date_posted": 1777356386,
+        "url": "https://careers-gdms.icims.com/jobs/72240/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "445a828a-9a5b-4684-b60b-26f94095ef39",
+        "title": "Intern Engineer \u2013 Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777356541,
+        "date_posted": 1777356386,
+        "url": "https://careers-gdms.icims.com/jobs/72243/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "23dfd13f-ecf3-41ea-b250-b3321a94cc0d",
+        "title": "Engineer Co-op Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777356645,
+        "date_posted": 1777356386,
+        "url": "https://careers-gdms.icims.com/jobs/72242/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Becton Dickinson",
+        "id": "0718fecc-0b61-46aa-a33c-44fa02cce82a",
+        "title": "Business Data Analytics Intern - Channel Coverage",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777356740,
+        "date_posted": 1777356420,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Business-Data-Analytics-Intern--Channel-Coverage_R-544035",
+        "locations": [
+            "New Mexico",
+            "Washington",
+            "Kansas",
+            "Pennsylvania",
+            "North Dakota",
+            "Oregon",
+            "Delaware",
+            "Iowa",
+            "California",
+            "Washington, DC",
+            "Vermont",
+            "Wyoming",
+            "Texas",
+            "Montana",
+            "Jackson Township, NJ",
+            "Sparks, MD",
+            "Florida",
+            "Waterbury, CT",
+            "Nevada",
+            "South Carolina",
+            "South Dakota",
+            "Georgia",
+            "Concord, NH",
+            "Mississippi",
+            "Tennessee",
+            "Virginia",
+            "Arkansas",
+            "Minnesota",
+            "Colorado",
+            "Nebraska",
+            "Rhode Island",
+            "Utah",
+            "Hawaii, United States",
+            "Kentucky",
+            "West Virginia",
+            "NYC",
+            "Maryland",
+            "Wisconsin",
+            "Maine",
+            "Massachusetts",
+            "North Carolina",
+            "Oklahoma",
+            "Missouri",
+            "Ohio",
+            "Indiana",
+            "Louisiana",
+            "Alaska",
+            "Michigan",
+            "Illinois",
+            "Idaho"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "MBA"
         ]
     }
 ]
