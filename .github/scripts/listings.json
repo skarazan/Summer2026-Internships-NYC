@@ -131303,7 +131303,7 @@
         "company_name": "Vertiv",
         "id": "44458bef-e62c-4bad-b661-11aaa6562462",
         "title": "AI/ Gen AI Engineering Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -132274,7 +132274,7 @@
         "company_name": "Vertiv",
         "id": "30cea40e-a56b-42f6-ad8a-09a5082bb174",
         "title": "AI/ Gen AI Engineering Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -133366,7 +133366,7 @@
         "company_name": "Vertiv",
         "id": "23f0dfc3-ba29-4355-81b6-b0ade1f4b898",
         "title": "AI/ Gen AI Engineering Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266181,7 +266181,7 @@
         "company_name": "Marvell",
         "id": "19adb890-3588-42e8-ac86-3d099f703889",
         "title": "Applied Machine Learning Scientist Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -288217,7 +288217,7 @@
         "company_name": "First Canadian Title",
         "id": "2497f5fa-ec27-4a8b-9304-0f027e85f262",
         "title": "Summer Student - IT RPA",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -288519,7 +288519,7 @@
         "company_name": "Cisco",
         "id": "d2dcfe14-a4bb-40cf-b495-040de5de1c91",
         "title": "Software Engineer 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -293441,7 +293441,7 @@
         "company_name": "The Boeing Company",
         "id": "8ead4788-51aa-4c79-a643-2d8494a6c5d8",
         "title": "Simulator Technician Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -307006,7 +307006,7 @@
         "company_name": "Waters Corporation",
         "id": "ee9528df-d016-4155-80ce-08ec12ea5079",
         "title": "Business Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327238,7 +327238,7 @@
         "company_name": "Amazon",
         "id": "2c78d5df-2090-4cba-974c-dbfd42aea222",
         "title": "Data Engineer Internship - UK - Amazon University Talent Acquisition','Auta",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -348496,7 +348496,7 @@
         "company_name": "General Motors",
         "id": "4a5dd2a2-f250-4a2d-ab29-956369e9d905",
         "title": "AV Software Safety Team \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349515,7 +349515,7 @@
         "company_name": "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
         "id": "3d4af26d-f7bb-4abe-96d4-bb8e817848eb",
         "title": "Performance Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374147,9 +374147,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773236309,
+        "date_updated": 1777381408,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -374170,9 +374170,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773236341,
+        "date_updated": 1777381408,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -379126,7 +379126,7 @@
         "company_name": "Palantir",
         "id": "2a548980-d0dc-4f6d-bffa-4530eae92c4b",
         "title": "Forward Deployed Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -397308,9 +397308,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774261965,
+        "date_updated": 1777381408,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -409013,9 +409013,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774875046,
+        "date_updated": 1777381408,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -422299,9 +422299,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1775479145,
+        "date_updated": 1777381408,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -433735,9 +433735,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776070106,
+        "date_updated": 1777381408,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -436078,9 +436078,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776157579,
+        "date_updated": 1777381408,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -436401,7 +436401,7 @@
         "company_name": "Pennsylvania State University",
         "id": "607850c1-83af-4cf7-911c-8cec77b0d583",
         "title": "Research Assistant in Securing Autonomous AI Agents",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -440039,9 +440039,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776348459,
+        "date_updated": 1777381408,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -440108,9 +440108,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776348743,
+        "date_updated": 1777381408,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -440131,9 +440131,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776348770,
+        "date_updated": 1777381408,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -452047,7 +452047,7 @@
         "company_name": "Flagship Pioneering",
         "id": "142ff21b-8770-4d16-957a-15177633d17e",
         "title": "Bioinformatics Co-Op: Computation Biology & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452675,7 +452675,7 @@
         "company_name": "Paccar",
         "id": "306e44eb-4b5e-4e45-9a15-2804c3ffa5bf",
         "title": "PFC IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453982,7 +453982,7 @@
         "company_name": "Superbet",
         "id": "2175e9c1-3d96-4c91-801b-60e12681ea36",
         "title": "Sports Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454399,7 +454399,7 @@
         "company_name": "VF",
         "id": "53b70bd7-486f-4597-94c3-68cd972258e3",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455187,6 +455187,72 @@
         "degrees": [
             "Master's",
             "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sieve",
+        "id": "fe2090ae-0404-47d2-89f2-e46316098fcd",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777367161,
+        "date_posted": 1777367033,
+        "url": "https://jobs.ashbyhq.com/sieve/b319e35e-2455-4c63-ae3d-721bc7dbffc9/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sieve",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sieve",
+        "id": "2d7d81b9-60a2-461e-bc8b-a1e8d00a3b0e",
+        "title": "Applied Research Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777367161,
+        "date_posted": 1777367032,
+        "url": "https://jobs.ashbyhq.com/sieve/2298668b-f218-435a-a497-de4fc11c5ac6/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sieve",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dairyland Power Cooperative",
+        "id": "9c3ddbb3-e0a3-4d34-bd9e-c662e5c4113b",
+        "title": "Regional Transmission Projects Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777368789,
+        "date_posted": 1777068589,
+        "url": "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Regional-Transmission-Projects_JR100960",
+        "locations": [
+            "Winona, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Dairyland-Power-Cooperative",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
