@@ -1,17 +1,30 @@
 {
   "pending": [
     {
-      "listing_id": "2676d8ef-927b-4526-b7aa-bb6ddf9b2633",
+      "listing_id": "8e42e09e-af3f-4d3c-b9ad-afef1602f956",
       "company_name": "Adtheorant",
-      "title": "Backend Engineer Intern",
-      "url": "https://careers-cadent.icims.com/jobs/1359/job?mobile=true&needsRedirect=false",
-      "simplify_url": "https://simplify.jobs/p/2676d8ef-927b-4526-b7aa-bb6ddf9b2633",
+      "title": "Data Engineer Intern",
+      "url": "https://careers-cadent.icims.com/jobs/1362/job?mobile=true&needsRedirect=false",
+      "simplify_url": "https://simplify.jobs/p/8e42e09e-af3f-4d3c-b9ad-afef1602f956",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "AI/ML/Data",
+      "date_detected": 1777520170
+    },
+    {
+      "listing_id": "060d5fd2-d9cc-4d76-896f-a7183ed2a6c0",
+      "company_name": "The New York Times",
+      "title": "AI Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4688353005",
+      "simplify_url": "https://simplify.jobs/p/060d5fd2-d9cc-4d76-896f-a7183ed2a6c0",
       "locations": [
         "NYC"
       ],
       "source": "Simplify",
       "category": "Software",
-      "date_detected": 1777492014
+      "date_detected": 1777520170
     }
   ]
 }
