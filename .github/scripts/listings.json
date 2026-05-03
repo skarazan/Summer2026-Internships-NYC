@@ -1,53 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "8cc5a698-cf49-433f-9090-6ecb319ff164",
-        "title": "Graph Machine Learning Intern - PhD",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757121229,
-        "date_posted": 1757044052,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990009335777",
-        "locations": [
-            "Waukegan, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ServiceNow",
-        "id": "7cdae68b-b8d2-4dd5-855d-29fd1834be33",
-        "title": "UTG \u2013 Software Engineer Internships",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757043086,
-        "date_posted": 1757043086,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000079993731",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "TikTok",
         "id": "7c2ca6e5-69b2-4b9c-aa8b-37007eb5a272",
@@ -63,55 +16,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Notion",
-        "id": "66815bff-c120-432c-a51d-f7b17cc7a86e",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1757055325,
-        "date_posted": 1757055325,
-        "url": "https://jobs.ashbyhq.com/notion/5c3de83e-8992-445c-a424-bfa9e623dd95/application",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Notion",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cresta",
-        "id": "59e78c09-f1ef-47c3-87c8-2507432b9729",
-        "title": "Machine Learning Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757121259,
-        "date_posted": 1757054411,
-        "url": "https://job-boards.greenhouse.io/cresta/jobs/4123863008",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Cresta",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -445,30 +349,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "b601e5a4-7c31-4f34-a1dd-6a5d3b0f25f1",
-        "title": "2026 Spring Cyber Software Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1757051784,
-        "date_posted": 1757051784,
-        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2026-Spring-Cyber-Software-Engineer-Co-op---Cincinnati-OH_R10206159",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -427632,7 +427512,7 @@
         "company_name": "Endeavor Air",
         "id": "66243768-7c55-47e2-83bd-a83d30c189d9",
         "title": "Fleet Management Intern - Condition Based Maintenance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436385,7 +436265,7 @@
         "company_name": "TD Bank",
         "id": "de0008ab-cf8f-49fb-956e-21d52f02e840",
         "title": "Wealth Gen AI Product & Enablement Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -437944,7 +437824,7 @@
         "company_name": "Bose",
         "id": "50f6c607-d15e-4f51-827b-d4c6034f60b0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439137,7 +439017,7 @@
         "company_name": "Primetals Technologies",
         "id": "4eebf6c4-c224-4361-ad6b-0572f8169f2a",
         "title": "Engineering Integration Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
