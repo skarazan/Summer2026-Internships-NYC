@@ -1,78 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "122840cb-4c22-49d3-bc5e-627475d79fb5",
-        "title": "Research Scientist Intern - Ads Integrity",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757131092,
-        "date_posted": 1757131092,
-        "url": "https://lifeattiktok.com/search/7546726994756651282",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Grant Thornton",
-        "id": "ebe45f44-a9ff-4935-931f-085d96f487f8",
-        "title": "Audit IT Assurance Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757130076,
-        "date_posted": 1757130076,
-        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/113268",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Grant-Thornton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Meta",
-        "id": "3cef4cbb-560d-4265-9198-be35cef07e54",
-        "title": "Research Scientist Intern - Large Foundation Models and Generative AI - PhD",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1757143153,
-        "date_posted": 1757143153,
-        "url": "https://www.metacareers.com/jobs/3219980721500186",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "The Walt Disney Company",
         "id": "278f8c52-77f1-4f3e-85d0-55cbed522be6",
@@ -156726,7 +156654,7 @@
         "company_name": "Cisco",
         "id": "1cde2689-d3c8-4c81-bfd1-624897f66d01",
         "title": "AI Machine Learning Engineer 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -259624,7 +259552,7 @@
         "company_name": "The Walt Disney Company",
         "id": "7dd88c8f-59eb-49e2-b75b-c4d489e80b10",
         "title": "Marketing Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437339,7 +437267,7 @@
         "company_name": "Fifth Third Bank",
         "id": "faabaf0b-2bd6-4085-a57c-bf1a382ffa01",
         "title": "Sales and Trading Intern - Sales and Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -438287,7 +438215,7 @@
         "company_name": "thyssenkrupp",
         "id": "17ff9472-4cc9-46b7-8a23-5f78753df19a",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438817,5 +438745,334 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Loblaw Companies",
+        "id": "d76c72b6-6710-45b1-b06d-610fc60f0552",
+        "title": "Loyalty Portfolio Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777875158,
+        "date_posted": 1777874967,
+        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Loyalty-Portfolio---Co-op-Student_R2000662029",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Loblaw Companies",
+        "id": "4326b642-8fac-4cc2-8b8a-404d90112baa",
+        "title": "Analyst Co-op Student - Finance Insights and Technology Engagement",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777875233,
+        "date_posted": 1777874966,
+        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Analyst--Finance-Insights-and-Technology-Engagement---Co-op-Student_R2000658454",
+        "locations": [
+            "Brampton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Loblaw Companies",
+        "id": "e78fc999-e787-4237-beb5-6e129705ecca",
+        "title": "Analyst Co-op - Finance Insights and Technology Engagement",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1777875350,
+        "date_posted": 1777874967,
+        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Analyst--Finance-Insights-and-Technology-Engagement---Co-op-Student_R2000658455-1",
+        "locations": [
+            "Brampton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "VaynerMedia",
+        "id": "c3edd3b1-d53d-4967-b1b8-868c59ba5243",
+        "title": "Data Analytics Resident",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777875629,
+        "date_posted": 1777875412,
+        "url": "https://vaynermedia.com/careers?gh_jid=7881710",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/VaynerMedia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Loblaw Companies",
+        "id": "3df0ae8f-ccb3-40d1-b730-c8d8f4822a66",
+        "title": "Software Development Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777875243,
+        "date_posted": 1777874970,
+        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000659145",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "388e87b2-2417-41a0-b2c1-6da0e9d805d8",
+        "title": "Cloud Business & Strategy Analytics Analyst Co-op/Internship",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777875129,
+        "date_posted": 1777874683,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Cloud-Business---Strategy-Analytics-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013662",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ontario Teachers' Pension Plan",
+        "id": "ee96ab23-9704-4554-ab17-29ae5e380422",
+        "title": "Product & Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Summer 2027"
+        ],
+        "date_updated": 1777875168,
+        "date_posted": 1777874717,
+        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Product---Data-Engineering--September-2026---12-months-_6987",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Loblaw Companies",
+        "id": "dbdb2b86-f175-4cd5-92bd-5165f43db20e",
+        "title": "Assistant Co-op Student - Product Development",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777875319,
+        "date_posted": 1777874967,
+        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/2-Fraser-Ave-Toronto-ON/Assistant--Product-Development---Co-op-Student_R2000660129",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bank of Montreal",
+        "id": "c45f7a09-140b-4725-9506-ade3453310fa",
+        "title": "Junior Software Developer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777875218,
+        "date_posted": 1777874684,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013614",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bank of Montreal",
+        "id": "91674ef7-e98b-4a60-823e-541ed4f8489c",
+        "title": "Software Developer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777875297,
+        "date_posted": 1777874685,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----8-Months_R260013663",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Loblaw Companies",
+        "id": "89a021e7-fffa-4133-8efd-ea2d1456a2fe",
+        "title": "Technical Design Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777875323,
+        "date_posted": 1777874967,
+        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/2-Fraser-Ave-Toronto-ON/Technical-Design---Co-op-Student_R2000659966",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Loblaw Companies",
+        "id": "00634ece-a76d-4b55-85c7-99e6428e22a3",
+        "title": "Market Analytics Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777875153,
+        "date_posted": 1777874968,
+        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Market-Analytics---Co-op-Student_R2000661268",
+        "locations": [
+            "Brampton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Loblaw Companies",
+        "id": "252d83a0-3379-45cb-9846-aff07a32ffdb",
+        "title": "Associate Product Manager Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777875236,
+        "date_posted": 1777874967,
+        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Associate-Product-Manager---Co-op-Student_R2000660979",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ontario Teachers' Pension Plan",
+        "id": "05ef5084-9ac7-4ab7-8363-51bf7d93f83b",
+        "title": "Portfolio Engineering Intern - Capital Markets - Cmia",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1777875123,
+        "date_posted": 1777874727,
+        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Portfolio-Engineering--Capital-Markets--CMIA--September-2026---8-months-_6986",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "bfa88208-de96-479b-a5d8-fcaf35a49ffe",
+        "title": "Analyst Co-op/Intern - Months",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777874995,
+        "date_posted": 1777874692,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Analyst--Fall-2026--Co-op-Internship----12-Months_R260013681",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
