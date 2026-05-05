@@ -1,174 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "60fd7344-a312-4f0d-be89-dcaf6f6b8dfe",
-        "title": "Consumer & Community Banking Risk Modeling Associate Program \u2013 Summer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757215307,
-        "date_posted": 1757215307,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210659548",
-        "locations": [
-            "Palo Alto, CA",
-            "Plano, TX",
-            "Columbus, OH",
-            "Wilmington, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Aptiv",
-        "id": "9fa91d10-192c-4cce-92cd-7d408a1f324b",
-        "title": "SW Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757386849,
-        "date_posted": 1757231275,
-        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/SW-Intern_J000685613",
-        "locations": [
-            "Troy, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Aptiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Charles River Associates (CRA)",
-        "id": "9ad8ca88-6172-416c-8c32-913a93bd9dff",
-        "title": "Cyber and Forensic Technology Consulting Analyst/Associate Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757230596,
-        "date_posted": 1757230596,
-        "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/7233876",
-        "locations": [
-            "Dallas, TX",
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/d4f97dc1-3bd7-4767-8ce4-7becb28a3775",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Aptiv",
-        "id": "e0a4ebc4-4470-40f1-85af-3fdb78a6bb79",
-        "title": "Aiml \u2013 Data Analytics Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757387356,
-        "date_posted": 1757230476,
-        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/AIML---Data-Analytics-Engineering-Intern_J000685616",
-        "locations": [
-            "Troy, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Aptiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Aptiv",
-        "id": "8841ce68-8c85-4739-a7c4-595534035bfe",
-        "title": "Data Analytics Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757387324,
-        "date_posted": 1757230476,
-        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Data-Analytics-Engineering-Intern_J000685619",
-        "locations": [
-            "Troy, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Aptiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Aptiv",
-        "id": "0b7c79fb-e210-4164-bc01-fdf26321930d",
-        "title": "Autonomous Driving Algorithm Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757387399,
-        "date_posted": 1757230481,
-        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Autonomous-Driving-Algorithm-Intern_J000685579",
-        "locations": [
-            "Troy, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Aptiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Aptiv",
-        "id": "036976a4-c25c-410a-8619-0bdc090e5f4e",
-        "title": "ADAS/AD Algorithm Developer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1757230480,
-        "date_posted": 1757230480,
-        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/ADAS-AD-Algorithm-Developer-Intern_J000685578",
-        "locations": [
-            "Troy, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Aptiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Aptiv",
         "id": "6e05a750-b954-48a3-81d0-157ae3886c9e",
@@ -273151,7 +272983,7 @@
         "company_name": "Emerson Electric",
         "id": "2ae28a37-5ce4-408e-ac71-53b9d0f21082",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283170,7 +283002,7 @@
         "company_name": "Emerson Electric",
         "id": "ec635dac-310e-4d77-b271-f690107d4ded",
         "title": "Software Engineering Intern - Applied AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349974,7 +349806,7 @@
         "company_name": "Diligent Corporation",
         "id": "29d49157-a95a-432e-9f52-fda1f017e447",
         "title": "Product Builder Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360642,9 +360474,9 @@
         ]
     },
     {
-        "date_updated": 1773648845,
+        "date_updated": 1777968910,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -373596,9 +373428,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774258509,
+        "date_updated": 1777968910,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -389128,7 +388960,7 @@
         "company_name": "Equip Health",
         "id": "049e336c-28fd-46ed-9e81-a25323e6f810",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -400189,7 +400021,7 @@
         "company_name": "onsemi",
         "id": "966ae80c-6a79-4ca4-9dbf-fb6f90e5819f",
         "title": "Applications Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416465,9 +416297,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776348535,
+        "date_updated": 1777968910,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -416626,9 +416458,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776349544,
+        "date_updated": 1777968910,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -422307,7 +422139,7 @@
         "company_name": "Blue Cross and Blue Shield of Kansas",
         "id": "c481be11-c3eb-4093-b529-b187d5b0f47e",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432978,7 +432810,7 @@
         "company_name": "RTX",
         "id": "d94c2b42-76f8-4265-879f-d90ca8557a75",
         "title": "Raytheon Part Time Co-op-Java Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437026,9 +436858,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1777638578,
+        "date_updated": 1777968910,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -439001,9 +438833,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1777890534,
+        "date_updated": 1777968910,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -440849,6 +440681,52 @@
             "Oakville, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "XPENG Motors",
+        "id": "b1e7848c-2bcb-4141-8a17-fde660e87b84",
+        "title": "VLA Deployment AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777961656,
+        "date_posted": 1777961452,
+        "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/XPengMotors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "XPENG Motors",
+        "id": "7953d24e-a1d8-4013-acce-67a2f4a991b0",
+        "title": "AI Scenario Analysis Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777961632,
+        "date_posted": 1777961452,
+        "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8535406002",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/XPengMotors",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
