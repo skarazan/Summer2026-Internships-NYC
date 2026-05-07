@@ -1,814 +1,5 @@
 [
     {
-        "date_updated": 1761273582,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Logiciel--Intern-Software-Developer_25WD91266-1",
-        "company_name": "Autodesk",
-        "title": "Software Developer",
-        "locations": [
-            "Montreal, QC, CAN"
-        ],
-        "terms": [
-            "Winter 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "negarprh",
-        "id": "1704ff20-bd7b-47fd-b0f5-8457a00b7265",
-        "date_posted": 1757400920,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Meta",
-        "id": "f5cf1e2e-9a86-4072-a07e-e2ad59817aa7",
-        "title": "Research Scientist Intern - AI for Egocentric Representation Learning - PhD",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1757399561,
-        "date_posted": 1757399561,
-        "url": "https://www.metacareers.com/jobs/24444711055194284",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Cboe",
-        "id": "b1cac1e5-2ed3-4e8c-8ad0-7620b4cb8bfe",
-        "title": "Network Security Operations Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1757398982,
-        "date_posted": 1757398982,
-        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Kansas-City-MO/Network-Security-Operations-Intern_R-4159",
-        "locations": [
-            "Kansas City, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Cboe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Verizon Communications",
-        "id": "e53ce18d-2827-4e8c-95d8-d72022378556",
-        "title": "2026 Global Solutions Technology Summer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757398352,
-        "date_posted": 1757398352,
-        "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Purdue-University---2026-Global-Solutions-Technology-Summer-Internship_R-1084619",
-        "locations": [
-            "E Fowler Ave, Tampa, FL",
-            "Irvine, CA",
-            "Berkeley Heights, NJ",
-            "Ashburn, VA",
-            "Alpharetta, GA",
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Verizon-Communications",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Meta",
-        "id": "f0ee0cad-e25a-49ea-bd86-1210fdb6afc4",
-        "title": "Research Scientist Intern - Robotic End Effector - PhD",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1757396407,
-        "date_posted": 1757396407,
-        "url": "https://www.metacareers.com/jobs/1503210474022285",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Meta",
-        "id": "4049faf4-863f-4cd3-939c-2e5f6632c705",
-        "title": "Research Scientist Intern - Hand Pose Estimation & Tracking - PhD",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1757396407,
-        "date_posted": 1757396407,
-        "url": "https://www.metacareers.com/jobs/625549940628974",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Block",
-        "id": "0b1961fd-8fef-4f50-98ab-dea57a4715ac",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757393371,
-        "date_posted": 1757393371,
-        "url": "http://block.xyz/careers/jobs/4904196008?gh_jid=4904196008",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Oakland, CA",
-            "Remote in USA",
-            "St. Louis, MO",
-            "NYC",
-            "Portland, OR",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Block",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Viavi Solutions",
-        "id": "0cb3eb9d-c1f9-4364-800b-dcd74f5bd894",
-        "title": "Software Engineering Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757463139,
-        "date_posted": 1757389191,
-        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_250003854-1",
-        "locations": [
-            "Germantown, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Manulife Financial",
-        "id": "1b9bfb5a-9647-483a-8550-0dcad69b9709",
-        "title": "Summer Intern/Co-op - Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760033567,
-        "date_posted": 1757390345,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-Co-op-2026---Software-Engineering_JR25081345",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Fidelity Investments",
-        "id": "d1134848-4b01-43c7-a58e-55c4d81d2e89",
-        "title": "Quantitative Research Intern-Data Science ASR Team",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757390181,
-        "date_posted": 1757390181,
-        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Quantitative-Research-Intern--Data-Science-ASR-Team_2117060",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fidelity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LPL Financial Holdings",
-        "id": "8edd3355-8b80-49dc-a197-6a556be2c6ec",
-        "title": "Internship - Technology - Data & Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757390039,
-        "date_posted": 1757390039,
-        "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Internship-Summer-2026---Technology--Data---Analytics_R-046202-1",
-        "locations": [
-            "Austin, TX",
-            "Fort Mill, SC",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zebra Technologies",
-        "id": "c0d40d67-9a4e-4577-97ce-e57d4e7d8e7e",
-        "title": "Software Intern - AI/ML - Corporate and Business Services - CEO",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757390003,
-        "date_posted": 1757390003,
-        "url": "https://zebra.eightfold.ai/careers/job/343628174582",
-        "locations": [
-            "Lake Grove, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Manulife Financial",
-        "id": "b98a8a5e-3b6a-45d4-b82f-aca4863284ed",
-        "title": "Summer Intern/Co-op - Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760033584,
-        "date_posted": 1757389803,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Halifax-Nova-Scotia/Summer-Intern-Co-op-2026---Software-Engineering_JR25090426",
-        "locations": [
-            "Halifax Regional Municipality, NS, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Manulife Financial",
-        "id": "e6fc6930-d18b-41f5-999a-bd7dbe1bcb0d",
-        "title": "Winter Co-op - Software Engineering",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1757389603,
-        "date_posted": 1757389603,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2026---Software-Engineering_JR25081343",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "LPL Financial Holdings",
-        "id": "b34092eb-21a0-4277-8d07-d5e92e98768b",
-        "title": "Internship Summer 2026 - Technology - Software Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757389664,
-        "date_posted": 1757389664,
-        "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Internship-Summer-2026---Technology--Software-Development_R-046201-1",
-        "locations": [
-            "Austin, TX",
-            "Fort Mill, SC",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Parsons",
-        "id": "9e6540c2-285f-4013-b27e-5e00d9606514",
-        "title": "Vulnerability Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757389553,
-        "date_posted": 1757389553,
-        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Herndon/Vulnerability-Research-Intern-Summer-2026_R172005-1",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Parsons",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Verizon Communications",
-        "id": "931aa9da-ce5d-4c72-9610-30f7182a7aee",
-        "title": "Purdue Industrial Roundtable-Verizon Cyber Security Summer 2026 Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757389396,
-        "date_posted": 1757389396,
-        "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Ashburn-Virginia/Purdue-Industrial-Roundtable-Verizon-Cyber-Security-Summer-2026-Internship_R-1084641",
-        "locations": [
-            "E Fowler Ave, Tampa, FL",
-            "Berkeley Heights, NJ",
-            "Ashburn, VA",
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Verizon-Communications",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Santander",
-        "id": "5b493ed1-0ac7-4ee7-b69d-79eae4830fb5",
-        "title": "IT Application Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757389184,
-        "date_posted": 1757389184,
-        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dallas/IT-Application-Development-Intern_Req1489672-1",
-        "locations": [
-            "Irvine, CA",
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Santander",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Snowflake",
-        "id": "de3b2079-eaec-4e3f-a9fc-574eaf9e9ff2",
-        "title": "Software Engineer Intern - Infrastructure Automation",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1757388670,
-        "date_posted": 1757388670,
-        "url": "https://jobs.ashbyhq.com/snowflake/874e8974-af23-491b-9720-eddc6e75f1eb/application",
-        "locations": [
-            "Menlo Park, CA",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Snowflake",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "3M",
-        "id": "9853fb01-218b-48d6-af04-cc2efda5bb58",
-        "title": "IT Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757388840,
-        "date_posted": 1757388840,
-        "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2026-Undergraduate-IT-Intern_R01155805",
-        "locations": [
-            "Woodbury, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/3M",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Securities",
-        "id": "8a60f41b-a398-4f9d-8964-88bb4ae928cd",
-        "title": "2026 Summer Internship Program - Platforms and Technology - Data Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757388806,
-        "date_posted": 1757388806,
-        "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Summer-Internship-Program---Platforms-and-Technology---Data-Science_R_1443924",
-        "locations": [
-            "Mt Laurel Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Securities",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "date_updated": 1762295783,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/XMLNAME-2026-Summer-Internship_R107280",
-        "company_name": "Samsung",
-        "title": "Engineering",
-        "locations": [
-            "Austin, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "c75a310c-bcbb-4310-9fb3-d46b2fa74c96",
-        "date_posted": 1757404675,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NXP Semiconductors",
-        "id": "6230b06d-68dc-4e3c-9848-44b5f9549a21",
-        "title": "Internships in Product/Test Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757404797,
-        "date_posted": 1757404797,
-        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Internships-in-Product-Test-Engineering---Summer-2026_R-10060021",
-        "locations": [
-            "Austin, TX",
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NXP Semiconductors",
-        "id": "2d18f2cc-0834-48de-b3e1-16a9bd74cc5a",
-        "title": "Internships in Data Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757404790,
-        "date_posted": 1757404790,
-        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Internships-in-Data-Science---Summer-2026_R-10060024",
-        "locations": [
-            "Austin, TX",
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "date_updated": 1757543254,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/DevOps-and-Infrastructure-Intern_R28340",
-        "company_name": "Bose",
-        "title": "DevOps and Infrastructure Intern",
-        "locations": [
-            "Framingham, MA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "38a01777-8213-4c62-8e8e-926a4cb97358",
-        "date_posted": 1757405160,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1760136856,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.coxenterprises.com/en/jobs/r202566837/software-engineering-intern-north-hills-ny/",
-        "company_name": "Cox",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "North Hills, NY"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "792e6d9a-190f-435a-93c2-4f67d06052fb",
-        "date_posted": 1757405245,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757405463,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007022",
-        "company_name": "Texas Instruments",
-        "title": "Information Technology Intern",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "2580f068-35ec-4a40-9954-e06ddf6b9a07",
-        "date_posted": 1757405463,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762297150,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://morningstar.wd5.myworkdayjobs.com/en-US/Americas/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern--Campus-_REQ-053117-1",
-        "company_name": "Morningstar",
-        "title": "Quantitative Research",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "6a60896e-86ff-48e8-9080-a83fadcc2181",
-        "date_posted": 1757405539,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1760394039,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://millerknoll.wd1.myworkdayjobs.com/en-US/MillerKnoll/job/MI---Zeeland/Infrastructure-Systems-AI-Intern_JR107338",
-        "company_name": "MillerKnoll",
-        "title": "Infrastructure Systems AI Intern",
-        "locations": [
-            "Zeeland, MI"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "53816e11-a3d0-48c1-a6a9-d7b0c15a70a3",
-        "date_posted": 1757405624,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1759960629,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://rms-cretex.icims.com/jobs/5355/it-intern---data-analyst---summer-2026/job",
-        "company_name": "Cretex Medical",
-        "title": "IT Intern - Data Analyst",
-        "locations": [
-            "Coon Rapids, MN"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "e60efadc-fe11-4bdf-a28b-42fe6f98d3f2",
-        "date_posted": 1757406163,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1762296860,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--AI-ML-Engineering-_R-6234",
-        "company_name": "CNA",
-        "title": "Technology Internship Program (AI Engineering)",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "76ee809b-1a61-4f58-ade9-c23b2249a575",
-        "date_posted": 1757406235,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757406380,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--AI-Governance---Enablement-_R-6325",
-        "company_name": "CNA",
-        "title": "Technology Internship Program (AI Governance & Enablement)",
-        "locations": [
-            "Chicagyo, IL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "4922dc06-9ad4-4e14-ad6d-6ac7e1faf956",
-        "date_posted": 1757406380,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1757728120,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.bosch.com/de/job/REF267030L-data-science-intern-8-months-40-hours-per-week",
-        "company_name": "Bosch",
-        "title": "Data Science Intern",
-        "locations": [
-            "Farmington Hills, MI"
-        ],
-        "terms": [
-            "Summer 2026",
-            "Spring 2026",
-            "Fall 2026",
-            "Winter 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "03813c64-affd-4489-8cb4-88f8f6589d2e",
-        "date_posted": 1757406563,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1757407141,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -25861,29 +25052,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Thermo Fisher Scientific",
-        "id": "4b3529fa-7463-43a4-9c3b-a81a98003230",
-        "title": "Statistical Science Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758032962,
-        "date_posted": 1757394777,
-        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Morrisville-North-Carolina-USA/Statistical-Science-Intern_R-01328110",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -74077,29 +73245,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Zebra Technologies",
-        "id": "216d350e-e3db-48d5-9811-ab3499e37819",
-        "title": "Internship - RFID Hardware Product Management",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760091958,
-        "date_posted": 1757390007,
-        "url": "https://zebra.eightfold.ai/careers/job/343628162871",
-        "locations": [
-            "Lake Grove, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Brooks Running",
         "id": "57a5f428-75a1-489b-b6ac-94bbcf923814",
@@ -121966,49 +121111,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NXP Semiconductors",
-        "id": "81808904-409f-47df-820c-b45e823b3cee",
-        "title": "Internships in Design - Verification - And Validation Engineering Roles - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761861360,
-        "date_posted": 1757404803,
-        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Internships-in-Design--Verification--and-Validation-Engineering-Roles---Summer-2026_R-10060023",
-        "locations": [
-            "Austin, TX",
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Seagate Technology ",
-        "id": "b6bfecab-14f2-494e-8bf1-5844e491d802",
-        "title": "FPGA System Developer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1757391816,
-        "date_posted": 1757391816,
-        "url": "https://seagatecareers.com/job/Shakopee-FPGA-System-Developer-Intern-MN/1324226500/?ats=successfactors",
-        "locations": [
-            "Shakopee, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Seagate-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Thermo Fisher Scientific",
         "id": "95525fd2-24eb-4e3e-8140-8a1b047c87dd",
@@ -146530,7 +145632,7 @@
         "company_name": "TD Bank",
         "id": "8e105f31-90ba-454a-9366-c6aba9a7443c",
         "title": "Global Markets Intern/Co-Op Future Opportunities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -319853,7 +318955,7 @@
         "company_name": "Johnson & Johnson",
         "id": "36c28499-b35d-4d2b-be3d-1d4cc4a0df37",
         "title": "Data Science \u2013 Multi-Omics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371519,7 +370621,7 @@
         "company_name": "Dallas College",
         "id": "05b45fd6-9242-4831-9e4b-a3d4e4ff7f88",
         "title": "SAS Intern-2",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -424181,7 +423283,7 @@
         "company_name": "Shopify",
         "id": "048d4314-64a9-4be8-aa3d-f1e9801a7c32",
         "title": "Data and Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -432759,7 +431861,7 @@
         "company_name": "Loblaw Companies",
         "id": "00634ece-a76d-4b55-85c7-99e6428e22a3",
         "title": "Market Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -432803,7 +431905,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "05ef5084-9ac7-4ab7-8363-51bf7d93f83b",
         "title": "Portfolio Engineering Intern - Capital Markets - Cmia",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -437876,6 +436978,484 @@
             "Hillsboro, OR"
         ],
         "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waymo",
+        "id": "44067d74-7242-4076-a5ef-fcef52a0c07d",
+        "title": "Intern - PhD - Perception",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776294098,
+        "date_posted": 1776291744,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=7235071",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Comcast",
+        "id": "737289a9-12b7-44e6-8943-670d8b56be8f",
+        "title": "Large Language Model Paid Media Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778134277,
+        "date_posted": 1778134064,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-LLM-Paid-Media-Co-op_R435887",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "00bd05ee-6ed0-4b64-b20b-895d6a7a656c",
+        "title": "Software Architect Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778134282,
+        "date_posted": 1778134064,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Architect-Co-op_R436190",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Comcast",
+        "id": "c894e78a-98f1-4b56-9ca3-0272a9f6c0a1",
+        "title": "Data Products & Governance Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1778134313,
+        "date_posted": 1778134064,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Data-Products---Governance-Co-op_R436017",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Comcast",
+        "id": "e977840c-8d51-4be4-aba3-f14a7cc23ce4",
+        "title": "WiFi Product Marketing Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778134357,
+        "date_posted": 1778134067,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-WiFi-Product-Marketing-Co-op_R436015",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "ded82459-e574-4b4a-bd3f-1e0d0ebe682c",
+        "title": "Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778134548,
+        "date_posted": 1778134066,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R436169",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "97698028-6d15-4546-ae94-929171b59c9c",
+        "title": "Comcast Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1778134141,
+        "date_posted": 1778134064,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R436025",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Comcast",
+        "id": "f8b8d971-cfc9-477b-a017-d40de0a62ae3",
+        "title": "Global Audit Data Solutions Data Architecture and Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1778134306,
+        "date_posted": 1778134064,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Data-Solutions---Data-Architecture-and-Engineering-Co-op_R436088",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Comcast",
+        "id": "c732b7d0-de98-43e6-9e09-9add80cd631e",
+        "title": "Comcast Product Analyst Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1778134141,
+        "date_posted": 1778134064,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Product-Analyst-Co-op_R436173",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Comcast",
+        "id": "c372d0e3-a9bd-4605-babb-6f13521bbc13",
+        "title": "HR & Workforce Analytics Data Science Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1778134325,
+        "date_posted": 1778134066,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-HR---Workforce-Analytics---Data-Science-Co-op_R436019",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "bebbeff8-81af-4e7a-b6f6-7658307b38b6",
+        "title": "Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778134409,
+        "date_posted": 1778134088,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Comcast",
+        "id": "7e23fc96-d949-4304-882e-c6d451c9a772",
+        "title": "Comcast Product Data Analyst Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778134288,
+        "date_posted": 1778134071,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Product---Data-Analyst-Co-op_R436018",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Comcast",
+        "id": "4aca7a9a-a339-4c97-808f-560e30064179",
+        "title": "Data Management Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778134344,
+        "date_posted": 1778134063,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Data-Management-Co-op_R436281",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Comcast",
+        "id": "1380018d-a79a-4b53-82b7-74963d0ad0b9",
+        "title": "Product Marketing Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778134294,
+        "date_posted": 1778134136,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Xfinity-Communities-Product-Marketing-Co-op_R436579",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "dc8b7046-6463-4918-8276-b2debf5208dc",
+        "title": "Finance Technology Automation & AI Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778134257,
+        "date_posted": 1778134064,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Finance-Technology-Automation---AI-Co-op_R436188",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Comcast",
+        "id": "bc8e3ee2-cfc6-454b-9edd-5947ef51886b",
+        "title": "Data Science & Analytics Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1778134254,
+        "date_posted": 1778134063,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Data-Science---Analytics-Co-op_R436444",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Comcast",
+        "id": "bbb63228-d87e-41c5-b053-6ee67c83624c",
+        "title": "Comcast Product Management Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2026",
+            "Spring 2027"
+        ],
+        "date_updated": 1778134141,
+        "date_posted": 1778134065,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Product-Management-Co-op_R435972",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "60679bac-5515-49fc-98ad-d00b0cf528dd",
+        "title": "Platform Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778134681,
+        "date_posted": 1778134064,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Platform-Software-Engineer-Co-op_R435979",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Altera Corporation",
+        "id": "4699dcb8-7305-4547-940c-1b8059b899c0",
+        "title": "Silicon Validation Graduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778134141,
+        "date_posted": 1778134079,
+        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Austin-Texas-United-States/Silicon-Validation-Graduate-Intern_R02471",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Comcast",
+        "id": "12d8b2ae-c10e-4753-8dd5-157866ff4507",
+        "title": "Business Digital Product Management Analyst Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1778134369,
+        "date_posted": 1778134063,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Business-Digital-Product-Management-Analyst-Co-op_R435978",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [

@@ -1,30 +1,3 @@
 {
-  "pending": [
-    {
-      "listing_id": "a449e924-cf5c-473e-b0a4-29943b45a868",
-      "company_name": "Integral Ad Science",
-      "title": "Devex Platform Intern",
-      "url": "https://integralads.wd1.myworkdayjobs.com/IAScareers/job/US---Remote-NY/DevEx-Platform-Intern_R-101466-1",
-      "simplify_url": "https://simplify.jobs/p/a449e924-cf5c-473e-b0a4-29943b45a868",
-      "locations": [
-        "NYC"
-      ],
-      "source": "Simplify",
-      "category": "Software",
-      "date_detected": 1778124854
-    },
-    {
-      "listing_id": "40437c0f-7771-4ec0-aedd-aa6abd7ed518",
-      "company_name": "Cockroach Labs",
-      "title": "Engineering Intern",
-      "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=7768261",
-      "simplify_url": "https://simplify.jobs/p/40437c0f-7771-4ec0-aedd-aa6abd7ed518",
-      "locations": [
-        "NYC"
-      ],
-      "source": "Simplify",
-      "category": "Software",
-      "date_detected": 1778124854
-    }
-  ]
+  "pending": []
 }
