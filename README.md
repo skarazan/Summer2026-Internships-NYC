@@ -68,14 +68,14 @@
 <td>Backend Engineer Intern</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://careers-cadent.icims.com/jobs/1359/backend-engineer-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong>Kira</strong></td>
 <td>Software Engineering Intern 🛂</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/kira/d46f8721-f33d-4539-bb78-e07f204e8ee8?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Adtheorant?utm_source=GHList&utm_medium=company">Adtheorant</a></strong></td>
@@ -110,7 +110,7 @@
 <td>Software Engineering Intern</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://jbb.applytojob.com/apply/SCtkdVCvur/Software-Engineering-Intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong>On the Go</strong></td>
@@ -292,6 +292,13 @@
 <td>11d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Signet-Jewelers?utm_source=GHList&utm_medium=company">Signet Jewelers</a></strong></td>
+<td>Intern - Market Research and Product Development</td>
+<td>NYC</td>
+<td><div align="center"><a href="https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/00099---Diamonds-Direct-New-York-NY/Internship---Market-Research-and-Product-Development_REQ_80060-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b016e33e-8187-45a7-b8f2-90d031def58b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>11d</td>
+</tr>
+<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td>Creative Product Operations Project Intern</td>
 <td>NYC</td>
@@ -311,13 +318,6 @@
 <td>NYC</td>
 <td><div align="center"><a href="https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/New-York-New-York/XMLNAME-2026-Summer-Associate--New-Markets_R253684?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/38e4fa6b-223f-4d6f-88f2-161444a6abba?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>20d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Zola?utm_source=GHList&utm_medium=company">Zola</a></strong></td>
-<td>Product Management Intern</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://www.zola.com/about/jobs?gh_jid=8512518002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a5f93b5e-bc6e-43fc-9dd8-b84c4bb8beb4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
@@ -372,7 +372,7 @@
 <td>Data Engineer Intern</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://careers-cadent.icims.com/jobs/1362/data-engineer-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Faherty-Brand?utm_source=GHList&utm_medium=company">Faherty Brand</a></strong></td>
@@ -421,7 +421,7 @@
 <td>Research Intern, Machine Learning 🎓</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/AvePoint?utm_source=GHList&utm_medium=company">AvePoint</a></strong></td>
@@ -494,13 +494,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Pathos?utm_source=GHList&utm_medium=company">Pathos</a></strong></td>
-<td>Applied Scientist, Oncology Foundation Model 🎓</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://ats.rippling.com/pathos/jobs/939623e3-fe14-4d0e-b9f7-08c0411a060e?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d45c4020-8afa-4fe7-bd48-63b97cf8eb74?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong>Internship</strong></td>
 <td>AI Deployment Engineering Internship</td>
 <td>New York, NY</td>
@@ -511,7 +504,7 @@
 </table>
 
 
-🔒 **[See 356 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 357 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
