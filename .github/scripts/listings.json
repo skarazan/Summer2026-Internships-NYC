@@ -4356,192 +4356,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Grant Thornton",
-        "id": "ef834d9b-10c2-4059-9d0c-74dacd77ff18",
-        "title": "Tax Technology Intern",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1757660703,
-        "date_posted": 1757660703,
-        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/113374",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Grant-Thornton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Leidos",
-        "id": "db293923-88d7-4eb8-9284-b70c792423d4",
-        "title": "Network Operations Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1757660637,
-        "date_posted": 1757660637,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tampa-FL/Network-Operations-Intern_R-00166088",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Meta",
-        "id": "70b51dbb-6013-4de9-9546-d3293e99e250",
-        "title": "Offensive Security Engineer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757859483,
-        "date_posted": 1757651237,
-        "url": "https://www.metacareers.com/jobs/785799000528657",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Auto-Owners Insurance",
-        "id": "23f42855-d656-4288-b470-cbc2fb8f3bbd",
-        "title": "Data Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757650786,
-        "date_posted": 1757650786,
-        "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lennox International",
-        "id": "606f3d71-4e31-4ce2-93bb-662378d17ab8",
-        "title": "IoT Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757650547,
-        "date_posted": 1757650547,
-        "url": "https://uscareers-lennox.icims.com/jobs/50060/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Lennox-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Astranis",
-        "id": "6943faad-ff20-44ba-ac9b-a67d1bdc4ce8",
-        "title": "Embedded Software Developer \u2013 Network/Payload Software Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1757650241,
-        "date_posted": 1757650241,
-        "url": "https://job-boards.greenhouse.io/astranis/jobs/4601131006",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Astranis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Boston Scientific",
-        "id": "6e77dd4a-5ec5-4a35-aed1-1b1350fa5946",
-        "title": "R&D Software Engineer Intern - Interns/Graduates - Development",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1757648840,
-        "date_posted": 1757648840,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808508124",
-        "locations": [
-            "Maple Grove, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Grant Thornton",
-        "id": "c1f63331-714b-42b1-acb2-0872f20ab6d4",
-        "title": "Tax Technology Intern",
-        "active": true,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1757648269,
-        "date_posted": 1757648269,
-        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/113322",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Grant-Thornton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1762297136,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -10143,29 +9957,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GE Vernova",
-        "id": "39727b83-7637-4887-bdc0-e0a85f77702a",
-        "title": "GE Vernova Wind Turbine Controls Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757968371,
-        "date_posted": 1757651658,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Wind-Turbine-Controls-Engineer---Summer-2026_R5019880-1",
-        "locations": [
-            "Greenville, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1762297120,
         "sponsorship": "Other",
         "active": true,
@@ -10724,29 +10515,6 @@
         "date_posted": 1758030331,
         "company_url": "",
         "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GE Vernova",
-        "id": "ee490f96-415c-4e74-b0fa-b922789c37bf",
-        "title": "GE Vernova Gas Power Electro Chemical Machining \u2013 Digital Development Intern - Ecm - & Fast Hole Drilling - Fhd",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758045557,
-        "date_posted": 1757651658,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Gas-Power-Electro-Chemical-Machining--ECM--and-Fast-Hole-Drilling--FHD--Digital-Development_R5019856-2",
-        "locations": [
-            "Greenville, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -116381,7 +116149,7 @@
         "company_name": "Bose",
         "id": "91a3eeda-740c-4b59-bca5-68add880e2d4",
         "title": "Audio Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -121490,27 +121258,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Boston Scientific",
-        "id": "254d154a-3a11-4af9-8cd4-9ff80746965b",
-        "title": "Peripheral Interventions R&D Intern - Interns/Graduates - Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757649387,
-        "date_posted": 1757649387,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808492345",
-        "locations": [
-            "Maple Grove, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -198109,7 +197856,7 @@
         "company_name": "M&T Bank",
         "id": "01314c42-df97-45a0-a758-008e520bc5df",
         "title": "Technology Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -228037,7 +227784,7 @@
         "company_name": "ASSA ABLOY",
         "id": "3924f93e-81f6-4cf4-b4c9-f160bdb0181b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -354315,7 +354062,7 @@
         "company_name": "Dallas College",
         "id": "05b45fd6-9242-4831-9e4b-a3d4e4ff7f88",
         "title": "SAS Intern-2",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385479,7 +385226,7 @@
         "company_name": "Prairie View A&M University",
         "id": "11041930-9a70-4c9f-9146-70f98f4e4af0",
         "title": "Student Hourly Assistant \u2013 Intern - Data Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399457,7 +399204,7 @@
         "company_name": "Texas A&M University System",
         "id": "c364d77b-5711-4f3e-907d-2cee94f2fa7f",
         "title": "Student Intern - Data Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
