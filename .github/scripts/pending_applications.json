@@ -1,3 +1,82 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "listing_id": "e5bf0800-58fa-41cf-bba9-7799f4f540f5",
+      "company_name": "Palantir",
+      "title": "Year at Palantir Intern - Forward Deployed Software Engineer - Commercial",
+      "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d/apply",
+      "simplify_url": "https://simplify.jobs/p/e5bf0800-58fa-41cf-bba9-7799f4f540f5",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "Software",
+      "date_detected": 1778817000
+    },
+    {
+      "listing_id": "991a8f63-65fa-4790-8de1-d09deeed8643",
+      "company_name": "Facility Solutions Group",
+      "title": "AI Automation Intern - Electrical Construction Operations",
+      "url": "https://careers-fsg.icims.com/jobs/2406/job?mobile=true&needsRedirect=false",
+      "simplify_url": "https://simplify.jobs/p/991a8f63-65fa-4790-8de1-d09deeed8643",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "AI/ML/Data",
+      "date_detected": 1778817000
+    },
+    {
+      "listing_id": "563916cf-2297-4c6b-93cc-b171f73555c4",
+      "company_name": "Palantir",
+      "title": "Palantir Intern - Software Engineer",
+      "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329/apply",
+      "simplify_url": "https://simplify.jobs/p/563916cf-2297-4c6b-93cc-b171f73555c4",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "Software",
+      "date_detected": 1778817000
+    },
+    {
+      "listing_id": "8701aeaf-8912-480b-9d4b-e131dc6869b2",
+      "company_name": "Curtiss-Wright Corporation",
+      "title": "Engineering Intern",
+      "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-NY-Hauppauge/Engineering-Intern_JR12154",
+      "simplify_url": "https://simplify.jobs/p/8701aeaf-8912-480b-9d4b-e131dc6869b2",
+      "locations": [
+        "Long Island, New York"
+      ],
+      "source": "Simplify",
+      "category": "Hardware",
+      "date_detected": 1778817000
+    },
+    {
+      "listing_id": "441050ea-b57f-4448-ae69-2a4a8646229f",
+      "company_name": "Palantir",
+      "title": "Year at Palantir Intern - Forward Deployed Software Engineer",
+      "url": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333/apply",
+      "simplify_url": "https://simplify.jobs/p/441050ea-b57f-4448-ae69-2a4a8646229f",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "Software",
+      "date_detected": 1778817000
+    },
+    {
+      "listing_id": "25e5cdde-2399-431a-a6d9-20218124af5f",
+      "company_name": "ASM Global",
+      "title": "Hospitality and Merchandise Strategy and Inventory Analytics Intern",
+      "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/New-York-NY/Hospitality-and-Merchandise-Strategy-and-Inventory-Analytics-Intern_R100122727",
+      "simplify_url": "https://simplify.jobs/p/25e5cdde-2399-431a-a6d9-20218124af5f",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "AI/ML/Data",
+      "date_detected": 1778817000
+    }
+  ]
 }
