@@ -2,8 +2,7 @@ name: Sync Upstream Listings & Update NYC READMEs
 
 on:
   schedule:
-    # Run every 6 hours to stay in sync with upstream
-    - cron: "0 */6 * * *"
+    - cron: "*/5 * * * *"  # every 5 minutes
   workflow_dispatch: # Allow manual trigger
 
 concurrency:
@@ -72,9 +71,26 @@ jobs:
           git diff-index --quiet HEAD || \
             git commit -m "Sync upstream listings & update NYC READMEs — $(date +'%B %d, %Y %H:%M')"
 
+      - name: Detect new listings for Discord
+        if: env.listings_changed == 'true'
+        id: detect
+        run: python3 .github/scripts/detect_changes.py
+
       - name: Push changes
         if: env.listings_changed == 'true'
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: dev
+
+      - name: Notify Discord
+        if: env.listings_changed == 'true' && steps.detect.outputs.has_new_listings == 'true'
+        run: |
+          MESSAGE=$(cat .github/scripts/discord_message.txt)
+          if [ ${#MESSAGE} -gt 1990 ]; then
+            MESSAGE="${MESSAGE:0:1990}..."
+          fi
+          jq -n --arg content "$MESSAGE" '{"content": $content}' | \
+            curl -s -H "Content-Type: application/json" \
+              -d @- \
+              "${{ secrets.DISCORD_WEBHOOK_URL }}"
