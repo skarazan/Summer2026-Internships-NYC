@@ -4,6 +4,15 @@ import os
 OLD_PATH = ".github/scripts/listings_old.json"
 NEW_PATH = ".github/scripts/listings.json"
 
+def is_nyc_or_remote(locations):
+    for loc in locations:
+        l = loc.lower()
+        if any(kw in l for kw in ('new york', 'nyc', 'manhattan', 'brooklyn')):
+            return True
+        if 'remote' in l:
+            return True
+    return False
+
 def load(path):
     try:
         with open(path) as f:
@@ -18,11 +27,12 @@ old_ids = {e['id'] for e in old}
 new_ids = {e['id'] for e in new}
 old_by_id = {e['id']: e for e in old}
 
-added = [e for e in new if e['id'] in (new_ids - old_ids)]
+added = [e for e in new if e['id'] in (new_ids - old_ids) and is_nyc_or_remote(e.get('locations', []))]
 reactivated = [
     e for e in new
     if e['id'] in old_ids
     and e.get('active') and not old_by_id[e['id']].get('active')
+    and is_nyc_or_remote(e.get('locations', []))
 ]
 
 changes = added + reactivated
