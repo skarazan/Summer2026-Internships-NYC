@@ -1,242 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Toro Company",
-        "id": "26f255ab-83d8-4720-860c-21c49670b2b5",
-        "title": "Commercial Service Publications Intern - The Toro Company",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758083096,
-        "date_posted": 1758083096,
-        "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Commercial-Service-Publications-Intern---The-Toro-Company_JR14046",
-        "locations": [
-            "Bloomington, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Toro-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Numeric",
-        "id": "22dd6485-7123-4b84-b893-5bf01286bf5e",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761406953,
-        "date_posted": 1758081627,
-        "url": "https://jobs.ashbyhq.com/numeric/aa134424-5e42-4e12-ab57-acb49e937acb/application",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Numeric-IO",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "b8f53d89-c22a-43fe-908b-791a5578a9fd",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758094311,
-        "date_posted": 1758094311,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Denver/Software-Engineering-Intern---Summer-2026_317064-1",
-        "locations": [
-            "Westminster, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Zurich Insurance",
-        "id": "e7a8476d-991f-4860-99e5-49b8e7a097fa",
-        "title": "Winter IT Internship/Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758093413,
-        "date_posted": 1758093413,
-        "url": "https://www.careers.zurich.com/job/Toronto-Winter-IT-InternshipCo-op-ON/1325843957/?ats=successfactors",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Zurich-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "ServiceNow",
-        "id": "636c3553-e031-4bec-baa1-de12f2535326",
-        "title": "Servicenow Security Organization \u2013 Associate Application Security Engineer Intern - Sso",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758165627,
-        "date_posted": 1758092661,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000082321184",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "ServiceNow",
-        "id": "279ba399-83cf-40d3-bd49-eb9001ed11a4",
-        "title": "Servicenow Security Organization \u2013 Associate Product Security Engineer Intern - Sso",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758165646,
-        "date_posted": 1758092662,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000082318222",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "5faad969-5abc-41c4-a4be-cecf1b01475a",
-        "title": "APEX Advanced Analytics Intern - Masters",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2027"
-        ],
-        "date_updated": 1758092029,
-        "date_posted": 1758092029,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990009500296",
-        "locations": [
-            "Vernon Hills, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "e377c1fe-8c48-4daa-a4d7-0e252dc2de12",
-        "title": "Software Developer Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1758086394,
-        "date_posted": 1758086394,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Developer-Co-op_R-00166373",
-        "locations": [
-            "Bethesda, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Leidos",
-        "id": "31b913b5-b78b-4756-bca4-144b58917b68",
-        "title": "Cybersecurity Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1758086392,
-        "date_posted": 1758086392,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Cybersecurity-Co-op_R-00166369",
-        "locations": [
-            "Bethesda, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Leidos",
-        "id": "0e62f2c0-ba5d-4128-b616-79c83f1bb06f",
-        "title": "Computer Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1758086401,
-        "date_posted": 1758086401,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00166367",
-        "locations": [
-            "Bethesda, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1761407001,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -177787,7 +177550,7 @@
         "company_name": "Red Hat",
         "id": "eff28cc3-7ade-4574-b78e-11e814c08e83",
         "title": "Machine Learning Systems Research Intern - PhD - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182850,7 +182613,7 @@
         "company_name": "McKesson",
         "id": "b3a8a9ae-e277-4e15-9698-2d1707f63304",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -263970,7 +263733,7 @@
         "company_name": "Bloom Energy",
         "id": "cfca3fdd-33c2-4828-85ab-5283fe265858",
         "title": "Machine Learning/Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -288791,7 +288554,7 @@
         "company_name": "State Street",
         "id": "cedcc71b-5c8e-4472-8dd0-aa32dccaa464",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -337587,7 +337350,7 @@
         "company_name": "American Rare Earths",
         "id": "224e6611-9cfb-4eef-8107-822517f2d5e4",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369947,7 +369710,7 @@
         "company_name": "Generac",
         "id": "417cd806-6c44-4fa1-80fa-62572cb7caed",
         "title": "IT Intern \u2013 Web Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373613,7 +373376,7 @@
         "company_name": "TD Bank",
         "id": "1f7bf76d-9051-41af-9a9c-2f3c7f237076",
         "title": "Portfolio Analytics Developer Intern/Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -376438,7 +376201,7 @@
         "company_name": "Leidos",
         "id": "0519e9d9-4163-417f-af59-f1456ff76d32",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377343,7 +377106,7 @@
         "company_name": "City of Baltimore",
         "id": "686c367c-80fc-4479-b429-30a0de25991f",
         "title": "Office of the Comptroller Interns/Fellows Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385616,7 +385379,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "04690200-00da-4592-b697-fc3f8a39af9c",
         "title": "Quantitative Systematic Trading Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385685,7 +385448,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "1eeacbc8-6f20-4cf6-b5a2-0a2578151236",
         "title": "Quantitative Systematic Trading Intern - Master's: Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -398139,7 +397902,7 @@
         "company_name": "City of Charlotte",
         "id": "c40f3fd2-137a-49ab-b53c-3c8c87dfbe54",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -400460,7 +400223,7 @@
         "company_name": "Loblaw Companies",
         "id": "00634ece-a76d-4b55-85c7-99e6428e22a3",
         "title": "Market Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -405613,7 +405376,7 @@
         "company_name": "Comcast",
         "id": "737289a9-12b7-44e6-8943-670d8b56be8f",
         "title": "Large Language Model Paid Media Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -405636,7 +405399,7 @@
         "company_name": "Comcast",
         "id": "00bd05ee-6ed0-4b64-b20b-895d6a7a656c",
         "title": "Software Architect Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -405659,7 +405422,7 @@
         "company_name": "Comcast",
         "id": "c894e78a-98f1-4b56-9ca3-0272a9f6c0a1",
         "title": "Data Products & Governance Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -405684,7 +405447,7 @@
         "company_name": "Comcast",
         "id": "e977840c-8d51-4be4-aba3-f14a7cc23ce4",
         "title": "WiFi Product Marketing Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -405707,7 +405470,7 @@
         "company_name": "Comcast",
         "id": "ded82459-e574-4b4a-bd3f-1e0d0ebe682c",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -405730,7 +405493,7 @@
         "company_name": "Comcast",
         "id": "97698028-6d15-4546-ae94-929171b59c9c",
         "title": "Comcast Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -405755,7 +405518,7 @@
         "company_name": "Comcast",
         "id": "f8b8d971-cfc9-477b-a017-d40de0a62ae3",
         "title": "Global Audit Data Solutions Data Architecture and Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -405780,7 +405543,7 @@
         "company_name": "Comcast",
         "id": "c732b7d0-de98-43e6-9e09-9add80cd631e",
         "title": "Comcast Product Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -405805,7 +405568,7 @@
         "company_name": "Comcast",
         "id": "c372d0e3-a9bd-4605-babb-6f13521bbc13",
         "title": "HR & Workforce Analytics Data Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -405853,7 +405616,7 @@
         "company_name": "Comcast",
         "id": "7e23fc96-d949-4304-882e-c6d451c9a772",
         "title": "Comcast Product Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -405876,7 +405639,7 @@
         "company_name": "Comcast",
         "id": "4aca7a9a-a339-4c97-808f-560e30064179",
         "title": "Data Management Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -405899,7 +405662,7 @@
         "company_name": "Comcast",
         "id": "1380018d-a79a-4b53-82b7-74963d0ad0b9",
         "title": "Product Marketing Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -405922,7 +405685,7 @@
         "company_name": "Comcast",
         "id": "dc8b7046-6463-4918-8276-b2debf5208dc",
         "title": "Finance Technology Automation & AI Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -405945,7 +405708,7 @@
         "company_name": "Comcast",
         "id": "bc8e3ee2-cfc6-454b-9edd-5947ef51886b",
         "title": "Data Science & Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026",
@@ -405971,7 +405734,7 @@
         "company_name": "Comcast",
         "id": "bbb63228-d87e-41c5-b053-6ee67c83624c",
         "title": "Comcast Product Management Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026",
@@ -405996,7 +405759,7 @@
         "company_name": "Comcast",
         "id": "60679bac-5515-49fc-98ad-d00b0cf528dd",
         "title": "Platform Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -406043,7 +405806,7 @@
         "company_name": "Comcast",
         "id": "12d8b2ae-c10e-4753-8dd5-157866ff4507",
         "title": "Business Digital Product Management Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -408247,7 +408010,7 @@
         "company_name": "KION Group",
         "id": "d2887031-dcad-4fe7-b2ba-fa173d7155dd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -408435,7 +408198,7 @@
         "company_name": "KION Group",
         "id": "167fd275-0158-48a7-a47a-c11e214c47c6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409102,7 +408865,7 @@
         "company_name": "Comcast",
         "id": "dc4d7f11-e104-4bc6-8b36-12a13fd21467",
         "title": "Product Management Shield Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -409937,7 +409700,7 @@
         "company_name": "NBCUniversal",
         "id": "6511cfed-ce4c-45ab-8067-8f2f7842e34b",
         "title": "Advertising & Partnerships Ad Products Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -410277,7 +410040,7 @@
         "company_name": "Xcel Energy",
         "id": "a96e8247-6d73-4e20-95c7-8fd251ac98ef",
         "title": "AI Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411199,7 +410962,7 @@
         "company_name": "Vanguard",
         "id": "e7becb6a-b395-469e-bf68-4a97dbfcb75e",
         "title": "College to Corporate IT Intern - Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411269,7 +411032,7 @@
         "company_name": "Vanguard",
         "id": "63beb9ef-892f-405d-91cb-7298d8c21894",
         "title": "College to Corporate IT Intern - Data Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -411501,7 +411264,7 @@
         "company_name": "Bank of Montreal",
         "id": "9285d621-2d8d-4c98-8a94-fdf5e0e17ca6",
         "title": "Technology Research Associate Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -411524,7 +411287,7 @@
         "company_name": "Bank of Montreal",
         "id": "df2258f0-6f57-4fce-a3bd-e35e85a7dc0a",
         "title": "Technology Research Associate Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -411617,7 +411380,7 @@
         "company_name": "Bank of Montreal",
         "id": "36ead7f6-c8cd-43ee-ab7f-66e1294880a1",
         "title": "Technology Research Associate Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -412041,7 +411804,7 @@
         "company_name": "Moog ",
         "id": "69dc6696-07f9-4a4b-b7fb-83207f4540b5",
         "title": "Design Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412366,7 +412129,7 @@
         "company_name": "Comcast",
         "id": "7ef4053b-d694-427b-adc8-e9f29431dffa",
         "title": "Comcast Global Audit Data Solutions Data Architecture and Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -413078,7 +412841,7 @@
         "company_name": "Comcast",
         "id": "1e489d80-3cd9-401a-852b-34aeb1dddc89",
         "title": "Network Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -413289,7 +413052,7 @@
         "company_name": "TransPerfect",
         "id": "009fbf42-7902-4632-a32d-8be35fa22fae",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415520,6 +415283,74 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Southwest Airlines",
+        "id": "3cbc2783-82d7-42c7-9451-a079405180ae",
+        "title": "Technology Junior Associate",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778825701,
+        "date_posted": 1778825345,
+        "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Technology-Junior-Associate_R-2026-67668",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Southwest-Airlines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "McGill University",
+        "id": "f2eab10b-1704-4d19-967a-181ba84b6640",
+        "title": "FMED 505 Epidemiology and Data Analysis in Primary Care",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778825401,
+        "date_posted": 1778825073,
+        "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/5858-Cote-des-Neiges/TA--FALL-2026--FMED-505-Epidemiology-and-Data-Analysis-in-Primary-Care_JR0000076064",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/McGill-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nikkiso",
+        "id": "e131826c-4066-45d3-9279-45b6809548f8",
+        "title": "Application Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778825473,
+        "date_posted": 1778825062,
+        "url": "https://careers-nikkiso.icims.com/jobs/3975/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Orange, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nikkiso",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
