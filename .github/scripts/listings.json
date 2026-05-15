@@ -1,98 +1,5 @@
 [
     {
-        "date_updated": 1761407001,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/openai/566ce27d-8a1c-497c-a301-0912010d7b29",
-        "company_name": "OpenAI",
-        "title": "Software Engineer Internship / Co-op, Applied Emerging Talent",
-        "locations": [
-            "San Francisco, Ca",
-            "Seattle, WA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "de06c01a-b3d7-4c48-9515-eef7b1e222fb",
-        "date_posted": 1758104063,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1759956001,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.lever.co/sunwatercapital/583d67a5-46c3-4448-ba2e-604549a8627c",
-        "company_name": "Legis1",
-        "title": "AI News Integration",
-        "locations": [
-            "North Bethesda, MD"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "7144ebb6-ed29-40e2-bea8-8841e2f3ab70",
-        "date_posted": 1758104180,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758104441,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://myhrabc.wd5.myworkdayjobs.com/en-US/Global/job/Conshohocken-PA/AI-Workflow-Architect-Intern_R2517572",
-        "company_name": "Cencora",
-        "title": "AI Readiness and Enablement Intern",
-        "locations": [
-            "Conshohocken, PA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "8bfbf59e-bf01-4b33-b367-14fa32e8eb12",
-        "date_posted": 1758104441,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1759949028,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/Comcast-Front-End-UI-DevOps-Engineer-Intern_R419209",
-        "company_name": "Comcast",
-        "title": "Front End UI DevOps Engineer Intern",
-        "locations": [
-            "West Chester, PA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "98451733-18f7-44aa-b622-903df1855529",
-        "date_posted": 1758104540,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1758125104,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -119221,7 +119128,7 @@
         "company_name": "Cisco",
         "id": "0fdfda06-d9eb-48c2-b935-b4da3ff0f844",
         "title": "Software Engineer Data/AI/Intelligent Systems 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -184179,7 +184086,7 @@
         "company_name": "Medpace, Inc.",
         "id": "69895bf6-cfe8-4334-80d0-1834c83de6b0",
         "title": "Clinical Informatics Intern - Fall 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -214956,7 +214863,7 @@
         "company_name": "S&P Global ",
         "id": "4549f868-697a-4b15-a117-f8242279c730",
         "title": "APMO Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -226367,7 +226274,7 @@
         "company_name": "Cisco",
         "id": "d2dcfe14-a4bb-40cf-b495-040de5de1c91",
         "title": "Software Engineer 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -286961,7 +286868,7 @@
         "company_name": "Graphcore",
         "id": "23c22952-0eb8-4d58-8ec7-347863fa3de1",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286985,7 +286892,7 @@
         "company_name": "Graphcore",
         "id": "03d644d7-4610-4e57-ab93-c93a4598f877",
         "title": "Software Engineering Intern - Drivers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332750,7 +332657,7 @@
         "company_name": "Tencent",
         "id": "ac626a38-e2fb-4c21-b1f5-2b8acd944bbe",
         "title": "Product Manager Intern - Game Accounts and Studio Partnership",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333011,7 +332918,7 @@
         "company_name": "Tencent",
         "id": "3cd8ee85-8135-4c7e-8806-a74243124907",
         "title": "Product Manager Intern - Game Accounts and Studio Partnership",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335814,7 +335721,7 @@
         "company_name": "Rivian",
         "id": "cd885e02-d0aa-4f5f-a119-3f60710cc44c",
         "title": "UIUC Research Park Intern - Validation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -337350,7 +337257,7 @@
         "company_name": "American Rare Earths",
         "id": "224e6611-9cfb-4eef-8107-822517f2d5e4",
         "title": "AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -348376,7 +348283,7 @@
         "company_name": "Atomic Semi",
         "id": "8273dd4e-b31d-493a-9d57-963229920587",
         "title": "Packaging Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -352971,7 +352878,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "f368ace0-4abc-4c3e-98e7-3f1276b59816",
         "title": "Requirements Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367231,7 +367138,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "7da3c280-040c-4a6b-bbdc-ccf7e3d9f527",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -374738,7 +374645,7 @@
         "company_name": "GHD",
         "id": "0dcc796d-483e-4558-b5d6-6afe5f134712",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376201,7 +376108,7 @@
         "company_name": "Leidos",
         "id": "0519e9d9-4163-417f-af59-f1456ff76d32",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -380870,7 +380777,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c507ac9c-6dda-469d-bf3e-70c27c7ce99c",
         "title": "Quantitative Trader Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385402,7 +385309,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "4f46a01a-d152-4a18-9cf9-ff106eede269",
         "title": "Quantitative Research Intern - PhD: Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385494,7 +385401,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "214fe12f-0a66-495e-bbeb-de7c8d78fdf8",
         "title": "Quantitative Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -389151,7 +389058,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9424072c-485e-43c4-91e8-4f124356a286",
         "title": "Trading System Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -389196,7 +389103,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "14dcee99-b506-4efe-a80a-63151e541c4d",
         "title": "Quantitative Strategy Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -400223,7 +400130,7 @@
         "company_name": "Loblaw Companies",
         "id": "00634ece-a76d-4b55-85c7-99e6428e22a3",
         "title": "Market Analytics Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -411611,7 +411518,7 @@
         "company_name": "Flywire",
         "id": "e0d65be0-919c-437b-95f1-709448cb8a14",
         "title": "Application Support Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413052,7 +412959,7 @@
         "company_name": "TransPerfect",
         "id": "009fbf42-7902-4632-a32d-8be35fa22fae",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -414460,7 +414367,7 @@
         "company_name": "General Dynamics UK",
         "id": "3e5a9e76-e90a-4599-bb59-b33acfb3d409",
         "title": "Software Engineer Co-op - Software/Systems Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -415219,7 +415126,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Western Digital",
-        "id": "fd43c319-d18f-4383-91dc-7cfb4c77a269",
+        "id": "c3e530a6-82f8-4c6a-a2d3-31c01c6bd3b2",
         "title": "Electronics Design Engineering",
         "active": true,
         "terms": [
@@ -415347,6 +415254,211 @@
             "Orange, CA"
         ],
         "company_url": "https://simplify.jobs/c/Nikkiso",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "7cd12443-d687-4fdb-bb46-5466245bc6f6",
+        "title": "Trading Operations Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778835946,
+        "date_posted": 1778709952,
+        "url": "https://careers-sig.icims.com/jobs/10751/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "74ba1fe3-ca71-4260-b251-29fa1d840279",
+        "title": "Quantitative Systematic Trader - Master's",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778835421,
+        "date_posted": 1767148330,
+        "url": "https://careers-sig.icims.com/jobs/9442/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Philadelphia, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medpace, Inc.",
+        "id": "6548f3eb-d1a3-4d5e-9942-3151de80c19a",
+        "title": "Feasibility Informatics Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778835099,
+        "date_posted": 1770160410,
+        "url": "https://careers.medpace.com/jobs/12566?lang=en-us&icims=1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Medpace-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "469bcd26-46bc-44f8-8e7a-d8e8eff93e82",
+        "title": "Human Resources Data Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778834227,
+        "date_posted": 1773091904,
+        "url": "https://careers-sig.icims.com/jobs/10604/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Secureframe",
+        "id": "3f94d282-4523-424c-8450-0e34874128ab",
+        "title": "Software Engineer New Grad - Growth",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778834001,
+        "date_posted": 1773364658,
+        "url": "https://jobs.lever.co/secureframe/29ff0477-faeb-44d6-abb3-8e894fc92a22/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Secureframe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "d4609603-55fb-405d-b0ab-1d7181c3c906",
+        "title": "Technology Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778838164,
+        "date_posted": 1778709945,
+        "url": "https://careers-sig.icims.com/jobs/10871/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leonardo",
+        "id": "574d5494-8e91-4134-a570-7e28c03d338d",
+        "title": "Technical Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778836501,
+        "date_posted": 1778836492,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Technical-Apprentice_R0022319-1",
+        "locations": [
+            "Welwyn Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "050323ed-0918-4285-a9eb-a6993e0c0af4",
+        "title": "Student Researcher - Multiple Teams",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778836142,
+        "date_posted": 1778836105,
+        "url": "https://jobs.bytedance.com/en/position/7639884334834862341/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "8388fb59-9aad-4440-ac64-f04a5aef647c",
+        "title": "Tax AI Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778836066,
+        "date_posted": 1778709948,
+        "url": "https://careers-sig.icims.com/jobs/10873/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
