@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 759 Inactive Internship Roles by Category
+### Browse 758 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (231)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (230)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (92)
 
@@ -92,7 +92,7 @@
 <td>Devex Platform Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Acxiom?utm_source=GHList&utm_medium=company">Acxiom</a></strong></td>
@@ -106,7 +106,7 @@
 <td>AI Transformation Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vestwell?utm_source=GHList&utm_medium=company">Vestwell</a></strong></td>
@@ -120,35 +120,35 @@
 <td>AI Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hello-Fresh?utm_source=GHList&utm_medium=company">Hello Fresh</a></strong></td>
 <td>AI Operations & Automation Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>AI Operations & Automation Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vendelux?utm_source=GHList&utm_medium=company">Vendelux</a></strong></td>
 <td>Product Engineering Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Stifel?utm_source=GHList&utm_medium=company">Stifel</a></strong></td>
 <td>Information Systems Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong>Nielsen</strong></td>
@@ -174,13 +174,6 @@
 <tr>
 <td><strong><a href="https://simplify.jobs/c/The-New-York-Times?utm_source=GHList&utm_medium=company">The New York Times</a></strong></td>
 <td>Full Stack Engineer Intern</td>
-<td>NYC</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Jencap?utm_source=GHList&utm_medium=company">Jencap</a></strong></td>
-<td>IT Internship - Computer Science</td>
 <td>NYC</td>
 <td>🔒</td>
 <td>1mo</td>
@@ -263,7 +256,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
 <td>Software Developer – Co-op/Intern - Summer 2026 - 4 Months</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -414,14 +407,14 @@
 <td>Intern - Software Engineering</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Point72?utm_source=GHList&utm_medium=company">Point72</a></strong></td>
 <td>Technology Intern - UI/UX Engineer - Full Stack</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Gamechanger?utm_source=GHList&utm_medium=company">Gamechanger</a></strong></td>
@@ -767,7 +760,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Ensora-Health?utm_source=GHList&utm_medium=company">Ensora Health</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -1744,21 +1737,21 @@
 <td>Product Management Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
 <td>ABC News Product Management and Engineering Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>ABC News Product Management and Engineering Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hearst?utm_source=GHList&utm_medium=company">Hearst</a></strong></td>
@@ -1849,14 +1842,14 @@
 <td>MBA Intern 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Judi-Health?utm_source=GHList&utm_medium=company">Judi Health</a></strong></td>
 <td>Product Manager Intern - Undergraduate</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Gamechanger?utm_source=GHList&utm_medium=company">Gamechanger</a></strong></td>
@@ -2094,7 +2087,7 @@
 <td>MBA Product Operations / Pricing & Monetization Intern 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
@@ -2402,7 +2395,7 @@
 <td>Innovation and Technology Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Becton-Dickinson?utm_source=GHList&utm_medium=company">Becton Dickinson</a></strong></td>
@@ -2416,21 +2409,21 @@
 <td>Applied Science Internships Intern 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ICEMarkets?utm_source=GHList&utm_medium=company">Intercontinental Exchange</a></strong></td>
 <td>Data & Machine Learning Intern - Artificial Intelligence</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Environmental-Defense-Fund?utm_source=GHList&utm_medium=company">Environmental Defense Fund</a></strong></td>
 <td>Psychological Science Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong>Nielsen</strong></td>
@@ -2619,28 +2612,28 @@
 <td>Blue Carbon GIS Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Judi-Health?utm_source=GHList&utm_medium=company">Judi Health</a></strong></td>
 <td>Data Engineering Intern – Graduate Level 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Elevance-Health?utm_source=GHList&utm_medium=company">Elevance Health</a></strong></td>
 <td>Business Intelligence - Business Intelligence - Analytics Resource Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Business Intelligence - Business Intelligence - Analytics Resource Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Starz?utm_source=GHList&utm_medium=company">Starz</a></strong></td>
@@ -3763,7 +3756,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Genentech?utm_source=GHList&utm_medium=company">Genentech</a></strong></td>
 <td>2026 Summer Intern - Large Language Models 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -3798,7 +3791,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Genentech?utm_source=GHList&utm_medium=company">Genentech</a></strong></td>
 <td>Intern - AI for Drug Discovery - Prescient Design</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -4673,7 +4666,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
+<td>↳</td>
 <td>Research Intern - Machine Learning 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -4915,7 +4908,7 @@
 <td>OPIS Carbon Policy & Markets Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Jain-Global?utm_source=GHList&utm_medium=company">Jain Global</a></strong></td>
@@ -5328,14 +5321,14 @@
 <td>Product and Test Engineering Intern</td>
 <td>Long Island, New York</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Analytical-Mechanics-Associates?utm_source=GHList&utm_medium=company">Analytical Mechanics Associates</a></strong></td>
 <td>Surface Radiation – Aerosol and Meteorological Measurements and Analysis Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vertiv?utm_source=GHList&utm_medium=company">Vertiv</a></strong></td>
