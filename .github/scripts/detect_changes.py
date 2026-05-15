@@ -41,7 +41,7 @@ if changes:
         lines.append(f"🔓 **{e['company_name']}** — {e['title']} (reopened)\n📍 {locs}\n🔗 {url}")
     if len(added) > 20:
         lines.append(f"...and {len(added) - 20} more new listings")
-    message = "\n\n".join(lines)
+    message = "@everyone\n\n" + "\n\n".join(lines)
     with open(".github/scripts/discord_message.txt", "w") as f:
         f.write(message)
     with open(output_file, "a") as f:
