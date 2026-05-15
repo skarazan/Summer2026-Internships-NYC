@@ -851,99 +851,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Waymo",
-        "id": "c835d99e-941b-411f-8870-6e551b007f2b",
-        "title": "Intern - PhD - Machine Learning Engineer - Simulation",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758166957,
-        "date_posted": 1758151764,
-        "url": "https://careers.withwaymo.com/jobs?gh_jid=7252833",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Waymo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Veeam Software",
-        "id": "244e9829-1002-445a-a604-b735fd91a26d",
-        "title": "AI Software Development Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758150473,
-        "date_posted": 1758150473,
-        "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4651007101",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeam-Software",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CAE",
-        "id": "d9412d51-4c95-44e9-8cf3-004a661f8aca",
-        "title": "Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761564713,
-        "date_posted": 1758150140,
-        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/University-of-South-Florida---Engineering-Co-op_118042",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "d85feb5c-e96f-49b6-be81-113ad2b6ddc3",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758166417,
-        "date_posted": 1758150158,
-        "url": "https://jobs.l3harris.com/job/Rockwall-Software-Engineering-Intern-(Rockwall,-TX)-TX-75032/1327052700/?ats=successfactors",
-        "locations": [
-            "Royse City, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "TruStage",
         "id": "c646ee9b-75f7-4c14-9424-700b9b1eb8c7",
@@ -42679,7 +42586,7 @@
         "company_name": "Apple",
         "id": "f23ff68f-7047-4bda-a680-5ee065fa50e2",
         "title": "Machine Learning Intern - Artificial Intelligence and Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -130495,7 +130402,7 @@
         "company_name": "Cadence Design Systems",
         "id": "e711d59e-ae19-48d5-9148-5e7038a60393",
         "title": "Software Engineering Intern - Circuit Simulation infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -176409,7 +176316,7 @@
         "company_name": "ASSA ABLOY",
         "id": "88028bc7-9c2b-42e8-9d70-b3661a04d2fc",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -260470,7 +260377,7 @@
         "company_name": "Magna",
         "id": "dee29c7d-6c0f-4770-b640-84f1ec85ad0a",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264148,7 +264055,7 @@
         "company_name": "Primetals Technologies",
         "id": "cd35102e-49cb-414a-873e-a41c0b85196e",
         "title": "Fleet Risk Engineering Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -299898,7 +299805,7 @@
         "company_name": "Rolls Royce",
         "id": "6782c375-d984-4dae-8408-f942296ef8cb",
         "title": "Quality & Data Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -302008,7 +301915,7 @@
         "company_name": "Rolls Royce",
         "id": "9857ad60-014d-421a-a579-ae225b4b8c16",
         "title": "Metrology Automation Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -302097,7 +302004,7 @@
         "company_name": "Rolls Royce",
         "id": "fe63dd4b-c302-4d46-9fd3-0663297956cb",
         "title": "Predictive Maintenance Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -302120,7 +302027,7 @@
         "company_name": "Rolls Royce",
         "id": "f8080880-d013-40c8-ac19-30326bd50f19",
         "title": "Innovations Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -302144,7 +302051,7 @@
         "company_name": "Rolls Royce",
         "id": "a57b1f57-bf08-43ed-a989-21bb60239f07",
         "title": "Paint Shop Digitalization Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302236,7 +302143,7 @@
         "company_name": "Rolls Royce",
         "id": "17f11bdb-1222-4b9b-997b-cbc2e518f510",
         "title": "Quality Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -302559,7 +302466,7 @@
         "company_name": "Rolls Royce",
         "id": "0b2cb043-cca5-4d97-b0fd-08cfabaf9d77",
         "title": "Total Vehicle System Integration and Validation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -330252,7 +330159,7 @@
         "company_name": "Lumentum",
         "id": "1741895f-568a-40c4-8755-f9af222a6b7b",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -351611,7 +351518,7 @@
         "company_name": "Rolls-Royce Motorcars",
         "id": "cf38fa81-3784-4e8c-9597-bd8201e54194",
         "title": "Laboratory Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Summer 2026"
@@ -365460,7 +365367,7 @@
         "company_name": "Cadence Design Systems",
         "id": "c48f51f5-6449-461d-84e9-d6fff8331382",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366624,7 +366531,7 @@
         "company_name": "Cadence Design Systems",
         "id": "12b88443-b10d-4316-b1bb-44f20afa2cba",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376898,7 +376805,7 @@
         "company_name": "SDSU Research Foundation",
         "id": "efaf59fe-abc6-4f98-870e-f2a676bf5adf",
         "title": "Undergraduate Student 3 Intern - MANTA Project - Task No",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387205,7 +387112,7 @@
         "company_name": "Varex Imaging Corporation",
         "id": "f2e2a55a-d92d-46fc-9e0a-f739ee5a8d03",
         "title": "Imaging Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391197,7 +391104,7 @@
         "company_name": "ASSA ABLOY",
         "id": "c97b9c17-dda6-4c3f-a83c-9f49bb003f4e",
         "title": "Pricing and Market Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397375,7 +397282,7 @@
         "company_name": "Primetals Technologies",
         "id": "15131515-6720-41e9-9f5d-bfcd46f7912e",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405587,7 +405494,7 @@
         "company_name": "Snyk",
         "id": "e18daaef-be64-48f6-89a2-95fa3d13f1b5",
         "title": "Software Engineer Intern - Code Rules - Developer Security Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407952,7 +407859,7 @@
         "company_name": "RIB Software",
         "id": "67cf6067-fce8-4af4-aae1-ef3e46d78c06",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -408023,7 +407930,7 @@
         "company_name": "JINGDONG",
         "id": "030bc355-b4ec-4fb5-b2c1-d475d7577494",
         "title": "Category Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412895,7 +412802,7 @@
         "company_name": "Rivian",
         "id": "8ea59fe2-7509-4d5a-a227-720fb3a3aad6",
         "title": "Research Park Intern - Design Verification",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414796,6 +414703,92 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arine",
+        "id": "74f8b0c5-8f2e-422d-af50-13f152a2f0bb",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778883708,
+        "date_posted": 1778883060,
+        "url": "https://job-boards.greenhouse.io/arine/jobs/5997169004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arine",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centific",
+        "id": "baf71a90-c7d6-42b0-9081-f96751200581",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778883463,
+        "date_posted": 1778882777,
+        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Summer-Intern-2_JR107169-1",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Centific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CIBC",
+        "id": "9420240c-61a3-4191-9d39-0b453764396c",
+        "title": "Data Analytics Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778882761,
+        "date_posted": 1778882750,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analytics-Co-op_2610899",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AEG",
+        "id": "bf4f007e-61b5-4e0c-82dd-5e6f478e8f68",
+        "title": "Web Developer Intern - Web Developer - Global Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778884029,
+        "date_posted": 1778883397,
+        "url": "https://aegworldwide.com/careers?gh_jid=8550938002",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/AEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
