@@ -2,6 +2,8 @@
 
   Filtered from [SimplifyJobs/Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships). Showing only **Summer 2026** internships in **New York City** or **Remote**. Auto-synced every 5 min with Discord notifications.
 
+  [![Discord](https://img.shields.io/badge/Live_Demo-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/GfSRFugKd)
+
 
 
 
