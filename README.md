@@ -85,13 +85,6 @@
 <td>2d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/GoodRx?utm_source=GHList&utm_medium=company">GoodRx</a></strong></td>
-<td>AI Agent Developer Intern</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://goodrx.wd1.myworkdayjobs.com/Careers/job/New-York-City-NY/AI-Agent-Developer-Intern_JR100607?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/342c3878-0f0a-4f31-b343-8989d1ef68b7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Cockroach-Labs?utm_source=GHList&utm_medium=company">Cockroach Labs</a></strong></td>
 <td>Engineering Intern</td>
 <td>NYC</td>
@@ -242,7 +235,7 @@
 </table>
 
 
-🔒 **[See 230 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 231 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -275,7 +268,7 @@
 <td>Product Manager Project Intern - Brand Advertising - Monetization Product</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://lifeattiktok.com/search/7632474163383765301?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fdf66316-7107-429f-8489-abb929ab95ee?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Signet-Jewelers?utm_source=GHList&utm_medium=company">Signet Jewelers</a></strong></td>
@@ -337,7 +330,7 @@
 <td>Hospitality and Merchandise Strategy and Inventory Analytics Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://asmglobal.wd1.myworkdayjobs.com/careers/job/New-York-NY/Hospitality-and-Merchandise-Strategy-and-Inventory-Analytics-Intern_R100122727?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/25e5cdde-2399-431a-a6d9-20218124af5f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Facility-Solutions-Group?utm_source=GHList&utm_medium=company">Facility Solutions Group</a></strong></td>
