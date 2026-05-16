@@ -44,11 +44,11 @@ if changes:
     for e in added[:20]:
         locs = ", ".join(e.get("locations", []))
         url = e.get("url", "")
-        lines.append(f"🆕 **{e['company_name']}** — {e['title']}\n📍 {locs}\n🔗 {url}")
+        lines.append(f"🆕 **{e['company_name']}** — {e['title']}\n📍 {locs}\n🔗 <{url}>")
     for e in reactivated[:10]:
         locs = ", ".join(e.get("locations", []))
         url = e.get("url", "")
-        lines.append(f"🔓 **{e['company_name']}** — {e['title']} (reopened)\n📍 {locs}\n🔗 {url}")
+        lines.append(f"🔓 **{e['company_name']}** — {e['title']} (reopened)\n📍 {locs}\n🔗 <{url}>")
     if len(added) > 20:
         lines.append(f"...and {len(added) - 20} more new listings")
     message = "@everyone\n\n" + "\n\n".join(lines)
