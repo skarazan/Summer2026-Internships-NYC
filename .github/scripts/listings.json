@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1762297106,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/blockhouse/6e64b896-69c8-4ef9-bd98-e1aaa138ecca",
-        "company_name": "Blockhouse",
-        "title": "Quantitative Developer Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "29aac22c-fef9-48b9-9cd1-717da2fcf6e9",
-        "date_posted": 1758213177,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Product",
         "company_name": "Stryker",
@@ -189263,7 +189240,7 @@
         "company_name": "PennState University",
         "id": "5353964a-acc8-4fef-ad52-0223d28c4883",
         "title": "PT Research Assistant/Programmer - Recendes",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -238428,7 +238405,7 @@
         "company_name": "CME Group",
         "id": "523f4ede-20df-4626-a195-9513bfa2c7b3",
         "title": "Post Grad Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -240709,7 +240686,7 @@
         "company_name": "Autodesk",
         "id": "394bda73-c496-43a9-835d-63def409a009",
         "title": "Intern Software Engineer - C++/.Net - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246968,7 +246945,7 @@
         "company_name": "Sanofi",
         "id": "ad34a0cb-2a6b-406a-80d5-3ab2b6f6970f",
         "title": "Machine Learning for Quantitative Pharmacology \u2013 Large Molecules Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -309250,7 +309227,7 @@
         "company_name": "Guidewire",
         "id": "3c7a2512-c6b9-481a-ad48-58c081ee5025",
         "title": "AI Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -340134,7 +340111,7 @@
         "company_name": "Pennsylvania State University",
         "id": "72636fd7-15a0-474b-8146-e83de77d2b08",
         "title": "OriginLabs Technician and Lab Monitor",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -344401,7 +344378,7 @@
         "company_name": "Halliburton",
         "id": "8b482d7b-700a-4403-9c12-0dfd6876e93a",
         "title": "Machine Learning Geoscientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -359029,7 +359006,7 @@
         "company_name": "Intapp",
         "id": "3c959951-e2bc-48b7-8bee-d9f71e821969",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378713,7 +378690,7 @@
         "company_name": "University of Texas at Austin",
         "id": "3cbd0996-9f90-44ba-b932-c25874203727",
         "title": "Broadcast Engineer Senior Student Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384173,7 +384150,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "87d13377-824c-4467-b27e-24efcd848ea9",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -384309,7 +384286,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "e045efc0-7a85-4178-96f4-e8cc6e10fdae",
         "title": "GAM \u2013 Portfolio Solutions Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -392290,7 +392267,7 @@
         "company_name": "Louisiana State University (LSU)",
         "id": "de513e60-9aa2-49b0-a4ff-1706a0c29703",
         "title": "Transient Research Project Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -393716,7 +393693,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "a28e6f4b-15be-42ec-b13e-2a426fd17826",
         "title": "GHG Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -395886,7 +395863,7 @@
         "company_name": "Delta Dental",
         "id": "4392d204-b68c-4302-bdc2-14bd87fe0c3c",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397063,7 +397040,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "ee96ab23-9704-4554-ab17-29ae5e380422",
         "title": "Product & Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Summer 2027"
@@ -397150,7 +397127,7 @@
         "company_name": "Loblaw Companies",
         "id": "89a021e7-fffa-4133-8efd-ea2d1456a2fe",
         "title": "Technical Design Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -405671,7 +405648,7 @@
         "company_name": "NBCUniversal",
         "id": "6a41eebd-e398-4006-bd7a-3fe565c1fdfa",
         "title": "Film Technology AR/VR Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -406298,7 +406275,7 @@
         "company_name": "Desjardins Group",
         "id": "b8011049-1548-4053-9e0a-5906cd2dbd3f",
         "title": "Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -410549,7 +410526,7 @@
         "company_name": "Pathos",
         "id": "d9ea509b-1e6a-4984-8ede-eb92547cabed",
         "title": "ML Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -412239,7 +412216,7 @@
         "company_name": "Southwest Airlines",
         "id": "3cbc2783-82d7-42c7-9451-a079405180ae",
         "title": "Technology Junior Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -412696,7 +412673,7 @@
         "company_name": "CAE",
         "id": "efa65a8c-d804-442f-9165-003d9fe830c6",
         "title": "Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
