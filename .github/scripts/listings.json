@@ -1071,77 +1071,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "WillowTree",
-        "id": "88b1038e-f8e9-452f-8c8f-fdf2485beb50",
-        "title": "Software Engineering Intern - Fuel iX",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758233694,
-        "date_posted": 1758233694,
-        "url": "https://job-boards.greenhouse.io/willowtree/jobs/8112498002",
-        "locations": [
-            "Durham, NC",
-            "Columbus, OH",
-            "Charlottesville, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/WillowTree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GE Vernova",
-        "id": "5e7f8cb9-3903-43c7-a815-f3282b69e183",
-        "title": "GE Vernova AI/ML Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758233559,
-        "date_posted": 1758233559,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-AI-ML-Engineer-Intern---Summer-2026_R5020396-1",
-        "locations": [
-            "Schenectady, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Mitsubishi UFG",
-        "id": "a49530f2-599d-4a8c-9330-c5718eaac287",
-        "title": "2026 MUFG Summer Internship: Structured Trading Group",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758233416,
-        "date_posted": 1758233416,
-        "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/XMLNAME-2026-MUFG-UK-Summer-Internship--Structured-Trading-Group_10072894-WD-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Mitsubishi-UFG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AbbVie",
         "id": "99f19e65-3329-402e-b915-dab59944371a",
@@ -211171,7 +211100,7 @@
         "company_name": "HNTB",
         "id": "0bd4aad3-f4c9-4245-b83a-ace20aaec1c4",
         "title": "Data & AI Intern - No/Low-Code + GenAI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -343298,7 +343227,7 @@
         "company_name": "Halliburton",
         "id": "8b482d7b-700a-4403-9c12-0dfd6876e93a",
         "title": "Machine Learning Geoscientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374009,7 +373938,7 @@
         "company_name": "Ascensus",
         "id": "1144cf0a-d7dc-4e78-b36d-8ccaba9d92e7",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -392844,7 +392773,7 @@
         "company_name": "Samsung",
         "id": "fc009865-651e-4548-b29e-ee267d5e19ae",
         "title": "AI Research Intern - Agentic AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -393649,7 +393578,7 @@
         "company_name": "Tempus",
         "id": "7c4c6576-4a3b-4635-9cb3-3337564d61c3",
         "title": "AI Data Science Associate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -402092,7 +402021,7 @@
         "company_name": "Centific",
         "id": "870bfe1c-ab9e-49e0-873b-8346dabd4abb",
         "title": "PhD Technical Intern - Vision AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -412819,6 +412748,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akima",
+        "id": "1b47df5a-a950-4f67-8411-1bb9a8fd4554",
+        "title": "Unity Game Designer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778969447,
+        "date_posted": 1778969204,
+        "url": "https://careers.akima.com/jobs/23147?lang=en-us&icims=1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akima",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
