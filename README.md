@@ -1,6 +1,6 @@
-  # Summer 2026 NYC Tech Internships
+  # Summer 2026 Tech Internships — NYC & Remote
 
-  A filtered view of Summer 2026 tech internships **located in New York City only**. Sourced from the [Pitt CSC & Simplify internship list](https://github.com/SimplifyJobs/Summer2026-Internships) and filtered to show only NYC-based roles across software, data science, quant, and more.
+  Filtered from [SimplifyJobs/Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships). Showing only **Summer 2026** internships in **New York City** or **Remote**. Auto-synced every 5 min with Discord notifications.
 
 
 
