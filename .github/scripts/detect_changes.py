@@ -1,8 +1,30 @@
 import json
 import os
+import hashlib
+import urllib.request
 
 OLD_PATH = ".github/scripts/listings_old.json"
 NEW_PATH = ".github/scripts/listings.json"
+NOTIFIED_PATH = ".github/scripts/notified_hashes.json"
+
+SIBLING_HASH_URLS = [
+    "https://raw.githubusercontent.com/skarazan/Summer2027-Internships/dev/.github/scripts/notified_hashes.json",
+    "https://raw.githubusercontent.com/skarazan/Internships-2026/main/.github/data/notified_hashes.json",
+]
+
+def job_hash(entry):
+    key = f"{entry.get('company_name','').lower().strip()}|{entry.get('title','').lower().strip()}"
+    return hashlib.md5(key.encode()).hexdigest()[:12]
+
+def fetch_sibling_hashes():
+    hashes = set()
+    for url in SIBLING_HASH_URLS:
+        try:
+            with urllib.request.urlopen(url, timeout=5) as resp:
+                hashes.update(json.loads(resp.read()))
+        except Exception:
+            pass
+    return hashes
 
 def is_nyc_or_remote(locations):
     for loc in locations:
@@ -35,11 +57,25 @@ reactivated = [
     and is_nyc_or_remote(e.get('locations', []))
 ]
 
+notified = set()
+if os.path.exists(NOTIFIED_PATH):
+    with open(NOTIFIED_PATH) as f:
+        notified = set(json.load(f))
+sibling_hashes = fetch_sibling_hashes()
+all_known = notified | sibling_hashes
+
+added = [e for e in added if job_hash(e) not in all_known]
+reactivated = [e for e in reactivated if job_hash(e) not in all_known]
+
 changes = added + reactivated
-print(f"New: {len(added)}, Reactivated: {len(reactivated)}")
+print(f"New: {len(added)}, Reactivated: {len(reactivated)} (after dedup)")
 
 output_file = os.environ.get("GITHUB_OUTPUT", "/dev/null")
 if changes:
+    for e in changes:
+        notified.add(job_hash(e))
+    with open(NOTIFIED_PATH, "w") as f:
+        json.dump(sorted(notified), f)
     lines = []
     for e in added[:20]:
         locs = ", ".join(e.get("locations", []))

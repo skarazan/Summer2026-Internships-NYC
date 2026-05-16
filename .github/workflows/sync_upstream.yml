@@ -58,6 +58,11 @@ jobs:
         if: env.listings_changed == 'true'
         run: uv run main.py auto-apply detect
 
+      - name: Detect new listings for Discord
+        if: env.listings_changed == 'true'
+        id: detect
+        run: python3 .github/scripts/detect_changes.py
+
       - name: Commit and push changes
         if: env.listings_changed == 'true'
         run: |
@@ -65,16 +70,12 @@ jobs:
           git config --local user.name "GitHub Action"
           git add .github/scripts/listings.json
           git add .github/scripts/pending_applications.json
+          git add .github/scripts/notified_hashes.json
           git add README.md
           git add README-Inactive.md
           git add README-Off-Season.md
           git diff-index --quiet HEAD || \
             git commit -m "Sync upstream listings & update NYC READMEs — $(date +'%B %d, %Y %H:%M')"
-
-      - name: Detect new listings for Discord
-        if: env.listings_changed == 'true'
-        id: detect
-        run: python3 .github/scripts/detect_changes.py
 
       - name: Push changes
         if: env.listings_changed == 'true'
