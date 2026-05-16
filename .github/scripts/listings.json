@@ -125208,7 +125208,7 @@
         "company_name": "Ambarella",
         "id": "cd94083e-cc43-4ac3-ab77-eb4e883cf7ab",
         "title": "Software Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -380189,7 +380189,7 @@
         "company_name": "NBCUniversal",
         "id": "41655278-a249-4e9f-b17d-f9187aacc922",
         "title": "Film Technology AR/VR Internships Intern - Academic Year",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -383369,7 +383369,7 @@
         "company_name": "Manulife Financial",
         "id": "bd47ca24-0cf8-476e-83e3-e77bc79d529a",
         "title": "Co-op - Data Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -393785,7 +393785,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "737a77a0-b1a1-4897-ab56-0ea7298e7b11",
         "title": "Software Development Intern - Business Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -393901,7 +393901,7 @@
         "company_name": "University of Virginia",
         "id": "0e5ee6f1-eac9-44f8-9c4e-be3868dffdc1",
         "title": "Gaynor Research Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -396635,7 +396635,7 @@
         "company_name": "Thales",
         "id": "9a175a51-c9ab-40f0-9a15-8b017aa8f5ce",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -408776,7 +408776,7 @@
         "company_name": "Cisive",
         "id": "e018a2ac-82d3-4544-85aa-440aa29efa03",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -409147,7 +409147,7 @@
         "company_name": "Manulife Financial",
         "id": "d1f4b10b-24eb-476a-bc42-c2c4d5c8e0f2",
         "title": "Software Engineering Co-op - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -413175,7 +413175,7 @@
         "company_name": "Centific",
         "id": "4e2fb10f-ec9d-46fa-a63a-4d5f90987bfe",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413516,7 +413516,7 @@
         "company_name": "University of Arkansas",
         "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
         "title": "Student Research Assistant-2",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -413757,6 +413757,29 @@
             "Columbus, MS"
         ],
         "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "94ea9793-c0bc-461a-874b-5c1d2a119851",
+        "title": "Placement Student - Software Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778940541,
+        "date_posted": 1778940422,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270783",
+        "locations": [
+            "Londonderry, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
