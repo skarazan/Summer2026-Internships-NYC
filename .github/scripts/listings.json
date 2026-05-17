@@ -1782,52 +1782,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Boston Scientific",
-        "id": "0259cce3-8bbd-467e-a433-bb92de98b4b7",
-        "title": "AIS R&D Research Data Science Intern - Interns/Graduates - Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758419079,
-        "date_posted": 1758290226,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808622802",
-        "locations": [
-            "Roseville, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Boston Scientific",
-        "id": "335ac5bd-cd6b-4b80-ab60-688607657bbc",
-        "title": "AIS R&D Systems Engineer Intern - EE - Interns/Graduates - Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758583106,
-        "date_posted": 1758288420,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808636860",
-        "locations": [
-            "Roseville, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Visa",
         "id": "485cdd4e-6a77-461f-b033-619694332bb7",
         "title": "Consulting & Analytics Intern",
@@ -397961,7 +397915,7 @@
         "company_name": "Leidos",
         "id": "010d4c32-fa2d-4b62-8c40-3d8039798011",
         "title": "Full Stack Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -407410,7 +407364,7 @@
         "company_name": "Trane Technologies",
         "id": "2a4e7e8a-08d8-4e2a-9708-bbbdf507f1bf",
         "title": "Commercialization Product Support Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
