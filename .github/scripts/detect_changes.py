@@ -26,14 +26,24 @@ def fetch_sibling_hashes():
             pass
     return hashes
 
-def is_nyc_or_remote(locations):
+def is_phd(entry):
+    title = (entry.get('title') or '').lower()
+    return 'phd' in title or 'ph.d' in title
+
+def is_nyc_or_remote_usa(locations):
+    has_nyc = False
+    has_remote_usa = False
     for loc in locations:
         l = loc.lower()
+        if any(kw in l for kw in ('uk', 'united kingdom', 'london', 'england', 'scotland')):
+            continue
         if any(kw in l for kw in ('new york', 'nyc', 'manhattan', 'brooklyn')):
-            return True
+            has_nyc = True
         if 'remote' in l:
-            return True
-    return False
+            if any(kw in l for kw in ('uk', 'canada', 'united kingdom', 'london', 'india', 'europe')):
+                continue
+            has_remote_usa = True
+    return has_nyc or has_remote_usa
 
 def load(path):
     try:
@@ -49,12 +59,12 @@ old_ids = {e['id'] for e in old}
 new_ids = {e['id'] for e in new}
 old_by_id = {e['id']: e for e in old}
 
-added = [e for e in new if e['id'] in (new_ids - old_ids) and is_nyc_or_remote(e.get('locations', []))]
+added = [e for e in new if e['id'] in (new_ids - old_ids) and is_nyc_or_remote_usa(e.get('locations', [])) and not is_phd(e)]
 reactivated = [
     e for e in new
     if e['id'] in old_ids
     and e.get('active') and not old_by_id[e['id']].get('active')
-    and is_nyc_or_remote(e.get('locations', []))
+    and is_nyc_or_remote_usa(e.get('locations', [])) and not is_phd(e)
 ]
 
 notified = set()
