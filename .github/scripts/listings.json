@@ -394560,7 +394560,7 @@
         "company_name": "Loblaw Companies",
         "id": "00634ece-a76d-4b55-85c7-99e6428e22a3",
         "title": "Market Analytics Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -407389,7 +407389,7 @@
         "company_name": "TransPerfect",
         "id": "009fbf42-7902-4632-a32d-8be35fa22fae",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -411509,5 +411509,27 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SiFive",
+        "id": "ec5e83b4-1cb5-4b81-9056-28110a076c6e",
+        "title": "Platform Technologies Language Design Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779027121,
+        "date_posted": 1779026876,
+        "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Platform-Technologies-Language-Design-Intern_R-101183",
+        "locations": [
+            "Santa Clara, CA",
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SiFive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
