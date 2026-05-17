@@ -87,17 +87,19 @@ if changes:
         notified.add(job_hash(e))
     with open(NOTIFIED_PATH, "w") as f:
         json.dump(sorted(notified), f)
+    MAX_SHOW = 5
     lines = []
-    for e in added[:20]:
+    for e in added[:MAX_SHOW]:
         locs = ", ".join(e.get("locations", []))
         url = e.get("url", "")
         lines.append(f"🆕 **{e['company_name']}** — {e['title']}\n📍 {locs}\n🔗 <{url}>")
-    for e in reactivated[:10]:
+    for e in reactivated[:max(0, MAX_SHOW - len(added))]:
         locs = ", ".join(e.get("locations", []))
         url = e.get("url", "")
         lines.append(f"🔓 **{e['company_name']}** — {e['title']} (reopened)\n📍 {locs}\n🔗 <{url}>")
-    if len(added) > 20:
-        lines.append(f"...and {len(added) - 20} more new listings")
+    extra = len(added) + len(reactivated) - len(lines)
+    if extra > 0:
+        lines.append(f"...and **{extra} more** — check the README")
     message = "@everyone\n\n" + "\n\n".join(lines)
     with open(".github/scripts/discord_message.txt", "w") as f:
         f.write(message)
