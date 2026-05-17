@@ -1,54 +1,5 @@
 [
     {
-        "date_updated": 1759960438,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://focuskpi.applytojob.com/apply/4czYHwfYDf/AI-Engineer-Intern-Remote",
-        "company_name": "FocusKPI",
-        "title": "AI Engineer Intern",
-        "locations": [
-            "Remote in USA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "e194a15b-c589-4326-aff8-d3a7ed29d303",
-        "date_posted": 1758300682,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1763029174,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://ideas-sas.icims.com/jobs/40116/software-engineer-in-test-intern/job",
-        "company_name": "IDeaS",
-        "title": "Software Engineer in Test Intern",
-        "locations": [
-            "Bloomington, MN"
-        ],
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "4a165f73-f556-479f-b244-c6617d112ecd",
-        "date_posted": 1758300827,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Other",
         "company_name": "ServiceNow",
@@ -190019,7 +189970,7 @@
         "company_name": "TENEX.AI",
         "id": "214f12da-7d0d-4625-96b9-108cc4ed94ce",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
