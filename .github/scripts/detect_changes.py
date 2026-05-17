@@ -10,6 +10,7 @@ NOTIFIED_PATH = ".github/scripts/notified_hashes.json"
 SIBLING_HASH_URLS = [
     "https://raw.githubusercontent.com/skarazan/Summer2027-Internships/dev/.github/scripts/notified_hashes.json",
     "https://raw.githubusercontent.com/skarazan/Internships-2026/main/.github/data/notified_hashes.json",
+    "https://raw.githubusercontent.com/skarazan/southeast-tech-internships-2026-2027/main/.github/data/notified_hashes.json",
 ]
 
 def job_hash(entry):
