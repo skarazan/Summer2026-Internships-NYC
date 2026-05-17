@@ -974,52 +974,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "02b0dda9-236c-4be9-8daa-f10d4c355fc9",
-        "title": "Intern \u2013 SSD Firmware",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758583167,
-        "date_posted": 1758324450,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---SSD-Firmware_JR83017",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TransPerfect",
-        "id": "da3af8bc-f1cf-48f5-9cef-60c7e89a645d",
-        "title": "Operations Intern - Data Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758582985,
-        "date_posted": 1758321566,
-        "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Operations-Intern---Data-Analytics_R2025-242307",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/TransPerfect",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Visa",
         "id": "485cdd4e-6a77-461f-b033-619694332bb7",
@@ -393189,7 +393143,7 @@
         "company_name": "Everlaw",
         "id": "51c4a885-a755-4f56-ae3b-1cc8044eed47",
         "title": "GTM Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
