@@ -48,29 +48,6 @@
     {
         "source": "Simplify",
         "category": "Other",
-        "company_name": "ServiceNow",
-        "id": "49514a2e-ac9b-4035-8694-e43c33e8cb6c",
-        "title": "Associate Information Security Analyst Intern - Sso",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758418895,
-        "date_posted": 1758360511,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083014236",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
         "company_name": "Boston Scientific",
         "id": "5fa5a2d1-aa8a-4dcd-8c7d-2d38a80e93c1",
         "title": "AIS R&D Security Engineer Intern - Interns/Graduates - Development",
@@ -329441,7 +329418,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -343938,7 +343915,7 @@
         "company_name": "Baker Hughes",
         "id": "b11f296d-b2ba-4686-be51-b55c495bd3eb",
         "title": "Month Emerging Talent \u2013 Software Intern Opportunities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366202,9 +366179,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776157706,
+        "date_updated": 1779101186,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -386400,7 +386377,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "5cd97e38-1ba7-4ba5-9cd3-3b16e47e8e92",
         "title": "Credit Modeling & Methodology Intern - Credit Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -390654,9 +390631,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1777638156,
+        "date_updated": 1779101186,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -390700,9 +390677,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1777638524,
+        "date_updated": 1779101186,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -398147,9 +398124,9 @@
         ]
     },
     {
-        "date_updated": 1778157957,
+        "date_updated": 1779101186,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -408227,7 +408204,7 @@
         "company_name": "Harris Computer",
         "id": "b01e4509-72ac-44dc-9169-a32bf84581e1",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409119,7 +409096,7 @@
         "company_name": "Vertiv",
         "id": "94ea9793-c0bc-461a-874b-5c1d2a119851",
         "title": "Placement Student - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -409631,6 +409608,29 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/FOX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Quest Global",
+        "id": "01467ce2-35b2-400d-9402-8f51b73adcde",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779095477,
+        "date_posted": 1779095297,
+        "url": "https://careers.quest-global.com/global/en/job/P-118812",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Quest-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
