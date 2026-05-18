@@ -64363,7 +64363,7 @@
         "company_name": "Bloom Energy",
         "id": "28e7723d-87ac-43e1-b8bf-6ea0e3eae940",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2026",
@@ -71489,7 +71489,7 @@
         "company_name": "Tencent",
         "id": "553c3141-cedc-4ce8-ae4d-c4dbfd12ce83",
         "title": "Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -208356,7 +208356,7 @@
         "company_name": "The Walt Disney Company",
         "id": "60141c7b-6487-49ae-9932-3c452749138d",
         "title": "WDI Show Control Hardware Intern - Glendale - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -282791,7 +282791,7 @@
         "company_name": "Halliburton",
         "id": "25dc9608-ee21-474c-84a9-3b24d5868a6f",
         "title": "Intern Automation Geoscientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -292314,7 +292314,7 @@
         "company_name": "University of Chicago",
         "id": "7182cd31-73c1-4e06-905f-dd1341e9d577",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312969,7 +312969,7 @@
         "company_name": "The Walt Disney Company",
         "id": "61c8fe65-d07f-4eba-98f9-eeb766eb9451",
         "title": "WDI Special Effects Designer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -319358,7 +319358,7 @@
         "company_name": "University of Chicago",
         "id": "83e2ea51-029e-46c3-9976-c1e5867a86ef",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332823,7 +332823,7 @@
         "company_name": "TNS",
         "id": "3de7ddd4-4951-42b8-97de-864d68e72fb9",
         "title": "Mobile Telecom Applications Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338440,7 +338440,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "0fd887b4-89e4-4fdb-8f84-96c3b11e5ff6",
         "title": "Software Developer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -366522,7 +366522,7 @@
         "company_name": "Geisinger",
         "id": "5991079c-d741-4088-a869-2632603f35cd",
         "title": "Intern Undergraduate IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366684,7 +366684,7 @@
         "company_name": "DriveTime",
         "id": "767c66c6-666e-410d-aa2f-e7b30ce0bcdf",
         "title": "Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -378928,7 +378928,7 @@
         "company_name": "Johnson & Johnson",
         "id": "fae3ac45-3929-4b91-b778-ac0866ea8b29",
         "title": "Technology Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -391722,7 +391722,7 @@
         "company_name": "Altera Corporation",
         "id": "13561ce6-ad19-4020-9e04-8e95467b2813",
         "title": "FPGA Development Tools Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -395274,7 +395274,7 @@
         "company_name": "Altom Transport",
         "id": "7d5f248c-7dca-47b0-9434-72f9c8091484",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395339,7 +395339,7 @@
         "company_name": "Altom Transport",
         "id": "6657ae54-86a0-47c2-aac3-d20df829fb37",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395385,7 +395385,7 @@
         "company_name": "Altom Transport",
         "id": "b8cb407f-5dbb-450d-84d4-387a0a0fa348",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397745,7 +397745,7 @@
         "company_name": "Comcast",
         "id": "97698028-6d15-4546-ae94-929171b59c9c",
         "title": "Comcast Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -397937,7 +397937,7 @@
         "company_name": "Comcast",
         "id": "dc8b7046-6463-4918-8276-b2debf5208dc",
         "title": "Finance Technology Automation & AI Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -400564,7 +400564,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "021d12d5-64ed-4980-8b3f-4f30d00f6b0b",
         "title": "GIS Intern - Enterprise Space Information Management - Esim",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -402781,7 +402781,7 @@
         "company_name": "The Walt Disney Company",
         "id": "9c45103b-7822-4919-a5ff-5ba4283c2a53",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404267,7 +404267,7 @@
         "company_name": "Pennsylvania State University",
         "id": "b24f917a-ead2-4a87-83ce-c2ce6aa8eef4",
         "title": "College of IST Research Assistant in Securing Embodied AI Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406691,7 +406691,7 @@
         "company_name": "American University",
         "id": "069391a4-e1df-4def-9ff5-ca592aeb4603",
         "title": "Research Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -407360,7 +407360,7 @@
         "company_name": "Keysight Technologies",
         "id": "829556df-49ab-4f13-b10d-b9466c78fff0",
         "title": "Calibration & Repair Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407816,7 +407816,7 @@
         "company_name": "Valeo",
         "id": "9732accc-98a6-40c8-9832-da1ee9331262",
         "title": "Test Tools Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407839,7 +407839,7 @@
         "company_name": "Altamira Technologies",
         "id": "f93db17f-5d1e-451a-b944-b4d9179b3a37",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -408181,7 +408181,7 @@
         "company_name": "Crum & Forster Insurance",
         "id": "37620c36-a8b3-4929-915b-b0c889b58867",
         "title": "Data Science Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -409631,6 +409631,75 @@
             "Leeds, UK"
         ],
         "company_url": "https://simplify.jobs/c/Quest-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SS&C",
+        "id": "d210210a-ae3f-4cc6-bccd-038582c86e14",
+        "title": "Systems Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779113738,
+        "date_posted": 1779113255,
+        "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/London---1-Ropemaker-Street/Summer-Intern-Systems-Development_R43013-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SS&C",
+        "id": "a8c6da81-e9e4-4cc5-aace-c309eba42a51",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779113341,
+        "date_posted": 1779113255,
+        "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/London---1-Ropemaker-Street/Machine-Learning-Intern--London_R42634",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SS&C",
+        "id": "0963686f-bb54-45ba-ad77-72ef9867a963",
+        "title": "Quantitative Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779113341,
+        "date_posted": 1779113255,
+        "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/London---1-Ropemaker-Street/Quantitative-Development-Intern--London_R42635",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
