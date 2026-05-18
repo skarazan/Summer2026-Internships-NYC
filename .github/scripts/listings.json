@@ -25,219 +25,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Relativity Space",
-        "id": "e9bf0d8a-39ed-4a05-b338-4f8aec88f559",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758583021,
-        "date_posted": 1758338387,
-        "url": "https://boards.greenhouse.io/rsinternboard/jobs/8173412002",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Relativity-Space",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GlobalFoundries",
-        "id": "eea3ed20-4d85-4988-9893-60763df7d5ee",
-        "title": "Tapeout Engineering Business Applications and Data Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758335703,
-        "date_posted": 1758335703,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Tapeout-Engineering-Biz-Apps---Data-Intern--Summer-2026-_JR-2502789",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/GlobalFoundries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "6da420b3-9731-4cad-9552-8d7301c86056",
-        "title": "Software Engineering Co-Op - Summer/Fall 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1758334889,
-        "date_posted": 1758334889,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HOR32-Wilsonville-OR-27300-SW-Parkway---Wilsonville-OR-97070-9215-USA/Software-Engineering-Co-Op--Summer-Fall-2026---Onsite-_01794184",
-        "locations": [
-            "Tualatin, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "4deb1014-386d-4eff-90d3-9ebb055ac006",
-        "title": "Software Engineering Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758334881,
-        "date_posted": 1758334881,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HFL34-Melbourne-FL-1100-W-Hibiscus-Blvd---Melbourne-FL-32902-2704-USA/Software-Engineering-Intern--Summer-2026---Onsite-_01794506-1",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "38d5c1a9-e228-4254-a4e5-236221616261",
-        "title": "Electrical Engineering Intern - Hardware",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758334882,
-        "date_posted": 1758334882,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HFL34-Melbourne-FL-1100-W-Hibiscus-Blvd---Melbourne-FL-32902-2704-USA/Electrical--Hardware--Engineering-Intern--Summer-2026--Onsite-_01794502",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "b78fd713-2d81-46d6-a843-95720db8f3a2",
-        "title": "Decision Science Undergraduate Intern - Decision Science",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1758333813,
-        "date_posted": 1758333813,
-        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Decision-Science-Undergraduate-Intern--Spring-2026_10130431-2",
-        "locations": [
-            "Celebration, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "CAI",
-        "id": "e9e4b1b4-e251-47df-8a30-61b13bf17743",
-        "title": "Cybersecurity Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758333395,
-        "date_posted": 1758333395,
-        "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Cybersecurity-Intern_R6165",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CAI-Io",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sun Life",
-        "id": "f86943f5-b0f1-41f5-9bcf-1a38b1ea7ac7",
-        "title": "Student \u2013 Business Systems Analyst - Winter 2026",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1758332483,
-        "date_posted": 1758332483,
-        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Business-Systems-Analyst--Winter-2026-_JR00115815",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sun-Life",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "150bf422-b54e-45a1-8bb6-0c55509c8cdb",
-        "title": "Product Manager - Intern - Travel & Entertainment Ads",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758332381,
-        "date_posted": 1758332381,
-        "url": "https://lifeattiktok.com/search/7551914894279608583",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Visa",
         "id": "485cdd4e-6a77-461f-b033-619694332bb7",
         "title": "Consulting & Analytics Intern",
@@ -82887,27 +82674,6 @@
             "Boise, ID"
         ],
         "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "008b4076-c6c6-43ce-a50f-485e32af33bf",
-        "title": "2026 Pharmacometrics Intern - PhD",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761258562,
-        "date_posted": 1758335186,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990009546916",
-        "locations": [
-            "Waukegan, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -375041,7 +374807,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "bee4f634-b066-4b67-85a0-3b61ae09c376",
         "title": "Insurance Business and Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -375087,7 +374853,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "9d2064ca-ca7f-424d-9b8f-fded29b5baea",
         "title": "Wealth Management Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -375206,7 +374972,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "1ab09564-3e9c-487b-87e5-d1d09649053c",
         "title": "Co-op Machine Learning Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375230,7 +374996,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "97069be8-eae8-4b6d-913c-955e9bffd9c0",
         "title": "Machine Learning Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375256,7 +375022,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "341dd474-0a73-41eb-979d-d43aee51e156",
         "title": "Machine Learning Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375529,7 +375295,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "efd27aff-4772-42fc-b495-ad4a216a1a5d",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -375707,7 +375473,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "8d5814e5-274b-4474-9d82-c8f881ef103a",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -375888,7 +375654,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "9662257d-03f7-45d9-b21e-dd15cbb221d2",
         "title": "Student Intern - Data Analyst - Commercial Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -376075,7 +375841,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "8d910406-ed2d-4723-b5e5-9363f720fb41",
         "title": "CFO \u2013 Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -377310,7 +377076,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "f8160e16-ca09-498c-bc84-4785b88d8848",
         "title": "CFO Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -377844,7 +377610,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "913b635e-054e-4fb0-ae27-8a27e80eee96",
         "title": "Global Risk Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -379431,7 +379197,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "d46e1fdf-916e-4bec-a994-94faf8a29609",
         "title": "Data Analyst Developer Intern - Grm",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -379780,7 +379546,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "87d13377-824c-4467-b27e-24efcd848ea9",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -380268,7 +380034,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "e1b4e848-dfc6-4312-baec-5d135ef0edd5",
         "title": "Data Analyst Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -380770,7 +380536,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "c66c2067-632b-4206-a0a6-c2c6c3fea0dd",
         "title": "Data Engineer Intern - Grm - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -383099,7 +382865,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "1ea442b9-59d2-470b-b92e-e8616bebe4b6",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -383219,7 +382985,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "e69b7443-2249-4049-9379-8124e34c6429",
         "title": "Data Science Intern - Grm - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -383635,7 +383401,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "38b047c5-faa8-47cf-a04e-dfd72ad2dd64",
         "title": "CFO \u2013 Markets Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -384667,7 +384433,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "998701e4-4702-458b-9c2a-13c7a4f02fd9",
         "title": "Enterprise Data Management Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -384945,7 +384711,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "04d53088-843c-42c2-a307-0e681d1a57bc",
         "title": "Enterprise Data Management Solutions Intern - Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -386384,7 +386150,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "c170da9f-75da-4e67-a22c-c39842bfed91",
         "title": "Credit Modeling & Methodology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -388078,7 +387844,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "1b45fcd5-7fa7-4894-9f54-227187069f43",
         "title": "Capital Markets QTS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -388288,7 +388054,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "77a71ecf-2439-4a85-8415-9dbf9d7c9423",
         "title": "Capital Markets QTS Intern - Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390273,7 +390039,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "ea2aab66-0170-4f6e-8cf3-edf8dd8f81b6",
         "title": "CFO \u2013 Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -391657,7 +391423,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "cd211cbc-3918-4c30-b9bf-87d1470cdc28",
         "title": "Insurance Product Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -393190,7 +392956,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "0136846e-6997-4541-99e6-7557f582e747",
         "title": "Wealth Management \u2013 Digital Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -393260,7 +393026,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "1ca7360c-b3eb-4d25-82fc-27115d1ec0d5",
         "title": "Credit Risk Analytics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -393765,7 +393531,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "885b612e-955f-494a-8499-26efd83e1f1b",
         "title": "Reference Data Analyst Intern - Cdo - Ns",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -394054,7 +393820,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "0de7a683-a9d6-491b-9f9c-a4490d1e5021",
         "title": "Credit Risk Analytics Engineer Intern - Grm",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -394240,7 +394006,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "071ae55c-fc0c-4a6e-a2a4-108b935b78de",
         "title": "Reference Data Analyst Intern - Cdo",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -396232,7 +395998,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "841512a1-c8d5-4de1-82ab-6d5025bacc53",
         "title": "Capital Markets Intern - Global Equities - Fall Sales & Trading Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -400378,7 +400144,7 @@
         "company_name": "Sun Life",
         "id": "faf89cb5-1a53-44d6-acb0-3c1c05a8ac21",
         "title": "Student \u2013 Data Governance Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -402140,7 +401906,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "2b2e9c95-048c-4a41-96cc-94af877774ee",
         "title": "Business Intelligence Developer/Engineer Engineer Intern - Ecco",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -402211,7 +401977,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "782ded0d-171f-4d4c-8723-e6aebf486455",
         "title": "Business Intelligence Developer/Engineer Intern - Ecco",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
