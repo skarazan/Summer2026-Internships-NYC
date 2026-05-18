@@ -242,7 +242,7 @@
 <td>Intern - Market Research and Product Development</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/00099---Diamonds-Direct-New-York-NY/Internship---Market-Research-and-Product-Development_REQ_80060-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b016e33e-8187-45a7-b8f2-90d031def58b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
@@ -339,7 +339,7 @@
 <td>MBA Intern - AI Retail Project 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://fahertybrand.com/pages/faherty-applications?gh_jid=5104030007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c4eb6315-4522-4bf0-b2fc-3842edddbca0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sony?utm_source=GHList&utm_medium=company">Sony</a></strong></td>
