@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "ServiceNow",
-        "id": "f66d66c7-ca1f-41a1-8df9-ef6faeaceeda",
-        "title": "Associate Application Security Engineer Intern - Sso",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758418860,
-        "date_posted": 1758353478,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083003661",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Visa",
         "id": "485cdd4e-6a77-461f-b033-619694332bb7",
@@ -89,29 +66,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ServiceNow",
-        "id": "2220cfaf-ccfc-4a96-b5af-52253e3f3e9e",
-        "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758418877,
-        "date_posted": 1758358830,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083021284",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -104386,7 +104340,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "94e64928-b15c-4dca-95a0-37ad8f59c0f0",
         "title": "Software Engineering Intern - Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -233104,7 +233058,7 @@
         "company_name": "The Exploration Company",
         "id": "49d448e1-2291-4630-88c7-5a25d0dc4763",
         "title": "Crew Systems Engineering Intern-Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -329487,7 +329441,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -374876,7 +374830,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "7e0ef515-c339-40fa-87a2-be97139bc246",
         "title": "Wealth Management Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -374923,7 +374877,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "6b2cd944-dcc8-4d69-a9bb-2a89296ffb62",
         "title": "Machine Learning Software Engineer Co-op - 4 - 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -376355,7 +376309,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "530480fb-52da-4143-81f3-ab588836a123",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -376846,7 +376800,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "60ba9adc-f6bc-4824-9dae-0905d1feed51",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -377566,7 +377520,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "82d96a08-e59e-4f51-9e70-54d3f74e23c2",
         "title": "Global Risk Analytics Intern - Grm - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -379682,7 +379636,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "e045efc0-7a85-4178-96f4-e8cc6e10fdae",
         "title": "GAM \u2013 Portfolio Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -382498,7 +382452,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "6d0a99c3-26b2-432f-a176-97fe6fe5ad14",
         "title": "Global Asset Management \u2013 Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -382913,7 +382867,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "661d20c7-bf65-4406-98da-b7b1523e10aa",
         "title": "Data Science Intern - Grm - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -383331,7 +383285,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "60baf325-bc87-4ec6-b8ab-5baea248a90d",
         "title": "Data Engineer Intern - Group Risk Management - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -386860,7 +386814,7 @@
         "company_name": "Mackenzie Investments",
         "id": "45cd0f13-7203-4e2c-b4d0-40c657f12d7f",
         "title": "Intern - Data Engineering Delivery",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -404246,7 +404200,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "64fab4ed-2505-4a69-bf70-6a357d3226e9",
         "title": "Student Research Collaborator",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -409612,6 +409566,75 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hyundai Motor Company",
+        "id": "22d054e2-5914-4656-9f3f-09b943943c03",
+        "title": "Infotainment Application Developer",
+        "active": false,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779084361,
+        "date_posted": 1779084355,
+        "url": "https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-Infotainment-Application-Developer-MI-48198/1391669800/?ats=successfactors",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/b5474c30-ac69-40c8-8387-51dcf3675b12",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "8370d7c2-38e1-4e3e-a4a1-91b73bc128a9",
+        "title": "Student Researcher - AI Foundation Models Infrastructure - Seed Infra",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779084721,
+        "date_posted": 1779084647,
+        "url": "https://jobs.bytedance.com/en/position/7639881929596586245/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "FOX",
+        "id": "b8824703-fe69-4f28-b705-68510ab904db",
+        "title": "FOX News Media Internship Program Intern - Data Analytics",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779084867,
+        "date_posted": 1779084519,
+        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Fall-2026-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50032616-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/FOX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
