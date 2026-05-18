@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Visa",
-        "id": "485cdd4e-6a77-461f-b033-619694332bb7",
-        "title": "Consulting & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1758391747,
-        "date_posted": 1758391747,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000082912389",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "Boston Scientific",
         "id": "5fa5a2d1-aa8a-4dcd-8c7d-2d38a80e93c1",
@@ -44763,7 +44740,7 @@
         "company_name": "Illumio",
         "id": "eb2578c2-32ca-45a0-8e8f-df52ffa06295",
         "title": "Technical Program Management Intern - Program Management - Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183734,7 +183711,7 @@
         "company_name": "Magna",
         "id": "7fee2e1c-75fa-4a35-b42a-2df45b8fcfd4",
         "title": "Student Engineering ADAS Algorithm",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -184264,7 +184241,7 @@
         "company_name": "PennState University",
         "id": "d02beb7c-41df-4536-9ac0-d082e2b2ff92",
         "title": "Undergraduate Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -247055,7 +247032,7 @@
         "company_name": "Applied Materials",
         "id": "d8d315c5-b34e-4647-b756-691e8b925226",
         "title": "Radio Frequency Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -248439,7 +248416,7 @@
         "company_name": "Bose",
         "id": "d2d2038d-d37c-48c9-99c3-6855aaf81377",
         "title": "Audio Machine Learning Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295248,7 +295225,7 @@
         "company_name": "Cloudflare",
         "id": "d04ea383-c10d-4225-a209-9cf9020f39f5",
         "title": "Data Analytics Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310383,7 +310360,7 @@
         "company_name": "BeOne",
         "id": "e8c852af-5074-4a34-a258-1771fad8d041",
         "title": "Business Intelligence and Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -311866,7 +311843,7 @@
         "company_name": "Worthington Enterprises",
         "id": "d893e73f-359f-452d-8f86-985531c014ac",
         "title": "Industrial Applications Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313938,7 +313915,7 @@
         "company_name": "The Federal Reserve System",
         "id": "e101d805-293c-49f2-a24e-5ce987ed7770",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -317904,7 +317881,7 @@
         "company_name": "Safran",
         "id": "78e5d8d3-fe08-41f5-af19-07eb75c84d5c",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334188,7 +334165,7 @@
         "company_name": "PsiQuantum",
         "id": "99b00cc7-5b8d-40ad-91b0-153d9e4b89c9",
         "title": "Intern \u2013 Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367202,7 +367179,7 @@
         "company_name": "Appian",
         "id": "94fdcde6-ec6d-4c6a-a671-4774917694d2",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371441,7 +371418,7 @@
         "company_name": "W.R. Berkley",
         "id": "89ff2f02-753f-4972-90ab-a9a4d630272f",
         "title": "Business Intelligence Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386102,7 +386079,7 @@
         "company_name": "Cambium Learning Group",
         "id": "8446df16-f5f1-4fe4-9c20-44f6c0661737",
         "title": "Software Engineer Intern - AI Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387457,7 +387434,7 @@
         "company_name": "Adtheorant",
         "id": "8e42e09e-af3f-4d3c-b9ad-afef1602f956",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394853,7 +394830,7 @@
         "company_name": "Coherent ",
         "id": "d4e4a21f-d73c-478a-9192-20c73789376b",
         "title": "Thermal Management & Metrology Intern - Materials Characterization - Product Development",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398875,7 +398852,7 @@
         "company_name": "Sharecare",
         "id": "d027f016-0c6d-4196-aec9-0e959d41da6b",
         "title": "Data Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -400312,7 +400289,7 @@
         "company_name": "KION Group",
         "id": "69d64326-db6f-425a-abd3-6d9095b1faa1",
         "title": "AI Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400472,7 +400449,7 @@
         "company_name": "KION Group",
         "id": "df098b99-7cdf-4170-8ad6-26a0d68b4aed",
         "title": "AI Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403910,7 +403887,7 @@
         "company_name": "Fireworks AI",
         "id": "6460dfb3-ab86-4757-b345-032cebc6e1a8",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -407293,7 +407270,7 @@
         "company_name": "Curtiss-Wright Corporation",
         "id": "8701aeaf-8912-480b-9d4b-e131dc6869b2",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407520,7 +407497,7 @@
         "company_name": "Southwest Airlines",
         "id": "3cbc2783-82d7-42c7-9451-a079405180ae",
         "title": "Technology Junior Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -408359,7 +408336,7 @@
         "company_name": "Monolithic Power Systems",
         "id": "c5e6e6ba-ff2d-4dbd-973c-2808ec25701d",
         "title": "IT Software and AI Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
