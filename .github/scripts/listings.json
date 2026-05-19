@@ -224747,7 +224747,7 @@
         "company_name": "ASM Global",
         "id": "ae2d9193-c8c6-4c71-9933-75362edaf7cf",
         "title": "Summer Associate - Enterprise AI & Insights - 8 Week Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -234952,7 +234952,7 @@
         "company_name": "Axsome Therapeutics Inc",
         "id": "f2367f97-4ccc-4c53-8f0c-54aff39ebbd7",
         "title": "IT Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355868,7 +355868,7 @@
         "company_name": "Empower AI",
         "id": "6eb26908-472b-41d4-bef8-42e60ad9387c",
         "title": "AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364688,7 +364688,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "527f6229-0830-4b0d-bebf-9b948f241b44",
         "title": "Data Scientist/Artificial Intelligence Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371323,7 +371323,7 @@
         "company_name": "W.R. Berkley",
         "id": "89ff2f02-753f-4972-90ab-a9a4d630272f",
         "title": "Business Intelligence Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385173,7 +385173,7 @@
         "company_name": "Dairyland Power Cooperative",
         "id": "9c3ddbb3-e0a3-4d34-bd9e-c662e5c4113b",
         "title": "Regional Transmission Projects Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389666,7 +389666,7 @@
         "company_name": "Vanasse Hangen Brustlin (VHB)",
         "id": "6afc672e-3366-4893-ab77-d6ca09563778",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -390723,7 +390723,7 @@
         "company_name": "Cooper University Health Care",
         "id": "972e9390-d479-476f-9043-f8c772bd9012",
         "title": "Business Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393204,7 +393204,7 @@
         "company_name": "General Dynamics UK",
         "id": "c3e3139b-069b-4396-9ed4-fd51bda21626",
         "title": "Software Engineer Co-op - Software/Systems Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -393726,7 +393726,7 @@
         "company_name": "Wealthsimple",
         "id": "609c7317-d48d-4dcc-ad90-16046afed879",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -393773,7 +393773,7 @@
         "company_name": "Wealthsimple",
         "id": "33e82b3a-09e7-4ff4-8ecc-60a08ee64f57",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -394189,7 +394189,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "4e3e926b-6a67-46e5-8b7e-2c03fcae7636",
         "title": "Intern Engineer Co-op - May 2026 Start",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396247,7 +396247,7 @@
         "company_name": "D2L",
         "id": "856a33ac-2d4d-4ac2-844e-fd9c4864ec8f",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -401878,7 +401878,7 @@
         "company_name": "General Dynamics UK",
         "id": "9d893f9c-beed-4b3a-84cc-34a6c2d408af",
         "title": "Embedded Software Developer Co-op - Rapid Prototypes - Embedded Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -405779,7 +405779,7 @@
         "company_name": "General Dynamics UK",
         "id": "ad1cf71f-529d-4143-a1eb-c85001e5835f",
         "title": "Software Developer Co-op - Machine Learning Computer Vision",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -406571,7 +406571,7 @@
         "company_name": "General Dynamics UK",
         "id": "3e5a9e76-e90a-4599-bb59-b33acfb3d409",
         "title": "Software Engineer Co-op - Software/Systems Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -410813,6 +410813,94 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "b848db11-dc5a-42f0-a423-85de3197f87f",
+        "title": "Placement Student - Software Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779200461,
+        "date_posted": 1779199655,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20272952",
+        "locations": [
+            "Londonderry, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sun Life",
+        "id": "8faaec18-134c-4920-952c-046aa22b3053",
+        "title": "Student Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779199812,
+        "date_posted": 1779199539,
+        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer--Fall-2026-_JR00123596",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sun-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marmon Holdings",
+        "id": "70a43d68-f7a4-4a35-92a5-5d94d4446e90",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779200530,
+        "date_posted": 1779199759,
+        "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Quebec-CA/Software-Development-Intern-L1J17007_JR0000043238",
+        "locations": [
+            "Quebec City, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Marmon-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Regal Rexnord",
+        "id": "7332be8d-8d45-469a-9745-160f34f39340",
+        "title": "Application Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779200642,
+        "date_posted": 1779199741,
+        "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Co-Op--Fall-2026-_R26_02158",
+        "locations": [
+            "Vandalia, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
