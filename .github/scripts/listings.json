@@ -4618,54 +4618,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Boston Scientific",
-        "id": "be1c59b7-a1c3-4b19-82b7-475839739944",
-        "title": "R&D Hardware Engineer Intern - Active Implantable Systems",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758436999,
-        "date_posted": 1758436999,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808702929",
-        "locations": [
-            "Roseville, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Boston Scientific",
-        "id": "7577ba0f-0141-4da6-8bc9-e4f8096d8b95",
-        "title": "R&D Hardware Engineer Intern - Active Implantable Systems",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758436998,
-        "date_posted": 1758436998,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808702924",
-        "locations": [
-            "Roseville, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Optiver",
         "id": "c2797397-c45b-4396-b76a-81883780b63d",
@@ -384526,7 +384478,7 @@
         "company_name": "CIBC",
         "id": "7a43016b-5bf6-4bfd-85ea-944d5ddf0d9d",
         "title": "Capital Markets \u2013 Alternate Solutions Group Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -389462,7 +389414,7 @@
         "company_name": "State of Nebraska",
         "id": "e92be21e-de72-4461-9dfd-c52863a41148",
         "title": "Student Intern - GIS Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392957,7 +392909,7 @@
         "company_name": "HF Sinclair",
         "id": "e6271c10-3bb1-4ba4-9d18-00e58a50a14f",
         "title": "Artificial Intelligence Intern - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395338,7 +395290,7 @@
         "company_name": "Sun Life",
         "id": "51688509-798b-484e-8d59-41c1cc58375c",
         "title": "Student Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -403864,7 +403816,7 @@
         "company_name": "AES",
         "id": "71fb490d-c790-4b95-b8eb-fd2a362fe5ed",
         "title": "Learning & Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -410377,7 +410329,7 @@
         "company_name": "AAA Club Alliance",
         "id": "21819e03-5f97-4ba7-bbd1-c188e1aaa019",
         "title": "Data & Marketing Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -410675,6 +410627,115 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Cresta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PG&E",
+        "id": "8c3bee49-a973-4034-bea2-052dfe7f493c",
+        "title": "Data Analysis \u2013 Insights & Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779170761,
+        "date_posted": 1779170611,
+        "url": "https://careers.pge.com/job/Oakland-Data-Analysis,-Insights-&-Automation-Intern-CA-94612/1392046100/?ats=successfactors",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PGE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PlusAI",
+        "id": "cfb7fab7-3afa-4ee8-a987-60a42b26bd70",
+        "title": "Software Engineer Intern - Data Infrastructure and Tools",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779170761,
+        "date_posted": 1779170723,
+        "url": "https://jobs.lever.co/plus-2/06b808df-85a1-4ddd-863c-3e1cbe61eda9/apply",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Plus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PlusAI",
+        "id": "14194f20-cd82-44ed-873d-7a7c8473ba4b",
+        "title": "Software Engineer Intern - Data",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779170761,
+        "date_posted": 1779170732,
+        "url": "https://jobs.lever.co/plus-2/012a2134-8a6a-4982-8f25-f906178a24e4/apply",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Plus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PlusAI",
+        "id": "8b8adf1c-5966-4504-87b0-6d488a0dc309",
+        "title": "Simulation Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779170761,
+        "date_posted": 1779170722,
+        "url": "https://jobs.lever.co/plus-2/a58986e8-c9a0-4ca3-a8f1-6abec1e88464/apply",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Plus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PlusAI",
+        "id": "681758c6-c283-429d-9627-0f285a799b54",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779170761,
+        "date_posted": 1779170722,
+        "url": "https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40/apply",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Plus",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
