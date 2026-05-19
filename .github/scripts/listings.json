@@ -224747,7 +224747,7 @@
         "company_name": "ASM Global",
         "id": "ae2d9193-c8c6-4c71-9933-75362edaf7cf",
         "title": "Summer Associate - Enterprise AI & Insights - 8 Week Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293290,7 +293290,7 @@
         "company_name": "Skydio",
         "id": "847e4918-0219-466a-90fe-b5e7afff056d",
         "title": "Wireless Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -303750,7 +303750,7 @@
         "company_name": "M&G",
         "id": "5f129450-352a-48c1-b5a9-246d39241e63",
         "title": "Finance Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -410739,5 +410739,80 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "5407f428-b513-492f-97d0-d2bd020610b6",
+        "title": "Research Intern - Self-Improving AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779181724,
+        "date_posted": 1779181425,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556867858",
+        "locations": [
+            "Cambridge, MA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Unisys",
+        "id": "7c7c3811-08d7-4209-a328-a8d67d0ca76b",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779182101,
+        "date_posted": 1779181900,
+        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Blue-Bell-PA-United-States-of-America/XMLNAME-2026-Drexel-Fall-Software-Engineer_REQ573111",
+        "locations": [
+            "Ambler, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Unisys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "InterSystems",
+        "id": "cc0f9dbd-b570-4ab8-a1f0-15c93be2f473",
+        "title": "Technical Graduate",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779183541,
+        "date_posted": 1759345338,
+        "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=7479122003",
+        "locations": [
+            "Edinburgh, UK",
+            "Slough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/InterSystems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
