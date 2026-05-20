@@ -3448,29 +3448,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Live Oak Bank",
-        "id": "a227ed8d-ac87-44cb-ae97-8c594abfdbd3",
-        "title": "Data Engineering Intern - Data Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758645493,
-        "date_posted": 1758535554,
-        "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2026-Data-Engineering-Intern_R-002219",
-        "locations": [
-            "Wilmington, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/30f50907-d22b-40aa-a394-d75e18dcb37f",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Optiver",
         "id": "c2797397-c45b-4396-b76a-81883780b63d",
@@ -125907,27 +125884,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "W.R. Berkley",
-        "id": "7df4026e-f722-46fe-a9d0-313d6de3e305",
-        "title": "AIRS Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764804771,
-        "date_posted": 1758537911,
-        "url": "https://careers-berkley.icims.com/jobs/13249/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Farmington, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/WR-Berkley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Awetomaton",
         "id": "ed50ea57-92cc-4b66-b023-096fbc51e171",
         "title": "Research Intern - Computer Vision",
@@ -138205,7 +138161,7 @@
         "company_name": "KBR",
         "id": "4dbcafd0-5fe0-4b9c-8fc2-b0acffe1537f",
         "title": "National Security Solutions \u2013 Software Engineering Internship - Nss",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -263370,7 +263326,7 @@
         "company_name": "Zoom",
         "id": "4e604603-4433-4e2a-b7b1-6db7edc1f971",
         "title": "Intern AI Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268576,7 +268532,7 @@
         "company_name": "Johnson & Johnson",
         "id": "84d34dbd-3eb7-4e24-94a3-d7080de2fda9",
         "title": "Clinical Data Science Electrophysiology Biostatistics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387916,7 +387872,7 @@
         "company_name": "Globalization Partners",
         "id": "717a84ac-0440-4a38-9d40-7fb0e61d327b",
         "title": "AI - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406416,7 +406372,7 @@
         "company_name": "Secureframe",
         "id": "3f94d282-4523-424c-8450-0e34874128ab",
         "title": "Software Engineer New Grad - Growth",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406958,7 +406914,7 @@
         "company_name": "SoFi",
         "id": "fa76ebd3-7494-4c48-b159-18786ed038d0",
         "title": "Software Engineer - Commercial Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -408705,7 +408661,7 @@
         "company_name": "doTERRA",
         "id": "656b3988-5244-4cf3-974c-9a35771f6298",
         "title": "Business Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409648,7 +409604,7 @@
         "company_name": "InterSystems",
         "id": "cc0f9dbd-b570-4ab8-a1f0-15c93be2f473",
         "title": "Technical Graduate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411331,6 +411287,126 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "3a98b62d-7278-49e8-b012-9c22e133db65",
+        "title": "ASIC Verification Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779267781,
+        "date_posted": 1779267689,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "a457e9a6-68a7-469b-8187-7b5ce3c3ccc6",
+        "title": "Hardware Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1779267860,
+        "date_posted": 1779267690,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36271",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "1f0cef25-8124-4495-9595-94f9411706f0",
+        "title": "Embedded C/C++ Software Developer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779268011,
+        "date_posted": 1779267690,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "08babd63-f7cb-4a93-a6a9-3d2c3f01337a",
+        "title": "Software Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1779267969,
+        "date_posted": 1779267691,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36277",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "542ac711-82de-42c9-8876-dc0553d0a585",
+        "title": "Machine Learning Engineer Intern - Security-Data",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779268681,
+        "date_posted": 1779268090,
+        "url": "https://jobs.bytedance.com/en/position/7641703558211586309/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
