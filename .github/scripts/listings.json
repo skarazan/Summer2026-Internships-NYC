@@ -4402,103 +4402,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "ServiceNow",
-        "id": "349a29e3-cbe9-407d-9888-dcdebb0163df",
-        "title": "Associate Product Security Engineer Intern - Sso",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758518988,
-        "date_posted": 1758518988,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083014626",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Blackhawk Network Holdings",
-        "id": "bdad4597-8b3f-43b6-82ea-e550056a071d",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759955921,
-        "date_posted": 1758507069,
-        "url": "https://careers-blackhawknetwork.icims.com/jobs/24802/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Coppell, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Blackhawk-Network-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CIBC",
-        "id": "39512e8b-38c4-4f02-9f7f-33bf6bf9e51a",
-        "title": "Data Scientist Intern/Co-op - Technology Operations",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1758557258,
-        "date_posted": 1758505561,
-        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Data-Scientist-Co-op--Technology-Operations---8-Months_2521819-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/CIBC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "CIBC",
-        "id": "1d1713cd-d56d-4379-a509-8ce5f62629eb",
-        "title": "IT Project Coordinator Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1758505669,
-        "date_posted": 1758505669,
-        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/IT-Project-Coordinator-Co-op_2521821",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/CIBC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Optiver",
         "id": "c2797397-c45b-4396-b76a-81883780b63d",
@@ -238614,7 +238517,7 @@
         "company_name": "Etched.ai",
         "id": "1677419e-8d02-4e05-b049-cd051f2b1b28",
         "title": "Chipsim Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -309165,7 +309068,7 @@
         "company_name": "Meta",
         "id": "f16bea76-aabe-4992-b704-b4655433ae5d",
         "title": "Research Scientist Intern - Optimization - Privacy and Inference",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -360596,7 +360499,7 @@
         "company_name": "Altera Corporation",
         "id": "1d92da2d-7961-4904-8a93-e7ca7dbd49bc",
         "title": "FPGA Digital Design & Verification \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362668,7 +362571,7 @@
         "company_name": "Workstream",
         "id": "79574538-cab7-4928-aae4-6826d12e5602",
         "title": "Wearables Prototype Engineer Intern - Hardware + Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378436,7 +378339,7 @@
         "company_name": "Manulife Financial",
         "id": "bd47ca24-0cf8-476e-83e3-e77bc79d529a",
         "title": "Co-op - Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -395783,7 +395686,7 @@
         "company_name": "Varian",
         "id": "df81dbb9-06f2-4a95-bec3-e67c4418fe44",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026",
@@ -402884,7 +402787,7 @@
         "company_name": "Manulife Financial",
         "id": "b5b39620-b4af-44b8-9744-b31f8cfbe30e",
         "title": "Data Strategy and Enablement Co-op - Data Strategy and Enablement",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -403511,7 +403414,7 @@
         "company_name": "Manulife Financial",
         "id": "e3bc68a8-c7ed-4839-8f85-e71c9afd888b",
         "title": "Artificial Intelligence Co-op - Artificial Intelligence - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -404190,7 +404093,7 @@
         "company_name": "Manulife Financial",
         "id": "e9769464-7f1b-4d64-bdb3-f28d0a0b1778",
         "title": "Software Engineering Co-op - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -404214,7 +404117,7 @@
         "company_name": "Manulife Financial",
         "id": "d1f4b10b-24eb-476a-bc42-c2c4d5c8e0f2",
         "title": "Software Engineering Co-op - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -404489,7 +404392,7 @@
         "company_name": "Manulife Financial",
         "id": "b52ee605-d153-4b73-a14d-6eaf295c7549",
         "title": "Software Engineer Co-op - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -405177,7 +405080,7 @@
         "company_name": "Manulife Financial",
         "id": "d8ceea11-5cd1-4398-a1c0-e44c52d3a835",
         "title": "Digital and Innovation Strategy Co-op - Digital and Innovation Strategy",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -408468,7 +408371,7 @@
         "company_name": "AEG",
         "id": "bf4f007e-61b5-4e0c-82dd-5e6f478e8f68",
         "title": "Web Developer Intern - Web Developer - Global Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412099,6 +412002,197 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "f069c8d8-9079-489a-8809-f0e51b08a26d",
+        "title": "Test Software Engineer Intern - Intelligent Creation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779239521,
+        "date_posted": 1779239361,
+        "url": "https://jobs.bytedance.com/en/position/7637923145297119493/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Achievers",
+        "id": "c0236e7f-aeeb-463e-a68a-152612780877",
+        "title": "Software Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779239579,
+        "date_posted": 1779239204,
+        "url": "https://jobs.lever.co/achievers/6a348eef-0078-4d6a-bc90-f2d7077d2987/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Achievers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Etched",
+        "id": "bf1e154a-58e8-441f-a19e-edbfd06547c9",
+        "title": "Chip Simulation Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1779239709,
+        "date_posted": 1779239344,
+        "url": "https://jobs.ashbyhq.com/Etched/a06f95bc-adb5-48a2-b9b5-a77695bbd61b/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Etched",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Etched",
+        "id": "b07ba271-5847-463c-beb1-87e93afb5a6c",
+        "title": "Mech / Thermal Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1779239521,
+        "date_posted": 1779239344,
+        "url": "https://jobs.ashbyhq.com/Etched/ec962944-f7ed-4a3e-a251-9d929295a740/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Etched",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Etched",
+        "id": "87222ad1-f8f7-4042-8fa2-b284da6f5ee0",
+        "title": "Supercomputing Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779239521,
+        "date_posted": 1779239362,
+        "url": "https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Etched",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FOX",
+        "id": "59b92f0b-36cb-4eb5-9a6c-8f15f9435a83",
+        "title": "FOX Technology Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779239688,
+        "date_posted": 1779239351,
+        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Fall-2026-FOX-Technology-Internship-Program---New-York--NY_R50032648-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/FOX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FOX",
+        "id": "b991d589-9310-426b-b1fc-aec4bb71e253",
+        "title": "Technology Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779239596,
+        "date_posted": 1779239341,
+        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Fall-2026-FOX-Technology-Internship-Program---Los-Angeles--CA_R50032647",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/FOX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Etched",
+        "id": "2cf38d26-3d64-4dfa-8347-dbfe90b483a6",
+        "title": "Design Verification Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1779239679,
+        "date_posted": 1779239343,
+        "url": "https://jobs.ashbyhq.com/Etched/3ea1610a-3dfd-4b51-aeb8-6317e4d6877f/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Etched",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
