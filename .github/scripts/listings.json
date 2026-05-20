@@ -3424,31 +3424,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Cloudflare",
-        "id": "106f15a3-46ae-4e5a-b737-41c1825fc334",
-        "title": "Software Engineer Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1758550187,
-        "date_posted": 1758550187,
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/7259003",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cloudflare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Optiver",
         "id": "c2797397-c45b-4396-b76a-81883780b63d",
         "title": "Software Engineer Intern/Co-op - Multiple Teams",
@@ -223203,7 +223178,7 @@
         "company_name": "Avathon",
         "id": "ee91612e-1382-4bb4-bcc9-bd4007324dfd",
         "title": "Full Stack Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324558,7 +324533,7 @@
         "company_name": "The Walt Disney Company",
         "id": "14a6035a-3abb-4489-84d3-984056fb6de3",
         "title": "Corporate Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325422,7 +325397,7 @@
         "company_name": "The Walt Disney Company",
         "id": "fb499908-2719-42b6-b5fe-c6e97675d120",
         "title": "Software Engineering Intern - Cloud Governance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337666,9 +337641,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774873467,
+        "date_updated": 1779287317,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -338441,7 +338416,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "1a027c82-7ca8-41b7-b35d-28f459d356a6",
         "title": "Database Operations & Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355758,7 +355733,7 @@
         "company_name": "Ryder System",
         "id": "f7775466-b51a-4351-b3ec-09b5386df295",
         "title": "Data Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368991,9 +368966,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776349646,
+        "date_updated": 1779287317,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -381395,7 +381370,7 @@
         "company_name": "EPRI",
         "id": "bcfe1515-6107-4d99-8f2a-df7073a8c6a8",
         "title": "Data Driven Decision Making Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387478,7 +387453,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "7aaea1f3-741c-48f1-aac4-1a8d34a5bcc5",
         "title": "Software Developer in Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387803,7 +387778,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "6f6d5a6f-cdbe-4f53-aa9b-08d1382710aa",
         "title": "Software Development Intern - Consumer Interactions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389045,9 +389020,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1777637018,
+        "date_updated": 1779287317,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -391274,9 +391249,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1777890146,
+        "date_updated": 1779287317,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -391742,7 +391717,7 @@
         "company_name": "Copart",
         "id": "c5e1e2ee-9028-41d8-8e43-8bed2a7fddb4",
         "title": "Yard Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396838,9 +396813,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1778159448,
+        "date_updated": 1779287317,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -402323,7 +402298,7 @@
         "company_name": "Pindrop",
         "id": "0e79ef0c-9caf-4c3b-bc58-270866bd69df",
         "title": "Artificial Intelligence Engineer Intern - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -403280,7 +403255,7 @@
         "company_name": "Northrop Grumman",
         "id": "0a7d5dad-6523-43f2-a04d-d9521f13a69b",
         "title": "Environmental Test Dynamics Engineer - Level 1 or Level 2",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406139,7 +406114,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Western Digital",
-        "id": "c3e530a6-82f8-4c6a-a2d3-31c01c6bd3b2",
+        "id": "fd43c319-d18f-4383-91dc-7cfb4c77a269",
         "title": "Electronics Design Engineering",
         "active": true,
         "terms": [
@@ -408099,7 +408074,7 @@
         "company_name": "SiFive",
         "id": "ec5e83b4-1cb5-4b81-9056-28110a076c6e",
         "title": "Platform Technologies Language Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411406,6 +411381,213 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tencent",
+        "id": "d47318d3-828b-49ac-932d-4d540ebae3c5",
+        "title": "Agent Evaluation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779286321,
+        "date_posted": 1779285945,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Agent-Evaluation-Intern_R107491",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medpace, Inc.",
+        "id": "e484710b-5e00-46ed-bb45-b6b53b1559ac",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779285961,
+        "date_posted": 1779285925,
+        "url": "https://careers.medpace.com/jobs/12767?lang=en-us&icims=1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Medpace-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tencent",
+        "id": "7e8ff4d2-c3b9-4fea-99ac-a23c791654a1",
+        "title": "Agent Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779285961,
+        "date_posted": 1779285947,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Agent-Development-Intern_R107276-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tencent",
+        "id": "59e03fa0-3049-4051-83b3-1b019f5a3193",
+        "title": "Agent Evaluation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779285961,
+        "date_posted": 1779285947,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Agent-Evaluation-Intern_R107491-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cortland",
+        "id": "e1107070-cb7e-40ff-ab6e-187c02d984dd",
+        "title": "Capital Markets Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779286321,
+        "date_posted": 1779286173,
+        "url": "https://job-boards.greenhouse.io/cortland/jobs/4252818009",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/d4492fc5-db95-4fdf-826c-5b9d88acc1a1",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Keystone AI",
+        "id": "6ee03edc-2b52-4521-9775-6c04cb722e88",
+        "title": "AI and Workflow Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779286501,
+        "date_posted": 1779286425,
+        "url": "https://www.keystone.com/careers?gh_jid=7946441",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Keystone-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tencent",
+        "id": "c864f0e0-2ce5-4b42-a255-e4dacca1f8e8",
+        "title": "Agent Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779286501,
+        "date_posted": 1779285945,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Agent-Development-Intern_R107276-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Nexthink",
+        "id": "83c71494-3514-476f-afce-6e45d9c0e4c1",
+        "title": "Product Marketing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779285961,
+        "date_posted": 1779285835,
+        "url": "https://jobs.smartrecruiters.com/Nexthink/744000127419959",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nexthink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TheGuarantors",
+        "id": "15940e4d-d0db-45c4-a255-0626fdac14ac",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779286649,
+        "date_posted": 1779286092,
+        "url": "https://ats.rippling.com/theguarantors-open-positions/jobs/d78ec000-5f8b-43d3-9590-4eb51970e49b",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/TheGuarantors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
