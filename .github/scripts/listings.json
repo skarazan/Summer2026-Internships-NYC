@@ -566,53 +566,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Visa",
-        "id": "6cc0eda2-5a11-4e95-b631-df477609a5a0",
-        "title": "Consulting & Analytics Intern - Visa Consulting and Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1758649656,
-        "date_posted": 1758649656,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000083303113",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "4064daf7-e2f2-4975-b30a-6d39451be030",
-        "title": "Software Engineering Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758647370,
-        "date_posted": 1758647370,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/ALHU12/XMLNAME-2026-Software-Engineering-Intern---Huntsville-AL_R10208559-1",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Optiver",
         "id": "c2797397-c45b-4396-b76a-81883780b63d",
@@ -290900,7 +290853,7 @@
         "company_name": "Agility Robotics",
         "id": "1d331314-9e95-4d2d-a875-4e75013a3817",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327950,7 +327903,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "207bd53b-e153-41c6-a195-ce53e9b2d148",
         "title": "Marketing Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362879,7 +362832,7 @@
         "company_name": "Cummins",
         "id": "1eb7aac9-8a6d-49ed-a1c7-cea1b11a50f5",
         "title": "School to Work - Technical & Environmental Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -377797,7 +377750,7 @@
         "company_name": "Fenwick & West",
         "id": "48b498cd-3c0f-4131-b3ed-e3bea8492f06",
         "title": "Business Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381894,7 +381847,7 @@
         "company_name": "IDEX",
         "id": "4d4a1509-fccd-40a4-9160-8d4cef973482",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385737,7 +385690,7 @@
         "company_name": "Tempus",
         "id": "2434350c-49cd-4956-9d1d-fab686918a3f",
         "title": "AI Data Science Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388820,7 +388773,7 @@
         "company_name": "Medical University of South Carolina",
         "id": "51a9d9d0-ccbd-444b-9588-fa6adbf3c727",
         "title": "MTM Data Management & Staffing Coordinator Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -392982,7 +392935,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "b30a3791-68fe-49eb-836f-5ff4f83dc9e2",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393831,7 +393784,7 @@
         "company_name": "EyeSouth Partners",
         "id": "307c69d9-f785-4a52-9e4f-f1676a492904",
         "title": "Revenue Cycle Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395895,7 +395848,7 @@
         "company_name": "United Parcel Service (UPS)",
         "id": "25de960b-ea20-495e-8e0f-51a4798f5aef",
         "title": "IE Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405553,7 +405506,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "c7ec39e6-29fe-4072-8f18-14e23e458b35",
         "title": "Multi-Fidelity Intern - Computational Materials Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -407431,7 +407384,7 @@
         "company_name": "AeroVironment",
         "id": "42db84df-c7a1-46ba-ba84-ae43ae47aee2",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409531,7 +409484,7 @@
         "company_name": "Coupang",
         "id": "21ecea4f-e72f-4898-880c-e5d2542e0799",
         "title": "AI Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409843,6 +409796,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jade Global",
+        "id": "f9bda91a-1d3e-41cc-8bff-ad388fe9ebbf",
+        "title": "Integration Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778940541,
+        "date_posted": 1778940495,
+        "url": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Integration-Analyst-Intern_R-103683",
+        "locations": [
+            "Ogden, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Jade-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
