@@ -733,194 +733,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Pacific Life",
-        "id": "ca51505b-35ff-44a9-8e10-51f722c8a8e9",
-        "title": "Software Engineering Intern/Co-op - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758620908,
-        "date_posted": 1758620908,
-        "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2026-Software-Engineering-Internship-Program_R15496",
-        "locations": [
-            "Newport Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pacific-Life",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Delta Dental",
-        "id": "e001ea17-d3ec-455d-8f7f-ce43b4312363",
-        "title": "Application Development Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758669280,
-        "date_posted": 1758619673,
-        "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR100998",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Delta-Dental",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Eaton Corporation",
-        "id": "42dec743-8bc0-409a-83e1-49242f0d8069",
-        "title": "Product Engineering Intern - Research & Development Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758615350,
-        "date_posted": 1758615350,
-        "url": "https://eaton.eightfold.ai/careers/job/687232779271",
-        "locations": [
-            "Greendale, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Eaton-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lyft",
-        "id": "1cbb2328-439d-4268-86b3-feb3d9b9b076",
-        "title": "Software Engineer Intern - Test Automation",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758615216,
-        "date_posted": 1758615216,
-        "url": "https://app.careerpuck.com/job-board/lyft/job/8168731002?gh_jid=8168731002",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Lyft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CIBC",
-        "id": "2105560e-c6c0-465e-b03b-c41c896b371b",
-        "title": "Application/Software Developer Co-op - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758669258,
-        "date_posted": 1758613454,
-        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application--Software-Developer-Co-op_2521985",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/CIBC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Marmon Holdings",
-        "id": "7558304c-a721-4aab-baca-8fde428ce846",
-        "title": "IT Intern - Information Technology",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758613235,
-        "date_posted": 1758613235,
-        "url": "https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_Careers/job/Louisville-KY/Intern_JR0000038010",
-        "locations": [
-            "Louisville, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Marmon-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Tenstorrent",
-        "id": "b27efd91-15f1-43dc-b773-61d3e422e8db",
-        "title": "SoC Digital Design Engineer Intern - Pey",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759957864,
-        "date_posted": 1758612893,
-        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4912811007",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Tenstorrent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Darkhive",
-        "id": "7540cd37-cab3-4e8c-badd-048ee7685a50",
-        "title": "Hardware Engineer Intern - Drone Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758612897,
-        "date_posted": 1758612897,
-        "url": "https://apply.workable.com/darkhive/j/CCB997B246/apply",
-        "locations": [
-            "San Antonio, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Darkhive",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Optiver",
         "id": "c2797397-c45b-4396-b76a-81883780b63d",
         "title": "Software Engineer Intern/Co-op - Multiple Teams",
@@ -80211,7 +80023,7 @@
         "company_name": "Copart",
         "id": "b5e81d8d-839a-4ffb-b147-0a513ffea0a8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -303667,7 +303479,7 @@
         "company_name": "Nightwing Intelligence Solutions",
         "id": "e9569c77-dc0a-48e3-a280-aab0544afe8e",
         "title": "Radio Frequency Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -340666,7 +340478,7 @@
         "company_name": "Trane Technologies",
         "id": "7d8a07e4-0435-4236-852b-9ff0999f509b",
         "title": "Technical Applications and HW Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355672,7 +355484,7 @@
         "company_name": "DTCC",
         "id": "bca29c68-935d-48b4-9868-d08d80ca1490",
         "title": "Security Analytics Analyst - Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396753,7 +396565,7 @@
         "company_name": "Trane Technologies",
         "id": "cd2ecb0f-e6e0-4b6a-88d4-f45f6168c70b",
         "title": "Collections Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406358,7 +406170,7 @@
         "company_name": "Cisco",
         "id": "1e77d075-955b-4c25-944d-cd7154f4aca1",
         "title": "Hardware Engineer 2 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407059,7 +406871,7 @@
         "company_name": "Regal Rexnord",
         "id": "7332be8d-8d45-469a-9745-160f34f39340",
         "title": "Application Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -409803,6 +409615,52 @@
             "Ogden, UT"
         ],
         "company_url": "https://simplify.jobs/c/Jade-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Xsolla",
+        "id": "7584ec82-ca73-4ecc-b205-7e003ed60866",
+        "title": "Engineering Intern - Student Application - Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779354260,
+        "date_posted": 1779141890,
+        "url": "https://jobs.lever.co/xsolla/c427ec2a-365e-4be2-b91c-5ccb7d5b93fb/apply",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Xsolla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Coupang",
+        "id": "21ecea4f-e72f-4898-880c-e5d2542e0799",
+        "title": "AI Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779354668,
+        "date_posted": 1779354489,
+        "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7939700",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coupang",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
