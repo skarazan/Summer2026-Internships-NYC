@@ -2,84 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Verizon Communications",
-        "id": "a1f6c567-e298-4858-b782-21a41ee75548",
-        "title": "Global Solutions Intern - Technology Solutions",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2025"
-        ],
-        "date_updated": 1759966821,
-        "date_posted": 1758665639,
-        "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Alpharetta--V-Teamer-for-a-Day-2025-Global-Solutions-Intern-Program_R-1085779",
-        "locations": [
-            "E Fowler Ave, Tampa, FL",
-            "Irvine, CA",
-            "Berkeley Heights, NJ",
-            "Ashburn, VA",
-            "Alpharetta, GA",
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Verizon-Communications",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Crowdstrike",
-        "id": "1ec6c8d7-0585-473a-ac01-9eaf32e4a919",
-        "title": "Falcon Complete Analyst Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758665287,
-        "date_posted": 1758665287,
-        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---San-Antonio-TX/Falcon-Complete-Analyst-Intern---Summer-2026_R24843",
-        "locations": [
-            "San Antonio, TX",
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Crowdstrike",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Solidigm",
-        "id": "b05d249d-fee9-4d0a-9028-37cbd484a7d1",
-        "title": "Graduate Engineering Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759913094,
-        "date_posted": 1758666088,
-        "url": "https://jobs.smartrecruiters.com/Solidigm/744000083281832",
-        "locations": [
-            "Rancho Cordova, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Solidigm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "GlobalFoundries",
         "id": "8ebe14b7-9706-4af7-afc0-ce593f98a791",
         "title": "Software Engineering Intern - Multiple Teams",
@@ -323904,7 +323826,7 @@
         "company_name": "TransPerfect",
         "id": "35f1c344-c840-4d85-910a-8602ba11f2f6",
         "title": "Operations Intern-Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -400206,7 +400128,7 @@
         "company_name": "Cadence Design Systems",
         "id": "4736b2a0-e92a-496a-9d78-8ed71243916c",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -402491,7 +402413,7 @@
         "company_name": "Western Digital",
         "id": "c3e530a6-82f8-4c6a-a2d3-31c01c6bd3b2",
         "title": "Electronics Design Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403907,7 +403829,7 @@
         "company_name": "Nutanix",
         "id": "4b7a8d63-bcb2-4f54-88ad-64c5e62c6ea1",
         "title": "Agentic AI Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409182,6 +409104,95 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University Health Network",
+        "id": "9b785b6d-c365-4cf0-bb2e-d55ff9a7f02e",
+        "title": "Junior Developer Intern - Analytics & Insights",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779401556,
+        "date_posted": 1779401106,
+        "url": "https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000127738917",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Health-Network",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American University",
+        "id": "ce1c8960-feb9-4664-a95b-bf69e14b0f14",
+        "title": "Research Assistant - Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779401648,
+        "date_posted": 1779401098,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/Summer-Research-Assistant--Student-_R4274",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nissan Global",
+        "id": "c9d38db8-8f30-4b19-96f0-6fa31b2c31da",
+        "title": "Autonomous Driving Applications Research Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1779401161,
+        "date_posted": 1779401099,
+        "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Driving-Applications-Research-Intern_R00209383",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nissan-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ohio State University",
+        "id": "4ffa64b6-7b64-4745-9373-8ecb583d08ab",
+        "title": "Student Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779401161,
+        "date_posted": 1779401077,
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Health-System-Shared-Services/Student-Assistant_R150937-1",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ohio-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
