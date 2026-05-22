@@ -1,31 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "State Street",
-        "id": "c626dbae-c50e-469f-8358-d71a2b080ef1",
-        "title": "Data Engineer - Co-Op - Global Technology Services",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1758722769,
-        "date_posted": 1758722769,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Data-Engineer--CO-OP_R-778223",
-        "locations": [
-            "Quincy, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Arconic",
         "id": "18eb075f-53bd-4ad3-9fb1-02f0acd5e8a3",
@@ -343113,7 +343088,7 @@
         "company_name": "Berkshire Grey",
         "id": "d155e442-f902-48c3-8ca9-6e1f4a2797b1",
         "title": "Robot Learning R&D Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -382636,7 +382611,7 @@
         "company_name": "Intel",
         "id": "dea237ba-f8e4-4ba5-bc03-fbeea539ec0c",
         "title": "Density Fill Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -384683,7 +384658,7 @@
         "company_name": "General Dynamics UK",
         "id": "7bf1602a-6239-4a53-85aa-2b0913ec3964",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -391136,7 +391111,7 @@
         "company_name": "Comcast",
         "id": "bbb63228-d87e-41c5-b053-6ee67c83624c",
         "title": "Comcast Product Management Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2026",
@@ -394173,7 +394148,7 @@
         "company_name": "EquipmentShare",
         "id": "89462b96-c069-4bf8-bbd8-f055f9d5eeab",
         "title": "Engineering Intern - Embedded",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399419,7 +399394,7 @@
         "company_name": "Crowdstrike",
         "id": "a56a4571-143d-427e-a184-fea69c27b8eb",
         "title": "Intelligence Intern - Art",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -403211,7 +403186,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "d0bc21c9-3d8f-4e73-8ed7-53c72148c6fd",
         "title": "Proton Exchange Membrane Water Electrolysis Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407343,7 +407318,7 @@
         "company_name": "American University",
         "id": "ce1c8960-feb9-4664-a95b-bf69e14b0f14",
         "title": "Research Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -407866,7 +407841,7 @@
         "company_name": "Cleveland Clinic",
         "id": "f6e3ee41-f93b-49e3-b341-5b004e3f8101",
         "title": "Healthcare Data Science Program Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407933,7 +407908,7 @@
         "company_name": "Cleveland Clinic",
         "id": "fab6c134-8291-4b99-9479-5909e2e56281",
         "title": "Healthcare Data Science Program Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -408115,7 +408090,7 @@
         "company_name": "Fiserv",
         "id": "def6a8f9-0c8d-4a71-b215-c11e2ae4716b",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -408729,6 +408704,53 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Double Eleven",
+        "id": "25a8a293-3253-46d3-a3ea-1b9cba805bc8",
+        "title": "Graphics Programmer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779459386,
+        "date_posted": 1779458900,
+        "url": "https://apply.workable.com/double-eleven/j/B75CF905CC/apply",
+        "locations": [
+            "Durham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Double-Eleven",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Copart",
+        "id": "5779ffa5-fa54-4061-9528-8c23dc0bc444",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779459018,
+        "date_posted": 1779458676,
+        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109089",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Copart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
