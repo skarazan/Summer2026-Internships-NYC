@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "NuHarbor Security",
-        "id": "9a302368-1842-4750-9165-9d32020dc984",
-        "title": "Intern - Cybersecurity",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758746099,
-        "date_posted": 1758746099,
-        "url": "https://www.nuharborsecurity.com/careers?gh_jid=7256174",
-        "locations": [
-            "Burlington, VT"
-        ],
-        "company_url": "https://simplify.jobs/c/NuHarborSecurity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "OATEY",
         "id": "d7f31675-62ec-496e-ab56-04ccdd6cf791",
@@ -311529,7 +311506,7 @@
         "company_name": "onsemi",
         "id": "1d51a292-73ff-4b2d-b8f8-18fb4513d655",
         "title": "Reticle Data Prep Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403838,7 +403815,7 @@
         "company_name": "Cresta",
         "id": "15c618fe-4e27-49a9-a97e-0f82e42f8a0b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
