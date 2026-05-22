@@ -2,31 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "State Street",
-        "id": "58da628d-e4e5-4839-9c2b-3aa06c56663f",
-        "title": "Data Engineer \u2013 Co-Op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1758700130,
-        "date_posted": 1758700130,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Data-Engineer--CO-OP_R-778221",
-        "locations": [
-            "Quincy, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Arconic",
         "id": "935261d0-9072-4056-a500-415ec1c29595",
         "title": "Data Engineering Intern - Multiple Teams",
@@ -53314,31 +53289,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "STR",
-        "id": "d83e0469-46aa-4578-81ec-fdea37176b39",
-        "title": "Systems Development Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761808762,
-        "date_posted": 1758700997,
-        "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4603964006",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/STR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "ce773288-d19c-45ec-99e8-c2cb99110a76",
@@ -77426,7 +77376,7 @@
         "company_name": "Copart",
         "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -250030,7 +249980,7 @@
         "company_name": "X Development",
         "id": "66d5b6ca-5449-41ef-9809-fc8e189897c8",
         "title": "2026 PhD / Master's Residency - Machine Learning / Software Engineering - Bellwether",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -279212,7 +279162,7 @@
         "company_name": "Leonardo",
         "id": "609ad41a-5841-4038-9f66-09605fd58f31",
         "title": "Software Graduate Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341413,7 +341363,7 @@
         "company_name": "Magna",
         "id": "7dc2e2fc-62c7-404e-b61b-f9b8ac587aa2",
         "title": "Intern Validation Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344067,7 +344017,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "6ee7b98c-ff40-48fa-9739-71119f369879",
         "title": "Therapist \u2013 PHP/Iop",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -378209,7 +378159,7 @@
         "company_name": "Netflix",
         "id": "7248f7be-bf62-4a1b-a01b-3e4f27918644",
         "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -378810,7 +378760,7 @@
         "company_name": "Integra FEC",
         "id": "ebb7f560-b3e3-4f57-b812-b0097eeb39bf",
         "title": "Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -382710,7 +382660,7 @@
         "company_name": "Intel",
         "id": "dea237ba-f8e4-4ba5-bc03-fbeea539ec0c",
         "title": "Density Fill Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387533,7 +387483,7 @@
         "company_name": "Mechanize",
         "id": "d42b26ee-99ce-44ab-96b5-8554a11325da",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391650,7 +391600,7 @@
         "company_name": "Veryable",
         "id": "53f8fb29-baff-4860-abf4-e65d1cd1a500",
         "title": "Mobile Engineer Intern - Android/iOS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392501,7 +392451,7 @@
         "company_name": "Smiths Detection Group",
         "id": "0a319815-2604-4c98-94da-26b6a462a885",
         "title": "Depot Service Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394721,7 +394671,7 @@
         "company_name": "Cenovus Energy",
         "id": "6da9f843-da27-44b0-85cb-b9ab1f9c44e0",
         "title": "Student Drilling Intern - Completions and Interventions",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -402067,7 +402017,7 @@
         "company_name": "University of Arkansas",
         "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
         "title": "Student Research Assistant-2",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403029,7 +402979,7 @@
         "company_name": "Smiths Detection Group",
         "id": "d7b70764-2bdf-4e34-9c39-5dd9943904dd",
         "title": "Depot Service Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406315,7 +406265,7 @@
         "company_name": "Ultra Intelligence and Communications",
         "id": "3dec26eb-b41a-4a65-8270-f510d37b30dc",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407030,7 +406980,7 @@
         "company_name": "Coupang",
         "id": "21ecea4f-e72f-4898-880c-e5d2542e0799",
         "title": "AI Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407417,7 +407367,7 @@
         "company_name": "American University",
         "id": "ce1c8960-feb9-4664-a95b-bf69e14b0f14",
         "title": "Research Assistant - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
