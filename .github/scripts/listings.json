@@ -1,99 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Invesco",
-        "id": "cec49268-25d0-4735-ae7b-5e5bc9bb6057",
-        "title": "Internship - Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758810866,
-        "date_posted": 1758810866,
-        "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Houston-Texas/Summer-2026-Internship---Technology_R-11730-1",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Invesco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Oshkosh",
-        "id": "2293bb78-8afa-4d57-96ba-ac1289ae2708",
-        "title": "Software Defined Vehicle Intern - Enterprise Engineering - Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758812130,
-        "date_posted": 1758812130,
-        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/US-WI-Oshkosh-Global-Headquarters/Software-Defined-Vehicle-Intern_R41498",
-        "locations": [
-            "Oshkosh, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Oshkosh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Invesco",
-        "id": "0d12fe25-6d23-4f19-8df0-a10bf27bdda9",
-        "title": "Internship - Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758813199,
-        "date_posted": 1758813199,
-        "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Summer-2026-Internship---Technology_R-11726-1",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Invesco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Pinterest",
-        "id": "406bd71e-ad64-40b8-89e7-02184773a691",
-        "title": "Software Engineer Intern Winter Term 2026 - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1761272584,
-        "date_posted": 1758813048,
-        "url": "https://www.pinterestcareers.com/job-form?gh_jid=7252886",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Pinterest",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "State Street",
         "id": "a8cc97d6-76c5-4f14-b556-f9903934e799",
@@ -96949,7 +96856,7 @@
         "company_name": "BorgWarner",
         "id": "844a28b6-fd5a-41cc-b596-847a9c125e83",
         "title": "Web Applications/Communications",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -293766,7 +293673,7 @@
         "company_name": "Tencent",
         "id": "66572abf-79bc-4959-81dc-2d51e16c64a4",
         "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -306163,7 +306070,7 @@
         "company_name": "CAE",
         "id": "a90aab45-3129-47f3-8c63-1a2e965b912a",
         "title": "Integration Specialist Defense & Security",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -307677,7 +307584,7 @@
         "company_name": "Synchrony Financial",
         "id": "5b0eacf0-e8da-4bea-8f24-73b099e319da",
         "title": "Emerging Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -327183,7 +327090,7 @@
         "company_name": "Ciena",
         "id": "a9992d09-5015-406f-9b41-8e6f6d242fba",
         "title": "Network Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -329837,7 +329744,7 @@
         "company_name": "Tencent",
         "id": "72bd8a68-5540-439b-b77b-724e6c606226",
         "title": "Product Manager Intern - Influencer Marketing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -337441,7 +337348,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "e81b17bf-6d9c-4069-a079-83bc244eaa90",
         "title": "Engineering Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -339484,7 +339391,7 @@
         "company_name": "Interdigital",
         "id": "769cd552-cfd3-4f19-be8c-43ed9f454f5d",
         "title": "Generative AI Implementation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -358452,7 +358359,7 @@
         "company_name": "Pennsylvania State University",
         "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
         "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -364787,7 +364694,7 @@
         "company_name": "Pennsylvania State University",
         "id": "68188134-cafa-4b8d-aa5c-4edf4278eb7c",
         "title": "IT Applications Specialist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -370573,7 +370480,7 @@
         "company_name": "United Parcel Service (UPS)",
         "id": "aaa71ad1-ad1f-428a-be7d-7070e7881ac6",
         "title": "HR Intern \u2013 Data Analytics Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -382730,7 +382637,7 @@
         "company_name": "Bank of Montreal",
         "id": "91674ef7-e98b-4a60-823e-541ed4f8489c",
         "title": "Software Developer Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -383486,7 +383393,7 @@
         "company_name": "Tyson Foods",
         "id": "9726a856-fb40-4f95-8a1f-e69a17fd8000",
         "title": "Poultry & Fresh Meats Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -398045,7 +397952,7 @@
         "company_name": "Leonardo",
         "id": "574d5494-8e91-4134-a570-7e28c03d338d",
         "title": "Technical Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -399304,7 +399211,7 @@
         "company_name": "Pennsylvania State University",
         "id": "c2f5393e-5085-4e0d-abeb-baab50cf1601",
         "title": "Part-Time Research Assistant/Programmer - Yanxi Liu",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -400267,7 +400174,7 @@
         "company_name": "Pennsylvania State University",
         "id": "a120147f-9927-486b-8089-8d8e8314491d",
         "title": "Research Data Collection and Analysis",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -401347,7 +401254,7 @@
         "company_name": "General Motors",
         "id": "86315471-b920-4fb4-8f52-9f43217d3994",
         "title": "AV Software Safety Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -403877,7 +403784,7 @@
         "company_name": "MKS Instruments",
         "id": "cbd81d9c-6c65-4ada-8302-3909253e868b",
         "title": "Engineering/Development Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -404258,7 +404165,7 @@
         "company_name": "BorgWarner",
         "id": "a5e9c092-6cda-482a-967c-6c02b15a0fbd",
         "title": "Validation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
