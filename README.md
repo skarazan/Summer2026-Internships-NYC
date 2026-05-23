@@ -202,7 +202,7 @@
 </table>
 
 
-🔒 **[See 229 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 228 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -235,10 +235,10 @@
 <td>Product Manager Project Intern - Brand Advertising - Monetization Product</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://lifeattiktok.com/search/7632474163383765301?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fdf66316-7107-429f-8489-abb929ab95ee?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Creative Product Operations Project Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://lifeattiktok.com/search/7632363492922034485?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f9409f79-48bb-4a2c-9236-57425948e3e6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -304,7 +304,7 @@
 <td>Loyalty Analytics Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://deckers.wd5.myworkdayjobs.com/Deckers/job/US---California-Remote/Loyalty-Analytics-Intern---Global_20701?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f82f4313-ed51-49e1-8692-428585ee2875?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
@@ -318,14 +318,14 @@
 <td>AI/ML Engineer Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/melotech/e99207bd-8a2f-4641-a463-08a6633a7073/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d3ee5bc4-7518-4aa5-b4c1-53a1a4793a3e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Data Science Intern - Music & Audio</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/melotech/f2f3e785-12a0-4d30-be43-e6c5c119a6c2/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/39d9c34d-25c2-4b63-b896-ad1ecb98c563?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">Adobe</a></strong></td>

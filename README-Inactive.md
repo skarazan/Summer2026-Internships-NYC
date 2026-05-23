@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 755 Inactive Internship Roles by Category
+### Browse 754 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (229)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (228)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (93)
 
@@ -92,7 +92,7 @@
 <td>Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company">Palantir</a></strong></td>
@@ -298,7 +298,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
+<td>↳</td>
 <td>Software Developer – Co-op/Intern - Summer 2026 - 4 Months</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -1037,7 +1037,7 @@
 <td>Software Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/USA-For-UNHCR?utm_source=GHList&utm_medium=company">USA for UNHCR</a></strong></td>
@@ -1481,7 +1481,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
 <td>Summer 2026 Mobile – Intern - IOS/Android</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -1680,13 +1680,6 @@
 <td><strong><a href="https://simplify.jobs/c/Uncountable?utm_source=GHList&utm_medium=company">Uncountable</a></strong></td>
 <td>Full-Stack Intern</td>
 <td>New York, NY</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Assured-Guaranty?utm_source=GHList&utm_medium=company">Assured Guaranty</a></strong></td>
-<td>Software Development Intern - Multiple Teams</td>
-<td>NYC</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -2066,7 +2059,7 @@
 <td>Product Management Internships - Summer 2026 - In Person-NYC</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/DotDash-Meredith?utm_source=GHList&utm_medium=company">DotDash Meredith</a></strong></td>
@@ -2388,14 +2381,14 @@
 <td>Revenue Science Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ASM-Global?utm_source=GHList&utm_medium=company">ASM Global</a></strong></td>
 <td>Hospitality and Merchandise Strategy and Inventory Analytics Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CME-Group?utm_source=GHList&utm_medium=company">CME Group</a></strong></td>
@@ -3795,14 +3788,14 @@
 <td>Data Internships - Summer 2026 - In Person-NYC</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Machine Learning Engineer Intern - Summer 2026 - In Person-LA NY C SF</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/USA-For-UNHCR?utm_source=GHList&utm_medium=company">USA for UNHCR</a></strong></td>
@@ -3826,7 +3819,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Genentech?utm_source=GHList&utm_medium=company">Genentech</a></strong></td>
+<td>↳</td>
 <td>2026 Summer Intern - Large Language Models 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -4407,7 +4400,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Highmark-Health?utm_source=GHList&utm_medium=company">Highmark Health</a></strong></td>
 <td>Summer 2026 Social Determinants & Research Analytics Graduate Intern</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -4827,7 +4820,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/7d057960-156e-4d7c-9483-82513be53e32?utm_source=GHList&utm_medium=company">Lazard</a></strong></td>
 <td>Software Engineer Intern - Data Analytics Group</td>
 <td>NYC</td>
 <td>🔒</td>
