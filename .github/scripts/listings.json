@@ -1,77 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "8918bf71-f4c1-45bb-b462-88aebcf146ac",
-        "title": "Cloud Acceleration Engineer Intern - DPU & AI Infra",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758902224,
-        "date_posted": 1758902224,
-        "url": "https://jobs.bytedance.com/en/position/7553574360100063496/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": " PrizePicks",
-        "id": "b9217f45-120d-410c-8100-1d5986a7faf6",
-        "title": "Software Engineering Internship - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1759953144,
-        "date_posted": 1758902932,
-        "url": "http://prizepicks.com/position?gh_jid=7382692003",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/PrizePicks",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Honeywell",
-        "id": "2eeff11a-3d35-4f5d-910b-6e3c6482f5a2",
-        "title": "IT Business Systems Analyst Intern - Future IT Leaders",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758902897,
-        "date_posted": 1758902897,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/114348",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Symphony",
         "id": "c7e53538-2dfa-4ff1-a6d1-dda3d6d61edb",
@@ -404447,7 +404376,7 @@
         "company_name": "PlusAI",
         "id": "c01e4a39-29a1-4e02-876e-5385672cd56d",
         "title": "Software Engineer Intern-Runtime - Robotics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -405075,7 +405004,7 @@
         "company_name": "PlusAI",
         "id": "06fdb7fb-f7a7-4d74-9a9c-d59f0d316fe4",
         "title": "Machine Learning Engineer Intern - Planning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
