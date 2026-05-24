@@ -239008,7 +239008,7 @@
         "company_name": "Endeavor Health",
         "id": "d57c815c-5f3c-41ff-8346-80c31748ba3c",
         "title": "Summer Research Intern - Radiology - Radiology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -377264,7 +377264,7 @@
         "company_name": "Visier Solutions",
         "id": "857991c9-99fb-48c5-be52-7e6b803452fe",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406488,6 +406488,30 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Southern Company",
+        "id": "bb12af8d-b281-4c9c-8bfa-7c8821fc31bf",
+        "title": "Data Scientist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779584761,
+        "date_posted": 1779584693,
+        "url": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/19255",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Southern-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
             "PhD"
         ]
     }
