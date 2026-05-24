@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "RESPEC",
-        "id": "1168a44b-3215-4f61-b484-7f14838fd4ca",
-        "title": "Student Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758876121,
-        "date_posted": 1758876121,
-        "url": "https://jobs.smartrecruiters.com/RESPECInc/744000083769455",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/RESPEC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "Western National Insurance",
         "id": "91f99604-9f08-44c6-933c-d45bff6dce8f",
@@ -404413,7 +404390,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "270ae587-ddfd-49e2-9d73-01d8c08e9f1b",
         "title": "Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406038,6 +406015,33 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Southern-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "4e10af7c-c752-4dc9-8fe9-8eb17f45f0a1",
+        "title": "AI/ML Intern \u2013 Machine Learning Engineer/Researcher Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1778949445,
+        "date_posted": 1778941619,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
