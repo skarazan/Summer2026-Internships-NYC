@@ -2,146 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "MKS Instruments",
-        "id": "47dd7841-95eb-4e63-b908-d86486653268",
-        "title": "Data Scientist Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758897085,
-        "date_posted": 1758897085,
-        "url": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2026-Summer-Data-Scientist-Intern_R14997",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Tencent",
-        "id": "9e24d54d-e028-4e6c-8343-304753cdc935",
-        "title": "Product Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758896922,
-        "date_posted": 1758896922,
-        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Los-Angeles/Product-Intern_R106141",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Oshkosh",
-        "id": "ab187b51-bd87-4b01-93aa-4021b3882887",
-        "title": "Machine Learning Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758897818,
-        "date_posted": 1758897818,
-        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Machine-Learning-Intern_R41048",
-        "locations": [
-            "Oshkosh, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Oshkosh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nissan Global",
-        "id": "112c2c80-dd10-45c1-9754-284378870c7e",
-        "title": "Data Analytics Manufacturing Strategy Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758898683,
-        "date_posted": 1758898683,
-        "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Data-Analytics-Manufacturing-Strategy-Intern---Summer-2026--Smryna--TN_R00196753",
-        "locations": [
-            "La Vergne, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Nissan-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ONE Finance",
-        "id": "239bf7a5-7b43-4238-9f77-1625ee5f6d40",
-        "title": "AI Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758899789,
-        "date_posted": 1758899789,
-        "url": "https://jobs.ashbyhq.com/oneapp/d018ba22-f5ec-48d0-9940-fea52877316c/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/One-Finance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Ontario Teachers' Pension Plan",
-        "id": "29b13077-2306-4e25-93e0-5dd3c9fa48eb",
-        "title": "Intern - Programming & Quantitative Modelling - Risk",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1758899124,
-        "date_posted": 1758899124,
-        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Programming---Quantitative-Modelling--Risk--September-2026---12-months-_6676",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "8918bf71-f4c1-45bb-b462-88aebcf146ac",
         "title": "Cloud Acceleration Engineer Intern - DPU & AI Infra",
@@ -81870,7 +81730,7 @@
         "company_name": "Altera Corporation",
         "id": "e3f49006-c224-4fbe-9b91-a64692dd22be",
         "title": "Internship - FPGA Software Design Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -82100,27 +81960,6 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/MuonSpace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HNTB",
-        "id": "a95e5764-ee09-48f0-addc-0420f025aa00",
-        "title": "Environmental Planning Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758897204,
-        "date_posted": 1758897204,
-        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Bellevue-WA-Seattle/Environmental-Planning-Intern---Summer-2026_R-27663-1",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/HNTB",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -339566,29 +339405,6 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TikTok",
-        "id": "fd4d4ad1-7cdb-45e6-82a7-3ad24e9bc989",
-        "title": "Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762928955,
-        "date_posted": 1758896809,
-        "url": "https://lifeattiktok.com/search/7527582397938223367",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
         "id": "cf6d4667-2bf8-45b8-a0be-37b953800bc3",
         "title": "Machine Learning Engineer Intern - Tiktok Search Team - 2026 Summer",
         "active": true,
@@ -376344,7 +376160,7 @@
         "company_name": "Visier Solutions",
         "id": "857991c9-99fb-48c5-be52-7e6b803452fe",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
