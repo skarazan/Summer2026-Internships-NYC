@@ -1,53 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Charles Schwab",
-        "id": "cbb1b94d-d4d2-4016-ae2e-f63868565c25",
-        "title": "Investor Services Intern - Trading and Retail",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759011105,
-        "date_posted": 1759011105,
-        "url": "https://career-schwab.icims.com/jobs/114755/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Charles-Schwab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dun & Bradstreet",
-        "id": "8edf6455-3ed9-4f4b-be8c-9dcd4d92863d",
-        "title": "Internship Program - Data & Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759012330,
-        "date_posted": 1759012330,
-        "url": "https://jobs.lever.co/dnb/a1b2fa28-5972-48d4-8089-0fcf2259bab0/apply",
-        "locations": [
-            "Jacksonville, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Dun-and-Bradstreet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Emerson Electric",
         "id": "e273630e-498d-4300-84d9-86288c3b967f",
@@ -12220,30 +12173,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Zipline",
-        "id": "73b0dd57-b6c0-4cd6-9542-a8aade0a7eb6",
-        "title": "Field Systems Engineering Intern - Field Systems Engineering",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1759594127,
-        "date_posted": 1759011631,
-        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=7479996003",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zipline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -67661,27 +67590,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "American Express",
-        "id": "6436d7dc-f775-405f-b33a-f55f1e347241",
-        "title": "Campus Graduate Summer Internship Program - 2026 Marketing Analytics - Global Commercial Services - New York - NY - A757145 - Small Business Marketing - A0022 - GCS - Global Commercial Services - A0022",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759011397,
-        "date_posted": 1759011397,
-        "url": "https://aexp.eightfold.ai/careers/job/38041951",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -378055,7 +377963,7 @@
         "company_name": "Geotab",
         "id": "feb5bbe1-d3d2-414b-9a2b-163bbfefa315",
         "title": "Vehicle Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -383795,7 +383703,7 @@
         "company_name": "Geotab",
         "id": "f8219cdb-e611-4b5e-9f95-f3871c3de028",
         "title": "Vehicle Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -392066,7 +391974,7 @@
         "company_name": "BDO Canada",
         "id": "89cd8782-07fb-498b-98cc-0e43e5a50f79",
         "title": "Data & Analytics Co-op/Intern - Data & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -401125,7 +401033,7 @@
         "company_name": "AAA Club Alliance",
         "id": "dc21f973-36fc-4298-9f03-99758ae7f420",
         "title": "ML/AI Computer Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
