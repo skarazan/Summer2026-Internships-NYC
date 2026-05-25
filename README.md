@@ -469,7 +469,7 @@
 <td>Embedded Software Engineer Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://careers-persistentsystems.icims.com/jobs/2258/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0d7b8d67-b0c6-42e4-8757-72009f66499e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 </tbody>
 </table>

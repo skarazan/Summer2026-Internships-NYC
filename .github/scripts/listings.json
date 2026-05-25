@@ -1,153 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zipline",
-        "id": "c2fb566f-a76f-45e7-88a3-59f1c4104f57",
-        "title": "Build Engineer Intern - Developer Productivity",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1761272377,
-        "date_posted": 1759005711,
-        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=7479682003",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zipline",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Zipline",
-        "id": "53295a53-53da-40b9-96e3-1382659dc091",
-        "title": "Droid Autonomy Validation Intern - Droid Autonomy",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1759005711,
-        "date_posted": 1759005711,
-        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=7479994003",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zipline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Zipline",
-        "id": "bd67c985-29c2-421b-80d5-c795a36cc548",
-        "title": "Embedded Engineering Intern - Embedded Systems",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1759006390,
-        "date_posted": 1759006390,
-        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=7479637003",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zipline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Geosyntec Consultants",
-        "id": "ea0e5c70-24d1-49c8-a642-64566f6f75ed",
-        "title": "GIS and Geospatial Data Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1759007933,
-        "date_posted": 1759007933,
-        "url": "https://careers-geosyntec.icims.com/jobs/3936/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Davis, CA",
-            "Oakland, CA",
-            "Reno, NV",
-            "Walnut Creek, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "The Boeing Company",
-        "id": "9f21610e-a981-4434-b420-4e8f7b13a6ca",
-        "title": "Internship Program - Information Digital Technology & Security",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759009394,
-        "date_posted": 1759009394,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2026-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2025469144-1",
-        "locations": [
-            "Seattle, WA",
-            "Chester, PA",
-            "Long Beach, CA",
-            "Mesa, AZ",
-            "Colorado Springs, CO",
-            "Dallas, TX",
-            "Fairfax, VA",
-            "Plano, TX",
-            "Chicago, IL",
-            "Seal Beach, CA",
-            "Tukwila, WA",
-            "St Charles, MO",
-            "San Antonio, TX",
-            "Arlington, VA",
-            "Everett, WA",
-            "Auburn, WA",
-            "Reston, VA",
-            "Oklahoma City, OK",
-            "Kent, WA",
-            "Charleston, SC",
-            "Bellevue, WA",
-            "Atlanta, GA",
-            "Huntsville, AL",
-            "North Charleston, SC",
-            "Huntington Beach, CA",
-            "Hazelwood, MO",
-            "Mukilteo, WA",
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Charles Schwab",
         "id": "cbb1b94d-d4d2-4016-ae2e-f63868565c25",
@@ -267761,7 +267614,7 @@
         "company_name": "Halliburton",
         "id": "25dc9608-ee21-474c-84a9-3b24d5868a6f",
         "title": "Intern Automation Geoscientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374318,7 +374171,7 @@
         "company_name": "RTX",
         "id": "6eba5b86-6f2c-40a8-b52e-7a2eb7d85a9c",
         "title": "Intern - Digital Service for Engines - Ground Systems Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
