@@ -1,177 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Interco",
-        "id": "4358e00b-4d53-4067-8408-24596ff42c38",
-        "title": "Software Development Intern - Software Development",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761272416,
-        "date_posted": 1758996547,
-        "url": "https://jobs.smartrecruiters.com/Interco/744000083311183",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Interco",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chatham Financial",
-        "id": "f52c5d61-2223-415f-bee0-3b4067823a9b",
-        "title": "Software Engineer Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761571233,
-        "date_posted": 1758997437,
-        "url": "https://job-boards.greenhouse.io/chathamfinancial/jobs/7277698",
-        "locations": [
-            "Centennial, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Chatham-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Moloco",
-        "id": "d0b3cb7e-7b34-44cc-8ca1-4b0d90082466",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1758998288,
-        "date_posted": 1758998288,
-        "url": "https://job-boards.greenhouse.io/moloco/jobs/7473817003",
-        "locations": [
-            "Seattle, WA",
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Moloco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Moloco",
-        "id": "092cd573-b924-423b-b5be-217fe894be72",
-        "title": "Data Science Intern - Data Science and Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1758998285,
-        "date_posted": 1758998285,
-        "url": "https://job-boards.greenhouse.io/moloco/jobs/7472531003",
-        "locations": [
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Moloco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "b8811c4b-1eec-4ab8-8546-9ceab1e2313a",
-        "title": "Business Technology Solutions Intern - Data",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759000071,
-        "date_posted": 1759000071,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990009655786",
-        "locations": [
-            "Waukegan, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Meta",
-        "id": "4ad39ff0-e3f8-4854-8625-fc386a0a9821",
-        "title": "Data Center Production Operations Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1759000033,
-        "date_posted": 1759000033,
-        "url": "https://www.metacareers.com/jobs/798271609275977",
-        "locations": [
-            "Fort Worth, TX",
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": " PrizePicks",
-        "id": "3deda11f-68ab-4b7c-921f-be192869df9e",
-        "title": "Machine Learning Engineer Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1758999967,
-        "date_posted": 1758999967,
-        "url": "http://prizepicks.com/position?gh_jid=7140147003",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/PrizePicks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Walmart",
         "id": "836300c3-c1c3-4985-b131-0cd3d283682d",
@@ -55699,7 +55528,7 @@
         "company_name": "APEX Analytix",
         "id": "80d976db-5f2b-4698-8f86-f143b0375a64",
         "title": "Automation Developer Intern (Summer 2026)",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -154034,7 +153863,7 @@
         "company_name": "APEX Analytix",
         "id": "926e2a24-504c-4649-8cf5-84eecf247865",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343121,7 +342950,7 @@
         "company_name": "APEX Analytix",
         "id": "f8061283-7836-4832-afc5-5784772d0a48",
         "title": "NET Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360283,7 +360112,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "f638db09-500b-4ede-9493-96b5f440cab6",
         "title": "Wealth Management \u2013 Distribution Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -379010,7 +378839,7 @@
         "company_name": "Intact",
         "id": "5a91a343-b2f1-4dff-b9c7-8bf44c246eeb",
         "title": "Software Developer 1 Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -396032,7 +395861,7 @@
         "company_name": "Unisys",
         "id": "7c7c3811-08d7-4209-a328-a8d67d0ca76b",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397010,7 +396839,7 @@
         "company_name": "Takeda",
         "id": "a1199327-2c03-43c1-a502-ec191c70c0db",
         "title": "Quality Digital Internship - Quality Systems & Validation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
