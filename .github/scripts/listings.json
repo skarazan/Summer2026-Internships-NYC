@@ -1,151 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "d282e0c7-6e2f-4a60-8b5c-b3a969164097",
-        "title": "Software Engineer Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Spring 2027",
-            "Fall 2027"
-        ],
-        "date_updated": 1758969571,
-        "date_posted": 1758969571,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer-Intern--Spring---Fall-2027-_R-00167584",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "8563617f-9dbf-4347-9bb7-8d972bac5b47",
-        "title": "Software Engineer Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1758969573,
-        "date_posted": 1758969573,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer-Intern--Spring---Fall-2026-_R-00167404",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "491f3961-b1c7-4a75-a672-005b1efb3fd8",
-        "title": "Software Engineering Intern/Co-op - Avionics",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1758971124,
-        "date_posted": 1758971124,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Co-Op--Summer-Fall-2026---Onsite-_01788540",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "FOX",
-        "id": "89a0147b-18d1-4747-bdf8-14ea96474cbc",
-        "title": "Internship Program - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1758974710,
-        "date_posted": 1758974710,
-        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Spring-2026-FOX-Technology-Internship-Program---Los-Angeles--CA_R50030139",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "FOX",
-        "id": "78f2ac36-fd10-4b4b-8401-1cddb50de103",
-        "title": "Business Operations Intern/Co-op - Data Analytics",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1758974681,
-        "date_posted": 1758974681,
-        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Spring-2026-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50030066",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Fox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "FOX",
-        "id": "50e58185-928e-42fb-b6d2-6afc63aff823",
-        "title": "Internship Program - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1758974711,
-        "date_posted": 1758974711,
-        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Spring-2026-FOX-Technology-Internship-Program---Tempe--AZ_R50030141",
-        "locations": [
-            "Tempe, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Fox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sanofi",
         "id": "8f446f44-9b31-41c7-bb65-365c35e78d89",
@@ -37503,30 +37358,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Qualcomm",
-        "id": "4eba2ea5-012f-44a5-ac67-56ad3281986d",
-        "title": "Intern - Deep Learning Research - Embodied AI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758975939,
-        "date_posted": 1758975939,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446714881824",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -379216,7 +379047,7 @@
         "company_name": "Bank of Montreal",
         "id": "56df85d5-03b7-49fc-b99a-c7e35137b4f6",
         "title": "Software Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -398007,7 +397838,7 @@
         "company_name": "CAE",
         "id": "0ba4ce5b-50c1-4c6a-9897-9e12f65b676b",
         "title": "Junior Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
