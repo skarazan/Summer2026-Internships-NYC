@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "decd66fc-e746-4175-a7da-977586420002",
-        "title": "Cloud Software Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761314003,
-        "date_posted": 1758936624,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Hanover/Cloud-Software-Intern---Summer-2026_317536",
-        "locations": [
-            "Hanover, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product Management",
         "company_name": "American Express",
         "id": "a9185fa1-42d8-4acf-af0a-12e47ab85e20",
@@ -110935,7 +110912,7 @@
         "company_name": "Netflix",
         "id": "f5f620df-6b2a-4487-8e77-97845329f048",
         "title": "Analytics Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -111000,7 +110977,7 @@
         "company_name": "Netflix",
         "id": "accebcd7-6b51-4a70-8f9e-3a082565ac5f",
         "title": "Analytics Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -400253,7 +400230,7 @@
         "company_name": "Phamily",
         "id": "945da41b-7c5e-4576-9f1d-73caa551362e",
         "title": "Business Intelligence & Data Analytics Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404079,5 +404056,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kinaxis",
+        "id": "937ea815-7e19-4bed-a8eb-a226a5201df1",
+        "title": "Software Development Co-op/Intern - C++",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779671333,
+        "date_posted": 1779671117,
+        "url": "https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
