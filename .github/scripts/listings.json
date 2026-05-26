@@ -301878,7 +301878,7 @@
         "company_name": "Synchrony Financial",
         "id": "5b0eacf0-e8da-4bea-8f24-73b099e319da",
         "title": "Emerging Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -301899,7 +301899,7 @@
         "company_name": "Synchrony Financial",
         "id": "052ed9a8-9f50-41e2-9ceb-a2a06df94ce8",
         "title": "Uconn Digital Technology Center Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310297,7 +310297,7 @@
         "company_name": "LMI ",
         "id": "30f389eb-f354-4fdb-a532-1b8ef424ce8d",
         "title": "Data Scientist Intern - Passport Demand Forecasting",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325265,7 +325265,7 @@
         "company_name": "SentinelOne",
         "id": "0ec61d69-3f31-4ff6-9ea0-9dd4d1818bd2",
         "title": "AI/ML Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -340531,7 +340531,7 @@
         "company_name": "Cadence Design Systems",
         "id": "a81e52a9-b99a-4142-a9b5-c66ee68704fd",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364498,7 +364498,7 @@
         "company_name": "ether.fi",
         "id": "7d93f7a3-5509-4f50-b012-7692ac3b0200",
         "title": "GTM Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -367323,7 +367323,7 @@
         "company_name": "RTX",
         "id": "5f407315-2fb0-44df-a2c0-62e712d4ce0e",
         "title": "Intern Proactive Engine Performance Monitoring DPHM - Proactive Engine Performance Monitoring - Proactive DPHM",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -368166,7 +368166,7 @@
         "company_name": "TikTok",
         "id": "f9409f79-48bb-4a2c-9236-57425948e3e6",
         "title": "Creative Product Operations Project Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368214,7 +368214,7 @@
         "company_name": "Figure",
         "id": "532365aa-763e-4acf-8311-f08981d4c8b0",
         "title": "Electrical Interconnect Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -368700,7 +368700,7 @@
         "company_name": "RTX",
         "id": "187088c2-d2d9-4f6f-bdd0-b62b6f94c547",
         "title": "Program Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -368792,7 +368792,7 @@
         "company_name": "Oshkosh",
         "id": "60ffaa3c-d134-434f-bf25-883c4c228770",
         "title": "Testing & Development Rotational Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -369512,7 +369512,7 @@
         "company_name": "ASSA ABLOY",
         "id": "c97b9c17-dda6-4c3f-a83c-9f49bb003f4e",
         "title": "Pricing and Market Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370040,7 +370040,7 @@
         "company_name": "Integra FEC",
         "id": "ebb7f560-b3e3-4f57-b812-b0097eeb39bf",
         "title": "Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -370468,7 +370468,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "31c0eb7d-29bd-4b96-952f-697c821e710f",
         "title": "Engineering Intern - Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -370761,7 +370761,7 @@
         "company_name": "SOTI",
         "id": "532987f0-bfae-4a4f-a3fb-c33755ac93fa",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -394190,7 +394190,7 @@
         "company_name": "City of Austin",
         "id": "0884dbcd-5ccb-4cee-85ce-b63830ba3cf9",
         "title": "Air Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394311,7 +394311,7 @@
         "company_name": "Cable One",
         "id": "6b9048ff-07e3-4152-bbcc-90fd9b112e1e",
         "title": "Oracle Business Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394355,7 +394355,7 @@
         "company_name": "BorgWarner",
         "id": "a83da465-a1a4-4437-a88e-08cf6ace99c1",
         "title": "Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -401720,5 +401720,257 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Technergetics",
+        "id": "243bb608-6df0-439e-aba6-649ae9e8de1f",
+        "title": "R&D Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779822541,
+        "date_posted": 1778854293,
+        "url": "https://job-boards.greenhouse.io/technergetics/jobs/4681908006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Technergetics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AltaML",
+        "id": "a94583c9-74ed-4604-b403-44c0adc1ecea",
+        "title": "Associate Data Operations Specialist Intern - Brilliant Harvest",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779819842,
+        "date_posted": 1777068454,
+        "url": "https://jobs.lever.co/altaml/238a3e1b-b76f-4265-83e9-e9d22ec27e03/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AltaML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hottinger Br\u00fcel & Kjaer (HBK)",
+        "id": "2d44d50c-33ce-44cf-ad6e-7b70912b9076",
+        "title": "Engineer Intern - Field Programmable Gate Array",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779831181,
+        "date_posted": 1779142146,
+        "url": "https://spectris.wd3.myworkdayjobs.com/en-US/HBK_Careers/job/Pompano-Beach/XMLNAME-2026-Engineering-Intern---FPGA_18071",
+        "locations": [
+            "Pompano Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/HBK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sila Nanotechnologies",
+        "id": "2b4f1e37-5081-40ee-a2c4-0040a20556f8",
+        "title": "Physics-Based Modeling Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779831181,
+        "date_posted": 1779141908,
+        "url": "https://job-boards.greenhouse.io/silananotechnologies/jobs/7939488",
+        "locations": [
+            "Alameda, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SilaNano",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "22606892-8a89-4189-93b4-578198988d5e",
+        "title": "FPGA Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1779822541,
+        "date_posted": 1778942559,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/FPGA-Development-Intern--Fall-2026---4-8-months-_R030894",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "dd54ca2f-25f4-4486-b44b-9a09b3da95e8",
+        "title": "Student Research Assistant - Department of Sociology and Criminology - Criminal Justice Research Center",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779825962,
+        "date_posted": 1779529890,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Student-Research-Assistant--Undergraduate----Department-of-Sociology-and-Criminology--Criminal-Justice-Research-Center_REQ_0000078718",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ASM Global",
+        "id": "f5725c26-b649-4b69-9680-c06c8f5019d5",
+        "title": "Hospitality and Merchandise Insights Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779820021,
+        "date_posted": 1778945309,
+        "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Culver-City-CA/Hospitality-and-Merchandise-Insights-Intern_R100122329",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ASM-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Onto Innovation",
+        "id": "efb394f6-c002-439f-a229-fc7e388bd73a",
+        "title": "Configuration & Release Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779820021,
+        "date_posted": 1778943775,
+        "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Configuration---Release-Engineer-Internship_R-5853",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Onto-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "26122aac-15c6-4bb8-8587-10eb5fa433c0",
+        "title": "RF Microwave Design Engineer - SkillBridge",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779820021,
+        "date_posted": 1778942037,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Engineer-Principal-Engineer-RF-Microwave-Design--SkillBridge-_R10231212",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GHD",
+        "id": "5b99a46b-f3ca-450d-8879-9ef05c426a65",
+        "title": "\u00c9tudiant \u2013 E - Information Technology",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779831730,
+        "date_posted": 1777414020,
+        "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25781",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/GHD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "StepStone Group",
+        "id": "45f66532-75e4-4ea9-924f-72adeca6fae2",
+        "title": "Data & Risk Operations Junior Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779823138,
+        "date_posted": 1777068750,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7825123",
+        "locations": [
+            "La Jolla, San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/StepStoneGroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
