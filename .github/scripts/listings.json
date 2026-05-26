@@ -49374,7 +49374,7 @@
         "company_name": "Bloom Energy",
         "id": "f0fe7883-fc9c-4a50-bd63-46a5efe0eb64",
         "title": "IT Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -353833,7 +353833,7 @@
         "company_name": "City of Baltimore",
         "id": "686c367c-80fc-4479-b429-30a0de25991f",
         "title": "Office of the Comptroller Interns/Fellows Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -360995,7 +360995,7 @@
         "company_name": "AHEAD",
         "id": "cf1af2cc-6bfc-4244-a4a5-a82a3ebb9b05",
         "title": "Associate Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -369370,7 +369370,7 @@
         "company_name": "TikTok",
         "id": "fdf66316-7107-429f-8489-abb929ab95ee",
         "title": "Product Manager Project Intern - Brand Advertising - Monetization Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370063,7 +370063,7 @@
         "company_name": "Leidos",
         "id": "360b228e-7966-471d-bf31-9c9db00e7e5e",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -370510,7 +370510,7 @@
         "company_name": "Integra FEC",
         "id": "5e6027c1-06ff-4833-98fc-5748108833bf",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -370556,7 +370556,7 @@
         "company_name": "Integra FEC",
         "id": "b9a99f84-c011-4f16-806a-8ad02e98b530",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -370782,7 +370782,7 @@
         "company_name": "Rocket Lawyer",
         "id": "cd76d887-f0b0-4311-bbae-ad2ce6f198ee",
         "title": "Data Engineering Intern - AI & Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370989,7 +370989,7 @@
         "company_name": "Microsoft",
         "id": "7f238859-8139-4be8-9ac9-3ed625f7d504",
         "title": "Research Intern - Socio-Technical Workflow Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371338,7 +371338,7 @@
         "company_name": "Radiance Technologies",
         "id": "4ea864bb-3669-4168-97a4-339ed2f4584b",
         "title": "Modeling Engineer Intern - Analytics - Simulation Sciences",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372069,7 +372069,7 @@
         "company_name": "Cisco",
         "id": "36f9e93a-2c67-43f9-97cc-7f70408fcab5",
         "title": "Associate Application Engineer 2 Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -372208,7 +372208,7 @@
         "company_name": "Formlabs",
         "id": "178d4969-cbeb-433a-bc1e-ebe84d5a1b4f",
         "title": "SLA Print Optimization Intern - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -372652,7 +372652,7 @@
         "company_name": "Nokia",
         "id": "eaeaad91-7d21-4eaf-b0c3-a144a1f82545",
         "title": "Software Support Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -372793,7 +372793,7 @@
         "company_name": "Nokia",
         "id": "ef00b748-352b-4871-a0af-b6b65cf88f68",
         "title": "Software Designer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -372934,7 +372934,7 @@
         "company_name": "Nokia",
         "id": "3dbbea9a-ca63-4fa8-945f-abc2639bae1e",
         "title": "Software Designer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -372980,7 +372980,7 @@
         "company_name": "Nokia",
         "id": "cdc18b7e-0c00-430b-9e72-ec96ba943281",
         "title": "Software Designer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -373075,7 +373075,7 @@
         "company_name": "Nokia",
         "id": "baaedbd4-3acd-49fa-9218-3b8c3b0dcc46",
         "title": "Electromechanical Assembly Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -401241,7 +401241,7 @@
         "company_name": "Akima",
         "id": "d3df7020-9149-488d-895c-513344107bfa",
         "title": "STEM Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401972,5 +401972,208 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Legrand North America",
+        "id": "6aed2ed8-771a-4522-b036-0441ac28a101",
+        "title": "Applied Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779835502,
+        "date_posted": 1779746684,
+        "url": "https://jobs-legrand.icims.com/jobs/10117/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Syracuse, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Legrand-North-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "ee3a87aa-e020-4639-913a-7e8d1947a87b",
+        "title": "Global Trade Digital Operations Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779820021,
+        "date_posted": 1779528892,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Analyste-des-oprations-numriques-du-commerce-international---Internship-Fall-2026---Global-Trade-Digital-Operations-Analyst-Intern_01841594",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "d5bb23df-afe2-4635-bb02-c5f7653a3b30",
+        "title": "Physical Design Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779820201,
+        "date_posted": 1779528826,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Intern---Ph-D-Degree_2601126",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "e0a57df6-4d1e-45d7-9b80-4c1e848962c1",
+        "title": "Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779820021,
+        "date_posted": 1779530059,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000077748-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astranis",
+        "id": "e6484fbc-0112-45c8-912b-94742f46f010",
+        "title": "FPGA Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779820201,
+        "date_posted": 1777511688,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4677338006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "32e85d49-f2fc-4129-904f-408532ac1f40",
+        "title": "Optical Hardware Lab Technician Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779825025,
+        "date_posted": 1777511345,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35282",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Onto Innovation",
+        "id": "1d8a2077-06ec-4d89-b558-1e440bd456df",
+        "title": "Configuration & Release Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779820021,
+        "date_posted": 1778946296,
+        "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Configuration---Release-Engineer-Internship_R-5851",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Onto-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lumentum",
+        "id": "fd5a1bc8-e1b4-4651-a13e-45b47ec180c7",
+        "title": "Embedded Software DevSecOps Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779820382,
+        "date_posted": 1778941958,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Co-op_2026535",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astranis",
+        "id": "08c5d559-bf94-430c-a5a8-ce94df79d457",
+        "title": "FPGA Associate Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779820201,
+        "date_posted": 1777511688,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4677337006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
