@@ -364566,7 +364566,7 @@
         "company_name": "KION Group",
         "id": "1c513142-3e40-4662-bdb2-7880d8575c1e",
         "title": "Product & Program Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365268,7 +365268,7 @@
         "company_name": "ACI Worldwide ",
         "id": "e5d9d0bf-62a7-48bd-9f57-187b91238e3a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365680,7 +365680,7 @@
         "company_name": "Slate Auto",
         "id": "5ac53fe6-f8f7-46bc-8cc1-23ef726b61ca",
         "title": "Vehicle Safety & Testing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366368,7 +366368,7 @@
         "company_name": "IEM",
         "id": "ae209ada-1b1c-4f09-8ede-06b58c76c9dd",
         "title": "Productivity Data & Industrial Events Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368259,7 +368259,7 @@
         "company_name": "Anthropic",
         "id": "e017280c-734c-4023-945e-28d06b72676c",
         "title": "Anthropic Fellows Program Intern - Economics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -401672,5 +401672,53 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vera Bradley",
+        "id": "3c2d8acf-96fc-4fff-97d1-1ff380f4c89d",
+        "title": "Service Desk Intern - Retail",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779819398,
+        "date_posted": 1778945964,
+        "url": "https://verabradley.wd5.myworkdayjobs.com/vbcareers/job/Corporate-Headquarters---Roanoke-IN/Service-Desk-Intern---Retail_R020387",
+        "locations": [
+            "Columbia City, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Vera-Bradley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ASM International",
+        "id": "fa13bf02-a314-4b2e-8bc3-b2ac7835ed67",
+        "title": "Simulation and Modeling Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779819398,
+        "date_posted": 1776895584,
+        "url": "https://www.asm.com/open-vacancies/?gh_jid=4830924101",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/ASM-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
