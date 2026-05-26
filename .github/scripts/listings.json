@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Emerson Electric",
-        "id": "e273630e-498d-4300-84d9-86288c3b967f",
-        "title": "Data Analyst Intern/Co-op - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1759016673,
-        "date_posted": 1759016673,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25026848",
-        "locations": [
-            "Iowa"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "7a9c2763-0011-4598-99cd-ca13f6f1b613",
-        "title": "Research Intern - Systems for Reliable and Scalable AI Agents",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759954589,
-        "date_posted": 1759017289,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1884229",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "The Boeing Company",
         "id": "82150c3a-b793-4883-8f26-984afdf34b99",
@@ -383792,7 +383744,7 @@
         "company_name": "NielsenIQ",
         "id": "18f6adb1-c43c-489c-9232-aa6d651f3bb8",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395066,7 +395018,7 @@
         "company_name": "AAA Club Alliance",
         "id": "00e94c3e-867f-4c05-895d-7f3ca4d5af12",
         "title": "Digital Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395157,7 +395109,7 @@
         "company_name": "AAA Club Alliance",
         "id": "21819e03-5f97-4ba7-bbd1-c188e1aaa019",
         "title": "Data & Marketing Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
