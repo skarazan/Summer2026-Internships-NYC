@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "Lila Sciences",
-        "id": "78bdc34f-452c-4b16-ac6d-566c9d60dae9",
-        "title": "Intern - IT & Security - IT - Security",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1759174508,
-        "date_posted": 1759174508,
-        "url": "https://job-boards.greenhouse.io/lila/jobs/8188695002",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lila-Sciences",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "State Street",
         "id": "041d36c0-2c3e-4d96-90e8-6294c72a980a",
@@ -71528,7 +71505,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "2458891b-6a1e-4462-83f4-2631ddf4b62b",
         "title": "Intern \u2013 Data Analyst - Electric Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -160658,7 +160635,7 @@
         "company_name": "Danaher Corporation",
         "id": "137d95ae-c624-42b5-9ce6-03423cff1d22",
         "title": "Product Management/ Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -195349,7 +195326,7 @@
         "company_name": "Meridian Partners",
         "id": "02dcf0db-a295-4d51-af99-3665ddb561bf",
         "title": "Python Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -334211,7 +334188,7 @@
         "company_name": "Trane Technologies",
         "id": "b2caadce-6eeb-4eb8-8571-477e8b7bca43",
         "title": "Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -335677,7 +335654,7 @@
         "company_name": "TikTok",
         "id": "1d911c19-b885-4882-8d83-25a72a50e653",
         "title": "Machine Learning Engineer Intern - 3D graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355255,7 +355232,7 @@
         "company_name": "Canon",
         "id": "00b87d73-ec95-4963-b5f4-01f77f921302",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368050,7 +368027,7 @@
         "company_name": "Curtiss-Wright Corporation",
         "id": "3004ea7f-f93e-4af3-bd58-748b8a85387f",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -373032,7 +373009,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "5f261994-e1e1-4e98-9dd3-76b8602427e2",
         "title": "Software Development Intern - Mobile Application",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -383237,7 +383214,7 @@
         "company_name": "Squarepoint Capital",
         "id": "c7f1c784-ada4-411c-85aa-060cd89e52c6",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -393294,7 +393271,7 @@
         "company_name": "Terex",
         "id": "050bb131-a839-45e0-a7a1-5751cc2fd16a",
         "title": "Design Engineer 1/2 Senior - Electrical/Controls",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397198,7 +397175,7 @@
         "company_name": "Nokia",
         "id": "b6bad08e-5aba-42dd-9885-70896516ce8b",
         "title": "Software Development Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -398322,7 +398299,7 @@
         "company_name": "Ohio State University",
         "id": "4ffa64b6-7b64-4745-9373-8ecb583d08ab",
         "title": "Student Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -399348,7 +399325,7 @@
         "company_name": "Apple",
         "id": "da7a12e5-701f-463f-9b1d-1a62bb743dfa",
         "title": "Software PhD Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -399417,7 +399394,7 @@
         "company_name": "Apple",
         "id": "9dc730cf-7fa0-4052-b285-b1301c4db9e7",
         "title": "Software Undergrad Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -399440,7 +399417,7 @@
         "company_name": "Apple",
         "id": "e385d69d-8eb3-4a95-969e-3d2e6d216b1e",
         "title": "Software Engineering Masters Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -400726,7 +400703,7 @@
         "company_name": "Ontario Health",
         "id": "beb2658d-9bf9-493e-b344-0be6d0757117",
         "title": "Research Intern - Artificial Intelligence - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -405226,5 +405203,162 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tyson Foods",
+        "id": "ca9cc493-478d-4d19-bd75-deca7052386e",
+        "title": "Packaging System Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779914704,
+        "date_posted": 1779833170,
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Packaging-System-Intern_R0463418-1",
+        "locations": [
+            "Springdale, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Tyson-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howard University",
+        "id": "b41b4a4e-9e65-46c4-b53b-df203e295516",
+        "title": "Transportation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779914882,
+        "date_posted": 1779833062,
+        "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-4_JR108126-1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Howard-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howard University",
+        "id": "9d7a8243-4a8c-4faf-817b-6ffc8e916590",
+        "title": "Transportation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779914881,
+        "date_posted": 1779833061,
+        "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-2_JR108124-1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Howard-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howard University",
+        "id": "4945aa14-8147-4b8c-8601-8307e703f860",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779914879,
+        "date_posted": 1779833062,
+        "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-6_JR108128-1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Howard-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
+        "id": "f2ffef11-1acb-42f6-a456-e4b8043820fc",
+        "title": "Performance Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779914568,
+        "date_posted": 1779286404,
+        "url": "https://job-boards.greenhouse.io/fccincinnati/jobs/7741529003",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fussball-Club-Cincinnati",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cummins",
+        "id": "7cbcc5ee-17db-4c47-a8ce-9e4cd670b833",
+        "title": "Student \u2013 School to Work - Digital Manufacturing & 6 Sigma",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779913981,
+        "date_posted": 1779833167,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2428807",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Truveta",
+        "id": "055723e8-df72-4509-8ed4-3b96da97cd0c",
+        "title": "Research Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779914299,
+        "date_posted": 1776474650,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5973938004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truveta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
