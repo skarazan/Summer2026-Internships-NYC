@@ -99,7 +99,7 @@
 <td>Palantir Intern - Software Engineer</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cisive?utm_source=GHList&utm_medium=company">Cisive</a></strong></td>
@@ -113,28 +113,28 @@
 <td>AI Agent Developer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cockroach-Labs?utm_source=GHList&utm_medium=company">Cockroach Labs</a></strong></td>
 <td>Engineering Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Integral-Ad-Science?utm_source=GHList&utm_medium=company">Integral Ad Science</a></strong></td>
 <td>Devex Platform Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Blackbird-Labs?utm_source=GHList&utm_medium=company">Blackbird Labs</a></strong></td>
 <td>Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Acxiom?utm_source=GHList&utm_medium=company">Acxiom</a></strong></td>
@@ -155,21 +155,21 @@
 <td>AI Transformation Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vestwell?utm_source=GHList&utm_medium=company">Vestwell</a></strong></td>
 <td>AI Engineer Intern - Tech</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/The-New-York-Times?utm_source=GHList&utm_medium=company">The New York Times</a></strong></td>
 <td>AI Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Adtheorant?utm_source=GHList&utm_medium=company">Adtheorant</a></strong></td>
@@ -347,7 +347,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
 <td>Software Developer – Co-op/Intern - Summer 2026 - 4 Months</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -893,7 +893,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Ensora-Health?utm_source=GHList&utm_medium=company">Ensora Health</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -1758,7 +1758,7 @@
 <td>Product Management Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
@@ -1996,7 +1996,7 @@
 <td>Intern Product Management</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Eataly?utm_source=GHList&utm_medium=company">Eataly</a></strong></td>
@@ -2472,14 +2472,14 @@
 <td>Data Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/WSP?utm_source=GHList&utm_medium=company">WSP</a></strong></td>
 <td>Innovation and Technology Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">Amazon</a></strong></td>
@@ -3172,35 +3172,35 @@
 <td>Starr Intern - AI 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RELX?utm_source=GHList&utm_medium=company">RELX</a></strong></td>
 <td>Knowledge & AI Optimization Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ASM-Global?utm_source=GHList&utm_medium=company">ASM Global</a></strong></td>
 <td>Hospitality & Merchandise Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Elsevier?utm_source=GHList&utm_medium=company">Elsevier</a></strong></td>
 <td>Knowledge & AI Optimization Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Spot-And-Tango?utm_source=GHList&utm_medium=company">Spot & Tango</a></strong></td>
 <td>Product Analyst Intern - Summer 2026</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Audax-Group?utm_source=GHList&utm_medium=company">Audax Group</a></strong></td>
@@ -3704,21 +3704,21 @@
 <td>PGIM Real Estate - Data Management & Innovation MBA Intern 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Metropolitan-Transportation-Authority?utm_source=GHList&utm_medium=company">Metropolitan Transportation Authority</a></strong></td>
 <td>Data Analyst Emerging Talent Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Elf-Beauty?utm_source=GHList&utm_medium=company">Elf Beauty</a></strong></td>
 <td>Summer Intern - Business Insights</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CVS-Health?utm_source=GHList&utm_medium=company">CVS Health</a></strong></td>
@@ -3889,7 +3889,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Genentech?utm_source=GHList&utm_medium=company">Genentech</a></strong></td>
 <td>2026 Summer Intern - Large Language Models 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -3924,7 +3924,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Genentech?utm_source=GHList&utm_medium=company">Genentech</a></strong></td>
 <td>Intern - AI for Drug Discovery - Prescient Design</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -4645,7 +4645,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Warner-Bros?utm_source=GHList&utm_medium=company">Warner Bros.</a></strong></td>
+<td>↳</td>
 <td>Data Science Intern - Multiple Teams</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -4799,7 +4799,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
+<td>↳</td>
 <td>Research Intern - Machine Learning 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -5286,7 +5286,7 @@
 <td>Engineering Intern</td>
 <td>Long Island, New York</td>
 <td>🔒</td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Microchip-Technology?utm_source=GHList&utm_medium=company">Microchip Technology</a></strong></td>
