@@ -101,13 +101,6 @@
 <td>27d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Trumid?utm_source=GHList&utm_medium=company">Trumid</a></strong></td>
-<td>AI Automation Intern</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/trumid/jobs/7703392003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/cb476514-34d1-435f-aadd-fe05fa1476f0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Attentive?utm_source=GHList&utm_medium=company">Attentive</a></strong></td>
 <td>AI Intern</td>
 <td>NYC</td>
@@ -139,7 +132,7 @@
 </table>
 
 
-🔒 **[See 235 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 236 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -162,6 +155,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/60decibels?utm_source=GHList&utm_medium=company">60decibelsinc</a></strong></td>
+<td>Internship Senior Signal Associate 🎓</td>
+<td>NYC</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/60decibelsinc/jobs/4684949006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/886288f5-3a87-4305-9ad8-236ac9eb9153?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Anterior?utm_source=GHList&utm_medium=company">Anterior</a></strong></td>
 <td>Clinical AI Intern 🎓</td>
