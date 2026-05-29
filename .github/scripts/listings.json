@@ -1,172 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NiSource",
-        "id": "e1440161-ba96-4ec3-817b-e0fb8ad6acf1",
-        "title": "Damage Prevention/Data Analytics Intern - Damage Prevention - Data Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759954808,
-        "date_posted": 1759353403,
-        "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Damage-Prevention--Data-Analytics-Intern_R00940996",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/NiSource",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Deloitte",
-        "id": "762b7aaa-e039-4a40-98ad-461a518a82c7",
-        "title": "Mission Assurance/COOP Support - TS/SCI with Poly Required",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1759353366,
-        "date_posted": 1759353366,
-        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Mission-Assurance-COOP-Support-TS-SCI-with-Poly-Required-Onsite/313750",
-        "locations": [
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Deloitte",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Deloitte",
-        "id": "fe73ca8e-95ab-424e-8aac-a43abc05cc93",
-        "title": "Deloitte Technology Associate Intern - Technology Support",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1759353363,
-        "date_posted": 1759353363,
-        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Technology-Associate-Intern-Technology-Support/313773",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Deloitte",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Deloitte",
-        "id": "9adfb4ee-8059-453e-824f-8f232c2f3db6",
-        "title": "Summer Scholar - Government & Public Services - Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1759353365,
-        "date_posted": 1759353365,
-        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Consulting-LLP-Government-Public-Services-Summer-Scholar-Software-Engineering/309291",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Deloitte",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Leidos",
-        "id": "74b4d744-e4ee-415e-bb26-d7b7bd927004",
-        "title": "Software Engineer Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759353318,
-        "date_posted": 1759353318,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00167321",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CACI",
-        "id": "44d66c76-29d6-48c3-b125-d748b85093b6",
-        "title": "Software Engineering Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759352674,
-        "date_posted": 1759352674,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Dulles/Software-Engineering-Intern---Summer-2026_317969",
-        "locations": [
-            "Dulles, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CapTech Consulting",
-        "id": "23f943ac-5725-4b66-ad60-05ac3a92b25f",
-        "title": "Consulting Internship: Software Engineering - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759354355,
-        "date_posted": 1759354355,
-        "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000084976114",
-        "locations": [
-            "Richmond, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/CapTech-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "AbbVie",
         "id": "2d0d833b-3c09-42c8-86ab-0d00ee0e568d",
@@ -81072,7 +80906,7 @@
         "company_name": "GM financial",
         "id": "113a461f-a82c-4a2e-a146-f6c30684e2e2",
         "title": "Intern \u2013 Robotic Process Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -119149,7 +118983,7 @@
         "company_name": "GM financial",
         "id": "15b06720-6ad1-42b4-8acc-14baf985d971",
         "title": "Intern Enterprise Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -265935,7 +265769,7 @@
         "company_name": "ASM Global",
         "id": "60bdef1d-571d-4869-88d3-ec21747a38c4",
         "title": "Hospitality and Merchandise Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274628,7 +274462,7 @@
         "company_name": "Rolls Royce",
         "id": "9857ad60-014d-421a-a579-ae225b4b8c16",
         "title": "Metrology Automation Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -281968,7 +281802,7 @@
         "company_name": "Harris Computer",
         "id": "9a9fa2a0-45d5-4ef9-b211-4a449f0cafbb",
         "title": "Health Informatics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326227,7 +326061,7 @@
         "company_name": "SharkNinja",
         "id": "d4f62e21-4bd0-4754-9ae0-0f63ab6272e7",
         "title": "Applied AI & Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332915,7 +332749,7 @@
         "company_name": "SharkNinja",
         "id": "8f69a6ba-51e4-4c80-b523-22d744af108d",
         "title": "Consumer Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -363718,7 +363552,7 @@
         "company_name": "ByteDance",
         "id": "5a79add5-8179-4a06-85f0-04564ae20715",
         "title": "AI Product Manager Intern - Applied Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364291,7 +364125,7 @@
         "company_name": "Quadric",
         "id": "1d7a2077-52b3-4943-818a-2fa0ec30b52e",
         "title": "Software Engineer Intern - Compiler",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370334,7 +370168,7 @@
         "company_name": "Altera Corporation",
         "id": "13561ce6-ad19-4020-9e04-8e95467b2813",
         "title": "FPGA Development Tools Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379942,7 +379776,7 @@
         "company_name": "Perpay",
         "id": "9cbd92a5-bad6-41d7-b1ee-fb170ceb8a49",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -385759,7 +385593,7 @@
         "company_name": "General Dynamics UK",
         "id": "c935f0cf-f797-4b09-9d51-3a4357b3d7d2",
         "title": "Unreal Engine Developer Co-op - Unreal Engine Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -389941,7 +389775,7 @@
         "company_name": "Altera Corporation",
         "id": "ba53ad53-b1a5-4ede-b289-4142070420aa",
         "title": "FPGA Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390011,7 +389845,7 @@
         "company_name": "General Dynamics UK",
         "id": "83eac4f5-1261-4c82-bd76-f5a4fc607944",
         "title": "Unreal Engine Developer Co-op - Unreal Engine Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
