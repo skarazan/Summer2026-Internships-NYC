@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "2ede0bc7-3f47-4797-b019-13b3f2ec5fed",
-        "title": "AFATDS Software Engineering Intern - Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759426605,
-        "date_posted": 1759426605,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/AFATDS-Software-Engineering-Intern--Summer-2026--Onsite-_01794352-1",
-        "locations": [
-            "Fort Wayne, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Vertex Pharmaceuticals",
         "id": "b84c55dc-9d1c-4285-8164-8318d401d791",
@@ -63329,27 +63305,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "55bbf3ea-6a72-4fb7-a470-3d8801450174",
-        "title": "Intern Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762213491,
-        "date_posted": 1759426324,
-        "url": "https://careers-gdms.icims.com/jobs/68903/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Lanham, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "RESPEC",
         "id": "1d5e6788-233c-4813-853d-9ceab54ac771",
         "title": "Student Software Engineering Intern - ",
@@ -105663,27 +105618,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SRI International",
-        "id": "88e44adf-fee4-4c3f-9e84-f34416bc06e6",
-        "title": "Drexel University Co-op: Embedded Software Engineering",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764815764,
-        "date_posted": 1759429251,
-        "url": "https://careers-sri.icims.com/jobs/6262/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Princeton, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/SRI-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Oracle",
         "id": "f0ae404f-2f29-4ba8-aed0-6904806b603d",
@@ -110725,27 +110659,6 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/American-Enterprise-Institute",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SRI International",
-        "id": "7cf25536-d1d6-4a35-aff8-d73fed35038f",
-        "title": "Drexel University Co-op: Software Engineering/Full stack development",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765328501,
-        "date_posted": 1759429253,
-        "url": "https://careers-sri.icims.com/jobs/6263/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Princeton, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/SRI-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -328557,7 +328470,7 @@
         "company_name": "TikTok",
         "id": "779d2f66-723d-4e79-8ccb-416f18693b9e",
         "title": "Software Engineer Intern - Monetization Technology - Ads Creative",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
