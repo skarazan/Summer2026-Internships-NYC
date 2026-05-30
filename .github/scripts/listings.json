@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Riot Games",
-        "id": "90a795ce-d543-4246-a848-d9db0b34072b",
-        "title": "Software Engineering Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759368422,
-        "date_posted": 1759368422,
-        "url": "https://www.riotgames.com/en/work-with-us/job/7254441?gh_jid=7254441",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Riot-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Dandy",
         "id": "62c8e700-69f4-49f0-b4c8-6ce4ddb3887d",
@@ -148439,7 +148416,7 @@
         "company_name": "Thomson Reuters",
         "id": "46339e2a-a055-40e1-bbdf-4dceded6cfa0",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -379704,7 +379681,7 @@
         "company_name": "DiDi Global",
         "id": "59ce8bbc-ad44-476f-912b-d67774291a4b",
         "title": "Software Engineer Intern - Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -400004,7 +399981,7 @@
         "company_name": "Electric Power Engineers",
         "id": "a6de818c-9ce9-4b48-ae18-9a2a94dacebb",
         "title": "AI Automation Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
