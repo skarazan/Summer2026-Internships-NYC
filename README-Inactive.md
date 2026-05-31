@@ -1233,7 +1233,7 @@
 <td>Software Engineering Intern - Summer 2026</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">Amazon</a></strong></td>
@@ -4701,7 +4701,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/SageSure-Insurance-Managers?utm_source=GHList&utm_medium=company">SageSure</a></strong></td>
 <td>Data Science Intern - Data Science</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -4715,7 +4715,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Altice-USA?utm_source=GHList&utm_medium=company">Altice USA</a></strong></td>
 <td>Intern - Network Planning & Engineering - Network Planning - Engineering</td>
 <td>NYC</td>
 <td>🔒</td>
