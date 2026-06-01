@@ -1,172 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "John Deere",
-        "id": "658ab79f-bdb2-4e14-95d9-39b5be8f1439",
-        "title": "Cyber Security Intern - Technology",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1759534931,
-        "date_posted": 1759534931,
-        "url": "https://johndeere.eightfold.ai/careers/job/137476749567",
-        "locations": [
-            "Davenport, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "John Deere",
-        "id": "484cb86d-5872-49c0-833c-f385d069c20d",
-        "title": "Electrification and Battery Engineering Intern 2026 - Product Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759534938,
-        "date_posted": 1759534938,
-        "url": "https://johndeere.eightfold.ai/careers/job/137476749564",
-        "locations": [
-            "Davenport, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SeatGeek",
-        "id": "77c8dd70-1152-4c42-bc4b-239a860fce91",
-        "title": "Software Engineer \u2013 Internship - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759534769,
-        "date_posted": 1759534769,
-        "url": "https://seatgeek.com/jobs/7298481?gh_jid=7298481",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/SeatGeek",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SeatGeek",
-        "id": "1bb4fbdb-fbde-4e1c-962c-c96caf0ac966",
-        "title": "Data Analyst Internship - Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759534773,
-        "date_posted": 1759534773,
-        "url": "https://seatgeek.com/jobs/7298474?gh_jid=7298474",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/SeatGeek",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "State Street",
-        "id": "3b189f39-749e-408f-b1b4-a41a350bb2ab",
-        "title": "File Share Security and Integrity Intern/Co-op - Global Technology Services",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1759535948,
-        "date_posted": 1759535948,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/File-Share-Security-and-Integrity--Co-Op_R-778568",
-        "locations": [
-            "Quincy, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Figure",
-        "id": "aa69d095-c407-4d41-bd13-43bf2ad85ee3",
-        "title": "Validation Engineering Intern - Winter 2026",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1759535127,
-        "date_posted": 1759535127,
-        "url": "https://job-boards.greenhouse.io/figureai/jobs/4606072006",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Figure-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Adobe",
-        "id": "7179c09e-48cb-4260-8faf-24d6bceaf973",
-        "title": "Intern - Product Management - Sales Platform",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1759535154,
-        "date_posted": 1759535154,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-Intern---Product-Manager--Sales-Platform_R158585",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "State of Wisconsin Investment Board",
         "id": "03a61c42-4826-4fde-9009-f6df8df05711",
@@ -303272,7 +303106,7 @@
         "company_name": "Tencent",
         "id": "e4becf68-5294-4c91-a10c-4626a344f605",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -342840,7 +342674,7 @@
         "company_name": "Wash U",
         "id": "c478f30c-eba8-48c9-a814-9ed93ee9ac72",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -351372,7 +351206,7 @@
         "company_name": "Regal Rexnord",
         "id": "cbab2238-fe0a-4455-883d-7e0d95e8d4fc",
         "title": "Application Engineering Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -353331,7 +353165,7 @@
         "company_name": "Tencent",
         "id": "ba133a6e-7d68-423a-a0ab-6235909272c2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -353558,7 +353392,7 @@
         "company_name": "Tencent",
         "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -360181,7 +360015,7 @@
         "company_name": "Intel",
         "id": "e18b5659-3658-49dd-a554-9ba2b49123a9",
         "title": "AI Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -366040,7 +365874,7 @@
         "company_name": "NVIDIA",
         "id": "992b48ee-6377-47d1-a64a-325b032e4673",
         "title": "Formal Verification Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -366866,7 +366700,7 @@
         "company_name": "Intel",
         "id": "b8485d0a-0d49-4176-8dc4-7a9f14f43887",
         "title": "Design Emulation Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -370065,7 +369899,7 @@
         "company_name": "NVIDIA",
         "id": "bebbeff8-81af-4e7a-b6f6-7658307b38b6",
         "title": "Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -371443,7 +371277,7 @@
         "company_name": "Airbus",
         "id": "b462642c-bc71-425d-8c68-9b871f683033",
         "title": "Operations Analyst Intern - Operations Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -373935,7 +373769,7 @@
         "company_name": "Suffolk County",
         "id": "e72c87ac-f438-4ea2-b4f8-3b733151c6dd",
         "title": "Trading Standards Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381063,7 +380897,7 @@
         "company_name": "University of Arkansas",
         "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
         "title": "Student Research Assistant-2",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -382473,7 +382307,7 @@
         "company_name": "Guidewire",
         "id": "adbe762a-1691-40d2-838d-2ad90669d52f",
         "title": "AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -392528,7 +392362,7 @@
         "company_name": "Marsh",
         "id": "c6fb7bb2-6ca1-431b-bb96-398422ba1a8d",
         "title": "Oliver Wyman Analyst Internship - Data & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -393778,7 +393612,7 @@
         "company_name": "Magna",
         "id": "d507cff6-5d9b-45f2-a806-de4fe7b2e699",
         "title": "Engineering ADAS Perception Features Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -394703,7 +394537,7 @@
         "company_name": "University of Texas at Austin",
         "id": "948c793f-66c7-4a49-b162-a4e96f64e731",
         "title": "Center for Global Business Research Associate",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -395137,6 +394971,48 @@
             "Kansas City, MO"
         ],
         "company_url": "https://simplify.jobs/c/Protech-Automotive-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Shaw Industries Group",
+        "id": "ceeca858-2924-4f4b-9492-2c157948e113",
+        "title": "STEM Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780273048,
+        "date_posted": 1780131819,
+        "url": "https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-2-2207-S-Hamilton-Street-Dalton-GA-30720-USA/Summer-2026-STEM-Internship_R-151433",
+        "locations": [
+            "Calhoun, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shaw-Industries-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "NatWest Group",
+        "id": "87f9a8b5-143c-47f5-94cf-13c05e50d9f5",
+        "title": "Insight Experience for Women - Natwest Markets - Quantitative",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780272183,
+        "date_posted": 1780132188,
+        "url": "https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Insight-Experience-for-Women---NatWest-Markets---Quantitative_R-00276057",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/791af8de-7786-4aa2-b51d-9dfed06c6b21",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
