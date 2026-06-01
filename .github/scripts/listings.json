@@ -1,201 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Emerson Electric",
-        "id": "9f3ce847-8fec-4142-b71d-db156121a5d6",
-        "title": "Hardware Engineering Intern - Digital",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759958390,
-        "date_posted": 1759607202,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25027135",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Arch Capital Group",
-        "id": "1f834967-6ed6-4bff-b2c4-a7b5b500af1d",
-        "title": "Cybersecurity Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759606352,
-        "date_posted": 1759606352,
-        "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Farmington-CT-United-States-of-America/Cybersecurity-Summer-Intern_R25_994",
-        "locations": [
-            "Farmington, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Arch-Capital-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Qualcomm",
-        "id": "722bea73-a21f-4133-af96-bb7d67b85ee6",
-        "title": "Intern - Deep Learning Research - AI Research",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759607775,
-        "date_posted": 1759607775,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446714977804",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Qualcomm",
-        "id": "2e52504c-af83-470b-920c-8372cb0448ff",
-        "title": "Intern - Deep Learning Research - AI Research",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759607774,
-        "date_posted": 1759607774,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446714978266",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Synnex",
-        "id": "06add3e9-d086-4606-8256-775cd2b18e5c",
-        "title": "Internship Program - Technology Track",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759607521,
-        "date_posted": 1759607521,
-        "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/San-Antonio-Texas-United-States/Summer-2026-Internship-Program---Technology-Track-----Information-Technology---Artificial-Intelligence---Data---Analytics---Cybersecurity---Systems---Cloud_R43486",
-        "locations": [
-            "Greenville, SC",
-            "San Antonio, TX",
-            "Gilbert, AZ",
-            "Clearwater, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Synnex",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oshkosh",
-        "id": "e25e8aa8-abc9-4e5c-81a2-38a274357cd6",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1759608801,
-        "date_posted": 1759608801,
-        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Software-Development-Intern_R41756",
-        "locations": [
-            "Oshkosh, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Oshkosh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Snap-on",
-        "id": "dffd2ed4-d52f-42bf-b1f1-caea5eab6495",
-        "title": "College Intern - GMIS Conference",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759613221,
-        "date_posted": 1759613221,
-        "url": "https://careers-snapon.icims.com/jobs/16233/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Snapon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Arizona Public Service",
-        "id": "ca016af8-1967-4870-b86c-cf506c828ba5",
-        "title": "Intern - Information Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759612957,
-        "date_posted": 1759612957,
-        "url": "https://careers.aps.com/job/PHOENIX-2026-Summer-Internship-Information-Technology-AZ-85004-3903/1322164700/?ats=successfactors",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Arizona-Public-Service",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "State Street",
         "id": "fc0559c0-8d05-4786-b2f3-a37c3febb707",
@@ -53913,27 +53718,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Goldman Sachs",
-        "id": "f726127e-ddbe-4344-b2e9-5a39e67001b0",
-        "title": "2026 \u2013 Apprentice Programme - London - FICC & Equities - Sales & Trading",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761843485,
-        "date_posted": 1759605291,
-        "url": "https://higher.gs.com/roles/153948?type=students",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Epic Games",
         "id": "39af6e58-e3c3-407a-84e5-a8aa81da2b79",
@@ -64633,39 +64417,6 @@
         "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Las-Vegas-NV-Via-Austi-Parkway/Intern-Aviation-Planning---Summer-2026_R-27999",
         "locations": [
             "Las Vegas, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/HNTB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HNTB",
-        "id": "c7d44ab3-b355-4ec3-8992-f31deb3d7b64",
-        "title": "Returning New Grad Planner I \u2013 For current/previous HNTB interns only - Mad - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761602008,
-        "date_posted": 1759611062,
-        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Philadelphia-PA-Pennsylvania/Returning-New-Grad-Planner-I---MAD--For-current-previous-HNTB-interns-only----Summer-2026_R-27750",
-        "locations": [
-            "King of Prussia, PA",
-            "Harrisburg, PA",
-            "Washington, DC",
-            "Virginia Beach, VA",
-            "Raleigh, NC",
-            "Philadelphia, PA",
-            "Fairmont, WV",
-            "Charlotte, NC",
-            "Arlington, VA",
-            "Pittsburgh, PA",
-            "North Charleston, SC",
-            "Charleston, WV",
-            "Baltimore, MD"
         ],
         "company_url": "https://simplify.jobs/c/HNTB",
         "is_visible": true,
@@ -105596,7 +105347,7 @@
         "company_name": "Microsoft",
         "id": "aa0c7c8d-8f66-4848-8ad0-bdaee530ebdf",
         "title": "Research Intern - Computer Vision and Deep Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -119997,27 +119748,6 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Samsung-Research-America",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mercury Insurance",
-        "id": "0744d042-4317-4a81-8bd4-fc0630e71652",
-        "title": "Sales Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766024462,
-        "date_posted": 1759608071,
-        "url": "https://careers-mercuryinsurance.icims.com/jobs/5924/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mercury-Insurance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -198972,7 +198702,7 @@
         "company_name": "AspenTech",
         "id": "6a8df5a7-33c8-43f7-963d-58b6a3254d58",
         "title": "Software Developer Intern - Digital Grid Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247607,7 +247337,7 @@
         "company_name": "Kaiser Permanente",
         "id": "21800393-c689-43a0-888c-74ab252cf3a3",
         "title": "Group Install and Maintenance Bachelor's Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264190,7 +263920,7 @@
         "company_name": "Commonwealth of Massachusetts",
         "id": "987d1466-1392-4d12-91f8-c5c41814db2e",
         "title": "Intern - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -296343,7 +296073,7 @@
         "company_name": "Zello",
         "id": "de737258-b470-4b2c-b39b-a3a638c3c610",
         "title": "AI & ML Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302747,7 +302477,7 @@
         "company_name": "Fortera",
         "id": "f7b66d32-8fde-44f5-b61d-068afee95918",
         "title": "Project Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320014,7 +319744,7 @@
         "company_name": "Onto Innovation",
         "id": "f2a2ded2-d68e-48f3-93f7-97c6a629d121",
         "title": "Optical Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355539,7 +355269,7 @@
         "company_name": "Onto Innovation",
         "id": "11de0fcc-dda9-4efc-8310-e4d7f8276867",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360636,7 +360366,7 @@
         "company_name": "CelLink Technologies",
         "id": "cc97ace1-10ca-445e-8a2e-c86f5f8e3448",
         "title": "Process Development & Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367126,7 +366856,7 @@
         "company_name": "Sparksoft",
         "id": "887f3f55-7978-4701-82c2-cca88b947614",
         "title": "Data Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371323,7 +371053,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "021d12d5-64ed-4980-8b3f-4f30d00f6b0b",
         "title": "GIS Intern - Enterprise Space Information Management - Esim",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379424,7 +379154,7 @@
         "company_name": "Arine",
         "id": "74f8b0c5-8f2e-422d-af50-13f152a2f0bb",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390641,7 +390371,7 @@
         "company_name": "Nokia",
         "id": "16d7f199-a33b-4b0b-afa3-15e1388e08d1",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
