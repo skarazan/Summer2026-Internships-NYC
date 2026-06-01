@@ -320480,7 +320480,7 @@
         "company_name": "Atos",
         "id": "43582307-c893-42b4-b42d-a3c849db7ab8",
         "title": "Apprentice D&AI Resource",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -358246,7 +358246,7 @@
         "company_name": "Tokamak Energy",
         "id": "e9d3e4cb-148d-4b00-bde4-585ad8efc623",
         "title": "Foster Fusion Energy Internship - Data Visualization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363344,7 +363344,7 @@
         "company_name": "Marshall Wace",
         "id": "02e0d8f6-9108-49c6-9488-5887adbf5ea7",
         "title": "Technology Intern - London - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363971,7 +363971,7 @@
         "company_name": "Amazon",
         "id": "d8ef5700-d5be-4137-8205-397754a4d7fe",
         "title": "Economics Intern - Economic Decision Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375974,7 +375974,7 @@
         "company_name": "NVIDIA",
         "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
         "title": "PhD Research Intern - Security and Privacy",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -377331,7 +377331,7 @@
         "company_name": "British Columbia Investment",
         "id": "13e715af-d8e9-4e23-9b78-fb26928138a5",
         "title": "Enterprise Solutions Software Engineer Co-op/Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -377353,7 +377353,7 @@
         "company_name": "British Columbia Investment",
         "id": "017d2a2a-99ba-4641-b4bb-44deb5605f86",
         "title": "Risk Analytics Solutions Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -377423,7 +377423,7 @@
         "company_name": "British Columbia Investment",
         "id": "1bfadea3-2133-47d5-bdf1-61648de727f0",
         "title": "Data & Analytics Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -380045,7 +380045,7 @@
         "company_name": "University of Arkansas",
         "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
         "title": "Student Research Assistant-2",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382226,7 +382226,7 @@
         "company_name": "General Motors",
         "id": "86315471-b920-4fb4-8f52-9f43217d3994",
         "title": "AV Software Safety Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -390005,7 +390005,7 @@
         "company_name": "British Columbia Investment",
         "id": "20c41695-a778-4710-a7be-afe226c86003",
         "title": "Performance & Analytics Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -390026,7 +390026,7 @@
         "company_name": "British Columbia Investment",
         "id": "aa95da58-61a1-4df9-8ab2-bb459be5232e",
         "title": "ESG Co-op/Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -390157,7 +390157,7 @@
         "company_name": "British Columbia Investment",
         "id": "e1ceb8f7-8a2b-42ea-bc98-1e1d18c4257f",
         "title": "Quantitative Equity Co-op/Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -394671,5 +394671,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Skyscanner",
+        "id": "816ebfe9-3db3-4901-8673-2bf1e96e730e",
+        "title": "Software Engineering Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780305255,
+        "date_posted": 1780305062,
+        "url": "http://www.skyscanner.net/jobs/job/7956291?gh_jid=7956291",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Skyscanner",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
