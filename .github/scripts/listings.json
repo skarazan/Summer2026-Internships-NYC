@@ -1,102 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ansys",
-        "id": "83572277-854b-430d-9746-4a78f60d15f5",
-        "title": "Software Development Intern - Photonics",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1759953357,
-        "date_posted": 1759648084,
-        "url": "https://careers.ansys.com/job/Vancouver-Spring-2026-Lumerical-Software-Development-Intern-Photonics-(MSPHD)-Brit-V6E2M6/1293263000/?ats=successfactors",
-        "locations": [
-            "Montreal, QC, Canada",
-            "Kitchener, ON, Canada",
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ansys",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Skild AI",
-        "id": "733084b3-55f1-42c6-9409-339caf44615e",
-        "title": "Machine Learning Intern - Robotics - Research",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759958432,
-        "date_posted": 1759648000,
-        "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/4944726008",
-        "locations": [
-            "San Mateo, CA",
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Skild-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ansys",
-        "id": "102765e4-c132-42c2-a6aa-657213172634",
-        "title": "Intern - Software Development - Mechanical",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1759958452,
-        "date_posted": 1759648067,
-        "url": "https://careers.ansys.com/job/Canonsburg-Spring-2026-Intern-Software-Development-Mechanical-(Bachelor's)-PA-15317/1299645500/?ats=successfactors",
-        "locations": [
-            "Canonsburg, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ansys",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sanofi",
-        "id": "aa7187b3-5c97-423f-97e5-cee9abefe86e",
-        "title": "Intern - FFIP Business Systems",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761322370,
-        "date_posted": 1759649364,
-        "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Swiftwater-PA/XMLNAME-2026-Summer-Intern---FFIP-Business-Systems_R2821200",
-        "locations": [
-            "East Side, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sanofi",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Daimler Truck",
         "id": "7e71b035-541c-463b-a1c3-46e8fd98ca95",
@@ -287,54 +191,6 @@
         "date_posted": 1759741987,
         "company_url": "",
         "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Daimler Truck",
-        "id": "7facc7f0-8159-4533-8de5-b371058b0d91",
-        "title": "IT Developer Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1759653060,
-        "date_posted": 1759653060,
-        "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Gastonia-NC-US/IT-Developer-Analyst-Intern_DT-15618",
-        "locations": [
-            "Gastonia, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Daimler-Truck",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Philips",
-        "id": "c760da69-fbc6-449d-b858-7dc1962ef831",
-        "title": "Co-op \u2013 Healthcare Data Scientist - Healthcare Data Science",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1761322652,
-        "date_posted": 1759654798,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US/XMLNAME--Co-op---Healthcare-Data-Scientist---Cambridge--MA_563021",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -53283,27 +53139,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Arizona Public Service",
-        "id": "65f7dcf2-8238-4203-9e84-44ad08d4c1f7",
-        "title": "2026 Summer Internship - Forestry",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761866350,
-        "date_posted": 1759648071,
-        "url": "https://careers.aps.com/job/PHOENIX-2026-Summer-Internship-Forestry-AZ-85021/1322319100/?ats=successfactors",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Arizona-Public-Service",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Epic Games",
         "id": "39af6e58-e3c3-407a-84e5-a8aa81da2b79",
@@ -102041,27 +101876,6 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sharp Electronics",
-        "id": "19771832-913b-4f67-b8b5-f8a7b5936cbd",
-        "title": "AI Process Automation Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1765241023,
-        "date_posted": 1759650423,
-        "url": "https://careers-sharpusa.icims.com/jobs/8567/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Mahwah, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Sharp-Electronics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -212200,7 +212014,7 @@
         "company_name": "Nokia",
         "id": "b307e36b-de36-4832-bafb-30d48dfbb6c4",
         "title": "Photonic Circuit Test Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -315753,7 +315567,7 @@
         "company_name": "Microsoft",
         "id": "83ddf672-7d1b-4ee4-b62b-63ee6d6c4396",
         "title": "Research Intern - Foundation Models and Agentic Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327004,7 +326818,7 @@
         "company_name": "ByteDance",
         "id": "00b962ad-7300-4a69-b5ea-dc0b7bad5669",
         "title": "Security Engineering Project - Watermark",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -365047,7 +364861,7 @@
         "company_name": "Accel Learning",
         "id": "c9ba9f6c-b03b-47cf-990d-1dc0fa1aabd3",
         "title": "AI Engineer Intern - Intelligent Question Bank Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374847,7 +374661,7 @@
         "company_name": "NVIDIA",
         "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
         "title": "PhD Research Intern - Security and Privacy",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -389413,7 +389227,7 @@
         "company_name": "Crane Co.",
         "id": "78cf5675-8d56-41ca-ab66-f58426aad0ef",
         "title": "Channel Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389716,7 +389530,7 @@
         "company_name": "FHLBank Topeka",
         "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
         "title": "Financial Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390137,7 +389951,7 @@
         "company_name": "Canadian Tire",
         "id": "13883f0b-49e6-4e1a-954e-90d4501904f6",
         "title": "Credit Risk Data Analyst Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -394264,7 +394078,7 @@
         "company_name": "Cenovus Energy",
         "id": "e23ca219-d6a5-440c-ac79-645976ced2f8",
         "title": "Student \u2013 Asset Integrity",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394484,7 +394298,7 @@
         "company_name": "Princeton University",
         "id": "d1768ef5-3c7a-4b58-aa2a-32dad0a74fe4",
         "title": "Business and Data Intern - Membership Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395038,5 +394852,55 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Clerkie",
+        "id": "71f5d4c0-dc9d-4fe6-afcc-6d0735570374",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2024",
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1780380817,
+        "date_posted": 1780380700,
+        "url": "http://getfiber.ai/careers?gh_jid=5152467007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Clerkie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American University",
+        "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
+        "title": "Graduate Event Data Assistant - Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780390323,
+        "date_posted": 1780351509,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Graduate-Event-Data-Assistant--Student-_R4326",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
