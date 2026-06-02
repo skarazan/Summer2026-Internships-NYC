@@ -193,52 +193,6 @@
         "is_visible": false
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ansys",
-        "id": "83f37c75-5c48-460e-940d-41ee6d440dcc",
-        "title": "Co-op - Software Development",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1759664119,
-        "date_posted": 1759664119,
-        "url": "https://careers.ansys.com/job/Canonsburg-Spring-2026-Co-op,-Software-Development-(Bachelors)-PA-15317/1301897800/?ats=successfactors",
-        "locations": [
-            "Canonsburg, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ansys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KCF Technologies",
-        "id": "6efde4e4-091b-48b8-8e2f-8f2c6435f368",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759842567,
-        "date_posted": 1759663110,
-        "url": "https://job-boards.greenhouse.io/kcftechnologies/jobs/5658358004",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/KCF-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1759772609,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -380913,7 +380867,7 @@
         "company_name": "General Motors",
         "id": "86315471-b920-4fb4-8f52-9f43217d3994",
         "title": "AV Software Safety Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -387523,7 +387477,7 @@
         "company_name": "Onto Innovation",
         "id": "1d8a2077-06ec-4d89-b558-1e440bd456df",
         "title": "Configuration & Release Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390197,7 +390151,7 @@
         "company_name": "Marsh",
         "id": "c6fb7bb2-6ca1-431b-bb96-398422ba1a8d",
         "title": "Oliver Wyman Analyst Internship - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394902,5 +394856,51 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "61ca07c0-fda6-4557-b3d1-fd0acc19a0ee",
+        "title": "Integration & Test Engineering Senior Associate",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780410167,
+        "date_posted": 1780409336,
+        "url": "https://jobs.l3harris.com/job/Fort-Wayne-Senior-Associate,-Integration-&-Test-Engineering-IN-46818/1395854800/?ats=successfactors",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AbbVie",
+        "id": "ab699281-fa53-4fe7-ba79-4ebd3e28da61",
+        "title": "Data Specialist Intern - Allergan Aesthetics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780409161,
+        "date_posted": 1780409060,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990013416236",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
