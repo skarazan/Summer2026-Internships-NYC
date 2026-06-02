@@ -1,128 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "John Deere",
-        "id": "228fb32a-4bc6-44ad-a47c-d1d811be55e9",
-        "title": "Data and Analytics Intern 2026 - Data and Analytics",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1759636112,
-        "date_posted": 1759636112,
-        "url": "https://johndeere.eightfold.ai/careers/job/137476749430",
-        "locations": [
-            "Davenport, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NXP Semiconductors",
-        "id": "2b8cedb3-a8b7-4150-8272-886285d8af48",
-        "title": "IC Design Verification Engineer Intern - Hardware Design - Verification",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759958409,
-        "date_posted": 1759635780,
-        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/IC-Design-Verification-Engineer--Intern_R-10060038-1",
-        "locations": [
-            "Kanata, Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Breeze Airways",
-        "id": "4931eaf8-3a6b-4ee4-921a-ec14595602af",
-        "title": "Ancillary Revenue & Guest Analytics Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759637082,
-        "date_posted": 1759637082,
-        "url": "https://job-boards.greenhouse.io/breezeairways/jobs/7485035003",
-        "locations": [
-            "Cottonwood Heights, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Breeze-Airways",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "cb397171-0a0f-4e4a-9c31-622309c95b4e",
-        "title": "Online Software Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1759638989,
-        "date_posted": 1759638989,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Online-Software-Engineer-Co-op/210922",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Waymo",
-        "id": "19853dc1-b0a9-42ad-80c7-204215b81d89",
-        "title": "Intern - Research - Multimodal Large Language Models",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759640922,
-        "date_posted": 1759640922,
-        "url": "https://careers.withwaymo.com/jobs?gh_jid=7298453",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Waymo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Ansys",
         "id": "83572277-854b-430d-9746-4a78f60d15f5",
@@ -231138,7 +231016,7 @@
         "company_name": "John Deere",
         "id": "bf3e5b30-b029-4529-b33f-73f0f4512062",
         "title": "Part-Time Student - Simulation Engineer - Urbandale Iowa Product Engineering CA",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -290468,7 +290346,7 @@
         "company_name": "Givelify",
         "id": "7ca6c0f8-d421-4803-8bec-08c2fded7a25",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390326,7 +390204,7 @@
         "company_name": "Sun Life",
         "id": "f58dcb13-a6f2-4858-8830-48ad678c1e3a",
         "title": "Student \u2013 Associate Software Engineer - Mainframe",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
