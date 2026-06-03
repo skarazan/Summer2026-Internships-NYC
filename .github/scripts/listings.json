@@ -1,33 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mercury",
-        "id": "859e026f-9164-48c9-9458-46745abb12d6",
-        "title": "Full-stack Engineering Intern - Spring 2026",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1759788627,
-        "date_posted": 1759788627,
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/5669732004",
-        "locations": [
-            "SF",
-            "Remote in USA",
-            "NYC",
-            "Portland, OR",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Mercury",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "DESRI",
         "id": "9b7a8949-d7e5-49ae-a8a1-c551808a1be6",
@@ -103629,7 +103602,7 @@
         "company_name": "Microsoft",
         "id": "18ca6c35-327a-44a7-8e9a-036ce0939031",
         "title": "Research Intern - Machine Learning and Statistics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -120696,7 +120669,7 @@
         "company_name": "American Fidelity",
         "id": "9e399c19-1108-49a6-bcdf-06d985961772",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -129479,7 +129452,7 @@
         "company_name": "KBR",
         "id": "4f91a80f-6de3-4fed-b5d5-91aaedbd79c1",
         "title": "National Security Solutions Intern - Positioning - Navigation and Timing",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -139530,7 +139503,7 @@
         "company_name": "Red Hat",
         "id": "eff28cc3-7ade-4574-b78e-11e814c08e83",
         "title": "Machine Learning Systems Research Intern - PhD - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -149400,7 +149373,7 @@
         "company_name": "Salient Motion",
         "id": "847efb51-f5ec-4972-8821-902cf74e5e29",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -220750,7 +220723,7 @@
         "company_name": "Leidos",
         "id": "13297e90-99fd-41c7-9a26-5cbe83166ec4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328001,7 +327974,7 @@
         "company_name": "Fortinet",
         "id": "698f4154-6e4e-4764-8cb9-4b0d49b1f0f5",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358884,7 +358857,7 @@
         "company_name": "Intel",
         "id": "dea237ba-f8e4-4ba5-bc03-fbeea539ec0c",
         "title": "Density Fill Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -364439,7 +364412,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "45b41842-bedd-4cd9-bd36-5d601d849222",
         "title": "Engine / Vehicle Embedded Controls Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389706,7 +389679,7 @@
         "company_name": "Marsh",
         "id": "c6fb7bb2-6ca1-431b-bb96-398422ba1a8d",
         "title": "Oliver Wyman Analyst Internship - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392826,7 +392799,7 @@
         "company_name": "Onto Innovation",
         "id": "d7ab403a-c812-4c16-9fd6-f5a067eb4f0c",
         "title": "AI/ML Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -395208,7 +395181,7 @@
         "company_name": "Intelerad",
         "id": "18cdb566-721a-4ab3-bd57-875b0fae3b4b",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396112,6 +396085,129 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cotiviti",
+        "id": "d1b794fd-26be-4c15-bf39-5df493a20cd7",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780525200,
+        "date_posted": 1780524403,
+        "url": "https://careers-cotiviti.icims.com/jobs/19386/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cotiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "5ffb792a-06f6-4670-b8ba-24c5402f1824",
+        "title": "Software Engineering AMTS College Grad",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780524845,
+        "date_posted": 1780524364,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "Indianapolis, IN",
+            "SF",
+            "Dallas, TX",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "2628faa9-5391-4254-aefc-225742de4547",
+        "title": "AI R&D Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1780524361,
+        "date_posted": 1780524237,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36946",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "c04639e7-4529-42af-a816-a9faeef3ce6c",
+        "title": "AI R&D Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1780524361,
+        "date_posted": 1780524238,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36943",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HERE Technologies",
+        "id": "53554902-8b60-4c49-9764-0c5a6093b044",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780524361,
+        "date_posted": 1780524182,
+        "url": "https://careers-here.icims.com/jobs/81589/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/HERE-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
