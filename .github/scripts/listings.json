@@ -1,151 +1,5 @@
 [
     {
-        "date_updated": 1759740076,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.oracle.com/en/sites/jobsearch/job/309999",
-        "company_name": "Oracle",
-        "title": "Data Science Intern - Industries",
-        "locations": [
-            "USA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "6d76b492-8c77-4465-af5a-20081d1f970f",
-        "date_posted": 1759740076,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762292376,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us",
-        "company_name": "Amazon",
-        "title": "Software Development Engineer Internship",
-        "locations": [
-            "Seattle, WA",
-            "USA"
-        ],
-        "terms": [
-            "Winter 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "9ca3adc3-491e-4dcb-9890-f84b262fb60f",
-        "date_posted": 1759741194,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1759958760,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.jobvite.com/careers/idtus/job/oiEfyfwt",
-        "company_name": "Innovative Defense Technologies",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Arlington, VA",
-            "Mount Laurel, NJ"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "c56fddf6-006f-41fa-9a94-6b6e94877ac6",
-        "date_posted": 1759741688,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1760135883,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.skyworksinc.com/job/Austin-Timing-Engineer-Summer-Intern-%28May-%2726-Aug-%2726%29-TX-73301/1322327900/",
-        "company_name": "Skyworks",
-        "title": "Timing Engineer",
-        "locations": [
-            "Austin, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Hardware Engineering",
-        "source": "AlmondCroffle",
-        "id": "f64ef50d-780f-40a4-a8fe-f4d3682cf30a",
-        "date_posted": 1759741794,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1759960134,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.statefarm.com/main/jobs/41952/job",
-        "company_name": "State Farm",
-        "title": "Claims BASD - Software Developer",
-        "locations": [
-            "Bloomington, IL",
-            "Dallas, TX",
-            "Phoenix, AZ"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "fc6eb969-6204-46be-93b7-72d0815b6d8a",
-        "date_posted": 1759741884,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1760137133,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2026-Undergraduate-Embedded-Computing-Engineer-Intern_R013644",
-        "company_name": "The Aerospace Corporation",
-        "title": "Undergraduate Embedded Computing Engineer Intern",
-        "locations": [
-            "El Segundo, CA",
-            "Chantilly, VA"
-        ],
-        "terms": [
-            "Summer 2026",
-            "Winter 2026",
-            "Spring 2026",
-            "Fall 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "f46e8ff7-ffb3-405e-9215-fe35621c7fe7",
-        "date_posted": 1759741987,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1759772609,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -105962,7 +105816,7 @@
         "company_name": "Nokia",
         "id": "4d5784dc-55f2-4b2d-a9ec-d34045a2ef22",
         "title": "Summer Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316797,7 +316651,7 @@
         "company_name": "TikTok",
         "id": "104ba742-a080-4cfc-a787-389a4b2623c4",
         "title": "Software Engineer Intern - Data Ecosystem",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363074,7 +362928,7 @@
         "company_name": "Sharecare",
         "id": "c618ad2f-aacd-4b32-8f7f-9d4a27f71bc4",
         "title": "BI Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -369475,7 +369329,7 @@
         "company_name": "Point72",
         "id": "23cef5d8-0d81-4df1-8548-a2e0e17e09e5",
         "title": "Point72 Academy Investment Analyst Program for Experienced Professionals Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -376945,7 +376799,7 @@
         "company_name": "Blackberry",
         "id": "059ed2b2-4df0-4ee8-a9f9-010014258757",
         "title": "Marketing AI & Automation Developer - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -380776,7 +380630,7 @@
         "company_name": "General Motors",
         "id": "86315471-b920-4fb4-8f52-9f43217d3994",
         "title": "AV Software Safety Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -381335,7 +381189,7 @@
         "company_name": "State of Montana",
         "id": "8169a1cc-2cda-4d83-bf40-75c022d0f706",
         "title": "Research Analyst Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389231,7 +389085,7 @@
         "company_name": "Sprinklr",
         "id": "b9cc88b3-9877-4cf9-8052-a0ede6e8924a",
         "title": "Professional Services Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -389393,7 +389247,7 @@
         "company_name": "FHLBank Topeka",
         "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
         "title": "Financial Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -391598,7 +391452,7 @@
         "company_name": "Magna",
         "id": "f2bff587-1432-4e84-9d58-604de0b930c0",
         "title": "Tools Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393941,7 +393795,7 @@
         "company_name": "Cenovus Energy",
         "id": "e23ca219-d6a5-440c-ac79-645976ced2f8",
         "title": "Student \u2013 Asset Integrity",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -394982,7 +394836,7 @@
         "company_name": "ServiceNow",
         "id": "a321ad73-583a-4203-bee3-a9fe75923346",
         "title": "Futures Summit Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396283,5 +396137,121 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "City of Largo",
+        "id": "530565ab-67ec-481d-b054-f6528ba4086e",
+        "title": "Stormwater Intern - Wastewater Management",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1780476550,
+        "date_posted": 1780005719,
+        "url": "https://largo.wd1.myworkdayjobs.com/external/job/Largo-City-Hall/Intern---Undergraduate_R-2319",
+        "locations": [
+            "Largo, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-Largo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "6516400c-f9b1-40bb-a008-78c1fa27b414",
+        "title": "Payment Partnership Project Intern - Global Payment",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780477741,
+        "date_posted": 1780477614,
+        "url": "https://jobs.bytedance.com/en/position/7642450978503641397/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Instead",
+        "id": "ba8c4dd2-2dd5-48f2-a9c4-0c716b61b1db",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780478230,
+        "date_posted": 1780478009,
+        "url": "https://job-boards.greenhouse.io/instead/jobs/7761472003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Instead",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HERE Technologies",
+        "id": "cd3656ba-a4f1-475c-84af-3272940de09f",
+        "title": "Technical Intern - Data Engineering & AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780479541,
+        "date_posted": 1780005819,
+        "url": "https://careers-here.icims.com/jobs/81496/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/HERE-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Volaris Group",
+        "id": "c5296bda-15a3-4e4f-a009-53977495a917",
+        "title": "AI Software Enablement Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780480171,
+        "date_posted": 1780322951,
+        "url": "https://volarisgroup.wd3.myworkdayjobs.com/volaris/job/United-States---TX/AI-Software-Enablement-Intern_R67348",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/Volaris-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
