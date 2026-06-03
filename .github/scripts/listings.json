@@ -150791,7 +150791,7 @@
         "company_name": "ByteDance",
         "id": "093acc82-ac5e-463e-8739-43de0fe8a38d",
         "title": "Software Development Engineer Graduate - SDN Traffic Intelligence & Control - 2026 Start PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -271127,7 +271127,7 @@
         "company_name": "Taara",
         "id": "ca8dc22b-a9aa-40ba-a2cb-e4637ec3192a",
         "title": "FPGA Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320356,7 +320356,7 @@
         "company_name": "TikTok",
         "id": "1654684c-ca1f-4d3e-9dc0-fc8e1f470e37",
         "title": "Software Engineer Intern - TikTok Search Architecture - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -328053,7 +328053,7 @@
         "company_name": "Tessera Labs",
         "id": "aaec15fe-ce11-45ea-bfce-ee26090ab06e",
         "title": "Software Engineer Intern - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377340,7 +377340,7 @@
         "company_name": "Nikkiso",
         "id": "e131826c-4066-45d3-9279-45b6809548f8",
         "title": "Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380776,7 +380776,7 @@
         "company_name": "General Motors",
         "id": "86315471-b920-4fb4-8f52-9f43217d3994",
         "title": "AV Software Safety Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -390408,7 +390408,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "5d6d7dc9-642a-4e6e-85dc-94e769a60939",
         "title": "Relationship Manager Business Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393875,7 +393875,7 @@
         "company_name": "Pennsylvania State University",
         "id": "e1c223ba-5333-47ce-b781-09ca51dae5f2",
         "title": "Research Assistant - Astronomy Department",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395930,6 +395930,358 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "a8e74e82-891f-4ce9-9759-3376c8dea0b6",
+        "title": "Software Development Engineer Intern - Network Automation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466939,
+        "url": "https://jobs.bytedance.com/en/position/7537152240618195208/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "8d981cf1-c610-41cc-84d1-800ea078fd37",
+        "title": "Software Development Engineer Intern - Network Automation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466896,
+        "url": "https://jobs.bytedance.com/en/position/7537152632018012424/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "77245ac7-931e-4d69-8030-18400e8793a2",
+        "title": "Machine Learning Engineer Intern - E-commerce Governance Algorithms",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466893,
+        "url": "https://jobs.bytedance.com/en/position/7535168003103033618/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "6cf0985b-9f4b-4fbb-9dee-114a376730a2",
+        "title": "Applied Research Intern - AI Safety Security - Global Tech Research Program",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466896,
+        "url": "https://jobs.bytedance.com/en/position/7645070235035044101/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LiveRamp",
+        "id": "09174c1c-7ac5-489a-8c87-dcb67b971aa0",
+        "title": "Software Engineer Co-op - Conversions API",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780467107,
+        "date_posted": 1780466945,
+        "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-Op--Software-Engineer---Conversions-API_JR012232-1",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Little Rock, AR",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/LiveRamp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "f1526646-4e0f-4501-b158-b8d7eb77bf4e",
+        "title": "Software Engineer Intern - Applied Machine Learning-Enterprise",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466896,
+        "url": "https://jobs.bytedance.com/en/position/7533045355162044690/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "ee7765e2-658f-4be4-a4a8-45e6f41a7c4b",
+        "title": "Machine Learning Engineer Intern - E-commerce Governance Algorithms",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466893,
+        "url": "https://jobs.bytedance.com/en/position/7535171166420453639/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "8ec30018-f2c6-45b8-ba34-9afbf20eee7f",
+        "title": "Research Intern - SDN Traffic Intelligence & Control",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466897,
+        "url": "https://jobs.bytedance.com/en/position/7537161874254776583/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "88789b47-9fb6-403c-bad2-041cccae3d74",
+        "title": "Research Intern - SDN Traffic Intelligence & Control",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466894,
+        "url": "https://jobs.bytedance.com/en/position/7537161497627281682/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "6bc3983c-65aa-4d29-9a3b-a08c3230a75a",
+        "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph - Computer Vision/Multimodal/Natural Language Processing",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466894,
+        "url": "https://jobs.bytedance.com/en/position/7543005612200970503/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "45f439c5-48ee-4f58-a636-14a5e0912e61",
+        "title": "Network Software Development Engineer Intern - Network Switch",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466896,
+        "url": "https://jobs.bytedance.com/en/position/7537117266451171592/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "38e9b155-826a-49f7-a431-a689d10c579e",
+        "title": "Machine Learning Engineer Intern - Global E-commerce Risk Control",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466891,
+        "url": "https://jobs.bytedance.com/en/position/7535953226975054098/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "2c746302-72dc-4ecf-88fe-0c93ec89ce6e",
+        "title": "Machine Learning Engineer Intern - Global E-commerce Risk Control",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466891,
+        "url": "https://jobs.bytedance.com/en/position/7535951608832657682/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "17c17e13-cd4c-441d-8d4c-0da4520b0c37",
+        "title": "Research Scientist Intern - Applied Machine Learning-Enterprise",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466892,
+        "url": "https://jobs.bytedance.com/en/position/7539697151993268488/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "0686730f-5d35-438b-9745-60e0e744adff",
+        "title": "Student Researcher Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466895,
+        "url": "https://jobs.bytedance.com/en/position/7538943251756910856/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]

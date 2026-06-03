@@ -1,43 +1,17 @@
 {
   "pending": [
     {
-      "listing_id": "7d880590-b150-42ab-810a-5e3b723e0a20",
-      "company_name": "Magnite",
-      "title": "Software Engineering Intern - Adserver",
-      "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Intern--Software-Engineering---Adserver--NYC-_R-01333",
-      "simplify_url": "https://simplify.jobs/p/7d880590-b150-42ab-810a-5e3b723e0a20",
+      "listing_id": "09174c1c-7ac5-489a-8c87-dcb67b971aa0",
+      "company_name": "LiveRamp",
+      "title": "Software Engineer Co-op - Conversions API",
+      "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-Op--Software-Engineer---Conversions-API_JR012232-1",
+      "simplify_url": "https://simplify.jobs/p/09174c1c-7ac5-489a-8c87-dcb67b971aa0",
       "locations": [
         "NYC"
       ],
       "source": "Simplify",
       "category": "Software",
-      "date_detected": 1780452405
-    },
-    {
-      "listing_id": "527e83c9-8667-42c5-ae2d-aa16111a9379",
-      "company_name": "Magnite",
-      "title": "Software Engineer Intern - Demand Solutions",
-      "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Intern--Software-Engineering---Demand-Solutions--NYC-_R-01332",
-      "simplify_url": "https://simplify.jobs/p/527e83c9-8667-42c5-ae2d-aa16111a9379",
-      "locations": [
-        "NYC"
-      ],
-      "source": "Simplify",
-      "category": "Software",
-      "date_detected": 1780452405
-    },
-    {
-      "listing_id": "7ac697b2-ff59-4660-990a-d4f53316f56c",
-      "company_name": "Marsh",
-      "title": "AI Integration Specialist Co-op",
-      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/AI-Integration-Specialist-Fall-Co-op---College-Program-2026_R_346709-1",
-      "simplify_url": "https://simplify.jobs/p/7ac697b2-ff59-4660-990a-d4f53316f56c",
-      "locations": [
-        "NYC"
-      ],
-      "source": "Simplify",
-      "category": "Software",
-      "date_detected": 1780452405
+      "date_detected": 1780470413
     }
   ]
 }
