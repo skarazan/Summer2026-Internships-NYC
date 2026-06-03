@@ -53002,27 +53002,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Badger Meter",
-        "id": "56044f53-3f40-4cba-85cb-7c804cc5928e",
-        "title": "Systems Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1760750704,
-        "date_posted": 1759715548,
-        "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Milwaukee-WI/Systems-Engineering-Intern_4024",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Badger-Meter",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Epic Games",
         "id": "39af6e58-e3c3-407a-84e5-a8aa81da2b79",
@@ -167448,7 +167427,7 @@
         "company_name": "Microsoft",
         "id": "7cfbeb0c-af31-4f2f-be63-1929643b91f0",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -219976,7 +219955,7 @@
         "company_name": "Applied Intuition",
         "id": "30a66871-6bc7-4ccd-9ad6-5e703ff4333c",
         "title": "Research Intern - 3D Vision and Generation - Self-Driving",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -220000,7 +219979,7 @@
         "company_name": "Applied Intuition",
         "id": "2f6a1f72-4bdd-4e12-8b3b-988e0191ea6a",
         "title": "Research Intern - Robotic Hardware - Simulation and Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265901,7 +265880,7 @@
         "company_name": "Rolls Royce",
         "id": "f8080880-d013-40c8-ac19-30326bd50f19",
         "title": "Innovations Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -307005,7 +306984,7 @@
         "company_name": "SonoThera",
         "id": "73449e5e-97ad-4481-8313-ecb472548b5c",
         "title": "Nucleic Acid Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351994,7 +351973,7 @@
         "company_name": "TikTok",
         "id": "e8fe53d2-e6d7-49e3-b99e-048cc351bc8e",
         "title": "Software Engineer Intern - AI Model Optimization - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357276,7 +357255,7 @@
         "company_name": "Visier Solutions",
         "id": "857991c9-99fb-48c5-be52-7e6b803452fe",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357323,7 +357302,7 @@
         "company_name": "Astranis",
         "id": "358237a9-7866-40f8-98fc-affcbbc15651",
         "title": "Flight Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -364419,7 +364398,7 @@
         "company_name": "Intel",
         "id": "b8485d0a-0d49-4176-8dc4-7a9f14f43887",
         "title": "Design Emulation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390081,7 +390060,7 @@
         "company_name": "Marsh",
         "id": "c6fb7bb2-6ca1-431b-bb96-398422ba1a8d",
         "title": "Oliver Wyman Analyst Internship - Data & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -391790,7 +391769,7 @@
         "company_name": "Applied Intuition",
         "id": "4b0aa44c-c2b4-4cd0-974b-8766661feef9",
         "title": "Research Intern - Reinforcement Learning - Self-Driving",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393129,7 +393108,7 @@
         "company_name": "Cadence Design Systems",
         "id": "6a0c6c81-7c5a-47f5-8df4-6fcf4dd5f370",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393201,7 +393180,7 @@
         "company_name": "Onto Innovation",
         "id": "d7ab403a-c812-4c16-9fd6-f5a067eb4f0c",
         "title": "AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -393917,7 +393896,7 @@
         "company_name": "Teledyne",
         "id": "733c11e2-f942-4819-895a-a38eebabf151",
         "title": "Software Designer Sherlock Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395622,6 +395601,335 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "752f2ddd-7a73-46de-90e2-82c1769e5330",
+        "title": "Sustainment Data and Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780439903,
+        "date_posted": 1780438266,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Summer-2026---Sustainment-Data-and-Analytics--Onsite-_01847988-1",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rolls-Royce Motorcars",
+        "id": "5f7b69b3-d7f9-4b7f-bb09-0f77fb356c06",
+        "title": "Production Digitalization Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780438697,
+        "date_posted": 1778911632,
+        "url": "https://jobs.bmwgroup.com/job/Woodruff-Production-Digitalization-Intern-(Fall-2026)-ID-83252/1370808933/?ats=successfactors",
+        "locations": [
+            "Logan, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "81f08b71-8b18-4a0d-b06d-e4c74d92b759",
+        "title": "Cloud Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780439836,
+        "date_posted": 1780438215,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD98608-2",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Magnite",
+        "id": "7d880590-b150-42ab-810a-5e3b723e0a20",
+        "title": "Software Engineering Intern - Adserver",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780439369,
+        "date_posted": 1780438031,
+        "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Intern--Software-Engineering---Adserver--NYC-_R-01333",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ee8236a0-5b6a-4389-a774-e10fe29442a2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Magnite",
+        "id": "527e83c9-8667-42c5-ae2d-aa16111a9379",
+        "title": "Software Engineer Intern - Demand Solutions",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780439372,
+        "date_posted": 1780438031,
+        "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Intern--Software-Engineering---Demand-Solutions--NYC-_R-01332",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ee8236a0-5b6a-4389-a774-e10fe29442a2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ByteDance",
+        "id": "de48457d-a67f-404d-998a-651a76fa2e00",
+        "title": "Research Intern - Virtual Network",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780438697,
+        "date_posted": 1780438069,
+        "url": "https://jobs.bytedance.com/en/position/7537164763424606482/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "68adef45-e4d8-4894-b2f9-4218541ab0de",
+        "title": "Cloud Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780439703,
+        "date_posted": 1780438162,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD98608-1",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "67caa4bb-cdd2-4f62-a0c2-556820fed452",
+        "title": "Student Researcher - Multimedia Streaming",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780438697,
+        "date_posted": 1780438062,
+        "url": "https://jobs.bytedance.com/en/position/7538291329349699848/detail",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "2a76e213-71a8-407e-9244-24adad43c955",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780439833,
+        "date_posted": 1780438215,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer_26WD98405-1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "72a3e549-a2c0-4365-a2df-1210910b0451",
+        "title": "Research Intern - AI/LLM Network",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780438697,
+        "date_posted": 1780438067,
+        "url": "https://jobs.bytedance.com/en/position/7539991964504017170/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Electronic Arts",
+        "id": "5c520aff-46ae-4816-86db-f0e15f726997",
+        "title": "Rendering Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780439528,
+        "date_posted": 1780438079,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Software-Engineer-Intern-Fall-2026/210865",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "QuEra Computing",
+        "id": "317d57d2-a3a8-464a-83f5-2030397de656",
+        "title": "Photonics Data Engineer Intern - Data Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780440037,
+        "date_posted": 1780438861,
+        "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5239489008",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/QuEra-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zipline",
+        "id": "02b310b9-4510-4ae2-9b3f-54bcb3eaab3b",
+        "title": "Perception Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780449301,
+        "date_posted": 1780449234,
+        "url": "https://www.zipline.com/careers?gh_jid=7761650003#open-roles",
+        "locations": [
+            "Dallas, TX",
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marsh",
+        "id": "7ac697b2-ff59-4660-990a-d4f53316f56c",
+        "title": "AI Integration Specialist Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1780449055,
+        "date_posted": 1780448577,
+        "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/AI-Integration-Specialist-Fall-Co-op---College-Program-2026_R_346709-1",
+        "locations": [
+            "Philadelphia, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/55341c12-8fd6-4cce-8472-d15c4a3ab583",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
