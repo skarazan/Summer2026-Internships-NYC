@@ -1,79 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "a5147a9b-d6c5-45fe-8d36-a86c49e199e5",
-        "title": "Intern - AI Developer",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1759852258,
-        "date_posted": 1759852258,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---AI-Developer_R161143",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Intuitive Surgical",
-        "id": "ccd59100-6f99-4cbd-8102-2cda4a354b96",
-        "title": "Product Management Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1759853645,
-        "date_posted": 1759853645,
-        "url": "https://jobs.smartrecruiters.com/Intuitive/744000086003255",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "9b4a1267-8cae-41af-8c69-b937d6599278",
-        "title": "Data Analysis Intern - Power Tools Department - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1759854190,
-        "date_posted": 1759854190,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000085868206",
-        "locations": [
-            "Uxbridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Atomic Semi",
         "id": "4a16e142-fbe5-47b6-a67b-f3eb901f689b",
@@ -102014,7 +101941,7 @@
         "company_name": "Microsoft",
         "id": "4da4aa40-2513-4a1b-bef1-0a10ef2d003c",
         "title": "Research Intern - AI Frameworks - Network Systems and Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299187,7 +299114,7 @@
         "company_name": "Meta",
         "id": "6550cd4c-1ede-4aa6-86a8-dcafc8cae505",
         "title": "Research Scientist Intern - Applied Vision in Augmented Reality - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384317,7 +384244,7 @@
         "company_name": "Nokia",
         "id": "32e85d49-f2fc-4129-904f-408532ac1f40",
         "title": "Optical Hardware Lab Technician Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
