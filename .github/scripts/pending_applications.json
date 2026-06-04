@@ -1,17 +1,3 @@
 {
-  "pending": [
-    {
-      "listing_id": "68127dda-73b9-40f5-9686-c6a63d8651ca",
-      "company_name": "Stash",
-      "title": "Engineer Intern",
-      "url": "https://ats.comparably.com/api/v2/stash/post/7979793:?gh_jid=7979793",
-      "simplify_url": "https://simplify.jobs/p/68127dda-73b9-40f5-9686-c6a63d8651ca",
-      "locations": [
-        "NYC"
-      ],
-      "source": "Simplify",
-      "category": "Software",
-      "date_detected": 1780532442
-    }
-  ]
+  "pending": []
 }
