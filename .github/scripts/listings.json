@@ -2,200 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "ADT",
-        "id": "6949e487-816b-4ce0-a26a-544c6212399d",
-        "title": "Software Development Intern - Salesforce - Java, JavaScript",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759816430,
-        "date_posted": 1759816430,
-        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/3018008",
-        "locations": [
-            "Boca Raton, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/ADT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ADT",
-        "id": "411857c3-a711-48df-a66f-19c4b12b3312",
-        "title": "Oracle Cloud Fusion Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759817375,
-        "date_posted": 1759817375,
-        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/3018004",
-        "locations": [
-            "Boca Raton, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/ADT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Waymo",
-        "id": "4f7c3dd9-47a9-43fd-907c-4f93be7f3ab6",
-        "title": "Intern - Research - Coding Agents for AV Planning",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759817268,
-        "date_posted": 1759817268,
-        "url": "https://careers.withwaymo.com/jobs?gh_jid=7301864",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Waymo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Honeywell",
-        "id": "1e3ccde2-f092-454d-be03-d86fc07adfc1",
-        "title": "Software Developer Intern - Web App - PC Application",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759818781,
-        "date_posted": 1759818781,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/121550",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sierra Nevada Coporation",
-        "id": "ab5c3871-8314-44f9-b91c-3d526d0839f0",
-        "title": "Data Science Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759821729,
-        "date_posted": 1759821729,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Wichita-KS/Data-Science-Intern---Summer-2026_R0028597",
-        "locations": [
-            "Lone Tree, CO",
-            "Dayton, OH",
-            "Hagerstown, MD",
-            "Plano, TX",
-            "Wichita, KS",
-            "Sparks, NV",
-            "Beavercreek, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "QBE Insurance",
-        "id": "3c914fca-9322-4c50-ad9f-8339fadf935d",
-        "title": "Data Science Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759825723,
-        "date_posted": 1759825723,
-        "url": "https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Sun-Prairie-WI-USA/Data-Science-Intern--Summer-2026-_344550-1",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/QBE-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Edison International",
-        "id": "894b0650-fc7d-49f1-aaf5-db758ff48266",
-        "title": "Intern - Data Analytics - Data Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759825327,
-        "date_posted": 1759825327,
-        "url": "https://apply.edisoncareers.com/job/Santa-Monica-2026-Summer-Internship-Data-AnalyticsData-ScienceApplied-MathStatistics-CA-90404/1332405700/?ats=successfactors",
-        "locations": [
-            "Santa Monica, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Edison International",
-        "id": "557b5f3a-aa05-4666-bbcf-38cc1a0155b1",
-        "title": "Intern - Data Analytics - Data Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759825326,
-        "date_posted": 1759825326,
-        "url": "https://apply.edisoncareers.com/job/Victorville-2026-Summer-Internship-Data-AnalyticsData-ScienceApplied-MathStatistics-CA-92392/1332406200/?ats=successfactors",
-        "locations": [
-            "Victorville, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "CenturyLink",
         "id": "5e32728a-c41c-42a6-b928-165e3794f1ce",
         "title": "Intern \u2013 Software Engineer - Summer 2026",
@@ -50835,27 +50641,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Andreessen Horowitz",
-        "id": "710132ed-4a29-4f6a-86a6-9ecaebdc3951",
-        "title": "Research Intern - Crypto",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759825296,
-        "date_posted": 1759825296,
-        "url": "https://a16z.com/about/jobs/?gh_jid=7489894003",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/a16z",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Mars",
         "id": "7f8dba40-84b0-4d2c-8e04-c36875807470",
         "title": "Mars Canada Business Analytics Analyst Co-op",
@@ -79782,7 +79567,7 @@
         "company_name": "Cisco",
         "id": "0fdfda06-d9eb-48c2-b935-b4da3ff0f844",
         "title": "Software Engineer Data/AI/Intelligent Systems 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -105718,7 +105503,7 @@
         "company_name": "Paccar",
         "id": "6052f579-8af0-4ae0-9717-fd169cb6e1de",
         "title": "Intern - Aftersales Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164777,7 +164562,7 @@
         "company_name": "Cisco",
         "id": "fb6e7049-d886-485c-b71d-25d7dad828e2",
         "title": "Software Engineer Data/AI/Intelligent Systems 2 \u2013 Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -261213,7 +260998,7 @@
         "company_name": "Commonwealth of Massachusetts",
         "id": "073098a1-d195-4eea-8e56-c281245066dc",
         "title": "Graduate Intern - Child Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390359,7 +390144,7 @@
         "company_name": "Johnson & Johnson",
         "id": "7fc7a3f3-ea2f-42b4-872f-6df1c5031058",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392030,7 +391815,7 @@
         "company_name": "Cisco",
         "id": "90a6a21b-01c9-4a5a-8c1f-d58b67d00be8",
         "title": "Software Engineer Data/AI/Intelligent Systems 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392066,7 +391851,7 @@
         "company_name": "Cisco",
         "id": "013934fd-e527-4543-b30c-ba4003cee756",
         "title": "Software Engineer Data/AI/Intelligent Systems Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392573,7 +392358,7 @@
         "company_name": "American University",
         "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
         "title": "Graduate Event Data Assistant - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
