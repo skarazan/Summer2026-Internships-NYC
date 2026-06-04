@@ -1,100 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Atomic Semi",
-        "id": "4a16e142-fbe5-47b6-a67b-f3eb901f689b",
-        "title": "Rust Software Engineering Intern - Summer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760018429,
-        "date_posted": 1759867251,
-        "url": "https://jobs.ashbyhq.com/atomicsemi/12d49f8f-ca71-43d0-84a9-dc3b558454c2/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Atomic-Semi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "b39063dd-94d8-4df3-9413-b65cbf70de2c",
-        "title": "Gameplay Engineer Intern - Gameplay Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759871636,
-        "date_posted": 1759871636,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/211300",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Exact Sciences",
-        "id": "c8dd94ad-3c0a-48dc-9159-357eba5e40c9",
-        "title": "Commercial Customer Experience Analytics Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759872133,
-        "date_posted": 1759872133,
-        "url": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Commercial-CX-Analytics-Intern_R25-10684",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Exact-Sciences",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Edison International",
-        "id": "98006037-2a40-4405-86bf-afbe09b667d9",
-        "title": "Intern - Data Analytics/Data Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759872167,
-        "date_posted": 1759872167,
-        "url": "https://apply.edisoncareers.com/job/Lancaster-2026-Summer-Internship-Data-AnalyticsData-Science-CA-93534/1332396900/?ats=successfactors",
-        "locations": [
-            "Palmdale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ADT",
         "id": "cf420cc1-67d6-40af-9bfa-09f30af955a3",
@@ -115956,27 +115862,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mercury Insurance",
-        "id": "1b7cd4aa-d377-4e17-91a1-9b44d03249fe",
-        "title": "R&D Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766059341,
-        "date_posted": 1759868666,
-        "url": "https://careers-mercuryinsurance.icims.com/jobs/5919/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mercury-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "X-energy",
         "id": "5027f42f-7c99-4f47-bfd2-79d7b2d8ab32",
@@ -148933,29 +148818,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Data Intellect",
-        "id": "e6addb26-cde5-4116-9c33-62fef6ddc7f8",
-        "title": "Graduate STEM Developer - Summer 2026",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1759870283,
-        "date_posted": 1759870283,
-        "url": "https://jobs.smartrecruiters.com/DataIntellect/744000085940995",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Data-Intellect",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -219467,7 +219329,7 @@
         "company_name": "Parspec",
         "id": "00ad2123-8026-401f-9d01-279e89a58797",
         "title": "Applied AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -318225,7 +318087,7 @@
         "company_name": "TikTok",
         "id": "187ab9e0-f297-43bf-b9c1-afdf636f1ef5",
         "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336007,7 +335869,7 @@
         "company_name": "Socure",
         "id": "181c70d4-9957-4f0d-b3df-e4eaae9e241a",
         "title": "Engineering Intern - AI Agents - Data & Riskos",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368018,7 +367880,7 @@
         "company_name": "Tenstorrent",
         "id": "0cac0d03-2600-4339-9746-f86b88e23d15",
         "title": "Machine Learning Applications & Benchmarking Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373685,7 +373547,7 @@
         "company_name": "Rivian",
         "id": "1d937b71-16a1-418a-9846-3273963530df",
         "title": "Research Park Intern - Hardware Functional Safety",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
