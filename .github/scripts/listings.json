@@ -2,30 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "ABB",
-        "id": "83453038-cf2d-4efb-b37b-33248138452a",
-        "title": "Data and Analytics Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759886771,
-        "date_posted": 1759886771,
-        "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-NC-Cary/Data---Analytics-Intern--Summer-2026_JR00010657-1",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/ABB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Electronic Arts",
         "id": "dc512bd3-c852-496d-b608-67e2d313fe96",
         "title": "F1 Analyst Intern",
@@ -202197,7 +202173,7 @@
         "company_name": "Astera Labs",
         "id": "18021e71-6bb2-46a3-bcf2-55e4e3b50c5b",
         "title": "AI/ML Intern Silicon Development Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332024,7 +332000,7 @@
         "company_name": "TD Bank",
         "id": "3dc3c73a-435f-4a7d-a2d1-1aa77cf95cef",
         "title": "Data Engineer Intern/Co-op - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -377422,7 +377398,7 @@
         "company_name": "General Motors",
         "id": "86315471-b920-4fb4-8f52-9f43217d3994",
         "title": "AV Software Safety Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -394751,7 +394727,7 @@
         "company_name": "Altera Corporation",
         "id": "86e692d7-8d43-4433-bd58-22865e4557fa",
         "title": "Digital Design / FPGA Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394860,6 +394836,31 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Field AI",
+        "id": "eea43f35-f8ed-425a-955b-74a8a135e072",
+        "title": "Agentic AI/ML Engineer Intern - Solutions",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780621921,
+        "date_posted": 1780621787,
+        "url": "https://jobs.lever.co/field-ai/5f45ac28-5c30-46ec-adaf-8482c9469cea/apply",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Field-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
