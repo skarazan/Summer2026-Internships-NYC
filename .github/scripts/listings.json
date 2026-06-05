@@ -1,98 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Exact Sciences",
-        "id": "4153adb0-964d-41bc-b2bc-0817d9fa59f4",
-        "title": "Commercial Effectiveness Analytics Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759932967,
-        "date_posted": 1759932967,
-        "url": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Commercial-Effectiveness-Analytics---Intern_R25-11198",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Exact-Sciences",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dow Jones",
-        "id": "5da51c90-28a7-44a4-8c63-13a0894cb774",
-        "title": "Data Analyst Intern - Insights and Solutions",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759936662,
-        "date_posted": 1759936662,
-        "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2026-Internship---Data-Analyst_Job_Req_49347",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Dow-Jones",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Boston Scientific",
-        "id": "69b64fb8-75c5-4c50-902a-ad9f2cf174e6",
-        "title": "Software Engineering Intern - Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761313210,
-        "date_posted": 1759936870,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808874202",
-        "locations": [
-            "Roseville, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Dow Jones",
-        "id": "0a865d5d-360f-44d8-a3fd-24dabb330255",
-        "title": "Enterprise Application Intern - Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759938469,
-        "date_posted": 1759938469,
-        "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2026-Internship---SAP-Intern_Job_Req_49345",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Dow-Jones",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1760391861,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -303263,7 +303170,7 @@
         "company_name": "Tencent",
         "id": "72bd8a68-5540-439b-b77b-724e6c606226",
         "title": "Product Manager Intern - Influencer Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371837,7 +371744,7 @@
         "company_name": "Honeywell",
         "id": "bf7abc8a-6e6d-45e1-abc7-b9ec07b9dd0f",
         "title": "Application Engineer Intern - Operator Training Simulator",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378871,7 +378778,7 @@
         "company_name": "Zillow",
         "id": "ca5eca0a-9078-4ac7-9951-872de0a08817",
         "title": "AI Applied Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -387176,7 +387083,7 @@
         "company_name": "Trimble",
         "id": "d49211be-b915-4375-8c6a-17b40be46506",
         "title": "PX Systems & Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392340,6 +392247,266 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Baker Tilly",
+        "id": "a45f39c3-e334-4310-86c6-bae1edaf3b5b",
+        "title": "Data Specialist - Digital Scanning",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780668901,
+        "date_posted": 1780668603,
+        "url": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-IL-Remote/Data-Specialist---Digital-Scanning--Part-Time-_JR106675",
+        "locations": [
+            "Pennsylvania",
+            "Georgia",
+            "Wisconsin",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Baker-Tilly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Clarity Innovations",
+        "id": "980b782f-08f5-4d65-8cde-74e2a0a76186",
+        "title": "Junior Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780669333,
+        "date_posted": 1780669218,
+        "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Clarity-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cohere Health",
+        "id": "08cd7f52-2589-4b43-90ca-9703fa09314d",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780669186,
+        "date_posted": 1780668711,
+        "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7734482003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cohere-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "bb60533b-0cc5-45ea-85d6-51c9e4bd8903",
+        "title": "Data Analyst Intern - Competency Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780668901,
+        "date_posted": 1780668592,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Data-Analyst-Intern---Competency-Management_R5044024-3",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "585072d4-6d08-41d6-8eb8-89d78fd4a67a",
+        "title": "Data Analyst Intern - Competency Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780668901,
+        "date_posted": 1780668600,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Data-Analyst-Intern---Competency-Management_R5044024",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Smith+Nephew",
+        "id": "43fc1cbd-3521-4e19-9bbc-45a986e4ff9e",
+        "title": "Operational Technology Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780668555,
+        "date_posted": 1780668542,
+        "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/UK---Hull-GBU-Office/Operational-Technology-Intern_R90941",
+        "locations": [
+            "Withernsea, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Smith-Nephew",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "f26bcb7d-a9e2-49e2-9866-15165d7dee4a",
+        "title": "College of IST Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780668802,
+        "date_posted": 1780668461,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Assistant-w--Ritter_REQ_0000079239-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EXL",
+        "id": "bb5a1c10-0307-41e9-960c-f28ddc3397ab",
+        "title": "Analytics & AI Solutions Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780668583,
+        "date_posted": 1780668320,
+        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15243",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/EXL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CHEP",
+        "id": "513d3867-26bc-4203-8cd2-ade981572975",
+        "title": "FP&A Business Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780668632,
+        "date_posted": 1780668331,
+        "url": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1",
+        "locations": [
+            "London, UK",
+            "Orlando, FL",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/060f3244-8261-437d-837f-2f8bce40f7a4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Unity",
+        "id": "0ccd2caa-9634-4ef1-bd75-02db9b939617",
+        "title": "Infrastructure Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780669016,
+        "date_posted": 1780524635,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7906470",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Unity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vanguard",
+        "id": "24e011bc-9b6f-436d-a295-a78a686f8f1a",
+        "title": "Mobile Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1780669339,
+        "date_posted": 1780668536,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/XMLNAME-2026-2027-Fall-Winter-Mobile-Engineer-Co-op--Charlotte_178959",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
