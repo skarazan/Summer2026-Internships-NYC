@@ -153800,7 +153800,7 @@
         "company_name": "ByteDance",
         "id": "2f581eb5-e5d9-4bc0-a9b6-54a4ea8ad53d",
         "title": "Research Scientist Intern - Security for AI - 2026 Start",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -177456,7 +177456,7 @@
         "company_name": "ByteDance",
         "id": "97e6ece1-7a71-4d9d-a1b3-255d28e56d89",
         "title": "Software Engineer Project Intern - Security-Data - 2026 Start",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -178849,7 +178849,7 @@
         "company_name": "TikTok",
         "id": "170e2b9d-4374-42d9-87ee-68607c4d2e35",
         "title": "Machine Learning Engineer - App Ads",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -178873,7 +178873,7 @@
         "company_name": "ByteDance",
         "id": "03f837a0-bf51-4384-b5fe-ecc29b02eb9b",
         "title": "Security Software Engineer Project Intern - Network Security - 2026 Start",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -216463,7 +216463,7 @@
         "company_name": "ByteDance",
         "id": "d55233d5-c04b-4722-b48b-b39c50e6b4c9",
         "title": "Software Engineer Intern - AI Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -239877,7 +239877,7 @@
         "company_name": "ByteDance",
         "id": "9d1f00cf-b2ff-4d4d-aeaf-ba9bad343197",
         "title": "Research Scientist - Computational Photography Algorithms",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -310497,7 +310497,7 @@
         "company_name": "ByteDance",
         "id": "77ff658e-cabb-48be-9248-a271f5f898ff",
         "title": "Student Researcher - AI Foundation Model Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -310804,7 +310804,7 @@
         "company_name": "ByteDance",
         "id": "079a44ae-b213-4f4c-9088-cc2c48d346b1",
         "title": "Student Researcher - Large Language Model - Seed",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -329143,7 +329143,7 @@
         "company_name": "ByteDance",
         "id": "de291dac-66b0-4867-84dc-697d2f4f487c",
         "title": "Student Researcher - Seed Infra-Compiler - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -329699,7 +329699,7 @@
         "company_name": "TikTok",
         "id": "b68df86b-5d86-439f-8b8a-eb9b15e9ddf3",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386706,7 +386706,7 @@
         "company_name": "Marsh",
         "id": "c6fb7bb2-6ca1-431b-bb96-398422ba1a8d",
         "title": "Oliver Wyman Analyst Internship - Data & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -386922,7 +386922,7 @@
         "company_name": "Astera Labs",
         "id": "5b72a700-e240-44d1-8863-0df4db7d081c",
         "title": "Photonics Integrated Circuits Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392086,7 +392086,7 @@
         "company_name": "Magnite",
         "id": "f6fc07d3-db06-4efb-b3d3-ee4725bcd9c7",
         "title": "Software Engineering DV+ Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394836,6 +394836,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Generac",
+        "id": "febe4c7d-4ae1-4e4b-9b98-29f1a65397b8",
+        "title": "Lab Technician Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780611664,
+        "date_posted": 1780610762,
+        "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Santa-Monica-CA----USA/Lab-Technician-Intern_JR14695",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Generac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
