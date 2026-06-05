@@ -354653,7 +354653,7 @@
         "company_name": "Delta Dental",
         "id": "4392d204-b68c-4302-bdc2-14bd87fe0c3c",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384695,7 +384695,7 @@
         "company_name": "Cummins",
         "id": "7cbcc5ee-17db-4c47-a8ce-9e4cd670b833",
         "title": "Student \u2013 School to Work - Digital Manufacturing & 6 Sigma",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -389622,7 +389622,7 @@
         "company_name": "Marsh",
         "id": "7ac697b2-ff59-4660-990a-d4f53316f56c",
         "title": "AI Integration Specialist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -392343,7 +392343,7 @@
         "company_name": "Unity",
         "id": "0ccd2caa-9634-4ef1-bd75-02db9b939617",
         "title": "Infrastructure Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392380,6 +392380,99 @@
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ivy Tech Community College",
+        "id": "360e9119-97d6-4845-aaca-77af04cb3b20",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780697161,
+        "date_posted": 1780697080,
+        "url": "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Data-Analyst-Intern_JR0000108706",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Ivy-Tech-Community-College",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EXL",
+        "id": "f7b50810-95ef-4315-b08a-08658bd28922",
+        "title": "Analytics & AI Solutions Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780697522,
+        "date_posted": 1780697113,
+        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15237",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/EXL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "1d929b62-c0c3-48c4-914d-2541b5ce214a",
+        "title": "Content Management Automation Student Technician",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780697161,
+        "date_posted": 1780697092,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Content-Management-Automation-Student-Technician--open-to-work-study-and-non-work-study-_R_00046574",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "City of Austin",
+        "id": "baf952e2-c8ac-4414-8820-fa9dedcc23bd",
+        "title": "Aviation Intern - IT",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780697493,
+        "date_posted": 1780697100,
+        "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--Veteran-Intern--IT--Hire-in-Process-please-do-not-apply--By-Invitation-Only_JR104108",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-Austin",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
