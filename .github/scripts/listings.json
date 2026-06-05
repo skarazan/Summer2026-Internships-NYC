@@ -1,128 +1,5 @@
 [
     {
-        "date_updated": 1760391861,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/5668745004",
-        "company_name": "Mercury",
-        "title": "Backend Engineering Intern",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY",
-            "Portland, OR",
-            "Remote in CAN",
-            "Remote in USA"
-        ],
-        "terms": [
-            "Spring 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "47c1ca97-8993-41f4-b680-3d36abc2fdef",
-        "date_posted": 1759941633,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1762474017,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Applications-Engineer-Intern_R256352-1",
-        "company_name": "Analog Devices",
-        "title": "Applications Engineer Intern",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "8e92f8b1-b589-4235-af4b-56168e89f59e",
-        "date_posted": 1759942508,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1761409384,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://phg.tbe.taleo.net/phg03/ats/careers/v2/viewRequisition?org=CAUSCAPI&cws=37&rid=174",
-        "company_name": "Causeway Capital Management",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "3e0b8055-c204-465e-9dc8-76a1659c4549",
-        "date_posted": 1759942635,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1761409430,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.lockheedmartinjobs.com/job/denver/cyber-software-engineer-intern/694/86972661296",
-        "company_name": "Lockheed Martin",
-        "title": "Cyber Software Engineer Intern",
-        "locations": [
-            "Denver, CO"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "e3917829-efae-4f6c-b9d3-21fddaeb59d4",
-        "date_posted": 1759942678,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1760391846,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/5668759004",
-        "company_name": "Mercury",
-        "title": "Frontend Engineering Intern",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY",
-            "Portland, OR",
-            "Remote in CAN",
-            "Remote in USA"
-        ],
-        "terms": [
-            "Spring 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "68b449fc-13a4-442f-885f-df7fadc67e81",
-        "date_posted": 1759943001,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "RTX",
@@ -98054,7 +97931,7 @@
         "company_name": "Microsoft",
         "id": "613a0be3-b267-4c16-9b8e-73792f39476e",
         "title": "Research Intern - Systems For Efficient AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388439,7 +388316,7 @@
         "company_name": "Leidos",
         "id": "9e9b2cdb-3e51-4478-8b33-4281c7b2a565",
         "title": "Data Architecture and Governance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390814,7 +390691,7 @@
         "company_name": "Robert Half",
         "id": "985b4b35-9585-43ac-a5e0-07e7b3bd2086",
         "title": "Generative AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391825,7 +391702,7 @@
         "company_name": "Ciena",
         "id": "29030f5c-1d32-4193-aada-12312219170c",
         "title": "Software Platform Designer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -392112,7 +391989,7 @@
         "company_name": "Nextiva",
         "id": "49018b42-4db8-4879-ab80-d2f783d70bcc",
         "title": "GTM AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392302,7 +392179,7 @@
         "company_name": "Cohere Health",
         "id": "08cd7f52-2589-4b43-90ca-9703fa09314d",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
