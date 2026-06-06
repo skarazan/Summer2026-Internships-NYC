@@ -1,351 +1,5 @@
 [
     {
-        "date_updated": 1760373525,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.blizzard.com/global/en/job/BLENGLOBALR025921EXTERNALENGLOBAL/2026-US-Summer-Internships-Tech-Art",
-        "company_name": "Blizzard Entertainment",
-        "title": "Tech Art",
-        "locations": [
-            "Woodland Hills, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "ecc9d82b-9508-447f-888e-e9d21e23601e",
-        "date_posted": 1760018947,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1760019478,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035",
-        "company_name": "Eight Sleep",
-        "title": "AI/ML Research Internship",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "6f10c466-8cfc-495b-baaa-e7abad5f218c",
-        "date_posted": 1760019478,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762902653,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Lawrence-MA-USA/Reciprocity-Embedded-Software-Engineer-Co-op--DSS_R0222635",
-        "company_name": "Fresenius Medical Care",
-        "title": "Reciprocity Embedded Software Engineer Co-op- DSS",
-        "locations": [
-            "Lawrence, MA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "4c2e0ee4-6d0c-4865-9476-2f7282436d3f",
-        "date_posted": 1760020106,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lumen Technologies",
-        "id": "3c0f6977-4984-40f6-b11e-ca78f5e875b4",
-        "title": "Intern \u2013 Operations Engineer - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760023543,
-        "date_posted": 1760023543,
-        "url": "https://jobs.lumen.com/global/en/job/340199",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lumen Technologies",
-        "id": "374b9bf9-c97c-4365-af8d-dabd5ff45525",
-        "title": "Intern \u2013 Strategic Fiber Planning - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761329725,
-        "date_posted": 1760023537,
-        "url": "https://jobs.lumen.com/global/en/job/340218",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Citadel Securities",
-        "id": "18b48766-5e2c-436d-9735-13746605df79",
-        "title": "Rates Trading Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760048248,
-        "date_posted": 1760023714,
-        "url": "https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel-Securities",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lumen Technologies",
-        "id": "f4edfe35-66ae-4e71-8a4a-8b54d64766b4",
-        "title": "Intern \u2013 Senior Planning Engineer - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761572065,
-        "date_posted": 1760023540,
-        "url": "https://jobs.lumen.com/global/en/job/340234",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lumen Technologies",
-        "id": "ca461307-0a8b-453c-b81a-5078b2711d83",
-        "title": "Intern \u2013 Planning Engineer - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761330282,
-        "date_posted": 1760023540,
-        "url": "https://jobs.lumen.com/global/en/job/340262",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lumen Technologies",
-        "id": "765858e3-e653-4970-9d8c-759b1458b5f5",
-        "title": "Intern \u2013 Data Analyst - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761673224,
-        "date_posted": 1760023529,
-        "url": "https://jobs.lumen.com/global/en/job/340217",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lumen Technologies",
-        "id": "5100f195-030f-47a4-8adb-a542fcb180b8",
-        "title": "Intern \u2013 Carrier Relations - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761329805,
-        "date_posted": 1760023539,
-        "url": "https://jobs.lumen.com/global/en/job/340219",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lumen Technologies",
-        "id": "0f4a64a3-0b08-4b88-b42c-a78f8a11fd2b",
-        "title": "Intern \u2013 Data Analyst - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761329665,
-        "date_posted": 1760023536,
-        "url": "https://jobs.lumen.com/global/en/job/340258",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Seaspan",
-        "id": "db652cef-e34a-4fb6-a3ab-282302f2975c",
-        "title": "Intern - Digital Ship - Digital Ship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760048394,
-        "date_posted": 1760023094,
-        "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/8009",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Seaspan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Seaspan",
-        "id": "b9ec69b4-bea3-431a-914e-55542c22938e",
-        "title": "Intern \u2013 3D Visualization - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1761284738,
-        "date_posted": 1760023100,
-        "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/8008",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Seaspan",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Seaspan",
-        "id": "6aec8554-81e7-46ff-b754-05c1050077c4",
-        "title": "Intern - Data Engineering - Data Engineering",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1761328607,
-        "date_posted": 1760023083,
-        "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/7965",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Seaspan",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Seaspan",
-        "id": "5c6e0440-f678-410a-bda6-773c6d2171be",
-        "title": "Intern - Digital Ship Analytics - Innovation Team",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760048409,
-        "date_posted": 1760023103,
-        "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/8010",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Seaspan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Motorola",
@@ -443,29 +97,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "CenturyLink",
-        "id": "dc371a16-e2a6-428c-b9a8-763922fc732a",
-        "title": "Intern - AI Governance",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761331063,
-        "date_posted": 1760023678,
-        "url": "https://internaljobs.centurylink.com/job/Remote-Intern-TITLE-AI-Governance/1333345400/?ats=successfactors",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Cohere",
         "id": "0b25fd12-7da8-498d-8e2c-1ef6c060ee27",
         "title": "Research Intern - Multiple Teams",
@@ -487,29 +118,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CenturyLink",
-        "id": "dc111661-5bc9-4b95-8e72-0cff36bdc9f2",
-        "title": "Intern - Operations Engineer - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760023665,
-        "date_posted": 1760023665,
-        "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Operations-Engineer-Summer-2026/1333043800/?ats=successfactors",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -538,29 +146,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "CenturyLink",
-        "id": "bb57004a-fa1a-4af1-b3d5-9ddefc4ded60",
-        "title": "Intern \u2013 Carrier Relations - Carrier Relations",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761330650,
-        "date_posted": 1760023672,
-        "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Carrier-Relations-Summer-2026/1333017600/?ats=successfactors",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Clarios",
         "id": "b2098bc3-d1b5-464a-be95-e4600dc9eb20",
         "title": "Automation and Applied AI Intern - Multiple Teams",
@@ -576,75 +161,6 @@
         ],
         "company_url": "https://simplify.jobs/c/Clarios",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CenturyLink",
-        "id": "ae0ae7c2-8bc4-4da0-a41c-22be7a3aea34",
-        "title": "Intern \u2013 Strategic Fiber Planning - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761330493,
-        "date_posted": 1760023670,
-        "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Strategic-Fiber-Planning-Summer-2026/1333010500/?ats=successfactors",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CenturyLink",
-        "id": "a5806abb-54f6-4270-a8a3-6103e49a756f",
-        "title": "Intern \u2013 Planning Engineer - Network Planning",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761330399,
-        "date_posted": 1760023667,
-        "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Planning-Engineer-Summer-2026/1333004000/?ats=successfactors",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CenturyLink",
-        "id": "8cf142b3-3b4d-43b4-8159-25a95df72ea8",
-        "title": "Intern \u2013 Data Analyst - Service Delivery",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761318668,
-        "date_posted": 1760023665,
-        "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Data-Analyst-Summer-2026/1333103400/?ats=successfactors",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -676,76 +192,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CenturyLink",
-        "id": "f161c7b6-7d12-4c83-8f53-199d7418a360",
-        "title": "Intern \u2013 Senior Planning Engineer - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761330897,
-        "date_posted": 1760023674,
-        "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Senior-Planning-Engineer-Summer-2026/1332999400/?ats=successfactors",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CenturyLink",
-        "id": "55bdf579-e580-4c5d-b1aa-a69f989e27e1",
-        "title": "Intern - Data Analyst - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761330968,
-        "date_posted": 1760023681,
-        "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Data-Analyst-Summer-2026/1333099400/?ats=successfactors",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lennar Corporation",
-        "id": "4d8250c1-6557-4f52-9cac-f5251141a54f",
-        "title": "Future Builders Internship Program - People Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760023711,
-        "date_posted": 1760023711,
-        "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Future-Builders-Internship-Program---People-Analytics-_R25_0000004266",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Lennar-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -46127,27 +45573,6 @@
             "Idaho"
         ],
         "company_url": "https://simplify.jobs/c/Highmark-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "J.M. Smucker",
-        "id": "76aea303-ca69-43e3-9b45-f81f9ca6d813",
-        "title": "Business Intelligence Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760023207,
-        "date_posted": 1760023207,
-        "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Business-Intelligence-Intern--Summer-2026_114413",
-        "locations": [
-            "Massillon, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/JM-Smucker",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -179888,27 +179313,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Squarespace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "10a Labs",
-        "id": "a5675717-baed-4913-a30b-9f333e486d15",
-        "title": "Machine Learning Fellowship",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1769730249,
-        "date_posted": 1760023817,
-        "url": "https://job-boards.greenhouse.io/10alabs/jobs/4035700009",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/10a-Labs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -359013,7 +358417,7 @@
         "company_name": "Tesla",
         "id": "a0e95457-348b-495c-b6ca-6c74a2122451",
         "title": "Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -392576,5 +391980,100 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "9df9d65e-4ffa-4eaf-9048-014c94fb022a",
+        "title": "Data Engineer Intern - Fleet Analytics",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780755860,
+        "date_posted": 1780754913,
+        "url": "https://www.tesla.com/careers/search/job/271696",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zipline",
+        "id": "3233bc5d-9026-42f2-acc6-1cbf5cd4e5f2",
+        "title": "Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780726501,
+        "date_posted": 1780726498,
+        "url": "https://www.zipline.com/careers?gh_jid=7765240003#open-roles",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "cf47c883-2639-4a34-8c85-22ca57d03eea",
+        "title": "Service Engineering Intern - Product Support Engineer - Service Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780756441,
+        "date_posted": 1780755075,
+        "url": "https://www.tesla.com/careers/search/job/271630",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "899430e7-72cd-4e65-9394-58fd69b316ad",
+        "title": "Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780756418,
+        "date_posted": 1780755038,
+        "url": "https://www.tesla.com/careers/search/job/271544",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
