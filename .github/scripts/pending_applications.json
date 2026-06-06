@@ -1,3 +1,17 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "listing_id": "10f26a2e-0806-4a95-ab5a-9937df1917fa",
+      "company_name": "Scale AI",
+      "title": "AI Builder Intern",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
+      "simplify_url": "https://simplify.jobs/p/10f26a2e-0806-4a95-ab5a-9937df1917fa",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "Software",
+      "date_detected": 1780748094
+    }
+  ]
 }

@@ -387334,7 +387334,7 @@
         "company_name": "Pennsylvania State University",
         "id": "8cda17e9-fc6e-4491-8da6-2885661afac0",
         "title": "Undergraduate Research Assistant - Robinson Lab - Materials Science and Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -392465,5 +392465,52 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Protech Automotive Solutions",
+        "id": "cff068fb-fe17-4445-8ea4-f296a6a42af5",
+        "title": "Automotive ADAS Calibration Technician Apprentice",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780744824,
+        "date_posted": 1780740587,
+        "url": "https://calibercollision.wd1.myworkdayjobs.com/protech/job/PT-Silicon-Valley-North/Automotive-ADAS-Calibration-Technician_R0215733",
+        "locations": [
+            "California",
+            "San Jose, CA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Protech-Automotive-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scale AI",
+        "id": "10f26a2e-0806-4a95-ab5a-9937df1917fa",
+        "title": "AI Builder Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780726321,
+        "date_posted": 1780726158,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
