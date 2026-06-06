@@ -75,78 +75,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Copart",
-        "id": "a15cf643-a9a3-40ec-ac60-e3597a2bbf27",
-        "title": "Technology Product Analyst Intern - Product Management",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760047714,
-        "date_posted": 1760030468,
-        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR105106",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Copart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Voleon Group",
-        "id": "a3a2857b-a272-40e8-9547-2fda16a8cebb",
-        "title": "Research Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760030302,
-        "date_posted": 1760030302,
-        "url": "https://jobs.lever.co/voleon/1ff17a01-830c-4b77-ba52-bd14d29aa7df/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Voleon-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Thomson Reuters",
-        "id": "bf14b465-70ca-41c8-a84b-90b7c815d3e2",
-        "title": "Research Engineering Intern - AI Platform",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1760029713,
-        "date_posted": 1760029713,
-        "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/GBR-London-5-Canada-Square/Research-Engineering-Intern_JREQ195098",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Thomson-Reuters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Expedia Group",
         "id": "ecefb96d-beef-4991-8d36-23793a8dad90",
@@ -45102,75 +45030,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Highmark Health",
-        "id": "0fbca23d-4741-4f57-8511-58a86e504b15",
-        "title": "Summer 2026 Clinical and Population Health Graduate Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761850268,
-        "date_posted": 1760030451,
-        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2026-Clinical-and-Population-Health-Graduate-Intern_J270327",
-        "locations": [
-            "New Mexico",
-            "Washington",
-            "Kansas",
-            "Pennsylvania",
-            "North Dakota",
-            "Oregon",
-            "Delaware",
-            "Iowa",
-            "California",
-            "Washington, DC",
-            "Vermont",
-            "Wyoming",
-            "Texas",
-            "Jackson Township, NJ",
-            "Florida",
-            "Waterbury, CT",
-            "Nevada",
-            "South Carolina",
-            "South Dakota",
-            "Georgia",
-            "Arizona",
-            "Concord, NH",
-            "Mississippi",
-            "Tennessee",
-            "Virginia",
-            "Arkansas",
-            "Colorado",
-            "Nebraska",
-            "Rhode Island",
-            "Utah",
-            "Kentucky",
-            "West Virginia",
-            "NYC",
-            "Maryland",
-            "Hawaii",
-            "Wisconsin",
-            "Maine",
-            "Massachusetts",
-            "North Carolina",
-            "Oklahoma",
-            "Missouri",
-            "Ohio",
-            "Indiana",
-            "Louisiana",
-            "Alaska",
-            "Michigan",
-            "Illinois",
-            "Alabama",
-            "Idaho"
-        ],
-        "company_url": "https://simplify.jobs/c/Highmark-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Commonwealth of Massachusetts",
         "id": "16f78dba-108b-4f06-91f8-360a779a7bc4",
         "title": "RMV Crash Data Analytics Co-op Fall 2025",
@@ -70746,27 +70605,6 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "FM Global",
-        "id": "75a609b8-21b5-4234-80a7-a1a9901ec71a",
-        "title": "Data Visualization & Reporting",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763421644,
-        "date_posted": 1760030688,
-        "url": "https://jobs-fmglobal.icims.com/jobs/16037/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Providence, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/FM-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -391665,6 +391503,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "513c29f5-023b-4e36-98fa-0c921ddddaa2",
+        "title": "Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780756593,
+        "date_posted": 1780755195,
+        "url": "https://www.tesla.com/careers/search/job/271539",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
