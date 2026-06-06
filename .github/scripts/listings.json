@@ -1,148 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Patreon",
-        "id": "5cefdd41-b417-4f73-8faa-f5a0dded28bf",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760007725,
-        "date_posted": 1760002129,
-        "url": "https://jobs.ashbyhq.com/patreon/7046bc99-eaa8-4920-99ec-5f5c91e95991/application",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Patreon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Versapay",
-        "id": "23d459f9-40e9-43db-b16d-561bd1731fb1",
-        "title": "Product Management Intern - Product Management",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760007711,
-        "date_posted": 1760001967,
-        "url": "https://jobs.lever.co/versapay/5e152057-a83d-49f7-95d2-5406d58823d0/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Versapay",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uber",
-        "id": "be329ce9-a1da-4fe0-8c89-1f4dedf870e0",
-        "title": "PhD Software Engineer Intern - Data Storage",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1760001815,
-        "date_posted": 1760001815,
-        "url": "https://university-uber.icims.com/jobs/149481/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Klaviyo",
-        "id": "65e4f006-c40b-48b1-810d-2ff8d8276f3d",
-        "title": "Product Marketing Intern/Co-op - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1760001703,
-        "date_posted": 1760001703,
-        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7483172003",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Klaviyo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Altice USA",
-        "id": "06089e64-e4b8-4278-bde1-8679e772005a",
-        "title": "Intern \u2013 Junior Systems Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760007648,
-        "date_posted": 1760000587,
-        "url": "https://www.alticeusacareers.com/job/Golden-Intern-Jr-Systems-Analyst-CO-80401/1332889100/?ats=successfactors",
-        "locations": [
-            "Plainview, NY",
-            "Golden, CO",
-            "Wakefield, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Altice-USA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Seaspan",
-        "id": "ca7e059d-b84c-48fe-8034-598336839086",
-        "title": "Intern - Innovation - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1760002851,
-        "date_posted": 1760002851,
-        "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/8026",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Seaspan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1763711006,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -116033,7 +115890,7 @@
         "company_name": "Tencent",
         "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
         "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -255865,7 +255722,7 @@
         "company_name": "Tencent",
         "id": "f682356d-55da-4f90-987d-77f140cc652d",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -269107,7 +268964,7 @@
         "company_name": "KION Group",
         "id": "fe972247-600c-481b-961d-3abad929c277",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326358,7 +326215,7 @@
         "company_name": "Adobe",
         "id": "f65a97ce-acdb-4f60-a4e0-a4a7b7a66fcb",
         "title": "AI/ML Intern - Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -334066,7 +333923,7 @@
         "company_name": "Very Good Security",
         "id": "af4585c3-fe77-4008-b28c-c22d30c72f0f",
         "title": "Application Security Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371089,7 +370946,7 @@
         "company_name": "CAE",
         "id": "efa65a8c-d804-442f-9165-003d9fe830c6",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372418,7 +372275,7 @@
         "company_name": "Adobe",
         "id": "f354f30b-fb00-4fd5-b41d-93958a339309",
         "title": "Research Scientist/Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378258,7 +378115,7 @@
         "company_name": "Zillow",
         "id": "ccfd9e62-9404-43cd-8f5b-2dab27ebf2b1",
         "title": "AI Applied Scientist Intern - Foundational IQ",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -384506,7 +384363,7 @@
         "company_name": "Smiths Detection Group",
         "id": "244c4d01-6a38-4298-9fef-4a12ee37a4ea",
         "title": "Technical Service Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -392587,5 +392444,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "f0726504-db62-485e-bada-8c18a1e5693d",
+        "title": "Engineering Technician",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780741262,
+        "date_posted": 1780740972,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Kennedy-Space-Center/Engineering-Technician_R0157372",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
