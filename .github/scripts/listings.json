@@ -1,51 +1,5 @@
 [
     {
-        "date_updated": 1763711006,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2026-Management--AI-Products--Graduate-Intern_J269793",
-        "company_name": "Highmark Health",
-        "title": "Management (AI Products) Graduate Intern",
-        "locations": [
-            "Remote in USA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "f5658c25-8b17-4487-8a35-065c35856dbb",
-        "date_posted": 1760017168,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1760393915,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Cambridge-MA/Co-op--Machine-Learning_REQ21752",
-        "company_name": "Biogen",
-        "title": "Co-op, Machine Learning",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "89cd31c7-719e-4219-b358-ddaa5c5172f5",
-        "date_posted": 1760017627,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1760373525,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -356766,7 +356720,7 @@
         "company_name": "NVIDIA",
         "id": "992b48ee-6377-47d1-a64a-325b032e4673",
         "title": "Formal Verification Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -382038,7 +381992,7 @@
         "company_name": "Alberta Investment Management Corporation",
         "id": "51a68457-2a22-49e5-9961-bbafe5eeb658",
         "title": "Fixed Income Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -382587,7 +382541,7 @@
         "company_name": "FHLBank Topeka",
         "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
         "title": "Financial Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -387219,7 +387173,7 @@
         "company_name": "The Boeing Company",
         "id": "a7204b4a-69e6-437a-a00e-bbb5c5d7d378",
         "title": "Software Development Intern - AI and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -387355,7 +387309,7 @@
         "company_name": "Princeton University",
         "id": "d1768ef5-3c7a-4b58-aa2a-32dad0a74fe4",
         "title": "Business and Data Intern - Membership Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -389955,7 +389909,7 @@
         "company_name": "Booz Allen",
         "id": "90dcf739-3225-468a-90f5-7253df08e69c",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390081,7 +390035,7 @@
         "company_name": "Centerstone",
         "id": "c92a9e03-4d13-4388-bfb0-75a1b8980737",
         "title": "Associate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -392512,5 +392466,115 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Miami University",
+        "id": "fa271b19-1be4-4217-8e6b-ce2a0c4c9a26",
+        "title": "Athletics Statistician - Athletics Communication JM",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780747187,
+        "date_posted": 1780743008,
+        "url": "https://miamioh.wd5.myworkdayjobs.com/miamioh-staff/job/Millett-Hall/Athletics-Student-Statistician_JR102294",
+        "locations": [
+            "Oxford, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Miami-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "XPENG Motors",
+        "id": "80d17130-e8af-42ec-9d13-451a3db46199",
+        "title": "AI Infrastructure Onboard Performance Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780726177,
+        "date_posted": 1780725922,
+        "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/XPengMotors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SOTI",
+        "id": "eedc3481-24f8-4e24-ab3d-8ae10a4eb5ed",
+        "title": "Web Producer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780752194,
+        "date_posted": 1780741859,
+        "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/SOTI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nidec",
+        "id": "cfb9b365-0e85-49d1-ab5a-875453786a75",
+        "title": "Application Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780752093,
+        "date_posted": 1780740233,
+        "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Application-Engineering-Co-Op_R0016076",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Nidec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CIBC",
+        "id": "b5be5a5b-c38b-4cb7-a026-8af0f07cb7fb",
+        "title": "Business Systems Analyst Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780750621,
+        "date_posted": 1780740055,
+        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Systems-Analyst-Co-op_2611401-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
