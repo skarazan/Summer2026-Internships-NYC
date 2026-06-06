@@ -1,75 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Crowdstrike",
-        "id": "1d0810b0-e684-47fa-b4f6-3b6034a5c690",
-        "title": "Sales Excellence Data Analytics Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761331305,
-        "date_posted": 1760041277,
-        "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sales-Excellence-Data-Analytics-Intern---Summer-2026--Remote-_R25067-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Crowdstrike",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Samsung",
-        "id": "c91d4f03-01c4-43ec-ba41-e444319a31ca",
-        "title": "Intern \u2013 Architecture Research Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760048081,
-        "date_posted": 1760040567,
-        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7492430003",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Samsung",
-        "id": "04191d4e-1da4-402a-8fbd-cc7cac54a230",
-        "title": "Intern - Compiler Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760047577,
-        "date_posted": 1760040350,
-        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7492410003",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Chess",
         "id": "1064ce04-ae69-46d3-95c1-649d35762be9",
@@ -85,101 +16,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Chess",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Radiance Technologies",
-        "id": "9846e294-2676-43ac-8eb4-54702a700e45",
-        "title": "Software Engineer Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1761573381,
-        "date_posted": 1760043398,
-        "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Software-Engineer-CO-OP-Intern--Spring--Summer-or-Fall-2026--_HR101835-1",
-        "locations": [
-            "Beavercreek, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Radiance-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GE Vernova",
-        "id": "1435568f-9d62-429f-a4c4-a2d8e71e5f36",
-        "title": "GE Vernova Energy Optimization Software Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760042442,
-        "date_posted": 1760042442,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova-Energy-Optimization-Software-Intern---Summer-2026_R5020335-1",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Workday",
-        "id": "53f405ca-cd21-4d29-8026-1ab9790450d0",
-        "title": "Automation Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761573273,
-        "date_posted": 1760041999,
-        "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Automation-Engineer-Intern_JR-0100680",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Workday",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Workday",
-        "id": "4d5e24e0-1fad-4cde-9c7b-1ad643373360",
-        "title": "Software Development Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761573331,
-        "date_posted": 1760042174,
-        "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0100469",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Workday",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -14035,29 +13871,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "State Street",
-        "id": "a0cb65fd-06ee-4c7b-b5aa-0fd225636949",
-        "title": "Product Intern - Product Team",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760041030,
-        "date_posted": 1760041030,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/State-Street-Product-Office---Summer-Internship-2026_R-778817",
-        "locations": [
-            "Quincy, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -43743,48 +43556,6 @@
             "St. Charles, IL"
         ],
         "company_url": "https://simplify.jobs/c/Clarios",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Conagra Brands",
-        "id": "253720ea-3c8c-4cfe-833f-cb609317d947",
-        "title": "Business Services Internship - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761857593,
-        "date_posted": 1760040812,
-        "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Business-Services-Internship---Summer-2026_Req-034683",
-        "locations": [
-            "Omaha, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Conagra-Brands",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "080ffbaf-fd7a-40d7-9203-df6235ad22f5",
-        "title": "Systems Intern Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760040116,
-        "date_posted": 1760040116,
-        "url": "https://careers-gdms.icims.com/jobs/68527/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pittsfield, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -111816,7 +111587,7 @@
         "company_name": "American Fidelity",
         "id": "9e399c19-1108-49a6-bcdf-06d985961772",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -142512,29 +142283,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "GSA Capital",
-        "id": "3bd32249-abe5-4307-a86a-524a80ea7d2c",
-        "title": "Women in Trading and Technology Insight Programme",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1762921033,
-        "date_posted": 1760043207,
-        "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8199077002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GSA-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -275784,7 +275532,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "f2003bcd-3a85-486f-ab57-496ec1a066b8",
         "title": "Graduate Web Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -297060,7 +296808,7 @@
         "company_name": "Pennsylvania State University",
         "id": "f183876e-be48-443e-9adf-15012b5acef1",
         "title": "Research and Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -326818,7 +326566,7 @@
         "company_name": "PHINIA",
         "id": "f62a6cc8-186a-451b-a238-63a2cf46dc75",
         "title": "AI Agent Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341681,7 +341429,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -349683,7 +349431,7 @@
         "company_name": "Samsung",
         "id": "fc009865-651e-4548-b29e-ee267d5e19ae",
         "title": "AI Research Intern - Agentic AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360107,7 +359855,7 @@
         "company_name": "NVIDIA",
         "id": "eff308a0-3750-44ad-8b74-5d3d486e1a64",
         "title": "Machine Learning Intern - Multimodal Models Generative AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369596,7 +369344,7 @@
         "company_name": "EPRI",
         "id": "eff23e0e-2522-445b-925a-811fe2e459d1",
         "title": "Graduate Geothermal Modeler",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -371647,7 +371395,7 @@
         "company_name": "RTX",
         "id": "e145c456-c733-4a4e-8479-18edd9cd7eae",
         "title": "DPHM Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -374599,7 +374347,7 @@
         "company_name": "American University",
         "id": "ce1c8960-feb9-4664-a95b-bf69e14b0f14",
         "title": "Research Assistant - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375257,7 +375005,7 @@
         "company_name": "LiveRamp",
         "id": "d78c5e39-dccf-475e-9124-2c3a66982e2c",
         "title": "Software Engineer Co-op - Pixel Serving",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378262,7 +378010,7 @@
         "company_name": "Applied Materials",
         "id": "904ede6a-d07c-44c2-a734-c3c74ce33c01",
         "title": "Process Integration Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -382133,7 +381881,7 @@
         "company_name": "Bank of Montreal",
         "id": "f18e7340-417e-4ff8-bb8c-473777d353ca",
         "title": "Card Products Intern - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -383359,7 +383107,7 @@
         "company_name": "Shaw Industries Group",
         "id": "ceeca858-2924-4f4b-9492-2c157948e113",
         "title": "STEM Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383401,7 +383149,7 @@
         "company_name": "Howard University",
         "id": "e5eb43f1-489d-4365-9768-23eb06abe035",
         "title": "Transportation Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383422,7 +383170,7 @@
         "company_name": "Howard University",
         "id": "e5182721-468b-4655-873e-c9f9642d33e5",
         "title": "DDOT Intern 3",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383648,7 +383396,7 @@
         "company_name": "Autodesk",
         "id": "b7827240-ddc0-4787-b2b6-f95f65c55b31",
         "title": "Software Developer Intern - Stagiaire en D\u00e9veloppement Logiciel",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -383812,7 +383560,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "dcd094ab-20fa-4799-aa84-529922b384f1",
         "title": "Insights Programme",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383952,7 +383700,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "c2babd4c-40db-44fc-93fb-a76d874ad8ca",
         "title": "Risk Management Intern - Developer - AI Innovation for Risk Management",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384462,7 +384210,7 @@
         "company_name": "The Boeing Company",
         "id": "f9a9a74a-3d60-4ed6-8d4f-feeabafcd709",
         "title": "Software Development Intern - AI and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -384510,7 +384258,7 @@
         "company_name": "The Boeing Company",
         "id": "e24b7ae1-9d54-486e-89f2-6e02f829a31c",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -385053,7 +384801,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "d13e7a45-e25f-4096-9fed-215226ab8bd0",
         "title": "Group Risk Management - Developer - AI Innovation for Risk Management",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -385569,7 +385317,7 @@
         "company_name": "CIBC",
         "id": "9ff7bd7f-8367-4108-9432-c75ff32adb6f",
         "title": "Product Consultant Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -387277,7 +387025,7 @@
         "company_name": "Pennsylvania State University",
         "id": "ec5070f5-8f02-467a-92a3-1d1aaf0f1bbe",
         "title": "Grad",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -388029,7 +387777,7 @@
         "company_name": "Nio",
         "id": "f8c55540-2c77-4666-a43b-0bd880b968f9",
         "title": "Data Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388105,7 +387853,7 @@
         "company_name": "Smithfield Foods",
         "id": "6da11802-6c56-425d-bef5-43ee14435ee9",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -388334,7 +388082,7 @@
         "company_name": "CIBC",
         "id": "c774160b-0b65-4dd8-811d-427581f85853",
         "title": "Sales Effectiveness Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
