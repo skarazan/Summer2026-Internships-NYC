@@ -1,52 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lumen Technologies",
-        "id": "f6940a5b-0d75-4e5f-9ef6-28c190f8845a",
-        "title": "Intern - Network Transformation - DevOps Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761571851,
-        "date_posted": 1759968515,
-        "url": "https://jobs.lumen.com/global/en/job/340211",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ATPCO",
-        "id": "c3107a42-e633-4d49-9529-4676f85b9d43",
-        "title": "Data Analyst and Reporting Intern - Marketing Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760007796,
-        "date_posted": 1759975138,
-        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000086392255",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Patreon",
         "id": "5cefdd41-b417-4f73-8faa-f5a0dded28bf",
@@ -1074,30 +1028,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "15d9e2db-9061-49d1-bec6-0c43fdc56f79",
-        "title": "Quantitative Systematic Trading Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760024709,
-        "date_posted": 1759969364,
-        "url": "https://careers-sig.icims.com/jobs/9314/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Philadelphia, PA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
             "PhD"
         ]
     },
@@ -349004,7 +348934,7 @@
         "company_name": "Intrinsic",
         "id": "340d9a32-ab47-4584-84fe-63f303b1e616",
         "title": "Vision Foundation Model Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354094,7 +354024,7 @@
         "company_name": "Cotiviti",
         "id": "a2c969ec-510a-42ad-b323-d47c5bc5a702",
         "title": "Temporary Intern - Agentic AI & Neural-Symbolic Systems - Healthcare",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361048,7 +360978,7 @@
         "company_name": "Comcast",
         "id": "c732b7d0-de98-43e6-9e09-9add80cd631e",
         "title": "Comcast Product Analyst Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -379596,7 +379526,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "6dcde314-705f-4b7a-be39-dd4ad1a50c29",
         "title": "Student Intern - Data Analyst - Personal Banking",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -387352,7 +387282,7 @@
         "company_name": "Cystic Fibrosis Foundation",
         "id": "9215f179-325e-41e9-a796-2bf592588bda",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -392679,6 +392609,54 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wayve",
+        "id": "403a2dad-0b0c-468b-9e60-ee26df72c318",
+        "title": "Engineering Intern - Enrichment and Curation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780708732,
+        "date_posted": 1780708543,
+        "url": "https://wayve.firststage.co/jobs?gh_jid=8382427002",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayve",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "2b993794-3395-48ae-a0ac-7d78d66b56aa",
+        "title": "Software Engineer Intern - Mapping Autonomous Vehicles",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780708256,
+        "date_posted": 1780708032,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Mapping-Autonomous-Vehicles---Fall-2026_JR2011493",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
