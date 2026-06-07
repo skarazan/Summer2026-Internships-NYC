@@ -3,77 +3,6 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Rolls Royce",
-        "id": "3f3811f4-f90a-48ea-895e-a05d037be23a",
-        "title": "Intern - AI & Data Analytics - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1760130439,
-        "date_posted": 1760130439,
-        "url": "https://jobs.bmwgroup.com/job/Woodcliff-Lake-Intern,-AI-&-Data-Analytics-Spring-2026-New/1256490201/?ats=successfactors",
-        "locations": [
-            "Paramus, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "SageSure",
-        "id": "3870ba0d-1c64-4575-84fd-68cd8d8f5767",
-        "title": "Software Product Management Intern - Software Product Management",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760391919,
-        "date_posted": 1760133258,
-        "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4607727006",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/SageSure-Insurance-Managers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ingredion",
-        "id": "013bffee-dfae-418e-a722-aab144c87fea",
-        "title": "Supply Chain Data Science Intern - Data Science and Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760135328,
-        "date_posted": 1760135328,
-        "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-36624",
-        "locations": [
-            "Brookfield, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Ingredion",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Rolls Royce",
         "id": "a292b340-730c-436b-a1e5-06a3b7a42582",
         "title": "Intern - Bank Data Scientist - Multiple Teams",
         "active": false,
@@ -61999,27 +61928,6 @@
             "Monroe, GA"
         ],
         "company_url": "https://simplify.jobs/c/Becton-Dickinson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "f495951c-a46c-4795-88a6-af7936ffb97f",
-        "title": "Recording Engineer Project Intern - Data Speech - 2026 Start",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761864029,
-        "date_posted": 1760130103,
-        "url": "https://lifeattiktok.com/search/7553720893541959944",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -381673,7 +381581,7 @@
         "company_name": "ServiceNow",
         "id": "e5a173bc-a66a-4551-b190-093e94c657ac",
         "title": "Servicenow Futures Summit Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -387439,7 +387347,7 @@
         "company_name": "Agilent Technologies",
         "id": "4b80b3d4-ab09-413b-bacd-10a6f0b8a98e",
         "title": "Market Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
