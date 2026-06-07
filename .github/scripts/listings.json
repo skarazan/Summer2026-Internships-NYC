@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Rolls Royce",
-        "id": "a292b340-730c-436b-a1e5-06a3b7a42582",
-        "title": "Intern - Bank Data Scientist - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1760138620,
-        "date_posted": 1760138620,
-        "url": "https://jobs.bmwgroup.com/job/Salt-Lake-City-Intern,-Bank-Data-Scientist-Spring-2026-Utah/1256531101/?ats=successfactors",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SageSure",
-        "id": "9a51f01c-90ab-4ada-85d9-4be33203aec1",
-        "title": "Catastrophe Risk R&D Intern - Catastrophe Risk R&D",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760337494,
-        "date_posted": 1760138522,
-        "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4608119006",
-        "locations": [
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/SageSure-Insurance-Managers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Electronic Arts",
         "id": "77a6911a-2c0b-4a1c-a7e4-0e040b087fa0",
@@ -382534,7 +382486,7 @@
         "company_name": "Imerys",
         "id": "4712fba9-8fa9-4fd3-af2a-7c4c13901e5c",
         "title": "Quality Engineer Intern - ERP Data Migration - Quality Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385899,7 +385851,7 @@
         "company_name": "American University",
         "id": "3510f27e-ef77-47da-b312-c1fb4585ebbc",
         "title": "Graduate Researcher",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
