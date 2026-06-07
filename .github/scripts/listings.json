@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1760369050,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ericsson.com/careers/job/563121772252795?domain=ericsson.com&jobPipeline=LinkedIn",
-        "company_name": "Ericsson",
-        "title": "SWE & Automation Intern",
-        "locations": [
-            "Plano, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "TendouArisu",
-        "id": "b4ef2b23-0c97-4032-9651-5c34aee1b5bf",
-        "date_posted": 1760127559,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Rolls Royce",
@@ -41332,27 +41309,6 @@
             "San Carlos, CA"
         ],
         "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SageSure",
-        "id": "2a4d42c0-0d5d-40a5-b24f-4ae95995931a",
-        "title": "People Team Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761857924,
-        "date_posted": 1760129977,
-        "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4607746006",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/SageSure-Insurance-Managers",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -381717,7 +381673,7 @@
         "company_name": "ServiceNow",
         "id": "e5a173bc-a66a-4551-b190-093e94c657ac",
         "title": "Servicenow Futures Summit Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
