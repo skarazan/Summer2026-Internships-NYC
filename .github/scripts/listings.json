@@ -2,30 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "f2c6b128-52f8-40db-a999-2d43e160d769",
-        "title": "PhD Research Intern - AI for Climate and Weather Simulation",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760337770,
-        "date_posted": 1760083479,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2026_JR2005331",
-        "locations": [
-            "Seattle, WA",
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "CIBC",
         "id": "dc766d57-4125-45b8-9301-041d8a3fe25a",
         "title": "Intern - Data Management",
@@ -354680,7 +354656,7 @@
         "company_name": "Tesla",
         "id": "358798bb-3dee-4d2f-a674-03e9665aead1",
         "title": "Machine Learning Platform Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -354703,7 +354679,7 @@
         "company_name": "Tesla",
         "id": "476c1940-e6f7-4c8b-ac8c-d04259a2bac7",
         "title": "Software Engineer Intern - Integration Tools",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -354726,7 +354702,7 @@
         "company_name": "Tesla",
         "id": "6f90b990-327d-4a8f-9b22-f0d6cc181eaa",
         "title": "Software Integration Engineer Intern - Software Integration Engineer - Optimus",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -354749,7 +354725,7 @@
         "company_name": "Tesla",
         "id": "60a4718f-a0f3-41c8-99e8-7e1535bd4516",
         "title": "Data Engineer Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -354773,7 +354749,7 @@
         "company_name": "Tesla",
         "id": "19efdea7-fa87-4d6a-be78-1660ef45f9a0",
         "title": "AI Tooling Intern - Fullstack Engineer - AI Tooling",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -389156,6 +389132,482 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "abc70453-012c-4ef3-b911-7ee7d6a4af95",
+        "title": "Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1780813334,
+        "date_posted": 1780813216,
+        "url": "https://www.tesla.com/careers/search/job/272581",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "eb82c528-1521-4b17-a1c4-5f5f979c84d9",
+        "title": "AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1780813223,
+        "date_posted": 1780812967,
+        "url": "https://www.tesla.com/careers/search/job/263759",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "e5e96098-6521-4bb0-8994-3127501c8908",
+        "title": "AI Inference Engineer Intern - Software Compiler Engineer - AI Inference",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1780813246,
+        "date_posted": 1780812897,
+        "url": "https://www.tesla.com/careers/search/job/263211",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "e3572f00-4cdb-46a4-aff9-c31ac7612f18",
+        "title": "Internship - Software Engineer - Maps & Navigation Validation - Fall 2026",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780813217,
+        "date_posted": 1780812729,
+        "url": "https://www.tesla.com/careers/search/job/270186",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "90c5d0b6-db8a-4cbe-bd09-bc14d5433132",
+        "title": "Software Machine Learning Engineer Intern - Reliability Energy Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780813223,
+        "date_posted": 1780812889,
+        "url": "https://www.tesla.com/careers/search/job/272619",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "87840e6d-dbd7-4d75-8c8f-875bc8946ef0",
+        "title": "Software Engineer Intern - Site Controller Software Engineer - Energy Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780813221,
+        "date_posted": 1780812894,
+        "url": "https://www.tesla.com/careers/search/job/272615",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "6b5df6f5-3744-4397-887b-3716bf59e103",
+        "title": "Software Development Engineer Intern - Software Developer - Integration Platforms",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1780813475,
+        "date_posted": 1780812877,
+        "url": "https://www.tesla.com/careers/search/job/270037",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "6148bc47-e98c-4c1a-9255-16279e18a578",
+        "title": "Software Engineer Intern - Software Engineer - AI Hardware Infrastructure",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Summer 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1780813214,
+        "date_posted": 1780812901,
+        "url": "https://www.tesla.com/careers/search/job/260382",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "4c400c0a-2206-461c-9b0e-098446c599a8",
+        "title": "Embedded Software Engineer Intern - Keys & Authentication",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780813301,
+        "date_posted": 1780812824,
+        "url": "https://www.tesla.com/careers/search/job/270067",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "183067f3-544e-4de5-8991-0da96367cf8d",
+        "title": "Applied AI Engineer Intern - AI Hardware",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780813248,
+        "date_posted": 1780812899,
+        "url": "https://www.tesla.com/careers/search/job/262946",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "0606524d-078f-47d6-8447-f7842723a934",
+        "title": "Software Engineer Intern - Vehicle UI Development",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1780813290,
+        "date_posted": 1780812826,
+        "url": "https://www.tesla.com/careers/search/job/270063",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "c6ed98e1-2c89-4ee7-b7a3-8e6b72563fc7",
+        "title": "Software Engineer Intern - Simulation Platform - Software Engineer",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780813497,
+        "date_posted": 1780812691,
+        "url": "https://www.tesla.com/careers/search/job/270356",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "92479793-1fc7-4426-8dea-7774d88b1d87",
+        "title": "Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780813474,
+        "date_posted": 1780812693,
+        "url": "https://www.tesla.com/careers/search/job/270354",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "10b8da4f-6883-47c0-b98d-6c271f1f6357",
+        "title": "Service Engineering Intern - Software Engineering - Service Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1780814910,
+        "date_posted": 1780814738,
+        "url": "https://www.tesla.com/careers/search/job/259221",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "31c33423-00ae-4812-8d33-cdb0744b3c81",
+        "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Thermal Systems",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780814557,
+        "date_posted": 1780814218,
+        "url": "https://www.tesla.com/careers/search/job/272290",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "f224e9c0-6aa1-45bb-b02c-b75ccda9b00c",
+        "title": "Software Engineer Intern - AI Data Infrastructure",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780814384,
+        "date_posted": 1780814250,
+        "url": "https://www.tesla.com/careers/search/job/269829",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "eee826e6-97e1-40a7-91fd-be9d495e5e43",
+        "title": "AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1780813844,
+        "date_posted": 1780813700,
+        "url": "https://www.tesla.com/careers/search/job/272462",
+        "locations": [
+            "Palo Alto, CA",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "72d9ecb4-34ef-4629-ae71-2c2e019e5ad7",
+        "title": "Product Support Engineer Intern - Product Support Engineer - Service Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780813851,
+        "date_posted": 1780813792,
+        "url": "https://www.tesla.com/careers/search/job/259222",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "abc9038a-92bb-4e7c-b016-49feb542cb56",
+        "title": "Software Engineer Intern - Engineering Automation Software Engineer - Vehicle Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1780815463,
+        "date_posted": 1780815322,
+        "url": "https://www.tesla.com/careers/search/job/267767",
+        "locations": [
+            "Palo Alto, CA",
+            "Fremont, CA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "121cc7ec-2289-451b-996d-daf547f67f25",
+        "title": "Electronic Design Engineer Internship - Electronic Design Engineer - Electronic Systems",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780815503,
+        "date_posted": 1780815263,
+        "url": "https://www.tesla.com/careers/search/job/267750",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
