@@ -1,100 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Seagate Technology ",
-        "id": "b9d06e95-050e-4a8d-939d-d008f2636dba",
-        "title": "Intern - Test Process Firmware Engineer - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760122289,
-        "date_posted": 1760122289,
-        "url": "https://seagatecareers.com/job/Shakopee-Intern-Test-Process-Firmware-Engineer-Summer-2026-MN/1333720500/?ats=successfactors",
-        "locations": [
-            "Shakopee, MN",
-            "Longmont, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Seagate-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Autodesk",
-        "id": "fffc79d5-6008-4f65-8a65-253b297481ca",
-        "title": "Intern - Data Engineer - AIDA Team",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760121593,
-        "date_posted": 1760121593,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/AMER---United-States---Michigan---Novi/Intern--Data-Engineer_25WD92297",
-        "locations": [
-            "Novi, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "14f6b31a-5875-4a89-9e84-ca0b72c90fa1",
-        "title": "Software Engineer Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760336977,
-        "date_posted": 1760124281,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/Software-Engineer-Intern_R-00168580",
-        "locations": [
-            "Omaha, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SageSure",
-        "id": "525e79b9-ce49-4a6c-9df5-31d25e977d22",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760135170,
-        "date_posted": 1760123220,
-        "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4607807006",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/SageSure-Insurance-Managers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1760369050,
         "sponsorship": "Other",
         "active": true,
@@ -2069,29 +1974,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intercontinental Exchange",
-        "id": "4e79f79a-bf73-45f0-a035-c8ed56f6cbcd",
-        "title": "Software Engineering Intern - Full-Stack - Java",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760377335,
-        "date_posted": 1760121183,
-        "url": "https://careers-ice.icims.com/jobs/11614/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Jacksonville, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/ICEMarkets",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -41469,29 +41351,6 @@
         "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4607746006",
         "locations": [
             "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/SageSure-Insurance-Managers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SageSure",
-        "id": "2154ffc4-2d63-459f-b641-664604379faf",
-        "title": "Business Intelligence Intern - Business Intelligence",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Summer 2027"
-        ],
-        "date_updated": 1760123654,
-        "date_posted": 1760123654,
-        "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4608089006",
-        "locations": [
-            "NYC",
-            "Cheshire, CT"
         ],
         "company_url": "https://simplify.jobs/c/SageSure-Insurance-Managers",
         "is_visible": true,
@@ -382331,7 +382190,7 @@
         "company_name": "Cenovus Energy",
         "id": "e23ca219-d6a5-440c-ac79-645976ced2f8",
         "title": "Student \u2013 Asset Integrity",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -385790,7 +385649,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387094,7 +386953,7 @@
         "company_name": "EXL",
         "id": "f7b50810-95ef-4315-b08a-08658bd28922",
         "title": "Analytics & AI Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
