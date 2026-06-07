@@ -2,311 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Signifyd",
-        "id": "6184b633-7c47-46e5-9ce5-4b9338f3fb6e",
-        "title": "Engineering Intern - Software Development - Java",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760054505,
-        "date_posted": 1760054505,
-        "url": "https://job-boards.greenhouse.io/signifyd95/jobs/7300296",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Signifyd",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Boston Scientific",
-        "id": "a570ceb7-0971-45ae-a053-63d702be0293",
-        "title": "Data Engineering Intern - Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761332037,
-        "date_posted": 1760054147,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808922627",
-        "locations": [
-            "Maple Grove, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Tanium",
-        "id": "33bd2100-4a9d-4c4b-b044-bda3d52fc7a0",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760054120,
-        "date_posted": 1760054120,
-        "url": "https://www.tanium.com/careers/7228031?gh_jid=7228031",
-        "locations": [
-            "Oakland, CA",
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Tanium",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Anyscale",
-        "id": "e942f902-b832-4c23-8fd9-e24c97440166",
-        "title": "Software Engineer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761581395,
-        "date_posted": 1760053361,
-        "url": "https://jobs.ashbyhq.com/anyscale/5dbc4672-2943-4b9e-91be-4217a6f81ad2/application",
-        "locations": [
-            "Palo Alto, CA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Anyscale",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Deloitte",
-        "id": "7521fd22-f557-4401-b928-12a22d2d278b",
-        "title": "Audit & Assurance Intern - Data Science",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1761276165,
-        "date_posted": 1760053209,
-        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Data-Science-Winter-2026/314610",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Deloitte",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "7c95b9d1-35f3-499b-a700-49cd1b11f6bd",
-        "title": "Research Scientist Intern - Simulation Technology",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1760052999,
-        "date_posted": 1760052999,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Research-Scientist-Intern--Simulation-Technology---2026_JR2005532",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rhombus",
-        "id": "a2507c3c-8138-494b-9c39-a71d004a0bbd",
-        "title": "Engineering Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760057993,
-        "date_posted": 1760057993,
-        "url": "https://jobs.lever.co/rhombus-systems/f0dbe3f9-aca0-4221-879d-4f1047931d62/apply",
-        "locations": [
-            "Sacramento, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rhombus-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Shield AI",
-        "id": "d802398c-6c0a-49ce-9665-8dc3cacd0185",
-        "title": "Embedded Engineering Co-Op - Embedded Software - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1760056724,
-        "date_posted": 1760056724,
-        "url": "https://jobs.lever.co/shieldai/f216e041-2f9e-40d0-b93d-68ec1ec5a396/apply",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Shield-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Marvell",
-        "id": "2fc4ee40-6823-4034-a072-c9735329b0dc",
-        "title": "Ams CAD Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760056473,
-        "date_posted": 1760056473,
-        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/AMS-CAD-Intern---Bachelors-Degree_2502707",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Anduril",
-        "id": "dd781833-e4c6-4253-8e78-64b5f76a67e7",
-        "title": "Mission Operations Engineer Intern - Connected Warfare - Mission Command",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1760058905,
-        "date_posted": 1760058905,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4828939007",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Shield AI",
-        "id": "62024b94-bf4b-4f1b-8dd0-cc478ea865a5",
-        "title": "Embedded Engineering Intern/Co-op - Embedded Software - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1760058725,
-        "date_posted": 1760058725,
-        "url": "https://jobs.lever.co/shieldai/bcec2592-a4b2-4094-8968-0517ccbbc356/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Shield-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Paccar",
-        "id": "3720a5d5-37ed-496c-921c-e4ce78695a52",
-        "title": "Intern - IT Applications",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760429402,
-        "date_posted": 1760058471,
-        "url": "https://jobs.paccar.com/job/Renton-Summer-Internship-IT-Applications-WA-98055/1256156801/?ats=successfactors",
-        "locations": [
-            "Renton, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Paccar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NetraDyne",
-        "id": "0c1db8fb-e8ef-462e-855f-4fb735bceb8d",
-        "title": "AI Research Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760058484,
-        "date_posted": 1760058484,
-        "url": "https://www.netradyne.com/company/careers?gh_jid=4617868005",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NetraDyne",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Booz Allen",
         "id": "abfddb7c-c1b1-4c2a-9255-072484108eee",
         "title": "Digital Transformation Analyst Intern",
@@ -42827,69 +42522,6 @@
             "Springfield, MO"
         ],
         "company_url": "https://simplify.jobs/c/Veterans-United",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "League",
-        "id": "657e71e7-a82b-41e1-b811-b7f317a8bc3d",
-        "title": "Backend Engineer - ",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761941814,
-        "date_posted": 1760054001,
-        "url": "https://job-boards.greenhouse.io/leagueinc/jobs/5673440004",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/League",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Skyworks",
-        "id": "b707faf8-8f8a-475d-9d92-59a9ba69f45c",
-        "title": "RF Application Engineering Co-Op - 12-month",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760053636,
-        "date_posted": 1760053636,
-        "url": "https://careers.skyworksinc.com/job/Ottawa-RF-Application-Engineering-Co-Op-(12-month)-ON/1333408500/?ats=successfactors",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Skyworks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Marvell",
-        "id": "42e52c71-0d7a-425e-bca3-cea0f24bf84a",
-        "title": "Physical Design Engineer Intern - Physical Design",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760053556,
-        "date_posted": 1760053556,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern---Bachelor-s-Degree_2502379-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -389393,6 +389025,657 @@
             "Trenton, NJ"
         ],
         "company_url": "https://simplify.jobs/c/New-Jersey-Innovation-Authority",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "69729365-7318-4429-8374-8d91cea81e29",
+        "title": "Software Engineer Intern - Software Engineer - Information Security",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795324,
+        "date_posted": 1780795231,
+        "url": "https://www.tesla.com/careers/search/job/270497",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "ac4c4c0e-dfeb-412f-ae3e-29c2556aa07f",
+        "title": "Software Engineer Intern - Frontend Engineer - Applications Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1780795475,
+        "date_posted": 1780794900,
+        "url": "https://www.tesla.com/careers/search/job/271091",
+        "locations": [
+            "Fremont, CA",
+            "Austin, TX",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "a8790742-1793-4b5a-b3a7-faf1d438c4fb",
+        "title": "Software Engineer Intern - Software Engineer Opticaster - Energy Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795637,
+        "date_posted": 1780794991,
+        "url": "https://www.tesla.com/careers/search/job/272937",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "82b9f946-8e9a-41f1-b342-651e3e075e96",
+        "title": "Marketing Fleet Intern - Process Analyst - Marketing Fleet Operations",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795481,
+        "date_posted": 1780794975,
+        "url": "https://www.tesla.com/careers/search/job/271880",
+        "locations": [
+            "Anaheim, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "53a70aba-3176-46dc-915d-c1177b5f67d0",
+        "title": "Sales & Customer Support Intern - Analyst - Digital Communication",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795481,
+        "date_posted": 1780795044,
+        "url": "https://www.tesla.com/careers/search/job/272095",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "374d074b-0137-4dae-98f5-8441c0136ad4",
+        "title": "Software Integration Engineer Intern - Software Integration Engineer - Service Tooling",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795478,
+        "date_posted": 1780794933,
+        "url": "https://www.tesla.com/careers/search/job/271866",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "f4601ab3-f480-4a5c-b297-ead3081a4469",
+        "title": "Software Engineer Intern - Fullstack Software Engineer - Fleetnet",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1780795466,
+        "date_posted": 1780794778,
+        "url": "https://www.tesla.com/careers/search/job/266764",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "d8407a57-173d-4104-a650-05c5456bd0b5",
+        "title": "Mobile Applications Engineering Intern - Android Engineer - Mobile Software",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795470,
+        "date_posted": 1780794797,
+        "url": "https://www.tesla.com/careers/search/job/266980",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "aa5a1eee-4548-48fb-81f9-594c3d634dff",
+        "title": "Software Engineering Intern - Fullstack C++ Engineer - Vehicle User Interface",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795463,
+        "date_posted": 1780794794,
+        "url": "https://www.tesla.com/careers/search/job/266978",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "a664ddfa-e830-44fc-9689-32bd01c6a4cc",
+        "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Firmware Platforms",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795464,
+        "date_posted": 1780794800,
+        "url": "https://www.tesla.com/careers/search/job/266985",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "52080b99-4b22-40c0-8b07-e57c56c552ff",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780795472,
+        "date_posted": 1780794775,
+        "url": "https://www.tesla.com/careers/search/job/259784",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "4dcbe6c9-b5cb-4f75-9418-4f669ff1d180",
+        "title": "Software Engineer Intern - Software Engineer - IT Apps",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795635,
+        "date_posted": 1780794830,
+        "url": "https://www.tesla.com/careers/search/job/271209",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "3fc9c467-b756-46d4-9a26-c48bc297b341",
+        "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Audio Systems",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795465,
+        "date_posted": 1780794806,
+        "url": "https://www.tesla.com/careers/search/job/266999",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "3d51e2e5-16ae-4dcc-80ae-e0198058f1e0",
+        "title": "Software Engineer Intern - Software Engineer - Data Platforms",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795464,
+        "date_posted": 1780794813,
+        "url": "https://www.tesla.com/careers/search/job/267004",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "34413142-301d-4b21-9f98-5906f3b491d1",
+        "title": "Software Engineer Intern - Software Engineer - Update Systems",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795465,
+        "date_posted": 1780794809,
+        "url": "https://www.tesla.com/careers/search/job/267002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "308cebd0-af4e-4e6f-8da2-0a9a58a1182f",
+        "title": "Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795464,
+        "date_posted": 1780794816,
+        "url": "https://www.tesla.com/careers/search/job/267005",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "111dac09-feff-4585-9cde-69f369a37990",
+        "title": "Software Engineer Intern - Linux Update Systems",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795467,
+        "date_posted": 1780794803,
+        "url": "https://www.tesla.com/careers/search/job/266986",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "fc4cc01c-6cd1-45d5-ad18-270e23066dea",
+        "title": "Energy System Optimization Intern - Energy Optimization Software",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1780795316,
+        "date_posted": 1780794563,
+        "url": "https://www.tesla.com/careers/search/job/271349",
+        "locations": [
+            "Palo Alto, CA",
+            "Fremont, CA",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "cbc847ff-aa96-4c7e-a2a4-0ba589e94294",
+        "title": "Data Analyst Intern - Data Analyst - Energy",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795458,
+        "date_posted": 1780794595,
+        "url": "https://www.tesla.com/careers/search/job/271329",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "a4a728e5-80fa-4bbc-b061-af4dfb06fe10",
+        "title": "Software Engineering Intern - Software Engineering - Service Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795462,
+        "date_posted": 1780794712,
+        "url": "https://www.tesla.com/careers/search/job/266119",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "810d9cbc-e0ce-40ca-96de-7fd6ff8d69e8",
+        "title": "Data Engineer Intern - Data Engineer - Energy",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795457,
+        "date_posted": 1780794591,
+        "url": "https://www.tesla.com/careers/search/job/271331",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "79443f9d-f854-4915-abaf-2312579d6808",
+        "title": "Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795294,
+        "date_posted": 1780794528,
+        "url": "https://www.tesla.com/careers/search/job/271352",
+        "locations": [
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "64725ad4-eb28-4c0e-8af0-7e56f560abc2",
+        "title": "Mobile App Software Engineer Intern - Mobile Application Software Engineer - Energy Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795278,
+        "date_posted": 1780794505,
+        "url": "https://www.tesla.com/careers/search/job/271382",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "58081bac-dde6-4629-bc00-2994263e882b",
+        "title": "Software Engineering Intern - Fullstack Engineer - Infrastructure Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795459,
+        "date_posted": 1780794694,
+        "url": "https://www.tesla.com/careers/search/job/264897",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "57f10307-1152-4194-b7fe-b3925f20ae3e",
+        "title": "Software Engineer Intern - Software Engineer - Energy Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1780795283,
+        "date_posted": 1780794547,
+        "url": "https://www.tesla.com/careers/search/job/271362",
+        "locations": [
+            "Palo Alto, CA",
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "3ecce7db-3718-40d5-9eef-b3ddd5eddf83",
+        "title": "Finance Programs Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780795464,
+        "date_posted": 1780794586,
+        "url": "https://www.tesla.com/careers/search/job/271337",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "0f51d581-ff82-467b-8c02-91a7a115164d",
+        "title": "Data Engineer Intern - Data Engineer - Fleet Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780795288,
+        "date_posted": 1780794665,
+        "url": "https://www.tesla.com/careers/search/job/261351",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "9ce31f80-9f48-43a4-924d-9739d2b61cf8",
+        "title": "Software Engineer Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780795285,
+        "date_posted": 1780794539,
+        "url": "https://www.tesla.com/careers/search/job/271372",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
