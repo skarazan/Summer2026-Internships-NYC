@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Motors",
-        "id": "6c43b7e6-b33c-491e-bcd0-f6a363450901",
-        "title": "Co-Op - Software Developer - Virtualization and SIL Integration",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760191685,
-        "date_posted": 1760191685,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2026-Co-Op---Software-Developer---Virtualization-and-SIL-Integration_JR-202519570",
-        "locations": [
-            "Markham, ON, Canada",
-            "Oshawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "NatWest Group",
         "id": "6499446b-d63c-4cb1-b421-fe49e638a813",
@@ -227463,7 +227439,7 @@
         "company_name": "Roku",
         "id": "e8365cf1-74e3-4f55-a3c8-cb0ac2f2e16b",
         "title": "Applied Science Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336016,7 +335992,7 @@
         "company_name": "Avride",
         "id": "88df0362-8416-4ec8-b1be-714e3394d865",
         "title": "Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371707,7 +371683,7 @@
         "company_name": "LegalZoom",
         "id": "cc0fb5d7-0673-4321-879d-82013827307c",
         "title": "AI Enablement Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383217,7 +383193,7 @@
         "company_name": "Belmond",
         "id": "076cf030-6ffc-4ef9-9552-87e46b3bfc71",
         "title": "ESG Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383285,7 +383261,7 @@
         "company_name": "Cotiviti",
         "id": "d1b794fd-26be-4c15-bf39-5df493a20cd7",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388021,6 +387997,142 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Financial Ombudsman Service",
+        "id": "0a9c9917-ffb0-4340-a81e-41bf7d4a2dec",
+        "title": "Data Scientist Apprentice",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780928791,
+        "date_posted": 1780927792,
+        "url": "https://financialombudsman.wd3.myworkdayjobs.com/FinancialOmbudsmanService/job/London---Exchange-Tower/Data-Scientist_JR-02913",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Financial-Ombudsman-Service",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Keysight Technologies",
+        "id": "d2e6b4e9-d706-4c25-9b2c-c8d4a9eda75b",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780928496,
+        "date_posted": 1780927438,
+        "url": "https://jobs.keysight.com/jobs/53081?lang=en-us&icims=1",
+        "locations": [
+            "Fleet, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Financial Ombudsman Service",
+        "id": "3faeeaa9-9eb3-4227-90e3-4999a5388381",
+        "title": "Data Analyst Apprentice",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780928424,
+        "date_posted": 1780927798,
+        "url": "https://financialombudsman.wd3.myworkdayjobs.com/FinancialOmbudsmanService/job/London---Exchange-Tower/Data-Analyst_JR-02912",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Financial-Ombudsman-Service",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "da6be78c-1b09-49a9-971b-358be0b1c54c",
+        "title": "Grid Automation & Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780927933,
+        "date_posted": 1780927665,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "665812ba-84cf-45c0-88d3-3cea631bea33",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780928462,
+        "date_posted": 1780927809,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Software-Developer-Intern_R-00184938-1",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "043ed3a6-8e6c-45b5-a197-8b549d008117",
+        "title": "Grid Automation & Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780927933,
+        "date_posted": 1780927657,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Grid-Automation---Software-Intern_R5041709-1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
