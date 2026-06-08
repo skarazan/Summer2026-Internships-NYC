@@ -1,53 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "d4da983b-5f66-448b-bae8-5f4a169d65ed",
-        "title": "Applied Artificial Intelligence and Machine Learning Associate Program Intern - LLM Suite - Chief Analytics Office",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760165464,
-        "date_posted": 1760165464,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/210674425",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "3890feab-3e3a-4e61-ba29-e27a39faf6df",
-        "title": "Research Intern - Artificial Intelligence",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1760164711,
-        "date_posted": 1760164711,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1894875",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "General Motors",
         "id": "6c43b7e6-b33c-491e-bcd0-f6a363450901",
@@ -142082,7 +142035,7 @@
         "company_name": "Assort Health",
         "id": "724f5d68-f44c-4be2-b77e-f6f49f9991fe",
         "title": "Agent Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -249410,7 +249363,7 @@
         "company_name": "Tencent",
         "id": "f682356d-55da-4f90-987d-77f140cc652d",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -307379,30 +307332,6 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TikTok",
-        "id": "034929f5-3b54-450e-bcd7-de81a7fb989b",
-        "title": "Data Engineer Intern - Data Platform TikTok BP - BS/MS",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764234140,
-        "date_posted": 1760167256,
-        "url": "https://lifeattiktok.com/search/7534803858175576327",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
         "id": "cf6d4667-2bf8-45b8-a0be-37b953800bc3",
         "title": "Machine Learning Engineer Intern - Tiktok Search Team - 2026 Summer",
         "active": false,
@@ -324810,7 +324739,7 @@
         "company_name": "Pennsylvania State University",
         "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
         "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -361406,7 +361335,7 @@
         "company_name": "NVIDIA",
         "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
         "title": "PhD Research Intern - Security and Privacy",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -378480,7 +378409,7 @@
         "company_name": "Magna",
         "id": "f2bff587-1432-4e84-9d58-604de0b930c0",
         "title": "Tools Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -380175,7 +380104,7 @@
         "company_name": "Walter P Moore",
         "id": "f3d0a523-fe15-4f0c-b0ee-4d5fa152f74c",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380823,7 +380752,7 @@
         "company_name": "Cenovus Energy",
         "id": "e23ca219-d6a5-440c-ac79-645976ced2f8",
         "title": "Student \u2013 Asset Integrity",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -380932,7 +380861,7 @@
         "company_name": "The Boeing Company",
         "id": "30f4c0cc-c949-49ef-8680-347e0e36416b",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -381303,7 +381232,7 @@
         "company_name": "Imerys",
         "id": "4712fba9-8fa9-4fd3-af2a-7c4c13901e5c",
         "title": "Quality Engineer Intern - ERP Data Migration - Quality Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -381633,7 +381562,7 @@
         "company_name": "American University",
         "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
         "title": "Graduate Event Data Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -384255,7 +384184,7 @@
         "company_name": "Microchip Technology",
         "id": "504141f7-5739-46c7-9705-6991a380ce37",
         "title": "Engineering Intern - Reliability",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -384282,7 +384211,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -384668,7 +384597,7 @@
         "company_name": "American University",
         "id": "3510f27e-ef77-47da-b312-c1fb4585ebbc",
         "title": "Graduate Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -385489,7 +385418,7 @@
         "company_name": "CHEP",
         "id": "513d3867-26bc-4203-8cd2-ade981572975",
         "title": "FP&A Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387964,7 +387893,7 @@
         "company_name": "Magna",
         "id": "fb1947db-f8bb-45f1-8272-032e7ff920ba",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387975,6 +387904,119 @@
             "Holland, MI"
         ],
         "company_url": "https://simplify.jobs/c/Magna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Generac",
+        "id": "59330e6d-91d5-4708-a9e1-00db1a90d871",
+        "title": "GPS Apprentice - Electrical",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1780908707,
+        "date_posted": 1780524402,
+        "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Berlin-WI---USA/GPS-Student-Apprentice---Electrical_JR14694",
+        "locations": [
+            "Wisconsin"
+        ],
+        "company_url": "https://simplify.jobs/c/Generac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Seaspan",
+        "id": "958c2a0d-333c-4f3d-a6a7-0f338de3358f",
+        "title": "Digital Ship Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780909868,
+        "date_posted": 1780909573,
+        "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8769",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Seaspan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Seaspan",
+        "id": "60991e37-67ca-469f-8e49-c284d1974106",
+        "title": "Digital Ship Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780909893,
+        "date_posted": 1780909567,
+        "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Seaspan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duke University",
+        "id": "c1b14eaf-e140-4275-b7b5-dee377f8421d",
+        "title": "Administrative Intern - Sanford School of Public Policy",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780911538,
+        "date_posted": 1780437900,
+        "url": "https://careers.duke.edu/job/Durham-Administrative-Intern,-Sanford-School-of-Public-Policy-NC-27710/1395747700/?ats=successfactors",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duke-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sensata",
+        "id": "352caf0e-4dbf-4f84-9a08-bd897127826e",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780910296,
+        "date_posted": 1780910065,
+        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Intern_IRC97597",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/sensata-tech",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
