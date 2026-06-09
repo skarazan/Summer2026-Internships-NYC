@@ -204624,7 +204624,7 @@
         "company_name": "Tencent",
         "id": "48b655c4-ecfa-43bf-af3b-a5c0d6ec726f",
         "title": "Research Intern - Video World Models",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -205810,7 +205810,7 @@
         "company_name": "Applied Materials",
         "id": "f874428c-d565-40a8-84a2-ea8f6ee2fbb4",
         "title": "2026 Summer Data Analyst/Scientist Intern-Master's - Santa Clara - CA",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325595,7 +325595,7 @@
         "company_name": "InvoiceCloud",
         "id": "2e3623cf-4079-4991-9457-7809fd239d5e",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336861,7 +336861,7 @@
         "company_name": "AltaML",
         "id": "9921aed9-3938-4cf1-9657-2bcd9f1ee9af",
         "title": "Associate Software Developer Intern - Brilliant Harvest",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -346716,7 +346716,7 @@
         "company_name": "Lumentum",
         "id": "4bd9a6ac-0f18-41dc-aeca-a71407f40f60",
         "title": "Optical Verification Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -365293,7 +365293,7 @@
         "company_name": "Maersk",
         "id": "0aebcb80-0c60-42d3-b3ae-90e31460db67",
         "title": "Artificial Intelligence Intern - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372630,7 +372630,7 @@
         "company_name": "C&S Wholesale Grocers",
         "id": "9a5bccfa-9b07-46be-853d-c0625c368895",
         "title": "Data Reporting & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -376826,7 +376826,7 @@
         "company_name": "Marsh",
         "id": "c6fb7bb2-6ca1-431b-bb96-398422ba1a8d",
         "title": "Oliver Wyman Analyst Internship - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389168,6 +389168,50 @@
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/Great-American-Insurance-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University System of New Hampshire",
+        "id": "fb95b22e-4f56-43ae-9f3b-d8b5717c0b2a",
+        "title": "Research Assistant Intern - Computer Science - Cybersecurity",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781043209,
+        "date_posted": 1781042722,
+        "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/Keene-State-College/Summer-Research-Assistant-Intern_JR8347",
+        "locations": [
+            "Brattleboro, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/University-System-Of-New-Hampshire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vertex Pharmaceuticals",
+        "id": "2bdc2d18-cdab-4fad-86d4-859502c8c4b5",
+        "title": "AI and Governance Co-op - AI and Governance",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781042785,
+        "date_posted": 1781042525,
+        "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op-2026--AI-and-Governance_REQ-28615-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertex-Pharmaceuticals",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
