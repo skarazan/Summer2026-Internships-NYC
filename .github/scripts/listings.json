@@ -361085,7 +361085,7 @@
         "company_name": "Teledyne",
         "id": "7befcb18-47ed-4ad9-b0ca-a3f4514bfb1c",
         "title": "Electronics Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362144,7 +362144,7 @@
         "company_name": "Werfen",
         "id": "5924cee1-f277-43ac-aa58-685050b2170e",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371231,7 +371231,7 @@
         "company_name": "NVIDIA",
         "id": "f0577fa0-c379-40cc-885e-beebb1742e22",
         "title": "PhD Data Generation and User Simulation Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -377415,7 +377415,7 @@
         "company_name": "Genentech",
         "id": "5159e1cb-4d06-457c-bc29-b9c3fc877cdc",
         "title": "Prescient Frontier Research Intern - Gsab",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -381517,7 +381517,7 @@
         "company_name": "American University",
         "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
         "title": "Graduate Event Data Assistant - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -386136,7 +386136,7 @@
         "company_name": "SOTI",
         "id": "eedc3481-24f8-4e24-ab3d-8ae10a4eb5ed",
         "title": "Web Producer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -386319,7 +386319,7 @@
         "company_name": "Air Liquide",
         "id": "bcb6535d-0198-4fb9-9d00-f3c1fb239b4c",
         "title": "Clinical Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -387871,7 +387871,7 @@
         "company_name": "Generac",
         "id": "59330e6d-91d5-4708-a9e1-00db1a90d871",
         "title": "GPS Apprentice - Electrical",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -387940,7 +387940,7 @@
         "company_name": "Duke University",
         "id": "c1b14eaf-e140-4275-b7b5-dee377f8421d",
         "title": "Administrative Intern - Sanford School of Public Policy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388028,7 +388028,7 @@
         "company_name": "Financial Ombudsman Service",
         "id": "3faeeaa9-9eb3-4227-90e3-4999a5388381",
         "title": "Data Analyst Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -388214,7 +388214,7 @@
         "company_name": "Microsoft",
         "id": "c67a3efa-2ec3-488c-89f4-2514b853209d",
         "title": "Data Center Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388347,7 +388347,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Harvard University",
-        "id": "1c6ef67f-503b-4458-b0f8-c527be2f8f6d",
+        "id": "57edc559-ec4d-413a-a0b2-52fe18bbd285",
         "title": "Predoctoral Research Associate Intern - Economics and Political Economy",
         "active": true,
         "terms": [
@@ -388940,6 +388940,76 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "47768da2-8643-4881-8249-a78543064605",
+        "title": "AI Software Engineer Intern - Transaction Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780996499,
+        "date_posted": 1780996220,
+        "url": "https://lifeattiktok.com/search/7646621925436131637",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NEC Software Solutions",
+        "id": "72d63b93-036b-4d83-985e-4292d1521944",
+        "title": "Software Developer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780995915,
+        "date_posted": 1780995701,
+        "url": "https://jobs.smartrecruiters.com/NECSWS/744000131085999",
+        "locations": [
+            "Bracknell, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NEC-Software-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cenovus Energy",
+        "id": "c37d74af-b07e-4201-83c5-71447ff00de4",
+        "title": "Student Strategy and Business Performance",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780998576,
+        "date_posted": 1780956611,
+        "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Strategy-and-Business-Performance--Calgary--September-2026-_R-410708",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cenovus-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
