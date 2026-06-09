@@ -362529,7 +362529,7 @@
         "company_name": "Oracle",
         "id": "7e89dbef-105d-4b7c-a2be-104d6384b7c6",
         "title": "Advanced Degree Software Engineer - Database Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -363073,7 +363073,7 @@
         "company_name": "Ciena",
         "id": "648d04c0-91d8-40aa-9c98-4ee22c3e139c",
         "title": "Hardware Design Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -369423,7 +369423,7 @@
         "company_name": "TheGuarantors",
         "id": "15940e4d-d0db-45c4-a255-0626fdac14ac",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -381771,7 +381771,7 @@
         "company_name": "CIBC",
         "id": "48140a30-96e6-4e0d-a71f-7b192a2e4da3",
         "title": "Machine Learning Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -388600,7 +388600,7 @@
         "company_name": "Manulife Financial",
         "id": "4a7439de-3e92-4671-bb7e-522ab3f71490",
         "title": "Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388916,6 +388916,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zoox",
+        "id": "a094bbba-b159-429f-905a-e52b9cadc157",
+        "title": "Student Worker Automation & Behavioral Science Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780985509,
+        "date_posted": 1780985291,
+        "url": "https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
