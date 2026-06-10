@@ -306927,7 +306927,7 @@
         "company_name": "Vertex Pharmaceuticals",
         "id": "26619ab2-a3c0-4877-8bb8-f17dcdf6e529",
         "title": "Vertex Co-op - Instrumentation Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -346690,7 +346690,7 @@
         "company_name": "Lumentum",
         "id": "2c3c55c5-9c0c-46fc-b916-789c7263e4a1",
         "title": "Optical Verification Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -355133,7 +355133,7 @@
         "company_name": "University of Texas at Austin",
         "id": "4450f42b-73d8-48dd-9b92-02a22c77473d",
         "title": "Data Processing Support Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -355723,7 +355723,7 @@
         "company_name": "Smiths Detection Group",
         "id": "0a319815-2604-4c98-94da-26b6a462a885",
         "title": "Depot Service Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -368172,7 +368172,7 @@
         "company_name": "CAE",
         "id": "5ce0381a-1e8a-464a-be80-b985fc2a9eb9",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377863,7 +377863,7 @@
         "company_name": "Smiths Detection Group",
         "id": "244c4d01-6a38-4298-9fef-4a12ee37a4ea",
         "title": "Technical Service Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -383432,7 +383432,7 @@
         "company_name": "SHI International ",
         "id": "0ebf6a34-8613-4d88-8515-8f3ad6f5b11f",
         "title": "Public Sector Project Administrator Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388119,7 +388119,7 @@
         "company_name": "Eurofins",
         "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -388970,7 +388970,7 @@
         "company_name": "Eurofins",
         "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389267,7 +389267,7 @@
         "company_name": "Pennant Group",
         "id": "56bf1098-8da1-4cc3-9ed6-a0ddc4f43f04",
         "title": "Analytics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389878,7 +389878,7 @@
         "company_name": "Walleye Capital",
         "id": "a2dd7ebc-2143-479f-a7cc-43c854f5e08a",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389902,7 +389902,7 @@
         "company_name": "Walleye Capital",
         "id": "3ae897a1-0ad7-410e-8882-d492c1f9e19a",
         "title": "Risk Technology Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390161,7 +390161,7 @@
         "company_name": "Walleye Capital",
         "id": "7b479664-d0af-4690-be2a-c9ba5d81314a",
         "title": "Central Equity Quant Research Intern - Ceqr",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390333,7 +390333,7 @@
         "company_name": "Walleye Capital",
         "id": "6a61710a-02c6-4915-a7f3-863dbf8c835b",
         "title": "PhD Quantitative Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390356,7 +390356,7 @@
         "company_name": "Walleye Capital",
         "id": "28053adc-4960-4b2a-8386-71e1aba8148e",
         "title": "Quantitative Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390441,6 +390441,75 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Seaspan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Brent Council",
+        "id": "fc2b90ec-1897-40d4-a59a-a4ac2bfa8701",
+        "title": "Trading Standards Officer Level 6 Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781101007,
+        "date_posted": 1781100377,
+        "url": "https://fa-epzg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2987",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Brent-Council",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lumentum",
+        "id": "849e9f85-f7b7-4bc5-959a-d7d35173e559",
+        "title": "Embedded Software Engineer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1781100647,
+        "date_posted": 1781100315,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-Intern-_2026743",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Analysys Mason",
+        "id": "4a575f6a-23ae-4ac3-8cc2-6994bf45677c",
+        "title": "AI Solutions Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781100361,
+        "date_posted": 1781100310,
+        "url": "https://jobs.smartrecruiters.com/AnalysysMason1/744000131423669",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Analysys-Mason",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
