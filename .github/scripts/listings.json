@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "NatWest Group",
-        "id": "6499446b-d63c-4cb1-b421-fe49e638a813",
-        "title": "Engineering Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1760321558,
-        "date_posted": 1760321558,
-        "url": "https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Engineering----Internship_R-00265159",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/791af8de-7786-4aa2-b51d-9dfed06c6b21",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Johnson & Johnson",
         "id": "8221d7e2-fbba-4ac5-b28d-ebea59b6251f",
         "title": "Software Engineering Co-Op - XENA Developer Experience",
@@ -349817,7 +349794,7 @@
         "company_name": "EnergyHub",
         "id": "eb78c1c4-0c16-4718-8353-2d7067965c8d",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379022,7 +378999,7 @@
         "company_name": "General Motors",
         "id": "ab1efada-89cd-43a4-bc14-b9e768b7d6be",
         "title": "Vehicle Experience Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -389705,6 +389682,195 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chanel",
+        "id": "e64f8833-28d9-4336-8818-8f38d5d83e2b",
+        "title": "Creative Technologist Intern - Open Innovation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781053741,
+        "date_posted": 1781053694,
+        "url": "https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/New-York/Creative-Technologist-Intern--Open-Innovation_JOBREQ00113766",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Chanel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "1Password",
+        "id": "82220070-80c9-42ec-9a40-dc3d4aa5d2b8",
+        "title": "Developer Intern - Front-End Platform",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1781054461,
+        "date_posted": 1781053790,
+        "url": "https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/application",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zipline",
+        "id": "72e1792e-aad9-40a4-9464-641c1c28ccd1",
+        "title": "Enterprise Systems Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781054461,
+        "date_posted": 1781054356,
+        "url": "https://www.zipline.com/careers?gh_jid=7767667003#open-roles",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "1Password",
+        "id": "4474324d-fc29-44ab-ac6b-ad29c0babae6",
+        "title": "Developer Intern - Trust Platforms",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781054101,
+        "date_posted": 1781053790,
+        "url": "https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SCAN",
+        "id": "1ef9e165-7c98-44fa-bd98-7a1e74500197",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781054303,
+        "date_posted": 1781053798,
+        "url": "https://scanhealthplan.wd108.myworkdayjobs.com/scancareers/job/Long-Beach-Office-3800/Software-Engineering-Intern_JR2886",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SCAN-Health-Plan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "74aaead7-e1d1-4ae7-914d-f7bdc0178b26",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781054101,
+        "date_posted": 1781053803,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-21665",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "ca497541-28c8-4dfc-b39e-a256ea8616b7",
+        "title": "Researcher Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781053947,
+        "date_posted": 1781053708,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556874233",
+        "locations": [
+            "Redmond, WA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Quandri",
+        "id": "ac7a7ed7-6ec6-44be-a785-cbe7e9054d0b",
+        "title": "Product Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781053741,
+        "date_posted": 1781053697,
+        "url": "https://jobs.lever.co/quandri/d0f82989-1a8d-49a8-9954-f0c0a213f071/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Quandri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
