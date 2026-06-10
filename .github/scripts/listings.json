@@ -2,315 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "North Atlantic Industries",
-        "id": "db8f6a17-4558-492c-8a4e-a9f000f96646",
-        "title": "Full Stack Software Engineer Intern/Co-op - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Spring 2026"
-        ],
-        "date_updated": 1760384775,
-        "date_posted": 1760384775,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3642725",
-        "locations": [
-            "Long Island, New York"
-        ],
-        "company_url": "https://simplify.jobs/c/North-Atlantic-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Highmark Health",
-        "id": "dac7a73f-ff61-428a-9025-cb68b6727738",
-        "title": "Data Science Research Intern - Data Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761332348,
-        "date_posted": 1760384758,
-        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2026-Data-Science-Research-Graduate-Intern_J270569",
-        "locations": [
-            "New Mexico",
-            "Washington",
-            "Kansas",
-            "Pennsylvania",
-            "North Dakota",
-            "Oregon",
-            "Delaware",
-            "Iowa",
-            "California",
-            "Washington, DC",
-            "Vermont",
-            "Wyoming",
-            "Texas",
-            "Montana",
-            "Jackson Township, NJ",
-            "Florida",
-            "Waterbury, CT",
-            "Nevada",
-            "South Carolina",
-            "South Dakota",
-            "Georgia",
-            "Arizona",
-            "Concord, NH",
-            "Mississippi",
-            "Tennessee",
-            "Virginia",
-            "Arkansas",
-            "Minnesota",
-            "Colorado",
-            "Nebraska",
-            "Rhode Island",
-            "Utah",
-            "Kentucky",
-            "West Virginia",
-            "NYC",
-            "Maryland",
-            "Hawaii",
-            "Wisconsin",
-            "Maine",
-            "Massachusetts",
-            "North Carolina",
-            "Oklahoma",
-            "Missouri",
-            "Ohio",
-            "Indiana",
-            "Louisiana",
-            "Alaska",
-            "Michigan",
-            "Illinois",
-            "Alabama",
-            "Idaho"
-        ],
-        "company_url": "https://simplify.jobs/c/Highmark-Health",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tradeweb",
-        "id": "c780e555-1c77-4808-bf2c-e6b4a074765c",
-        "title": "Intern/Co-op - Site Reliability - Technology Division",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760383169,
-        "date_posted": 1760383169,
-        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/301498",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tradeweb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Tradeweb",
-        "id": "469f8541-1f4c-4ff7-988b-be1341564acd",
-        "title": "Intern/Co-op - JavaScript UI Development - Technology Division",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760383174,
-        "date_posted": 1760383174,
-        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/301499",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tradeweb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Corewell Health",
-        "id": "a3385a1d-fe83-4899-94ec-adf112ce17ec",
-        "title": "Claims Software Development Intern/Co-op - Claims Value Stream",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760384192,
-        "date_posted": 1760384192,
-        "url": "https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Claims-Software-Development-Internship-Summer-2026_R191225-1",
-        "locations": [
-            "Grand Rapids, MI",
-            "Southfield, MI",
-            "South Bend, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Corewell-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sierra Nevada Coporation",
-        "id": "dc499172-7b7c-40ef-9360-bec22715a985",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1760383847,
-        "date_posted": 1760383847,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I--For-SNC-Summer-2025-Interns-Only-_R0028560",
-        "locations": [
-            "Lone Tree, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "921b2bdf-1754-4b42-80a3-08694ebe586f",
-        "title": "Intern - Product Engineering - Hbm",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760392492,
-        "date_posted": 1760383626,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Engineering--HBM_JR84029",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "7-Eleven",
-        "id": "185e32d0-28f2-4b70-ae98-120b55b0e5a2",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1760383370,
-        "date_posted": 1760383370,
-        "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Software-Engineer-Intern_R25_0000008871",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/7-Eleven",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tradeweb",
-        "id": "970eff05-02d6-42be-85d6-a6bab80158b2",
-        "title": "Artificial Intelligence Intern - Artificial Intelligence - Technology Division",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760383173,
-        "date_posted": 1760383173,
-        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/301501",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tradeweb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nuro",
-        "id": "83889439-020f-4e15-a292-988bced65515",
-        "title": "Machine Learning Intern - Behavior Planning",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760392357,
-        "date_posted": 1760383080,
-        "url": "https://nuro.ai/careersitem?gh_jid=7309261",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nuro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Tradeweb",
-        "id": "5c24961f-c120-492c-bba3-184530531f6f",
-        "title": "Intern/Co-op - C++/ Python Development - Technology Division",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761587527,
-        "date_posted": 1760383169,
-        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/301497",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tradeweb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "LabCorp",
         "id": "aefdc3fd-7bf1-454d-a2b3-61ba4ae6e03c",
         "title": "Intern - Software Engineering - Software Engineering",
@@ -3836,29 +3527,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hearst",
-        "id": "f7bfb76f-25fc-4697-b0be-fb1a8ff012d9",
-        "title": "Digital Design/Development Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760479269,
-        "date_posted": 1760382826,
-        "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_10007/jobs/job/2025263",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Hearst",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -39029,27 +38697,6 @@
             "Andover, MN"
         ],
         "company_url": "https://simplify.jobs/c/bfdacd80-1593-4655-8b3a-da62394b5fff",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Campbell's Company",
-        "id": "4b5ab65e-ec64-4288-ae09-30060d04927f",
-        "title": "Category Management Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760385548,
-        "date_posted": 1760385548,
-        "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Category-Management-Intern---Summer-2026_Req-61312",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Campbells-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -141325,30 +140972,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Camlin",
-        "id": "5cb07ec8-2fe3-47a3-b5d3-b720f7455fb0",
-        "title": "Applied Scientist - 12 Month Student Placement",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1762908326,
-        "date_posted": 1760385633,
-        "url": "https://ats.rippling.com/camlin-careers/jobs/8acb00d6-3dbc-48a0-b287-36c15793b671",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Camlin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "4368cccc-14e3-4b8c-8edf-6beda1bf5010",
         "title": "Student Researcher - Seed Vision",
@@ -205015,7 +204638,7 @@
         "company_name": "Applied Materials",
         "id": "f874428c-d565-40a8-84a2-ea8f6ee2fbb4",
         "title": "2026 Summer Data Analyst/Scientist Intern-Master's - Santa Clara - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345371,7 +344994,7 @@
         "company_name": "Constant Contact",
         "id": "6744cf0c-8e1c-4608-b36f-b89f93fa2824",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -379395,7 +379018,7 @@
         "company_name": "Pennsylvania State University",
         "id": "718e327d-e463-4ef3-8299-41c197826c96",
         "title": "Research Assistant - Pulsar Program - Astronomy Department",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
