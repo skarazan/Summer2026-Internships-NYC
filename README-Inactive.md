@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 712 Inactive Internship Roles by Category
+### Browse 711 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (231)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (81)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (331)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (330)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (46)
 
@@ -92,35 +92,35 @@
 <td>Software Engineer Intern - Demand Solutions</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
 <td>Software Engineer Data/AI/Intelligent Systems Intern - United States</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Data/AI/Intelligent Systems 2 Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TheGuarantors?utm_source=GHList&utm_medium=company">TheGuarantors</a></strong></td>
 <td>AI Automation Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/LiveRamp?utm_source=GHList&utm_medium=company">LiveRamp</a></strong></td>
 <td>Software Engineer Co-op - Pixel Serving</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/LINQ?utm_source=GHList&utm_medium=company">LINQ</a></strong></td>
@@ -134,14 +134,14 @@
 <td>Palantir Intern - Software Engineer</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TransPerfect?utm_source=GHList&utm_medium=company">TransPerfect</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cisive?utm_source=GHList&utm_medium=company">Cisive</a></strong></td>
@@ -155,7 +155,7 @@
 <td>AI Agent Developer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cockroach-Labs?utm_source=GHList&utm_medium=company">Cockroach Labs</a></strong></td>
@@ -424,7 +424,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
 <td>Software Developer – Co-op/Intern - Summer 2026 - 4 Months</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -680,14 +680,14 @@
 <td>AI Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hearst?utm_source=GHList&utm_medium=company">Hearst</a></strong></td>
 <td>Level Up Ventures Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company">Salesforce</a></strong></td>
@@ -1702,7 +1702,7 @@
 <td>Software Engineering Intern - Multiple Teams</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -2290,7 +2290,7 @@
 <td>Product Management Intern - Multiple Teams</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -2374,7 +2374,7 @@
 <td>ML Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CME-Group?utm_source=GHList&utm_medium=company">CME Group</a></strong></td>
@@ -2657,7 +2657,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Impiricus?utm_source=GHList&utm_medium=company">Impiricus</a></strong></td>
 <td>Intern - Data & Business Intelligence</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -2972,7 +2972,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
 <td>Research Scientist Intern - Language and Multimodal Research - PhD 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -3252,7 +3252,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company">Uber</a></strong></td>
 <td>2026 PhD Scientist Intern - Ads & Offer - US 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -4092,7 +4092,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Port-Authority-NY-NJ?utm_source=GHList&utm_medium=company">Port Authority NY NJ</a></strong></td>
 <td>Summer Intern - Regional Planning</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -4621,14 +4621,7 @@
 <td>Machine Learning Intern - Multiple Teams 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Data Science Intern - Multiple Teams</td>
-<td>NYC</td>
-<td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -4999,14 +4992,14 @@
 <td>Embedded Software Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Curtiss-Wright?utm_source=GHList&utm_medium=company">Curtiss-Wright Corporation</a></strong></td>
 <td>Engineering Intern</td>
 <td>Long Island, New York</td>
 <td>🔒</td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Microchip-Technology?utm_source=GHList&utm_medium=company">Microchip Technology</a></strong></td>
