@@ -1,54 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Johnson & Johnson",
-        "id": "8221d7e2-fbba-4ac5-b28d-ebea59b6251f",
-        "title": "Software Engineering Co-Op - XENA Developer Experience",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1760340141,
-        "date_posted": 1760340141,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/J-J-Technology-XENA-Software-Engineering-Off-Cycle-Co-Op---March-to-September-2026_R-036152",
-        "locations": [
-            "Bridgewater Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SAS",
-        "id": "8e3e4e45-2bf5-4103-a948-9b38094e0f1f",
-        "title": "Software Development and Testing Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760339417,
-        "date_posted": 1760339417,
-        "url": "https://careers-sas.icims.com/jobs/40120/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/SAS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1763457815,
         "sponsorship": "U.S. Citizenship is Required",
         "active": false,
@@ -252624,7 +252575,7 @@
         "company_name": "Rolls Royce",
         "id": "fe63dd4b-c302-4d46-9fd3-0663297956cb",
         "title": "Predictive Maintenance Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -252647,7 +252598,7 @@
         "company_name": "Rolls Royce",
         "id": "f8080880-d013-40c8-ac19-30326bd50f19",
         "title": "Innovations Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -381793,7 +381744,7 @@
         "company_name": "TDS",
         "id": "49ff5004-3fea-42cf-8ed9-f8ddb314058f",
         "title": "Field Services Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389871,6 +389822,54 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EPRI",
+        "id": "a0d7a974-5252-4602-b152-60c7f1945452",
+        "title": "Computer Vision & 3D Asset Reconstruction Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781072024,
+        "date_posted": 1781071750,
+        "url": "https://vhr-epri.wd1.myworkdayjobs.com/epricareers/job/Charlotte-NC/Computer-Vision---3D-Asset-Reconstruction-Student-Employee_REQ-4012",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/EPRI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EXL",
+        "id": "db8120b2-607d-4a90-8ac6-f872d42bb28e",
+        "title": "AI Intern - Insurance & Healthcare - Agentic AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781071561,
+        "date_posted": 1781071459,
+        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15428",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/EXL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
