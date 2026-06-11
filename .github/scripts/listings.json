@@ -1,260 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Microsoft",
-        "id": "fdc199f8-cd7c-4ccf-b609-f0f42bc97df5",
-        "title": "Software Engineer: Fullstack Intern Opportunities for University Students - Atlanta",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1760442785,
-        "date_posted": 1760442785,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1861022",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Microsoft",
-        "id": "e9c435d0-a3fa-43b1-9ed5-bfa334c5dad1",
-        "title": "Software Engineer: Security Intern Opportunities for University Students - Redmond",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2025",
-            "Spring 2026"
-        ],
-        "date_updated": 1760442781,
-        "date_posted": 1760442781,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1861017",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Microsoft",
-        "id": "14e7455f-d484-4450-9604-02ae0f1f1620",
-        "title": "Software Engineer: Frontend Intern Opportunities for University Students - Redmond",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1760442786,
-        "date_posted": 1760442786,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1861019",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "0ca4c321-34e5-4baa-8e82-e40f7d05fb8a",
-        "title": "Data Science: PhD Internship Opportunities - Redmond",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760443639,
-        "date_posted": 1760443639,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1857576",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "a84b2def-2a7d-44f6-b766-67d9a9657b1f",
-        "title": "2026 Intern-Software Engineering Intern - On-site - CO",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761272094,
-        "date_posted": 1760448286,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO106-16470-East-Hughes-DriveAurora-16470-East-Hughes-Drive-Building-S77-Aurora-CO-80011-USA/XMLNAME-2026-Intern--Software-Engineering-Intern---On-site--CO-_01800101",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "date_updated": 1762294586,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Boston/AI-Intern_R-051339",
-        "company_name": "Red Hat",
-        "title": "AI Intern",
-        "locations": [
-            "Boston, MA"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "4a640f80-d07b-40b7-bd28-7b5a60e97b14",
-        "date_posted": 1760453560,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1760821057,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/5669256004",
-        "company_name": "Mercury",
-        "title": "Frontend Engineering Intern",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY",
-            "Portland, OR",
-            "Remote in US",
-            "Remote in Canada"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "e02e3cca-731f-4a6e-8d85-6ad9344e1ffe",
-        "date_posted": 1760453714,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1760821030,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/5668761004",
-        "company_name": "Mercury",
-        "title": "Backend Engineering Intern",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY",
-            "Portland, OR",
-            "Remote in US",
-            "Remote in Canada"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "561fbc12-2d58-4f8b-9e6c-85f602d19e03",
-        "date_posted": 1760453761,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1760820932,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/5676309004",
-        "company_name": "Mercury",
-        "title": "Full-stack Engineering Intern",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY",
-            "Portland, OR",
-            "Remote in US",
-            "Remote in Canada"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "91fcdc26-5dd5-40b0-b88e-a11d6d3d8f57",
-        "date_posted": 1760453800,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1760453885,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/appian/jobs/7201615",
-        "company_name": "Appian",
-        "title": "Software Quality Engineer Intern",
-        "locations": [
-            "McLean, VA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "44761ef7-27d2-4048-812e-9b1fca732027",
-        "date_posted": 1760453885,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ATPCO",
         "id": "87ccbe4d-a4d7-41cc-b94c-3d8ff31a9471",
@@ -282058,7 +281804,7 @@
         "company_name": "Varda Space",
         "id": "524a758b-b1a2-4a02-9ff9-dcda097b1187",
         "title": "Automation & Test Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339799,7 +339545,7 @@
         "company_name": "Adtheorant",
         "id": "2676d8ef-927b-4526-b7aa-bb6ddf9b2633",
         "title": "Backend Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -360550,7 +360296,7 @@
         "company_name": "Leonardo",
         "id": "574d5494-8e91-4134-a570-7e28c03d338d",
         "title": "Technical Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362937,7 +362683,7 @@
         "company_name": "W.R. Berkley",
         "id": "2aa26cc9-01dd-455b-ad28-221aedef7c7a",
         "title": "Underwriting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367673,7 +367419,7 @@
         "company_name": "Federal Home Loan Bank of Indianapolis",
         "id": "72686e66-c0dc-4276-bb21-b259097bfaee",
         "title": "Power BI Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373583,7 +373329,7 @@
         "company_name": "FNBO",
         "id": "9a4d9423-8ada-4c99-b484-f6829217c641",
         "title": "Data Analytics Intern - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -377379,7 +377125,7 @@
         "company_name": "Stantec",
         "id": "7d8de26b-5da6-4e2a-9a17-d887bc8a61be",
         "title": "Graduate Research Intern - Buildings",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384905,7 +384651,7 @@
         "company_name": "Trend Micro",
         "id": "cf7decc6-992d-44f4-bc47-462ce15126d0",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -386809,7 +386555,7 @@
         "company_name": "Brent Council",
         "id": "fc2b90ec-1897-40d4-a59a-a4ac2bfa8701",
         "title": "Trading Standards Officer Level 6 Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -386927,7 +386673,7 @@
         "company_name": "Uber",
         "id": "f3da2ede-7f82-4329-95de-dc4f9d7e1fb1",
         "title": "PhD Applied Scientist Intern - Commerce - Trust",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -388197,6 +387943,211 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Autodesk",
+        "id": "64a9b75c-dd91-47ec-92f5-030604e83f7a",
+        "title": "Research Intern - Physics-Informed Machine Learning",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781186761,
+        "date_posted": 1781186680,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Research-Intern--Physics-Informed-Machine-Learning_26WD94881-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Autodesk",
+        "id": "05dc8ddd-b44a-48bb-8e9f-78f8969b625a",
+        "title": "Research Intern - Physics-Informed Machine Learning",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781187481,
+        "date_posted": 1781186657,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Research-Intern--Physics-Informed-Machine-Learning_26WD94881",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Axis Communications AB",
+        "id": "c9c78e92-070c-43f9-ba3b-9e3d8122ed18",
+        "title": "Marketing Operation & Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781186956,
+        "date_posted": 1781186955,
+        "url": "https://axis.wd3.myworkdayjobs.com/external_career_site/job/USA---CA---Irvine/Marketing-Operation---Data-Analytics-Intern_R-123631",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axis-Communications-AB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "946795ed-83f9-4f29-9159-81978281dfa3",
+        "title": "Software Developer Intern - Cyber & Analytics Business Area - Security Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1781187087,
+        "date_posted": 1781186755,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00185122-1",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ABB",
+        "id": "0336c84e-d09f-4608-a173-6b7bc6173015",
+        "title": "Electronics Engineer - Electronics/Embedded Software Assistant Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781187746,
+        "date_posted": 1781187032,
+        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Neots-Cambridgeshire-United-Kingdom/Year-in-Industry---Electronics-Embedded-Software-Assistant-Engineer_JR00036154",
+        "locations": [
+            "Bedford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ABB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMAROK Security",
+        "id": "cae7ba56-b661-44a0-ad83-07cbc36b4ca4",
+        "title": "Research and Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1781187841,
+        "date_posted": 1781187665,
+        "url": "https://job-boards.greenhouse.io/amarok/jobs/6018661004",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/AMAROK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cummins",
+        "id": "5c420a56-27d6-498b-8244-a21b9df392ba",
+        "title": "Student \u2013 School to Work-Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781186956,
+        "date_posted": 1781186869,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430868",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Onto Innovation",
+        "id": "e1586926-cb2c-4860-a302-faf08bf58ed0",
+        "title": "AI/ML Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781187309,
+        "date_posted": 1781186828,
+        "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Hillsboro-OR/AI-ML-Internship-2_R-6091",
+        "locations": [
+            "Milpitas, CA",
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Onto-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Faculty AI",
+        "id": "cdf4e54b-d7e1-4228-9091-2c5c5fd3d334",
+        "title": "Faculty Fellowship Programme - Data Science",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781187452,
+        "date_posted": 1781186950,
+        "url": "https://jobs.ashbyhq.com/faculty/54c5e307-5b47-4cc7-9cb5-c8f190fe7ca7/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Faculty-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
