@@ -3,130 +3,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Microsoft",
-        "id": "a9f62900-ddb6-4700-a5ce-439e4669841b",
-        "title": "Software Engineer: Fullstack Internship Opportunities - Neurodiversity Hiring Program",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760426459,
-        "date_posted": 1760426459,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1886973",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Knexus AI",
-        "id": "d4ada06a-b000-41b3-a4de-bb5b7b92f7aa",
-        "title": "Skillbridge internship- Software Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760425842,
-        "date_posted": 1760425842,
-        "url": "https://ats.rippling.com/knexus/jobs/45ee949d-4741-413b-8328-78d70ab06e04",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Knexus-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Centific",
-        "id": "6a15ea9f-fb63-47cf-8752-bff3e0e75392",
-        "title": "Research Interns-3",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760434819,
-        "date_posted": 1760434819,
-        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Research-Interns-3_JR105441",
-        "locations": [
-            "Palo Alto, CA",
-            "Seattle, WA",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Centific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Meta",
-        "id": "29711e11-4f0d-4c21-9f2f-e70f25356778",
-        "title": "Research Scientist Intern - Code Generation - PhD - London",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1760436524,
-        "date_posted": 1760436524,
-        "url": "https://www.metacareers.com/jobs/1180250510624378",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "cf6d9fa3-1bc5-4447-8bc9-eb54d9a6b0a4",
-        "title": "Systems Engineering Intern - Summer 2026 - Onsite",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760438533,
-        "date_posted": 1760438533,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA806-8650-Balboa-Avenue-San-Diego-8650-Balboa-Avenue-San-Antonio-Building-San-Diego-CA-92123-USA/Systems-Engineering-Intern--Summer-2026---Onsite-_01792276",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Microsoft",
         "id": "fdc199f8-cd7c-4ccf-b609-f0f42bc97df5",
         "title": "Software Engineer: Fullstack Intern Opportunities for University Students - Atlanta",
         "active": false,
@@ -248730,7 +248606,7 @@
         "company_name": "Teledyne",
         "id": "483997bc-2f1d-4b29-a44f-a05af7c86329",
         "title": "RTL Design Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -282182,7 +282058,7 @@
         "company_name": "Varda Space",
         "id": "524a758b-b1a2-4a02-9ff9-dcda097b1187",
         "title": "Automation & Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341148,7 +341024,7 @@
         "company_name": "Nokia",
         "id": "b3547794-6c7d-45ba-96c6-078e4f87865a",
         "title": "Optical Test Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341265,7 +341141,7 @@
         "company_name": "Nokia",
         "id": "ef00b748-352b-4871-a0af-b6b65cf88f68",
         "title": "Software Designer Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -341406,7 +341282,7 @@
         "company_name": "Nokia",
         "id": "3dbbea9a-ca63-4fa8-945f-abc2639bae1e",
         "title": "Software Designer Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -341452,7 +341328,7 @@
         "company_name": "Nokia",
         "id": "cdc18b7e-0c00-430b-9e72-ec96ba943281",
         "title": "Software Designer Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -346136,7 +346012,7 @@
         "company_name": "Nokia",
         "id": "4504e31c-8a65-4f10-a72b-db7830f4a7aa",
         "title": "Software Test Infra Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -350365,7 +350241,7 @@
         "company_name": "Nokia",
         "id": "9155d2de-fa00-49ca-b95d-4eea0fafce7b",
         "title": "Incubation Developer Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -357698,7 +357574,7 @@
         "company_name": "NVIDIA",
         "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
         "title": "PhD Research Intern - Security and Privacy",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -371252,7 +371128,7 @@
         "company_name": "Oxfam International",
         "id": "37d20a1d-e2fd-4dcc-9fa1-4127ee186023",
         "title": "AI and Digital Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Fall 2026"
@@ -372567,7 +372443,7 @@
         "company_name": "FHLBank Topeka",
         "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
         "title": "Financial Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377595,7 +377471,7 @@
         "company_name": "Imerys",
         "id": "4712fba9-8fa9-4fd3-af2a-7c4c13901e5c",
         "title": "Quality Engineer Intern - ERP Data Migration - Quality Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384279,7 +384155,7 @@
         "company_name": "Generac",
         "id": "59330e6d-91d5-4708-a9e1-00db1a90d871",
         "title": "GPS Apprentice - Electrical",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -384622,7 +384498,7 @@
         "company_name": "Microsoft",
         "id": "c67a3efa-2ec3-488c-89f4-2514b853209d",
         "title": "Data Center Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384848,7 +384724,7 @@
         "company_name": "Agilent Technologies",
         "id": "4d64e4f3-5f35-4574-8196-f5dedf4d3b4c",
         "title": "Predictive Sales Prospecting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385380,7 +385256,7 @@
         "company_name": "NEC Software Solutions",
         "id": "72d63b93-036b-4d83-985e-4292d1521944",
         "title": "Software Developer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385401,7 +385277,7 @@
         "company_name": "Cenovus Energy",
         "id": "c37d74af-b07e-4201-83c5-71447ff00de4",
         "title": "Student Strategy and Business Performance",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -386358,7 +386234,7 @@
         "company_name": "Walleye Capital",
         "id": "a2dd7ebc-2143-479f-a7cc-43c854f5e08a",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386792,7 +386668,7 @@
         "company_name": "American University",
         "id": "f1f49f23-0c5f-4187-b685-f7a5c2e495a3",
         "title": "Undergraduate Research Assistant - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -386933,7 +386809,7 @@
         "company_name": "Brent Council",
         "id": "fc2b90ec-1897-40d4-a59a-a4ac2bfa8701",
         "title": "Trading Standards Officer Level 6 Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -387051,7 +386927,7 @@
         "company_name": "Uber",
         "id": "f3da2ede-7f82-4329-95de-dc4f9d7e1fb1",
         "title": "PhD Applied Scientist Intern - Commerce - Trust",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -387098,7 +386974,7 @@
         "company_name": "Centific",
         "id": "c1260e8d-9824-4174-9668-7f4e1627e756",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387629,6 +387505,698 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "05c11b2c-84e7-4cd6-bbaf-2f74dc921d25",
+        "title": "AI R&D Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1781165521,
+        "date_posted": 1780005808,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36923",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "5702ea99-c90e-4518-a3a9-36d4292d8f4d",
+        "title": "AI R&D Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781167681,
+        "date_posted": 1780005808,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36921",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "3fe7b0ac-cc2f-489b-abd2-0ca91f8981f6",
+        "title": "AI R&D Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781167141,
+        "date_posted": 1780005807,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36920",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "26de79ae-c547-4971-9157-77140eb4555b",
+        "title": "IP Routing App Engineer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1781166437,
+        "date_posted": 1776809271,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34040",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "id": "554f3e1a-4eb2-4aaf-96be-6aef77c84495",
+        "title": "Software Engineer Intern - Applications",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781169531,
+        "date_posted": 1781168823,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c/application",
+        "locations": [
+            "Palo Alto, CA",
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian-And-Volkswagen-Group-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Voleon Group",
+        "id": "38acfff8-56b2-4281-a1aa-896f741e4477",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1781168941,
+        "date_posted": 1781168815,
+        "url": "https://jobs.ashbyhq.com/voleon/a6b782de-2d48-49c3-925d-ee9375cf7bcd/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Voleon-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MarketAxess",
+        "id": "6b49c2e5-8944-4aae-99bf-94b99960b162",
+        "title": "Post Trade Apprentice - Post Trade",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781168351,
+        "date_posted": 1780524716,
+        "url": "https://www.marketaxess.com/careers/current-openings/detail/jobs/4668829006?gh_jid=4668829006",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MarketAxess",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pebl",
+        "id": "dfed1b05-8349-40c6-98c4-e56b8c22ad2f",
+        "title": "Software Engineer Intern - Invoicing & Payments",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781170202,
+        "date_posted": 1781168846,
+        "url": "https://jobs.ashbyhq.com/pebl/656500ff-2bb5-4152-a553-02af70eff612/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pebl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "id": "7f52dc88-e098-42c9-91f1-4af924f417f9",
+        "title": "Data Engineering Intern - AI & Analytics",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781170202,
+        "date_posted": 1781168821,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian-And-Volkswagen-Group-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "id": "39b0338f-985f-4dd5-8adf-290b1e4ca1de",
+        "title": "Software Engineer Intern - Connected Systems",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781170859,
+        "date_posted": 1781168824,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92/application",
+        "locations": [
+            "Palo Alto, CA",
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian-And-Volkswagen-Group-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "id": "01796556-ceb0-436a-b501-b3da05d779a7",
+        "title": "Software Engineer Intern Co-op - Applications",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781170833,
+        "date_posted": 1781168824,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian-And-Volkswagen-Group-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "id": "eb5fcd55-8960-46a6-8ce8-c8cf29450489",
+        "title": "Software Engineer Intern Co-op - Systems Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781169546,
+        "date_posted": 1781168824,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/28e87a5e-7aba-4f91-af44-74f739356a27/application",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian-And-Volkswagen-Group-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pebl",
+        "id": "ce2e9675-427e-41ed-8610-8a6d656cb32b",
+        "title": "Product Manager Intern - Alfie - Conversational AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781171642,
+        "date_posted": 1781168847,
+        "url": "https://jobs.ashbyhq.com/pebl/5ab039a5-2517-4ab5-be25-5987afb6d204/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pebl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Nokia",
+        "id": "d87ba5de-5c2e-473f-b2ba-296e4efd80c5",
+        "title": "Product Development Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781171642,
+        "date_posted": 1776377295,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34184",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "id": "e4b179d2-a8ba-49ee-b372-b9eca60450d2",
+        "title": "Software Engineer Intern - Vehicle Controls",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781169517,
+        "date_posted": 1781168823,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55/application",
+        "locations": [
+            "Palo Alto, CA",
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian-And-Volkswagen-Group-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "id": "fb2e9338-c69e-43f9-b4ce-171c9c842408",
+        "title": "Software Engineer Intern - Embedded Platforms",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781169514,
+        "date_posted": 1781168824,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff/application",
+        "locations": [
+            "Palo Alto, CA",
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian-And-Volkswagen-Group-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "id": "f7d62ce6-b150-43b3-a5f3-0d462c9460f4",
+        "title": "Software Engineer Intern Co-op - Vehicle Controls",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781169502,
+        "date_posted": 1781168824,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian-And-Volkswagen-Group-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pebl",
+        "id": "0d216387-5170-4090-9936-abb1b187cf2b",
+        "title": "Product Manager Intern - Alfie - Conversational AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781168941,
+        "date_posted": 1781168852,
+        "url": "https://jobs.ashbyhq.com/pebl/7f1bde51-0e21-4bc2-8414-be077511bde4/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Pebl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "id": "ca54e8e6-3ece-423f-ae13-aa1fa705c812",
+        "title": "Android Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781168941,
+        "date_posted": 1781168821,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian-And-Volkswagen-Group-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pebl",
+        "id": "2017ac96-db7a-496c-a9dd-bfc1e83d38a7",
+        "title": "Software Engineer Intern - Payroll",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781170923,
+        "date_posted": 1781168847,
+        "url": "https://jobs.ashbyhq.com/pebl/f94e9238-656b-4b1c-a4c7-b5d4909b0663/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pebl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "d8deb87c-5600-4294-8927-736be0d8b0b1",
+        "title": "AI R&D Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781172730,
+        "date_posted": 1780005809,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36922",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "id": "a475fa37-e595-443b-807e-dce909238f55",
+        "title": "Software Engineer Intern Co-op - Android Connectivity",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781170820,
+        "date_posted": 1781168824,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/application",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian-And-Volkswagen-Group-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "977fd2b4-9242-454f-ae67-76f6efb31fe4",
+        "title": "AI R&D Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781170819,
+        "date_posted": 1780005808,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36914",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "e68b7328-b808-41fe-afd1-f8e886696ca0",
+        "title": "Nokia Defense Software Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1781172088,
+        "date_posted": 1780092258,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36638",
+        "locations": [
+            "Naperville, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "b6122e00-e95a-403a-b449-fd3cef0894c3",
+        "title": "AI R&D Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781170202,
+        "date_posted": 1780005808,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36917",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "9fe813e2-c70d-4985-91d4-c70aa74b0ed3",
+        "title": "AI R&D Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781170202,
+        "date_posted": 1780005809,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36919",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "765ee212-ae49-4415-83b1-c513541055d8",
+        "title": "Software Engineering Co-op - Information and Communication Technology",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1781169563,
+        "date_posted": 1780005807,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36602",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "e178dbaa-95c9-4015-bbc7-3d6e6c03ebeb",
+        "title": "Optical Test Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1781171642,
+        "date_posted": 1779833019,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36616",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "aef8e1d7-1422-403a-ba01-d5800f15dfcf",
+        "title": "IT Network Software/AI Development Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781170454,
+        "date_posted": 1777511343,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34296",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
