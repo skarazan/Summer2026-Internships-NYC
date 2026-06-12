@@ -1,98 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "iRhythm Technologies",
-        "id": "ef43bd38-a410-4f41-97dd-4c6e7d17971e",
-        "title": "Co-Op: Tools & Fixtures System Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760542391,
-        "date_posted": 1760542391,
-        "url": "https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Co-Op--Tools---Fixtures-System-Engineer_JR672-1",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/IRhythm-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "80c0af45-623b-4039-a896-1c7d95097445",
-        "title": "Software Engineering Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761156585,
-        "date_posted": 1760545771,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Sterling/Software-Engineering-Intern---Summer-2026_318124",
-        "locations": [
-            "Dulles, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "PA Consulting",
-        "id": "706948c6-c6a2-42b6-b916-51a2b14bfdfc",
-        "title": "2026 Summer Internship - Software & Controls Engineer - Cambridge",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760547586,
-        "date_posted": 1760547586,
-        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000087636255",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/PA-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Great American Insurance Company",
-        "id": "92f0744d-3e16-49b1-b7c7-4b52091e1a9d",
-        "title": "Underwriting/Product Management Intern - Specialty Equipment - Spring 2026",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1760547411,
-        "date_posted": 1760547411,
-        "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Underwriting-Product-Management-Intern_R8072",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Great-American-Insurance-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "KION",
         "id": "d5489971-c796-49df-8ed8-d225ceb815e3",
@@ -33356,69 +33264,6 @@
             "Grand Rapids, MI"
         ],
         "company_url": "https://simplify.jobs/c/KION",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hitachi",
-        "id": "b0ee24eb-48fc-4f39-b7db-c177faf93fe3",
-        "title": "Intern Procurement Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760547745,
-        "date_posted": 1760547745,
-        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hagerstown-Maryland-United-States/Intern-Procurement-Analyst_R0107709",
-        "locations": [
-            "Hagerstown, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Hitachi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "PennState University",
-        "id": "f8d9a1bc-021b-4362-ab0d-4646bbe2c320",
-        "title": "Systems Engineer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760545466,
-        "date_posted": 1760545466,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Systems-Engineer-Intern_REQ_0000072773-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Faith Technologies",
-        "id": "75e3d7e8-39a6-40b3-8d63-126dd6931b27",
-        "title": "GIS Internship",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760544613,
-        "date_posted": 1760544613,
-        "url": "https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/WI---Menasha/GIS-Internship_R7776-1",
-        "locations": [
-            "Neenah, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Faith-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -358563,7 +358408,7 @@
         "company_name": "Meta",
         "id": "11c69133-e993-47d7-9b8d-331a0c9131df",
         "title": "Research Scientist Intern - Multimodal AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -375967,7 +375812,7 @@
         "company_name": "Dover",
         "id": "01065ed6-8dc2-4abc-add3-8ac49e9a0c23",
         "title": "Evaluation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
