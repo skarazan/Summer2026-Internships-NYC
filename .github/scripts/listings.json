@@ -1,102 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "KION",
-        "id": "d5489971-c796-49df-8ed8-d225ceb815e3",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760550049,
-        "date_posted": 1760550049,
-        "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0079874-1",
-        "locations": [
-            "Grand Rapids, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/KION",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Franklin Templeton",
-        "id": "11af6f5a-bea0-4cdf-aa4b-c642e39e6311",
-        "title": "IR-Product Management Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760552749,
-        "date_posted": 1760552749,
-        "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/GBR-LO160-London/IR-Product-Management-Intern_864791",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Franklin-Templeton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "PTC",
-        "id": "ab4fd27b-7978-4eab-afa3-3309c2ee61a4",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760552119,
-        "date_posted": 1760552119,
-        "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Development-Intern_JR110929",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/PTC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Uline",
-        "id": "4a32a0e7-4343-404c-a400-c8b2865775f9",
-        "title": "Product Marketing Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760552018,
-        "date_posted": 1760552018,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Marketing-Internship---Summer-2026_R258321",
-        "locations": [
-            "Waukegan, IL",
-            "Milwaukee, WI",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AbbVie",
         "id": "86917e46-bd0c-43d2-8dc4-6dde6a08f483",
@@ -33250,27 +33154,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "KION",
-        "id": "bfa98607-9f54-41be-b23e-7e19b7e7fe7b",
-        "title": "Software Engineer Intern - Software Execution",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760549961,
-        "date_posted": 1760549961,
-        "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineer-Intern---Software-Execution_JR-0079895-1",
-        "locations": [
-            "Grand Rapids, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/KION",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Genesis Therapeutics",
         "id": "5c330794-42dc-43d6-85a1-84861109a484",
         "title": "Software Engineer Intern - 2026",
@@ -41223,7 +41106,7 @@
         "company_name": "Reflect Orbital",
         "id": "6f3a77be-dd63-4de2-a8dd-80babbfaecac",
         "title": "Embedded Firmware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -135519,7 +135402,7 @@
         "company_name": "Assort Health",
         "id": "724f5d68-f44c-4be2-b77e-f6f49f9991fe",
         "title": "Agent Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -223482,7 +223365,7 @@
         "company_name": "ByteDance",
         "id": "9d1f00cf-b2ff-4d4d-aeaf-ba9bad343197",
         "title": "Research Scientist - Computational Photography Algorithms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337231,7 +337114,7 @@
         "company_name": "Formlabs",
         "id": "f19a11e1-2cc4-433f-9440-05c01f5daf32",
         "title": "Build Team Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -364360,7 +364243,7 @@
         "company_name": "Per Scholas",
         "id": "e0f741fc-ddd4-4a03-930a-c19a2ffd628c",
         "title": "Data Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370590,7 +370473,7 @@
         "company_name": "Sarepta",
         "id": "3b5a45c4-dc82-4d6a-8889-e3dbdece17aa",
         "title": "Commercial Operations Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371971,7 +371854,7 @@
         "company_name": "NVIDIA",
         "id": "23510ddb-5e86-43f5-871a-3be1a3210cbb",
         "title": "AI and Systems Software Intern - At Scale AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -381534,7 +381417,7 @@
         "company_name": "Leidos",
         "id": "665812ba-84cf-45c0-88d3-3cea631bea33",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384175,7 +384058,7 @@
         "company_name": "Motorola",
         "id": "ba1af61b-c0af-446a-afbd-84ff04af0dcb",
         "title": "Software Developer AI Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
