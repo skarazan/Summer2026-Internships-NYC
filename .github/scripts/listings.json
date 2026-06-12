@@ -1,52 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "86917e46-bd0c-43d2-8dc4-6dde6a08f483",
-        "title": "2026 AI Agent Engineer Co-Op - June - Dec",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1760562554,
-        "date_posted": 1760562554,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990009914716",
-        "locations": [
-            "Waukegan, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sherwin-Williams",
-        "id": "0dc33a3c-4570-4362-a670-f4de783386aa",
-        "title": "2026 R&D Product Engineering Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760565065,
-        "date_posted": 1760565065,
-        "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/2540039",
-        "locations": [
-            "Cleveland, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Sherwin-Williams",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1760568838,
         "sponsorship": "Other",
         "active": true,
@@ -48615,27 +48568,6 @@
         "degrees": [
             "MBA"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Westwood",
-        "id": "8fe79d1f-e666-4cff-89a4-4ef3a75d251d",
-        "title": "Survey Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762906766,
-        "date_posted": 1760563875,
-        "url": "https://careers-westwoodps.icims.com/jobs/7145/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Fresno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Westwood",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -167454,7 +167386,7 @@
         "company_name": "Astranis",
         "id": "be13d84d-5972-4164-acac-f89164f8eb93",
         "title": "Software Defined Radio Hardware Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -223224,7 +223156,7 @@
         "company_name": "Truveta",
         "id": "9d21429a-ec03-4ab5-8c5f-dccc28783311",
         "title": "Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279348,7 +279280,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333312,7 +333244,7 @@
         "company_name": "Meta",
         "id": "1f77f979-a9de-47a0-8655-d6c71bb7ea10",
         "title": "Research Scientist Intern - Robotic Control Policy",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -341607,7 +341539,7 @@
         "company_name": "Labelbox",
         "id": "1fca6653-7184-45fb-891b-6998fb1affb7",
         "title": "Forward Deployed Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343682,7 +343614,7 @@
         "company_name": "NVIDIA",
         "id": "992b48ee-6377-47d1-a64a-325b032e4673",
         "title": "Formal Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -367340,7 +367272,7 @@
         "company_name": "StepStone Group",
         "id": "45f66532-75e4-4ea9-924f-72adeca6fae2",
         "title": "Data & Risk Operations Junior Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -370170,7 +370102,7 @@
         "company_name": "Marsh",
         "id": "c6fb7bb2-6ca1-431b-bb96-398422ba1a8d",
         "title": "Oliver Wyman Analyst Internship - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376894,7 +376826,7 @@
         "company_name": "Philips",
         "id": "044fead1-de5d-4a02-8d34-65b3ec3912d6",
         "title": "Data Management Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -379710,7 +379642,7 @@
         "company_name": "New Jersey Innovation Authority",
         "id": "55d0385a-36dd-487a-b491-25948ee40ad5",
         "title": "Graduate Generative AI Engineer Fellow - Technical Research and Development",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -379919,7 +379851,7 @@
         "company_name": "Tesla",
         "id": "aa5a1eee-4548-48fb-81f9-594c3d634dff",
         "title": "Software Engineering Intern - Fullstack C++ Engineer - Vehicle User Interface",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -384696,7 +384628,7 @@
         "company_name": "The Voleon Group",
         "id": "38acfff8-56b2-4281-a1aa-896f741e4477",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Winter 2027",
@@ -386327,5 +386259,53 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Synchrony Financial",
+        "id": "926aad82-a906-40e6-ad7f-97a1fca95370",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781302503,
+        "date_posted": 1781301997,
+        "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Canton-Engagement-Hub-OH/Software-Engineer-Intern---Fall-2026_2601751-1",
+        "locations": [
+            "Sharonville, OH",
+            "Canton, OH",
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/Synchrony-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "7827d202-eb46-4b93-8cd8-45611c91468b",
+        "title": "Graduate Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781301837,
+        "date_posted": 1781301725,
+        "url": "https://uasys.wd5.myworkdayjobs.com/UAF_External_Career_Site/job/Fayetteville-AR/Graduate-Assistant---Data-Science-9-MONTH_R0082554-1",
+        "locations": [
+            "Fayetteville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]

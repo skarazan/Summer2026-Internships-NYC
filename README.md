@@ -63,7 +63,7 @@
 <td>Global Tech Apprentice - Software Engineer</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Jersey-City/Global-Tech-Apprentice-Program---Software-Engineer----Jersey-City--NJ-and-New-York--NY_26019817-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8274eda3-9ac6-4582-ae1a-b4f690d6737f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Scale-AI?utm_source=GHList&utm_medium=company">Scale AI</a></strong></td>
@@ -77,7 +77,7 @@
 <td>Engineer Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://ats.comparably.com/api/v2/stash/post/7979793:?gh_jid=7979793&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/68127dda-73b9-40f5-9686-c6a63d8651ca?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/LiveRamp?utm_source=GHList&utm_medium=company">LiveRamp</a></strong></td>
@@ -98,14 +98,14 @@
 <td>Year at Palantir Intern - Forward Deployed Software Engineer - Commercial</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e5bf0800-58fa-41cf-bba9-7799f4f540f5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Year at Palantir Intern - Forward Deployed Software Engineer</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/441050ea-b57f-4448-ae69-2a4a8646229f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 </tbody>
 </table>
@@ -146,14 +146,14 @@
 <td>Clinical AI Intern 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/anterior/550c48f9-eb2e-4d5e-80ff-8db076b4e52d/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ef7971ca-a194-4750-9d7c-9daba2e57a0f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/LiveRamp?utm_source=GHList&utm_medium=company">LiveRamp</a></strong></td>
 <td>Data Science Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Intern--Data-Science_JR012195?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2b58f87c-45e3-47f3-8d33-ff72212accde?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
@@ -188,7 +188,7 @@
 <td>AI Automation Intern - Electrical Construction Operations</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://careers-fsg.icims.com/jobs/2406/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/991a8f63-65fa-4790-8de1-d09deeed8643?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
@@ -216,36 +216,6 @@
 
 
 🔒 **[See 322 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
-
-
-
-## 📈 Quantitative Finance Internship Roles
-
-[Back to top](#summer-2026-nyc-tech-internships)
-
-<table>
-<thead>
-<tr>
-<th>Company</th>
-<th>Role</th>
-<th>Location</th>
-<th>Application</th>
-<th>Age</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/CME-Group?utm_source=GHList&utm_medium=company">CME Group</a></strong></td>
-<td>Quant Risk Management Intern 🎓</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quant-Risk-Management-Intern---Year-Round_34278?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4b95d40c-afe4-4c27-af52-6e7cff541fa8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-</tbody>
-</table>
-
-
-🔒 **[See 40 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
 
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
