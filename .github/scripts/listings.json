@@ -2,176 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Philips",
-        "id": "3ac955f3-6b56-432c-b7d1-3bd37ccf2d36",
-        "title": "Co-op-Data Engineer-Reedsville - PA-January-June 2025",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1760573507,
-        "date_posted": 1760573507,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville/Co-op-Data-Engineer-Reedsville--PA-January-June-2025_565943",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uline",
-        "id": "bc0a13d5-a9cb-4574-814d-02a68a76d424",
-        "title": "Financial Data Analyst Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760575384,
-        "date_posted": 1760575384,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2026_R258319",
-        "locations": [
-            "Pleasant Prairie, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Zipline",
-        "id": "6c4dae37-aa6a-4d31-8770-90710b3aa4c3",
-        "title": "Spatial Planning Intern - Spring 2026 - Spatial Planning Team",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1760581773,
-        "date_posted": 1760581773,
-        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=7497920003",
-        "locations": [
-            "Dallas, TX",
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zipline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "MillerKnoll",
-        "id": "9cf88b6e-7832-4aaa-a2d6-5a7cf531dc79",
-        "title": "Software Developer Intern - Workforce Capability System",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1761312258,
-        "date_posted": 1760582836,
-        "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Zeeland/Software-Developer-Intern---Workforce-Capability-System_JR107497",
-        "locations": [
-            "Holland, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/MillerKnoll",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CMS Energy",
-        "id": "80474e95-ccc2-4a08-a387-7e3e76a49ad6",
-        "title": "Intern/Co-Op-Meteorology 1",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760584117,
-        "date_posted": 1760584117,
-        "url": "https://careers.consumersenergy.com/job/MULTIPLE-LOCATIONS-InternCo-Op-Meteorology-1-MI/1334961400/?ats=successfactors",
-        "locations": [
-            "Michigan"
-        ],
-        "company_url": "https://simplify.jobs/c/CMS-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Saputo",
-        "id": "1004b6f4-0ada-4c14-9418-1860dc7663ba",
-        "title": "Intern \u2013 Business Intelligence",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760585808,
-        "date_posted": 1760585808,
-        "url": "https://saputo.wd5.myworkdayjobs.com/saputo_external_careers/job/Montral-QC/Intern--Business-Intelligence_JR58816",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Saputo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Skydio",
-        "id": "9f346b82-70ee-4c4a-a0ab-c692af937c62",
-        "title": "Embedded Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1760588506,
-        "date_posted": 1760588506,
-        "url": "https://www.skydio.com/jobs/7493211003?gh_jid=7493211003",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Skydio",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Standard Aero",
         "id": "6b6f7d2c-bc14-468e-b541-8c7f3a079145",
         "title": "Data Analytics Summer Intern - Supply Chain",
@@ -32921,27 +32751,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Skydio",
-        "id": "d7e44aec-f7e6-4731-a0d6-9b4ad656424e",
-        "title": "Autonomy Engineer Intern Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760588512,
-        "date_posted": 1760588512,
-        "url": "https://www.skydio.com/jobs/7498514003?gh_jid=7498514003",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Skydio",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -248509,7 +248318,7 @@
         "company_name": "Kodiak Robotics",
         "id": "5f5d1cc0-4199-4aea-bf7a-dfd595c39927",
         "title": "Intern - Artificial Intelligence/Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -278955,7 +278764,7 @@
         "company_name": "Varda Space",
         "id": "524a758b-b1a2-4a02-9ff9-dcda097b1187",
         "title": "Automation & Test Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -365811,7 +365620,7 @@
         "company_name": "C&S Wholesale Grocers",
         "id": "9a5bccfa-9b07-46be-853d-c0625c368895",
         "title": "Data Reporting & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376615,7 +376424,7 @@
         "company_name": "Kinaxis",
         "id": "9b509505-431b-4801-953f-5c7c88e9a29e",
         "title": "Developer Intern Co-op - AI Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -376639,7 +376448,7 @@
         "company_name": "Kinaxis",
         "id": "7bd0e2f5-9ca2-4134-a63d-2bab9831c0b0",
         "title": "Developer Co-op/Intern - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -381372,7 +381181,7 @@
         "company_name": "Eurofins",
         "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382223,7 +382032,7 @@
         "company_name": "Eurofins",
         "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -386873,6 +386682,150 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OfferUp",
+        "id": "cc2fec71-d445-40e3-be3e-b8dd51184164",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781313889,
+        "date_posted": 1781313747,
+        "url": "https://job-boards.greenhouse.io/offerup/jobs/8004171",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/OfferUp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Motorola",
+        "id": "9998e555-5394-40b9-95e7-bbf1ab92baa1",
+        "title": "Electronics Design Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781313442,
+        "date_posted": 1781312950,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Electronics-Design--Co-Op_R65838-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Harbinger Motors",
+        "id": "5aa6e9bd-09c4-45fd-8a1b-4a72bb9684ab",
+        "title": "Production Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781313540,
+        "date_posted": 1781313352,
+        "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/5164341007",
+        "locations": [
+            "Westminster, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Harbinger-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Eulerity",
+        "id": "a67f3d7e-403e-4ae0-8608-1af033714104",
+        "title": "Web Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781313482,
+        "date_posted": 1781313340,
+        "url": "https://job-boards.greenhouse.io/eulerity/jobs/4689194006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Eulerity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "186363a3-6d05-45b9-b0ff-79b92bbc03f9",
+        "title": "Software Developer Back-end Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781313439,
+        "date_posted": 1781312950,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Software-Developer--Back-end-Co-Op_R65923",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MedElite",
+        "id": "51831bd6-ee7c-478a-b8f3-6aad9eeb91fe",
+        "title": "Healthcare Data Automation & QA Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781313301,
+        "date_posted": 1781312977,
+        "url": "https://job-boards.greenhouse.io/medelitellc/jobs/5258038008",
+        "locations": [
+            "Brooklyn, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/MedElite",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
         ]
     }
 ]
