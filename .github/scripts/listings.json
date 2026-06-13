@@ -1,100 +1,5 @@
 [
     {
-        "date_updated": 1760568838,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://americas-cookmedical.icims.com/jobs/17485/intern%2c-statistics-%26-data-science/job",
-        "company_name": "Cook Group",
-        "title": "Intern, Statistics & Data Science",
-        "locations": [
-            "Bloomington, IN"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "331eb4b6-e1ce-4a78-bd16-6007818cc199",
-        "date_posted": 1760568838,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "33dd50f6-c39c-4328-b29f-4944cd14082c",
-        "title": "Mission Sensor \u2013 SEPP Software Engineer Intern - Summer 2026 - Onsite",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760568827,
-        "date_posted": 1760568827,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Mission-Sensor---SEPP-Software-Engineer-Intern--Summer-2026---Onsite-_01792466",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Schroders",
-        "id": "aa1aa903-d322-4dae-901f-08f375ae10cd",
-        "title": "2026 Investment Public Markets \u2013 Internship Programme - Quant Focused",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760568375,
-        "date_posted": 1760568375,
-        "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/620",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Schroders",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GE Vernova",
-        "id": "2d61a370-6d0d-4fdb-ac89-ae2439203227",
-        "title": "GE Vernova Quality Digitalization Internship - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760568298,
-        "date_posted": 1760568298,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/GE-Vernova-Quality-Digitalization-Internship---Summer-2026_R5022400-1",
-        "locations": [
-            "Schenectady, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Philips",
@@ -212596,7 +212501,7 @@
         "company_name": "X Development",
         "id": "7906ae4b-a2bf-420a-a929-2b11f82819e8",
         "title": "2026 PhD Residency - Earth Scientist AI Resident - Early Stage Project",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -223156,7 +223061,7 @@
         "company_name": "Truveta",
         "id": "9d21429a-ec03-4ab5-8c5f-dccc28783311",
         "title": "Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -248483,7 +248388,7 @@
         "company_name": "Kodiak Robotics",
         "id": "698c2195-c433-407a-a9d6-75bfe115265b",
         "title": "Intern - Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -279050,7 +278955,7 @@
         "company_name": "Varda Space",
         "id": "524a758b-b1a2-4a02-9ff9-dcda097b1187",
         "title": "Automation & Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -279280,7 +279185,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -341539,7 +341444,7 @@
         "company_name": "Labelbox",
         "id": "1fca6653-7184-45fb-891b-6998fb1affb7",
         "title": "Forward Deployed Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -341730,7 +341635,7 @@
         "company_name": "NewsBreak",
         "id": "bec23b01-65ee-4433-8c1e-eb74b68e62a7",
         "title": "Product Engineering Intern - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370102,7 +370007,7 @@
         "company_name": "Marsh",
         "id": "c6fb7bb2-6ca1-431b-bb96-398422ba1a8d",
         "title": "Oliver Wyman Analyst Internship - Data & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -371074,7 +370979,7 @@
         "company_name": "Voltus",
         "id": "bce00b8e-0bf2-4317-8d52-be8495199473",
         "title": "Residential Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381467,7 +381372,7 @@
         "company_name": "Eurofins",
         "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -382177,7 +382082,7 @@
         "company_name": "General Motors",
         "id": "82755bc6-9e28-4b40-a157-d3d1d46a92ae",
         "title": "Engineering Operations Co-op - Equipment and Maintenance Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -382318,7 +382223,7 @@
         "company_name": "Eurofins",
         "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386302,6 +386207,668 @@
             "Fayetteville, AR"
         ],
         "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "9e721744-be69-4b02-b9d4-31c5a7aea105",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781303239,
+        "date_posted": 1781302048,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00185348",
+        "locations": [
+            "Fort Belvoir, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Campbell's Company",
+        "id": "843fba41-132c-404a-8b80-8c1564b35d52",
+        "title": "Data Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781303357,
+        "date_posted": 1781302128,
+        "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Campbells-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Semtech",
+        "id": "4afb1f7a-c696-4fcb-b278-fddea793d67c",
+        "title": "AI Transformation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781301961,
+        "date_posted": 1781301941,
+        "url": "https://semtech.wd1.myworkdayjobs.com/SemtechJobs/job/USA---Camarillo-CA/AI-Transformation-Intern_REQ3412",
+        "locations": [
+            "Camarillo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Semtech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cadence Design Systems",
+        "id": "7399b9f8-0c80-46ff-917e-a92d246e936f",
+        "title": "Characterization and Support Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781303857,
+        "date_posted": 1781302047,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support_R54998",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CIBC",
+        "id": "6d841074-095e-49bb-99cc-3949457026c3",
+        "title": "Data Analytics Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781303407,
+        "date_posted": 1781302095,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analytics-Associate-Co-op_2612757",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "1Password",
+        "id": "b7154b79-2d09-4d3d-8208-f32ccf9b1d14",
+        "title": "Developer Intern - Client Secrets Management",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781303221,
+        "date_posted": 1781302140,
+        "url": "https://jobs.ashbyhq.com/1password/d9909a9a-d941-404d-a7f2-5021670ffd2c/application",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ciena",
+        "id": "7bf1dde2-5de6-4a6d-99bf-d149e1a36e58",
+        "title": "Software Engineer and Tools Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781303221,
+        "date_posted": 1781301934,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-and-Tools-Developer-Intern--Fall-2026-_R028752",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Together AI",
+        "id": "d717ac2f-5554-43f7-85ef-3f7f993fd3f2",
+        "title": "Frontier Agents Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781303499,
+        "date_posted": 1781302187,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5157380007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Together-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ciena",
+        "id": "98846dcd-7aaf-4317-8f53-95f3eff9b8f1",
+        "title": "Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1781302337,
+        "date_posted": 1781301934,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-8-month-Co-op---Fall-Winter-2026_R031200",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "6e786d9d-4cf9-408b-b5f6-1e4f1173f11d",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781303250,
+        "date_posted": 1781302050,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00185350",
+        "locations": [
+            "Fort Belvoir, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Synchrony Financial",
+        "id": "1862811d-f108-4ae2-80e1-ebadd703d58a",
+        "title": "Digital Technology Center Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781303062,
+        "date_posted": 1781301997,
+        "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Fall-2026_2601749-1",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Synchrony-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Synchrony Financial",
+        "id": "0de94479-9581-45a1-9e9b-1d63a3842ebb",
+        "title": "Emerging Technology Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781302503,
+        "date_posted": 1781301997,
+        "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/University-of-Illinois-Hub/Emerging-Technology-Intern---Fall-2026_2601747-1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Synchrony-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Kepler Communications",
+        "id": "d06a7a40-bbf3-4ea3-b87d-2f3e7ce67249",
+        "title": "Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1781303037,
+        "date_posted": 1781301985,
+        "url": "https://jobs.lever.co/kepler/afe34c63-ab6d-42a6-8571-dab052ee9c41/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kepler-Communications",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CIBC",
+        "id": "3d4384dd-ddc5-4cbd-adb1-b55dd18704b6",
+        "title": "Data Analytics Co-op - Global Macro and Strategy team",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781303409,
+        "date_posted": 1781302095,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Data-Analytics-Co-op-Fall-2026---Global-Macro-and-Strategy-team---Bilingual_2612721",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Together AI",
+        "id": "2b7fae57-a8e0-402c-8cd6-83e7aaffd1a5",
+        "title": "Research Intern - Inference",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781303507,
+        "date_posted": 1781302189,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5157759007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Together-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "e899751e-0313-4b38-844c-137b5cba368a",
+        "title": "Commercial UI Software Engineer Intern - Energy Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781303324,
+        "date_posted": 1781302071,
+        "url": "https://www.tesla.com/careers/search/job/273723",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centific",
+        "id": "ac71ebda-a094-4764-ba4b-afbc298a0cc5",
+        "title": "Applied Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781303282,
+        "date_posted": 1781302055,
+        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/PhD-Applied-Research-Intern_JR107537",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Centific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "9b48bb08-b4b3-4d4d-8fe7-f45594b0dd49",
+        "title": "Graduate Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781302011,
+        "date_posted": 1781301842,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Fayetteville-AR/Graduate-Assistant---Data-Science-9-MONTH_R0082554-2",
+        "locations": [
+            "Fayetteville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Solar Turbines",
+        "id": "480b1ffd-7a33-4a90-9d19-fd390e121055",
+        "title": "Gas Compressor Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781303170,
+        "date_posted": 1781302033,
+        "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Solar-Turbines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "a5813139-60ea-48b7-a1c6-ba475ad68765",
+        "title": "Equipment Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781302423,
+        "date_posted": 1781301943,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Intern--Equipment-Engineering_R2496-26",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Campbell's Company",
+        "id": "6568ed59-ff3f-4485-97a2-64f6d218c8a0",
+        "title": "Data Engineer Co-op - Operational Support",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781303371,
+        "date_posted": 1781302124,
+        "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer---Operational-Support--Co-op-_Req-65842",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Campbells-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "58f15152-4d52-4c28-8a28-b8ec717ba3b0",
+        "title": "Software Engineer Intern - Residential Energy Device Software Engineer - Energy Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781303221,
+        "date_posted": 1781302043,
+        "url": "https://www.tesla.com/careers/search/job/273810",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centific",
+        "id": "33224b22-75a0-49b0-84fb-9dc23b4307ae",
+        "title": "Speech Research Intern - Centific AI Research",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781303279,
+        "date_posted": 1781302056,
+        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Research-Intern-2_JR107448-1",
+        "locations": [
+            "Remote in USA",
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Centific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Together AI",
+        "id": "27f1bae4-fe71-4489-96fd-9707e0ba1cfb",
+        "title": "Systems Research Engineer Intern - GPU Programming",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781303502,
+        "date_posted": 1781302190,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5157559007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Together-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Institute of Foundation Models",
+        "id": "22d00642-f6f4-4b29-8f19-16686852eeb5",
+        "title": "AI Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781303077,
+        "date_posted": 1781302010,
+        "url": "https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678/apply",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Institute-Of-Foundation-Models",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "124c2d11-405e-4a98-baa0-97c68bd09131",
+        "title": "Graduate Assistant - Financial Data Analysis",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781303221,
+        "date_posted": 1781302131,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Graduate-Assistant---Financial-Data-Analysis--Part-Time--Remote-_REQ_0000079448",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arine",
+        "id": "5c99289c-7083-430e-9511-14fa13015733",
+        "title": "Full Stack Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781303479,
+        "date_posted": 1781302177,
+        "url": "https://job-boards.greenhouse.io/arine/jobs/6026856004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arine",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lumentum",
+        "id": "304197e8-d85d-498b-b262-5bd2abbbe527",
+        "title": "Algorithms and Analytics Engineering Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781303221,
+        "date_posted": 1781302112,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Algorithms-and-Analytics-Engineering-Co-op-Intern_2026532",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Campbell's Company",
+        "id": "2e7d1060-d8d6-45d0-8cbc-f5502d8eea8b",
+        "title": "Data Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781303374,
+        "date_posted": 1781302125,
+        "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer---Agentic-AI---ML-Ops--Co-op-_Req-65843",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Campbells-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
