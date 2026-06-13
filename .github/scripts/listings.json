@@ -3928,29 +3928,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Elanco",
-        "id": "2130e177-ef14-4eec-aaaa-6884d7ffcda0",
-        "title": "Operational Excellence Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760616693,
-        "date_posted": 1760616693,
-        "url": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Elwood-KS/Operational-Excellence-Intern--Summer-2026-_R0023583",
-        "locations": [
-            "St Joseph, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Elanco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Expedia Group",
         "id": "82ba9416-89a0-4e17-ae26-45e798794705",
@@ -222379,7 +222356,7 @@
         "company_name": "Truveta",
         "id": "9d21429a-ec03-4ab5-8c5f-dccc28783311",
         "title": "Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278273,7 +278250,7 @@
         "company_name": "Varda Space",
         "id": "524a758b-b1a2-4a02-9ff9-dcda097b1187",
         "title": "Automation & Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -278503,7 +278480,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -319637,7 +319614,7 @@
         "company_name": "Wash U",
         "id": "c478f30c-eba8-48c9-a814-9ed93ee9ac72",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -363638,7 +363615,7 @@
         "company_name": "Magna",
         "id": "2fc71606-c196-4014-8052-7b0ff80ee0df",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -363730,7 +363707,7 @@
         "company_name": "NVIDIA",
         "id": "f0577fa0-c379-40cc-885e-beebb1742e22",
         "title": "PhD Data Generation and User Simulation Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -365245,7 +365222,7 @@
         "company_name": "Magna",
         "id": "06de75c2-cc22-4498-95d5-a96d0f6f920b",
         "title": "Artificial Intelligence Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -365681,7 +365658,7 @@
         "company_name": "NVIDIA",
         "id": "d2de708b-89ff-406f-bd7a-70f5d52cf392",
         "title": "PhD Software Engineer Intern - Decision Intelligence",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -369325,7 +369302,7 @@
         "company_name": "Marsh",
         "id": "c6fb7bb2-6ca1-431b-bb96-398422ba1a8d",
         "title": "Oliver Wyman Analyst Internship - Data & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -370668,7 +370645,7 @@
         "company_name": "NVIDIA",
         "id": "03dedc89-4423-4126-b37e-0771167f95b7",
         "title": "Data Analysis Intern - Applied System Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -370863,7 +370840,7 @@
         "company_name": "Magna",
         "id": "f2bff587-1432-4e84-9d58-604de0b930c0",
         "title": "Tools Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -371058,7 +371035,7 @@
         "company_name": "NVIDIA",
         "id": "b32acaf4-dae5-4de6-976f-d8efb876afe7",
         "title": "PhD Research Intern - Generative AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -371567,7 +371544,7 @@
         "company_name": "Magna",
         "id": "14d33eac-9588-4ef2-aad6-4f65465e5bc0",
         "title": "Product Engineering Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -371634,7 +371611,7 @@
         "company_name": "General Motors",
         "id": "b2e1219c-749a-48c5-a753-f04ac0023013",
         "title": "Software Developer Intern - Virtualization and SIL Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -372186,7 +372163,7 @@
         "company_name": "Magna",
         "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
         "title": "Junior Full Stack Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -372733,7 +372710,7 @@
         "company_name": "ServiceNow",
         "id": "e5a173bc-a66a-4551-b190-093e94c657ac",
         "title": "Servicenow Futures Summit Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -374247,7 +374224,7 @@
         "company_name": "ServiceNow",
         "id": "a321ad73-583a-4203-bee3-a9fe75923346",
         "title": "Futures Summit Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -378635,7 +378612,7 @@
         "company_name": "SOTI",
         "id": "eedc3481-24f8-4e24-ab3d-8ae10a4eb5ed",
         "title": "Web Producer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -381031,7 +381008,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -381374,7 +381351,7 @@
         "company_name": "NVIDIA",
         "id": "09ac55f2-d5b4-4e0d-b829-75a23db110d3",
         "title": "Cloud Distributed Systems Backend Intern - Geforce NOW",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -381492,7 +381469,7 @@
         "company_name": "Cenovus Energy",
         "id": "c37d74af-b07e-4201-83c5-71447ff00de4",
         "title": "Student Strategy and Business Performance",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -382113,7 +382090,7 @@
         "company_name": "NVIDIA",
         "id": "243ed21b-c67d-4756-9fc5-a3dad55d0f3e",
         "title": "Cloud Software Intern - GeForce NOW",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -382951,7 +382928,7 @@
         "company_name": "Evolver",
         "id": "2283b39a-bd55-4fc6-8bb7-6e3a6a999b59",
         "title": "Applied Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383045,7 +383022,7 @@
         "company_name": "Lumentum",
         "id": "849e9f85-f7b7-4bc5-959a-d7d35173e559",
         "title": "Embedded Software Engineer Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -383142,7 +383119,7 @@
         "company_name": "Uber",
         "id": "f3da2ede-7f82-4329-95de-dc4f9d7e1fb1",
         "title": "PhD Applied Scientist Intern - Commerce - Trust",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -384487,7 +384464,7 @@
         "company_name": "Leidos",
         "id": "946795ed-83f9-4f29-9159-81978281dfa3",
         "title": "Software Developer Intern - Cyber & Analytics Business Area - Security Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -384673,7 +384650,7 @@
         "company_name": "GE Healthcare",
         "id": "bcfc86cc-ce3d-4d16-bd9c-4f33ff1a78b5",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385221,7 +385198,7 @@
         "company_name": "University of Arkansas",
         "id": "cf38c534-dd45-4232-8025-bcf1f2d03f03",
         "title": "CORE Research Assistant / Extra Help Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -385244,7 +385221,7 @@
         "company_name": "Ultra Intelligence and Communications",
         "id": "a7a53e9d-e119-4765-b520-28d30bebdd19",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385267,7 +385244,7 @@
         "company_name": "General Motors",
         "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
         "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -385291,7 +385268,7 @@
         "company_name": "Ultra",
         "id": "8ce60c97-c2a0-4e2b-b50e-e62e00887726",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385445,7 +385422,7 @@
         "company_name": "Magna",
         "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
         "title": "Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385537,7 +385514,7 @@
         "company_name": "Leidos",
         "id": "9e721744-be69-4b02-b9d4-31c5a7aea105",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385742,7 +385719,7 @@
         "company_name": "Leidos",
         "id": "6e786d9d-4cf9-408b-b5f6-1e4f1173f11d",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385853,7 +385830,7 @@
         "company_name": "Together AI",
         "id": "2b7fae57-a8e0-402c-8cd6-83e7aaffd1a5",
         "title": "Research Intern - Inference",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -386063,7 +386040,7 @@
         "company_name": "Together AI",
         "id": "27f1bae4-fe71-4489-96fd-9707e0ba1cfb",
         "title": "Systems Research Engineer Intern - GPU Programming",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -386428,5 +386405,91 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University System of New Hampshire",
+        "id": "67f528b4-3913-4e87-87df-83f6625cf8f6",
+        "title": "Embase Hightech Bound Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781353479,
+        "date_posted": 1781344269,
+        "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/IOL-Embase-HighTech-Bound-Intern_JR8064",
+        "locations": [
+            "Dover, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/University-System-Of-New-Hampshire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University System of New Hampshire",
+        "id": "c1a53a05-af65-4ba9-a7da-451aaa98ef68",
+        "title": "Datacenter Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781355807,
+        "date_posted": 1781344264,
+        "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/High-Tech-Bound-Datacenter-Intern_JR8299",
+        "locations": [
+            "Dover, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/University-System-Of-New-Hampshire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blue Origin",
+        "id": "175de2c3-24d3-42d5-8371-c3e40591e242",
+        "title": "Technician - Assembly & Integration",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781357764,
+        "date_posted": 1781345559,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Technician---Assembly---Integration--All-Levels-All-Shifts-_R60817",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mercer University",
+        "id": "33fd521e-474f-45b3-851e-27d577a78a8b",
+        "title": "Archival Digitization",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781359894,
+        "date_posted": 1781359455,
+        "url": "https://merceruniversity.wd1.myworkdayjobs.com/student/job/Macon-Campus/Archival-digitization_JR102883",
+        "locations": [
+            "Macon, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercer-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
