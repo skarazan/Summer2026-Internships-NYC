@@ -222356,7 +222356,7 @@
         "company_name": "Truveta",
         "id": "9d21429a-ec03-4ab5-8c5f-dccc28783311",
         "title": "Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -322575,7 +322575,7 @@
         "company_name": "Plexus",
         "id": "518e148f-3401-4468-be86-69d38a4cf484",
         "title": "Digital Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -372140,7 +372140,7 @@
         "company_name": "Fidelity Investments",
         "id": "8ec64e5f-4755-45a9-ae9e-abd13cd712b0",
         "title": "Undergraduate Software Engineer - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -372936,7 +372936,7 @@
         "company_name": "American University",
         "id": "523ae494-45d3-4223-b476-2c169758a222",
         "title": "Research Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -373993,7 +373993,7 @@
         "company_name": "American University",
         "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
         "title": "Graduate Event Data Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -376642,7 +376642,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -382450,7 +382450,7 @@
         "company_name": "Walleye Capital",
         "id": "3ae897a1-0ad7-410e-8882-d492c1f9e19a",
         "title": "Risk Technology Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382474,7 +382474,7 @@
         "company_name": "Walleye Capital",
         "id": "37f29e78-6188-4883-8606-42dcbabb6448",
         "title": "Volatility Trading Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382665,7 +382665,7 @@
         "company_name": "Walleye Capital",
         "id": "cef3f7ab-adae-4d4b-88d9-eafc26e3e8f9",
         "title": "Quantic \u2013 Quantitative Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382709,7 +382709,7 @@
         "company_name": "Walleye Capital",
         "id": "7b479664-d0af-4690-be2a-c9ba5d81314a",
         "title": "Central Equity Quant Research Intern - Ceqr",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382813,7 +382813,7 @@
         "company_name": "Walleye Capital",
         "id": "c32147c4-e359-49f8-8d2e-d52f0a1646d8",
         "title": "Investment Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382881,7 +382881,7 @@
         "company_name": "Walleye Capital",
         "id": "6a61710a-02c6-4915-a7f3-863dbf8c835b",
         "title": "PhD Quantitative Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382904,7 +382904,7 @@
         "company_name": "Walleye Capital",
         "id": "28053adc-4960-4b2a-8386-71e1aba8148e",
         "title": "Quantitative Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382928,7 +382928,7 @@
         "company_name": "Evolver",
         "id": "2283b39a-bd55-4fc6-8bb7-6e3a6a999b59",
         "title": "Applied Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -384722,7 +384722,7 @@
         "company_name": "Intel",
         "id": "438a49bd-1732-4815-b2b2-e048f205949f",
         "title": "AI Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385244,7 +385244,7 @@
         "company_name": "General Motors",
         "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
         "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -385671,7 +385671,7 @@
         "company_name": "Together AI",
         "id": "d717ac2f-5554-43f7-85ef-3f7f993fd3f2",
         "title": "Frontier Agents Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -385830,7 +385830,7 @@
         "company_name": "Together AI",
         "id": "2b7fae57-a8e0-402c-8cd6-83e7aaffd1a5",
         "title": "Research Intern - Inference",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -386040,7 +386040,7 @@
         "company_name": "Together AI",
         "id": "27f1bae4-fe71-4489-96fd-9707e0ba1cfb",
         "title": "Systems Research Engineer Intern - GPU Programming",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -386488,6 +386488,27 @@
             "Macon, GA"
         ],
         "company_url": "https://simplify.jobs/c/Mercer-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "87b177fa-ff7d-4277-b3da-19b592c48505",
+        "title": "Science",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781373097,
+        "date_posted": 1781360933,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Berks/Part-Time---Science---Summer-Research_REQ_0000079403-1",
+        "locations": [
+            "Reading, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
