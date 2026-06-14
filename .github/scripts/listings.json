@@ -1,53 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Serco North America",
-        "id": "9834ac2b-e4e0-4ffc-8e31-227db9f80cac",
-        "title": "Software Engineering Intern - Orlando - FL",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760719016,
-        "date_posted": 1760719016,
-        "url": "https://careers-sercous.icims.com/jobs/71545/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Serco-North-America",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Delta Dental",
-        "id": "e7a3efe4-2e33-46f4-bde3-c68515bcf85b",
-        "title": "Internship - Application Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760718928,
-        "date_posted": 1760718928,
-        "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101036",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Delta-Dental",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Toast",
         "id": "646c70bf-1f6c-4b18-95fb-83eaf005fb60",
@@ -30092,48 +30045,6 @@
             "Greenville, SC"
         ],
         "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Standard Aero",
-        "id": "467203b1-b186-4d4a-8cb2-978a49a4ef64",
-        "title": "Summer Student - Data Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761861804,
-        "date_posted": 1760721248,
-        "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/7982",
-        "locations": [
-            "Winnipeg, MB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Standard-Aero",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Equity Residential",
-        "id": "541ee723-1d52-4fed-925c-f80e72ef9247",
-        "title": "Centralized Operations Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1760717530,
-        "date_posted": 1760717530,
-        "url": "https://hcjm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2006932",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Equity-Residential",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -378608,7 +378519,7 @@
         "company_name": "Microsoft",
         "id": "c67a3efa-2ec3-488c-89f4-2514b853209d",
         "title": "Data Center Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
