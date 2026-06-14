@@ -2,148 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Leidos",
-        "id": "d15f8660-4847-4542-9acf-6df0dbc97a5c",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761271919,
-        "date_posted": 1760702594,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineer-Intern_R-00168796",
-        "locations": [
-            "Bethesda, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CSAA Insurance Group",
-        "id": "89a25f5e-bbf5-4411-b7ff-b92623249237",
-        "title": "Insurance Product Analyst Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760704359,
-        "date_posted": 1760704359,
-        "url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Glendale-Arizona/Insurance-Product-Analyst-Intern---Summer-2026_R7373",
-        "locations": [
-            "Glendale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/CSAA-Insurance-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Corning",
-        "id": "b9c01669-1e4c-4538-9d3f-6933c93f32cb",
-        "title": "Corporate Sustainability Intern - Summer 2026",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760703442,
-        "date_posted": 1760703442,
-        "url": "https://corningjobs.corning.com/job/Corning-Corporate-Sustainability-Intern-Summer-2026-NY-14831/1335401200/?ats=successfactors",
-        "locations": [
-            "Elmira, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Corning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "7018ce8d-aa31-4eb5-a8a0-f5fba16668e9",
-        "title": "Machine Learning Engineer Intern - Infrastructure Platform - 2026 Start - PhD",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1760707167,
-        "date_posted": 1760707167,
-        "url": "https://lifeattiktok.com/search/7547586728690501896",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Accor",
-        "id": "c53622e7-00f7-48c0-b1a2-b6a4921de5a4",
-        "title": "Junior Analyst \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760708209,
-        "date_posted": 1760708209,
-        "url": "https://jobs.smartrecruiters.com/AccorCorpo/744000088533895",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Accor",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Toyota Research Institute",
-        "id": "28c20690-3707-4261-9d6f-10889779eda5",
-        "title": "Human Aware Interaction and Learning \u2013 Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760710706,
-        "date_posted": 1760710706,
-        "url": "https://jobs.lever.co/tri/b012c063-b8a8-454b-8026-6a8cf8a4e5fc/apply",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Nelnet",
         "id": "c53a3ddd-e3f7-4fd6-b8b8-d1cd6776231c",
         "title": "New Ventures Intern",
@@ -376070,7 +375928,7 @@
         "company_name": "CHEP",
         "id": "513d3867-26bc-4203-8cd2-ade981572975",
         "title": "FP&A Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -379921,7 +379779,7 @@
         "company_name": "Picarro",
         "id": "78f19624-1c44-4977-b62e-7f62d90abe71",
         "title": "Product Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
