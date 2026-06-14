@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Toast",
-        "id": "646c70bf-1f6c-4b18-95fb-83eaf005fb60",
-        "title": "MBA Product Manager Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760723096,
-        "date_posted": 1760723096,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7254875",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Toast",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "S&P Global ",
         "id": "8ef46c1b-98b8-410a-aac4-54a977de3a46",
@@ -30024,27 +30001,6 @@
             "Morrisville, NC"
         ],
         "company_url": "https://simplify.jobs/c/Epic-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GE Vernova",
-        "id": "027041e7-69e7-40dd-a8ee-0261451d41a6",
-        "title": "GE Vernova Graduate Intern - Gas Turbine Design Optimization Workflows",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760725446,
-        "date_posted": 1760725446,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Graduate-Intern---Gas-Turbine-Design-Optimization-Workflows_R5022704-1",
-        "locations": [
-            "Greenville, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -74272,27 +74228,6 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Simular",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Standard Aero",
-        "id": "f170b851-5b39-4722-98b2-46a29ef0d856",
-        "title": "ERP Software Development - Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764759097,
-        "date_posted": 1760722670,
-        "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/7946",
-        "locations": [
-            "St. John's, NL, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Standard-Aero",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -251976,7 +251911,7 @@
         "company_name": "KION Group",
         "id": "8eb44b0c-8d8e-4bd2-88d0-51fb9b03511c",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
