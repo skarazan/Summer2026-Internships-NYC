@@ -1,575 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Waymo",
-        "id": "063ef33a-3ca2-4c8e-ae55-1029efaecc11",
-        "title": "2026 Summer Intern - BS/MS - Software Engineer - Sqr",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760747631,
-        "date_posted": 1760747631,
-        "url": "https://careers.withwaymo.com/jobs?gh_jid=7341462",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Waymo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Illumio",
-        "id": "b6cad9ee-0c8f-467c-8ca3-a1efd84ac466",
-        "title": "Engineering Intern - AI Supportability",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760746878,
-        "date_posted": 1760746878,
-        "url": "https://jobs.ashbyhq.com/illumio/c130215a-b9d3-49bb-9f12-8c4317cd3697/application",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Illumio",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "e7db4775-cf9a-4a6a-b005-08b180b6c27e",
-        "title": "Software Developer Co-op - Fall 2025",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1760746536,
-        "date_posted": 1760746536,
-        "url": "https://jobs.intuit.com/job/toronto/software-developer-co-op-fall-2025/27595/87369447072",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intuit",
-        "id": "6a0bb6c6-defe-4e95-a68f-c96d5f285e44",
-        "title": "Fraud and Risk Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760746480,
-        "date_posted": 1760746480,
-        "url": "https://jobs.intuit.com/job/mountain-view/fraud-and-risk-intern/27595/87369448960",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intuit",
-        "id": "4b40e630-68af-40e7-98c6-18c1de2ae45f",
-        "title": "Summer 2026 AI Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760746500,
-        "date_posted": 1760746500,
-        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-ai-research-intern/27595/87369447152",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "974e67e8-de31-45fa-bc1a-6200c9d39cb0",
-        "title": "Summer 2026 Backend Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760746352,
-        "date_posted": 1760746352,
-        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-backend-engineering-intern/27595/87369451024",
-        "locations": [
-            "NYC",
-            "Mountain View, CA",
-            "Atlanta, GA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Warner Bros.",
-        "id": "43409993-2f5d-4337-bbd0-7e96bc05ea62",
-        "title": "Programming Internships: LA - Spring 2026",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1760748513,
-        "date_posted": 1760748513,
-        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/CA-Burbank-Bldg-700-Second-Century-Tower-1/Programming-Internships--LA---Spring-2026_R000099500",
-        "locations": [
-            "Burbank, CA",
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Warner-Bros",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mom's Meals",
-        "id": "57d336e7-cd96-4ad0-8dc3-664528a74b69",
-        "title": "Salesforce Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760747750,
-        "date_posted": 1760747750,
-        "url": "https://jobs.lever.co/momsmeals/ae79f9a3-19de-4a20-981f-8d7a76b034ab/apply",
-        "locations": [
-            "Des Moines, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Moms-Meals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CAE",
-        "id": "42ce6779-6049-4c3b-ac90-eaf06905dbad",
-        "title": "R&D Engineering Co-Op",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760751125,
-        "date_posted": 1760751125,
-        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Orlando/R-D-Engineering-Co-Op_118559",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nestle",
-        "id": "25bbc8de-8036-4904-85e6-d593f41d55a7",
-        "title": "IT Data Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760751178,
-        "date_posted": 1760751178,
-        "url": "https://jobdetails.nestle.com/job/North-York-IT-Data-Engineering-Intern-ON/1259688401/?ats=successfactors",
-        "locations": [
-            "North York, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nestle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Johnson & Johnson",
-        "id": "ad0b91d9-74a2-4fc9-9276-024788f523f9",
-        "title": "IDAR Summer Intern - DM & CM",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1760751077,
-        "date_posted": 1760751077,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/IDAR-Summer-Intern---DM---CM_R-037419",
-        "locations": [
-            "New Hope, PA",
-            "Bridgewater Township, NJ",
-            "Ambler, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Johnson & Johnson",
-        "id": "5ebc11ba-28f9-4766-bebe-7fa702cc98c6",
-        "title": "IDAR Summer Intern - C&Sp",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1760751099,
-        "date_posted": 1760751099,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern---C-SP_R-037817-1",
-        "locations": [
-            "Bridgewater Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "FirstPrinciples",
-        "id": "54150068-ec77-4809-86d1-a85fe0c73db8",
-        "title": "Machine Learning / AI Engineering Co-op - Winter 2026",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1760751123,
-        "date_posted": 1760751123,
-        "url": "https://job-boards.greenhouse.io/firstprinciples/jobs/4959115008",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/FirstPrinciples",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Clarios",
-        "id": "369af980-8107-4e24-8c3e-f30e4bea56fd",
-        "title": "EHS Intern - Toledo - OH - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760750749,
-        "date_posted": 1760750749,
-        "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Ohio-Holland/EHS-Intern---Toledo--OH--Summer-2026-_WD44970",
-        "locations": [
-            "Toledo, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Clarios",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Erie Insurance Group",
-        "id": "f4b4cda1-c8c0-440b-b4c4-c42fe325e1ff",
-        "title": "Risk Control Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760754745,
-        "date_posted": 1760754745,
-        "url": "https://jobs.erieinsurance.com/job/Erie-Risk-Control-Intern-PA-16530/1335760100/?ats=successfactors",
-        "locations": [
-            "Erie, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Erie-Insurance-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Altera Corporation",
-        "id": "1f901fd6-4051-4c93-bd81-418cbd818461",
-        "title": "FPGA Hardware Design Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760754833,
-        "date_posted": 1760754833,
-        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Hardware-Design-Intern_R01419-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Altera-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Intuit",
-        "id": "ca6f0d8e-a18f-484a-8493-7f8108950652",
-        "title": "Product Manager Co-op - 8 or  months",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760755770,
-        "date_posted": 1760755770,
-        "url": "https://jobs.intuit.com/job/toronto/product-manager-co-op-8-or-12-months/27595/87369447184",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Toro Company",
-        "id": "c2d35d79-425d-4184-90ee-270187371951",
-        "title": "IBP Data Management Intern - The Toro Company",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760755257,
-        "date_posted": 1760755257,
-        "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/IBP-Data-Management-Intern---The-Toro-Company_JR13931",
-        "locations": [
-            "Bloomington, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Toro-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "a0f2eafd-7914-4a7b-9510-17a243504a64",
-        "title": "Summer 2026 Mobile \u2013 Intern - IOS/Android",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760755080,
-        "date_posted": 1760755080,
-        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-mobile-ios-android-intern/27595/87369442368",
-        "locations": [
-            "NYC",
-            "Mountain View, CA",
-            "Atlanta, GA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "c5b25325-04c9-4ecd-af56-abb6aeaa6da2",
-        "title": "Software Engineer Intern - Monetization Technology - 2026 Summer - BS/MS",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760758378,
-        "date_posted": 1760758378,
-        "url": "https://lifeattiktok.com/search/7561941583777941813",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wayve",
-        "id": "81522f32-a19a-4736-b21d-35bb8a8af359",
-        "title": "Research Scientist Intern - Multimodal Spatial Intelligence",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760757859,
-        "date_posted": 1760757859,
-        "url": "https://job-boards.greenhouse.io/wayve/jobs/8217771002",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Wayve",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Warner Bros.",
-        "id": "b27ea2db-89c9-49c0-bfb1-03dd27f22da0",
-        "title": "Research \u2013 Analytics & Strategy Internships: NYC - Spring 2026",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1760757691,
-        "date_posted": 1760757691,
-        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-230-Park-Avenue-South/Research--Analytics---Strategy-Internships--NYC---Spring-2026_R000099529",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Warner-Bros",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Zurich Insurance",
-        "id": "96f5c6f4-ed4a-4b9c-8e74-0dbe1c821954",
-        "title": "Digital Marketing Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760757646,
-        "date_posted": 1760757646,
-        "url": "https://www.careers.zurich.com/job/Schaumburg-Digital-Marketing-Intern-(Summer-2026)-IL-60159/1329841957/?ats=successfactors",
-        "locations": [
-            "Hoffman Estates, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Zurich-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Berkshire Hathaway Energy",
-        "id": "b35efde7-4972-407c-968c-5f99fc5b0fc6",
-        "title": "Intern \u2013 Enterprise Analytics",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760759023,
-        "date_posted": 1760759023,
-        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003138",
-        "locations": [
-            "Des Moines, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "NVIDIA",
         "id": "ed96ef1b-1d74-490c-b784-1f976cbb6f48",
@@ -591,54 +22,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amazon",
-        "id": "668bbd4b-8dc9-4e63-9004-f7f4054d30be",
-        "title": "Software Eng Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2027"
-        ],
-        "date_updated": 1760761370,
-        "date_posted": 1760761370,
-        "url": "https://amazon.jobs/en/jobs/3111795/software-eng-intern",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amazon",
-        "id": "383ec2f3-6923-4486-b21d-e35d289f766c",
-        "title": "Software Eng Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2027"
-        ],
-        "date_updated": 1760761368,
-        "date_posted": 1760761368,
-        "url": "https://amazon.jobs/en/jobs/3111794/software-eng-intern",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -28868,27 +28251,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Baird",
-        "id": "23e6fa7c-f0e1-4d65-ae12-76cfa8a554dc",
-        "title": "Internship - Operations Risk Data & Analytics - Year-Round",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760757106,
-        "date_posted": 1760757106,
-        "url": "https://wd1.myworkdaysite.com/recruiting/baird/Careers/job/WI-Milwaukee/Internship---Operations-Risk-Data---Analytics--Year-Round-_R20251188-1",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Baird",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Creative Artists Agency",
         "id": "5ca4a7e8-4f57-466d-855f-b4a95a712551",
         "title": "U.S. Campus Summer 2026 Data and Tech Internship Application",
@@ -40317,7 +39679,7 @@
         "company_name": "TikTok",
         "id": "68dfedf9-d3ba-47ad-a7f0-c90008b2e054",
         "title": "Machine Learning Engineer Intern - Monetization Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -52894,7 +52256,7 @@
         "company_name": "TikTok",
         "id": "60ae1ee5-3a5b-43ed-9d79-967f2621f9e6",
         "title": "Technical Program Manager Intern - Global Monetization Product and Technology - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -65941,7 +65303,7 @@
         "company_name": "TikTok",
         "id": "bb549c71-7b62-436b-9a16-21d9da8c69dc",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -65962,7 +65324,7 @@
         "company_name": "TikTok",
         "id": "60b9363a-e707-4818-b0d5-65727a253199",
         "title": "General Hire \u2013 Research Scientist - Monetization Technology - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -88584,7 +87946,7 @@
         "company_name": "TikTok",
         "id": "b49af921-2592-4429-807b-644549005c26",
         "title": "Researcher Intern - Vision and Graphics - 2026 Start",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -124661,7 +124023,7 @@
         "company_name": "TikTok",
         "id": "c8e90374-a978-4298-8074-e5c8ec31e38d",
         "title": "Machine Learning Engineer Intern - Ads Measurement Signal and Privacy - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -124755,7 +124117,7 @@
         "company_name": "TikTok",
         "id": "83c3132a-5b70-4dc2-84ee-d9cbdf95535b",
         "title": "Frontend Software Engineer Intern - Ads Measurement Signal and Privacy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -124989,7 +124351,7 @@
         "company_name": "TikTok",
         "id": "d2c21a4a-adab-4424-ba0b-99413c4a64ae",
         "title": "Software Engineer Intern - Ads Measurement Signal and Privacy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -133333,7 +132695,7 @@
         "company_name": "TikTok",
         "id": "89f594f1-36b8-4da1-a6b7-4c345fc51e0b",
         "title": "Frontend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -134600,7 +133962,7 @@
         "company_name": "TikTok",
         "id": "6e8ba331-8d2f-49b9-b28b-65a13902265d",
         "title": "Machine Learning Engineer Intern - Commerce Ads - 2026 Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -146670,7 +146032,7 @@
         "company_name": "TikTok",
         "id": "7cbf5e66-95b6-4b66-b41f-fa9cdeadcadc",
         "title": "Software Engineer Intern - Commerce Ads - 2026 Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -150572,7 +149934,7 @@
         "company_name": "Boston Consulting Group",
         "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
         "title": "AI Engineer Intern - BCG X",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -150596,7 +149958,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -160385,7 +159747,7 @@
         "company_name": "TikTok",
         "id": "7139ea0b-2aa5-4846-9eae-f63857d3b093",
         "title": "Product Manager Intern - Commerce Ads - 2026 Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -160409,7 +159771,7 @@
         "company_name": "TikTok",
         "id": "6d135998-ad0c-432c-99e6-df5df406588c",
         "title": "Product Manager Intern - Content and Service Ads - 2026 Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -160433,7 +159795,7 @@
         "company_name": "TikTok",
         "id": "692d16e6-c0c5-4e83-aa1a-65c68743e284",
         "title": "Platform-Product Solutions and Operations Intern - Ads Interface and Platform - 2026 Summer BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -172697,7 +172059,7 @@
         "company_name": "TikTok",
         "id": "5be21c8e-1326-4ca1-9b44-d4839ecb5574",
         "title": "Data Science Intern - Advertisement Team - 2026 Start','PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -180158,7 +179520,7 @@
         "company_name": "TikTok",
         "id": "aaebf56d-a337-4c94-82e1-09880ea29430",
         "title": "Product Manager - Measurement Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -194465,7 +193827,7 @@
         "company_name": "TikTok",
         "id": "9ed2a09f-a318-418d-ada1-c33bd38b957d",
         "title": "AI Agent Project Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -212457,7 +211819,7 @@
         "company_name": "TikTok",
         "id": "a07c63b9-4897-47fe-89b2-3dbd74199d97",
         "title": "Software Engineer Project Intern - Video-on-Demand Algorithm - 2026 Start','BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275003,7 +274365,7 @@
         "company_name": "Varda Space",
         "id": "524a758b-b1a2-4a02-9ff9-dcda097b1187",
         "title": "Automation & Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -275442,7 +274804,7 @@
         "company_name": "TikTok",
         "id": "d7297bc9-b982-4d12-9a1a-ea5d22b7eba6",
         "title": "Product Manager Project Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -280963,7 +280325,7 @@
         "company_name": "TikTok",
         "id": "799037f7-5af0-47ab-9dc8-b77d7a0fa096",
         "title": "Software Engineer Project Intern - Content AI Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -287001,7 +286363,7 @@
         "company_name": "TikTok",
         "id": "87c4798f-208e-4f29-895a-37bcfe8f6e0f",
         "title": "Machine Learning Engineer - Search Ads",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -294718,7 +294080,7 @@
         "company_name": "TikTok",
         "id": "954e23d8-480c-418b-881b-ac4dbca5f098",
         "title": "Machine Learning Scientist Intern - Global E-Commerce Content Recommendation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295802,7 +295164,7 @@
         "company_name": "TikTok",
         "id": "73b43840-d6dc-4026-acc9-485fffbb96dd",
         "title": "Software Engineer Project Intern - Model Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -296420,7 +295782,7 @@
         "company_name": "TikTok",
         "id": "70b45d75-a146-4733-a653-c4bce22c4e32",
         "title": "Machine Learning Engineer Intern - Global E-Commerce Content Recommendation - 2026 Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -296444,7 +295806,7 @@
         "company_name": "TikTok",
         "id": "779f212c-f34e-4260-b5af-2e54a8c159fb",
         "title": "Software Engineer Intern - Platform efficiency",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -296468,7 +295830,7 @@
         "company_name": "TikTok",
         "id": "a6e979b7-c84b-455a-9f3c-7fa10d5d908c",
         "title": "Machine Learning Engineer Intern - TikTok Search E-Commerce Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -296542,7 +295904,7 @@
         "company_name": "TikTok",
         "id": "d3034ffb-ae0b-4d73-9de9-9fa8dfb69282",
         "title": "Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297316,7 +296678,7 @@
         "company_name": "TikTok",
         "id": "c3bf7441-29b9-4a6d-a6bf-4282eb67e697",
         "title": "Data Engineer - E-commerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297364,7 +296726,7 @@
         "company_name": "TikTok",
         "id": "5cf97d69-3f9a-40f2-b738-6aa0457c614b",
         "title": "Software Engineer Intern - Recommendation Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297578,7 +296940,7 @@
         "company_name": "TikTok",
         "id": "57afebdf-5402-460f-9af8-a746c7bcca8a",
         "title": "Software Engineer Intern - Tiktok-Growth-Customer Lifecycle - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297673,7 +297035,7 @@
         "company_name": "TikTok",
         "id": "aea71032-563a-4c3c-aade-447f8ec52a91",
         "title": "Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297696,7 +297058,7 @@
         "company_name": "TikTok",
         "id": "5f2be0b1-87fb-46f2-82c1-b8bf9b6e0ac1",
         "title": "Software Engineer Intern - Agentic AI Engine - Data Management platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297743,7 +297105,7 @@
         "company_name": "TikTok",
         "id": "0e83c8c5-9327-4ec4-94be-d0454a2f596b",
         "title": "Software Engineer/Mobile Engineer Intern - Monetization Technology - Ads Core Demonstration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297910,7 +297272,7 @@
         "company_name": "TikTok",
         "id": "ce665370-4137-48f9-a8f4-3b85e1f1e6d4",
         "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Creative AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297958,7 +297320,7 @@
         "company_name": "TikTok",
         "id": "8b7487b4-2afb-4936-8fd5-58e6125750f0",
         "title": "Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -308561,7 +307923,7 @@
         "company_name": "TikTok",
         "id": "5de46fee-d75d-49db-b9a1-b75c30056591",
         "title": "Research Scientist Intern - TikTok Recommendation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -309072,7 +308434,7 @@
         "company_name": "TikTok",
         "id": "c2354808-a208-464b-bbb1-77dafd02c4d7",
         "title": "Software Engineer Intern - Recommendation Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -309213,7 +308575,7 @@
         "company_name": "TikTok",
         "id": "c0de8fc2-6482-4a33-b95c-9054e2e850e0",
         "title": "General Hire \u2013 Machine Learning Engineer Intern - 2026 Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -309237,7 +308599,7 @@
         "company_name": "TikTok",
         "id": "1bed96de-fbbd-4905-a7a2-51f2fded39c2",
         "title": "Software Engineer Intern - Monetization Technology - Ads Creative AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -311127,7 +310489,7 @@
         "company_name": "TikTok",
         "id": "92263bac-e025-48b2-8b7d-2ccabb3a2499",
         "title": "General Hire \u2013 Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -317698,7 +317060,7 @@
         "company_name": "TikTok",
         "id": "55c29391-7472-4e4d-a26f-2f38c7efc55e",
         "title": "Research Scientist Intern - E-commerce Recommendation - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317721,7 +317083,7 @@
         "company_name": "TikTok",
         "id": "74c89fde-4677-4b10-b706-43f45065e8e4",
         "title": "Research Scientist Intern - E-commerce Recommendation - LLM Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320886,7 +320248,7 @@
         "company_name": "TikTok",
         "id": "8e3d641a-8bc6-43f8-9fc3-16e49711a6d9",
         "title": "Software Engineer Project Intern - Recommendation Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324708,7 +324070,7 @@
         "company_name": "TikTok",
         "id": "80da4b08-dbef-443a-8cb9-63547e51becf",
         "title": "Data Analyst Project Intern - TikTok Shop - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326582,7 +325944,7 @@
         "company_name": "TikTok",
         "id": "85c7ef68-e176-469b-920b-6d6e0dfda0e3",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329102,7 +328464,7 @@
         "company_name": "TikTok",
         "id": "d34bbe21-e271-4e81-821a-4ea44e09c1b0",
         "title": "LLM Post-training Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329483,7 +328845,7 @@
         "company_name": "TikTok",
         "id": "ae87d528-23ff-4841-8c2c-6834b05e0f5c",
         "title": "AI/ML Software Engineer Intern - Data Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332212,7 +331574,7 @@
         "company_name": "TikTok",
         "id": "810e50c9-00ba-458d-bdb0-89ae72adc9f9",
         "title": "Research Scientist Intern - Nextgen LLM",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345024,7 +344386,7 @@
         "company_name": "Smiths Detection Group",
         "id": "0a319815-2604-4c98-94da-26b6a462a885",
         "title": "Depot Service Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -345171,7 +344533,7 @@
         "company_name": "TikTok",
         "id": "9259b927-fb9f-421c-95d0-f346a63020a3",
         "title": "Software Engineer Intern - Quality and Efficiency Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351991,7 +351353,7 @@
         "company_name": "TikTok",
         "id": "9b9c12fc-7c60-467e-aad5-fbd83ce6474c",
         "title": "Data Science Operations Intern - Business Integrity Data Cycling Center",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365300,7 +364662,7 @@
         "company_name": "Boston Consulting Group",
         "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
         "title": "Working Student - BCG Vantage - Insurance",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -367164,7 +366526,7 @@
         "company_name": "Smiths Detection Group",
         "id": "244c4d01-6a38-4298-9fef-4a12ee37a4ea",
         "title": "Technical Service Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -368297,7 +367659,7 @@
         "company_name": "Magna",
         "id": "14d33eac-9588-4ef2-aad6-4f65465e5bc0",
         "title": "Product Engineering Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -377420,7 +376782,7 @@
         "company_name": "Eurofins",
         "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378130,7 +377492,7 @@
         "company_name": "General Motors",
         "id": "82755bc6-9e28-4b40-a157-d3d1d46a92ae",
         "title": "Engineering Operations Co-op - Equipment and Maintenance Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -378271,7 +377633,7 @@
         "company_name": "Eurofins",
         "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -379323,7 +378685,7 @@
         "company_name": "SHEIN",
         "id": "0fa42606-0472-428a-9a17-52df8ce4773f",
         "title": "Data Analysis Intern - Capacity Planning - Sales & Operations Planning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379657,7 +379019,7 @@
         "company_name": "Walleye Capital",
         "id": "28053adc-4960-4b2a-8386-71e1aba8148e",
         "title": "Quantitative Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -380531,7 +379893,7 @@
         "company_name": "Nokia",
         "id": "26de79ae-c547-4971-9157-77140eb4555b",
         "title": "IP Routing App Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -383049,7 +382411,7 @@
         "company_name": "MedElite",
         "id": "51831bd6-ee7c-478a-b8f3-6aad9eeb91fe",
         "title": "Healthcare Data Automation & QA Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383270,7 +382632,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "mthree",
-        "id": "0f16bd26-68b4-45a1-9c02-8a689c8be9f6",
+        "id": "6ce4c517-ed15-4308-b1b3-db9ed7be5a53",
         "title": "Technology Talent Programme",
         "active": true,
         "terms": [
@@ -383293,7 +382655,7 @@
         "company_name": "TikTok",
         "id": "626d8caf-c4b0-4755-97f5-f4d61bc6bee9",
         "title": "Research Engineer Intern - Ads ML Infra - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383376,6 +382738,52 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fife Council",
+        "id": "ff4c8623-9696-4e1a-a6a4-baca02c334d6",
+        "title": "Systems Developer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781487336,
+        "date_posted": 1781485457,
+        "url": "https://ekmu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6009/job/23431",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fife-Council",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "f4f6aea6-b621-4eb8-81a1-1ecc91bb291f",
+        "title": "Hiring Our Heroes Fellowship - AI & Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781487347,
+        "date_posted": 1781485752,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Hiring-our-Heroes-Fellowship-12-week-program-AI-Engineering/356045",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
