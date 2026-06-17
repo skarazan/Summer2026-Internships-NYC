@@ -1,100 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Expedia Group",
-        "id": "82ba9416-89a0-4e17-ae26-45e798794705",
-        "title": "Product Management Intern - June 2026 - London",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760990869,
-        "date_posted": 1760990869,
-        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Product-Management-Intern---June-2026---London_R-98599-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wayve",
-        "id": "087e7158-ac2c-476e-9220-8ae96817d0d4",
-        "title": "Research Scientist Intern - Embodied Foundation Models - Evaluation",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760991986,
-        "date_posted": 1760991986,
-        "url": "https://job-boards.greenhouse.io/wayve/jobs/8217794002",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wayve",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Berkshire Hathaway Energy",
-        "id": "89779d7d-0d3d-4ca6-90ef-73694e826847",
-        "title": "2026 Database Engineer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760994746,
-        "date_posted": 1760994746,
-        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003763",
-        "locations": [
-            "Imperial, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "OpenTable",
-        "id": "0a9d1ba9-1815-4354-a7a1-f911393f5933",
-        "title": "Product Management Internship - Hybrid - Toronto",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760994493,
-        "date_posted": 1760994493,
-        "url": "https://job-boards.greenhouse.io/opentable/jobs/8216626002",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/OpenTable",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Nutanix",
         "id": "2323eeca-a956-4ed2-84c0-96acbe8f8fb4",
@@ -4285,29 +4191,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "OpenTable",
-        "id": "b763796c-1af1-4055-bea7-e183377b232b",
-        "title": "Data Engineer Internship - Hybrid - Toronto",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761088799,
-        "date_posted": 1760994479,
-        "url": "https://job-boards.greenhouse.io/opentable/jobs/8216632002",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/OpenTable",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -202935,7 +202818,7 @@
         "company_name": "Toyota Research Institute",
         "id": "664f3aa8-c2e2-4107-a001-0f1d08facf04",
         "title": "Human-Centered AI Intern - CAD Design Reasoning Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -233813,7 +233696,7 @@
         "company_name": "Marmon Holdings",
         "id": "f35b4577-1447-4b14-bf5f-2e9009d26676",
         "title": "Sofware Developer Intern OR Student Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -372035,7 +371918,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "ce4b6902-a72d-4c86-9be1-101d9e3cc6a0",
         "title": "Management Associate Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -372676,7 +372559,7 @@
         "company_name": "Lendbuzz",
         "id": "6f81befe-e45f-4915-834d-7a3b6b6bc7d3",
         "title": "Machine Learning Engineer Co-op - Data Labeller",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382523,7 +382406,7 @@
         "company_name": "Norfolk Southern",
         "id": "85764862-cc2c-4331-ba14-3c1dc81cc061",
         "title": "Communications Electronic Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
