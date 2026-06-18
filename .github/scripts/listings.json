@@ -200967,7 +200967,7 @@
         "company_name": "Tencent",
         "id": "817874bc-4775-4ea6-ad0f-216a0bc763fd",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -351863,7 +351863,7 @@
         "company_name": "University of Arkansas",
         "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
         "title": "Student Research Assistant-2",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -357641,7 +357641,7 @@
         "company_name": "Magna",
         "id": "2fc71606-c196-4014-8052-7b0ff80ee0df",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359804,7 +359804,7 @@
         "company_name": "Kinaxis",
         "id": "937ea815-7e19-4bed-a8eb-a226a5201df1",
         "title": "Software Development Co-op/Intern - C++",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -366803,7 +366803,7 @@
         "company_name": "Hearst",
         "id": "352ed692-8563-4fe9-8f92-26a899fbadd7",
         "title": "Automotive Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366962,7 +366962,7 @@
         "company_name": "American University",
         "id": "523ae494-45d3-4223-b476-2c169758a222",
         "title": "Research Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -378676,7 +378676,7 @@
         "company_name": "GE Healthcare",
         "id": "bcfc86cc-ce3d-4d16-bd9c-4f33ff1a78b5",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379492,7 +379492,7 @@
         "company_name": "Synchrony Financial",
         "id": "926aad82-a906-40e6-ad7f-97a1fca95370",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -383191,7 +383191,7 @@
         "company_name": "University of Texas at Austin",
         "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
         "title": "Course Support - Rhetoric",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383400,7 +383400,7 @@
         "company_name": "Alexion",
         "id": "daf91a84-838c-41d0-b20f-dfccb59e051b",
         "title": "Data & AI Solutions Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383694,6 +383694,30 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "5af965bc-41b4-402b-82cc-573ef7108674",
+        "title": "Power Integrity Intern - Power Integrity - Electrical Analysis",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781773467,
+        "date_posted": 1781361097,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Package-Power-Integrity-Intern_JR0284242",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
             "PhD"
         ]
     }
