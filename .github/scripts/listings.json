@@ -234981,7 +234981,7 @@
         "company_name": "Roku",
         "id": "9f9d36f9-8cbb-4a33-aea5-5b5e56d88c1f",
         "title": "Software Engineer - Mobile",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305165,7 +305165,7 @@
         "company_name": "Magna",
         "id": "113f5b27-2163-45e7-8895-44c1b2f2e666",
         "title": "Intern Failure Analysis & Validation Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366400,7 +366400,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "dcd094ab-20fa-4799-aa84-529922b384f1",
         "title": "Insights Programme",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -366603,7 +366603,7 @@
         "company_name": "Peraton",
         "id": "28d4f079-b300-4c66-b5e9-20bbcc37f310",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380545,7 +380545,7 @@
         "company_name": "mthree",
         "id": "0f16bd26-68b4-45a1-9c02-8a689c8be9f6",
         "title": "Technology Talent Programme",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -381542,7 +381542,7 @@
         "company_name": "Pennsylvania State University",
         "id": "a03f7397-ee60-4bf7-8ec4-30e10e846fb7",
         "title": "GIS Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382215,7 +382215,7 @@
         "company_name": "Ticketmaster",
         "id": "110d438d-c5c6-4c10-9e21-5b2f5e015e1b",
         "title": "Cassandra Team Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -383123,7 +383123,7 @@
         "company_name": "Zoox",
         "id": "63b2b431-dd8a-4ed5-8d8d-ae9abcc4878a",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383492,7 +383492,7 @@
         "company_name": "Crowdstrike",
         "id": "a60cd6f0-29f5-42f2-ad90-2703ff5ef2e6",
         "title": "GTM Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383719,6 +383719,236 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Crosby",
+        "id": "21835217-495f-4d86-8ebe-ccf2d06dea0f",
+        "title": "Crosby Intelligence Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781771547,
+        "date_posted": 1781647864,
+        "url": "https://jobs.ashbyhq.com/crosby/340021ba-9be9-47dd-a609-0bc17b9ebd26/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Crosby",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cummins",
+        "id": "46f6f069-21ab-4c7b-871b-f43b2f13caf4",
+        "title": "Product Engineering Specialist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781792435,
+        "date_posted": 1781791615,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431193",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "e7ca86c9-9b55-4d3a-a409-f781291f435d",
+        "title": "Cloud Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781792319,
+        "date_posted": 1781791573,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "bf8a5772-d7a7-4239-8119-4ed3cfb9f480",
+        "title": "Cloud Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781792011,
+        "date_posted": 1781791529,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "0ff77783-d714-47c9-a3f7-581ebdbf568b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781791921,
+        "date_posted": 1781791486,
+        "url": "https://careers-gdms.icims.com/jobs/73191/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NielsenIQ",
+        "id": "723f35b0-5afc-4c67-ba33-91b7d1fb06e2",
+        "title": "Insights Analyst - FMCG Customer Success - Retailer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781791561,
+        "date_posted": 1781791522,
+        "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000132873259",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/NielsenIQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Magna",
+        "id": "47c8f8b7-82f7-465e-b6ca-9d1565be305c",
+        "title": "Software Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781792687,
+        "date_posted": 1781791885,
+        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00244013",
+        "locations": [
+            "Newmarket, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Magna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "f988ed7a-4db7-4967-8ace-f828dfaa952f",
+        "title": "Digital Logic + Design Verification Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781792007,
+        "date_posted": 1781791533,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Digital-Logic---Design-Verification-Graduate-Co-Op-Program--US---Fall-2026-_2602858",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "c92c8ffc-48cf-49b7-8c51-6654a293801f",
+        "title": "Digital Logic + Design Verification Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781792036,
+        "date_posted": 1781791548,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-Logic---Design-Verification-Graduate-Co-Op-Program--US---Fall-2026-_2602858-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ralliant",
+        "id": "f8fcecf4-292f-4454-96c1-543908950dfe",
+        "title": "Software Engineer Intern - Mecop",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781791841,
+        "date_posted": 1781791427,
+        "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8465",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Ralliant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
