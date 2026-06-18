@@ -177406,7 +177406,7 @@
         "company_name": "University of Texas - Austin",
         "id": "6e5cee30-3f8a-404e-961c-556ec227c185",
         "title": "Resa 1 - Texus",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -311196,7 +311196,7 @@
         "company_name": "Pennsylvania State University",
         "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
         "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -319024,7 +319024,7 @@
         "company_name": "X Development",
         "id": "b92a1efb-f8d9-4f78-a277-2655bbd07142",
         "title": "PhD Residency Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -347792,7 +347792,7 @@
         "company_name": "NVIDIA",
         "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
         "title": "PhD Research Intern - Security and Privacy",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -362661,7 +362661,7 @@
         "company_name": "FHLBank Topeka",
         "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
         "title": "Financial Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -364866,7 +364866,7 @@
         "company_name": "Magna",
         "id": "f2bff587-1432-4e84-9d58-604de0b930c0",
         "title": "Tools Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -367806,7 +367806,7 @@
         "company_name": "Imerys",
         "id": "c81a74af-1f5b-4165-8236-aafa01145255",
         "title": "Quality Engineer Intern - ERP Data Migration - Quality Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -370668,7 +370668,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383446,7 +383446,7 @@
         "company_name": "KnowBe4",
         "id": "3d72a886-7097-4f5d-9e80-064e944af0f7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
