@@ -1,287 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Schweitzer Engineering Laboratories",
-        "id": "686e8961-1647-4d30-95e0-0e918028970d",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1761027667,
-        "date_posted": 1761027667,
-        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Software-Engineer-Intern_2025-18114",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/SEL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ace Hardware",
-        "id": "27b2d08f-0dfb-43e6-865e-bab21b5e2bfd",
-        "title": "Marketing Analytics Internship - Summer 2026 - Full Time/Paid/12 Weeks",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761027367,
-        "date_posted": 1761027367,
-        "url": "https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/Marketing-Analytics-Internship---Summer-2026--Full-Time-Paid-12-Weeks_REQ-29569",
-        "locations": [
-            "Western Springs, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Ace-Hardware",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "OpenTable",
-        "id": "fc4970f4-a616-4dbe-b006-e599e6dbe7c0",
-        "title": "Software Engineer Internship - Hybrid - Toronto",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761027108,
-        "date_posted": 1761027108,
-        "url": "https://job-boards.greenhouse.io/opentable/jobs/8216629002",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/OpenTable",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uber",
-        "id": "d05b305e-0bff-4522-8e50-3679fce0f5a0",
-        "title": "2026 PhD Software Engineer Intern - AI Platform - United States",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1761029944,
-        "date_posted": 1761029944,
-        "url": "https://www.uber.com/global/en/careers/list/149972/",
-        "locations": [
-            "Seattle, WA",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Keysight Technologies",
-        "id": "aa960afb-f0aa-4a7c-97b9-33daa9ae0b72",
-        "title": "R&D Software Internship - ",
-        "active": false,
-        "terms": [
-            "Fall 2024"
-        ],
-        "date_updated": 1761029690,
-        "date_posted": 1761029690,
-        "url": "https://jobs.keysight.com/jobs/49949?lang=en-us&icims=1",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Qualcomm",
-        "id": "8eddc8e8-3e13-42bf-9a8c-f2a096fda462",
-        "title": "FY26 Intern \u2013 Machine Learning AISW Internship - Canada - 4 Months - Interim Engineering Intern - SW - 33070 AI SW CAN",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761028452,
-        "date_posted": 1761028452,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446715167466",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Allegion",
-        "id": "6d3ec68c-0777-4a73-adb7-99b99878392f",
-        "title": "IT Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761028486,
-        "date_posted": 1761028486,
-        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/IT-Software-Engineering-Intern_JR33513",
-        "locations": [
-            "Carmel, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Allegion",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Zus Health",
-        "id": "561c268b-8911-43e6-82b1-1a5d5834c928",
-        "title": "AI/ML Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1761205781,
-        "date_posted": 1761028426,
-        "url": "https://jobs.lever.co/zushealth/5455bc64-a115-4e9e-a062-233ccb39f5d6/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zus-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Qualcomm",
-        "id": "52f998d9-11af-4abe-8f95-08190f4852e2",
-        "title": "FY26 Intern \u2013 GPU Compiler Development Internship - Canada - 4 Months - Interim Engineering Intern - SW - 12338 QCT Graphics Compiler HLC Canada ONT",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761028462,
-        "date_posted": 1761028462,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446715134609",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "a1646ca7-9f23-4a5a-8488-7b91e5e674aa",
-        "title": "Research Intern - Machine Learning and Statistics",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1761031807,
-        "date_posted": 1761031807,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1900003",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Silicon Laboratories",
-        "id": "70dbfb95-9707-46cf-9763-1b243140f5ad",
-        "title": "Design Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1761033430,
-        "date_posted": 1761033430,
-        "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Design-Engineering-Intern_20528-2",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Silicon-Laboratories",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Autodesk",
-        "id": "d2c6645e-8589-4b00-877c-8f82b5494a08",
-        "title": "Intern \u2013 Software Developer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761032112,
-        "date_posted": 1761032112,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Software-Developer_25WD92521-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Experian",
         "id": "fb9ec36c-e922-4fe4-8834-c87e2fa6eeb2",
@@ -359506,7 +359225,7 @@
         "company_name": "Persistent Systems",
         "id": "0d7b8d67-b0c6-42e4-8757-72009f66499e",
         "title": "Embedded Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -361178,7 +360897,7 @@
         "company_name": "Oura",
         "id": "4eaa2f3d-4d51-4d63-8ef2-f6b911712093",
         "title": "Hardware Research & Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380826,7 +380545,7 @@
         "company_name": "mthree",
         "id": "0f16bd26-68b4-45a1-9c02-8a689c8be9f6",
         "title": "Technology Talent Programme",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -380870,7 +380589,7 @@
         "company_name": "GE Healthcare",
         "id": "db7025e6-0b71-4584-8edc-5954c1738a8f",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383953,6 +383672,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota Research Institute",
+        "id": "273f2fca-4713-4c20-bec3-d66035a63bee",
+        "title": "Energy & Materials Intern - XRD Advanced Analysis",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781762996,
+        "date_posted": 1781762690,
+        "url": "https://jobs.lever.co/tri/15969a29-b217-482f-8c67-67d091b054c8/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
