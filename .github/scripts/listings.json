@@ -1,217 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Rolls Royce",
-        "id": "24f7d0cc-e85f-4fb1-92db-688ef8543d9d",
-        "title": "Intern \u2013 Product Management Innovations and Tech Partnerships - Fall/Winter 2025",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1761168266,
-        "date_posted": 1761168266,
-        "url": "https://jobs.bmwgroup.com/job/Mountain-View-Intern,-Product-Management-Innovations-and-Tech-Partnerships-FallWinter-2025-Cali/1201875901/?ats=successfactors",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wing",
-        "id": "6c1b9ac2-2f98-43bf-ad01-361b580c495e",
-        "title": "Backend Software Engineer Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761167896,
-        "date_posted": 1761167896,
-        "url": "https://wing.com/careers/8203613002?gh_jid=8203613002",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Momentive",
-        "id": "76997916-346c-4046-b29d-e33b5391e533",
-        "title": "Summer 2026 Enterprise Reporting & Analytics \u2013 Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761167428,
-        "date_posted": 1761167428,
-        "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2026-Enterprise-Reporting---Analytics---Data-Science-Intern_R8886",
-        "locations": [
-            "Schenectady, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Momentive-Performance-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Autodesk",
-        "id": "dcd07111-4957-482b-b87a-700ca279cbe6",
-        "title": "Intern \u2013 Software Developer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761169647,
-        "date_posted": 1761169647,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Toronto-ON-CAN/Intern--Software-Developer_25WD92343",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Altera Corporation",
-        "id": "b94ed92d-5a52-4e4a-8a86-50d6511624ba",
-        "title": "FPGA Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761169547,
-        "date_posted": 1761169547,
-        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Software-Engineer-Intern_R01427",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Altera-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Autodesk",
-        "id": "7bb21243-7c1d-4a30-9258-4ba4fd33cf65",
-        "title": "Intern \u2013 AI Research",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761169646,
-        "date_posted": 1761169646,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/London-GBR/Intern--AI-Research_25WD92190-3",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "250fb5a6-8f41-4781-bcbb-d0ed63af2020",
-        "title": "Intern \u2013 Firmware Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761169594,
-        "date_posted": 1761169594,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/124453",
-        "locations": [
-            "Leicester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Merck",
-        "id": "cedaedba-35a1-4301-9c54-26f170556a38",
-        "title": "2026 Future Talent Program \u2013 Quality Control Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761169174,
-        "date_posted": 1761169174,
-        "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Kansas---De-Soto/XMLNAME-2026-Future-Talent-Program---Quality-Control-Co-op_R366931",
-        "locations": [
-            "Olathe, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Merck",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Apple",
-        "id": "f39b35df-2c67-46fd-91f7-e287514f7f6e",
-        "title": "Machine Learning Research Intern - Camera Software",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761168734,
-        "date_posted": 1761168734,
-        "url": "https://jobs.apple.com/en-us/details/200623630",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Apple",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "AbbVie",
         "id": "6aa4d904-6855-4fdc-bee9-2b70a6b8acad",
@@ -47879,27 +47668,6 @@
             "Menlo Park, CA"
         ],
         "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "49f97851-d09e-4e8d-b984-3a0b81ca1d5d",
-        "title": "Intern Bachelors Field Svc Eng",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763118963,
-        "date_posted": 1761169582,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/119239",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -370946,7 +370714,7 @@
         "company_name": "Tesla",
         "id": "9df9d65e-4ffa-4eaf-9048-014c94fb022a",
         "title": "Data Engineer Intern - Fleet Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -371739,7 +371507,7 @@
         "company_name": "Tesla",
         "id": "0f51d581-ff82-467b-8c02-91a7a115164d",
         "title": "Data Engineer Intern - Data Engineer - Fleet Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372286,7 +372054,7 @@
         "company_name": "Tesla",
         "id": "72d9ecb4-34ef-4629-ae71-2c2e019e5ad7",
         "title": "Product Support Engineer Intern - Product Support Engineer - Service Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382452,7 +382220,7 @@
         "company_name": "Nationwide Children's Hospital",
         "id": "1339fd26-bd0c-4a1f-aa8a-daef22f616a7",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
