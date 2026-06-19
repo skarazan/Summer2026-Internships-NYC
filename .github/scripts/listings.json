@@ -1,34 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Marvell",
-        "id": "8dfa4ef7-a17f-408b-80df-a1f8f7634aeb",
-        "title": "Hardware Validation Intern - Master's Degree",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027"
-        ],
-        "date_updated": 1761141062,
-        "date_posted": 1761141062,
-        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Hardware-Validation-Intern---Master-s-Degree_2502389",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Crowdstrike",
         "id": "17a1355c-93cd-48fe-8abf-8abd0013c20f",
@@ -175190,7 +175162,7 @@
         "company_name": "Tencent",
         "id": "c42f018d-7413-47dd-900e-58cb7e97b198",
         "title": "Multimedia Codec Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -199376,7 +199348,7 @@
         "company_name": "Tencent",
         "id": "817874bc-4775-4ea6-ad0f-216a0bc763fd",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -211690,7 +211662,7 @@
         "company_name": "Infojini",
         "id": "ba7781d0-c294-42f8-8255-596388700098",
         "title": "GIS Intern Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355878,7 +355850,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "bef0518e-60a1-4b80-819c-3cbee5b29236",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -361070,7 +361042,7 @@
         "company_name": "FHLBank Topeka",
         "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
         "title": "Financial Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369077,7 +369049,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -370284,7 +370256,7 @@
         "company_name": "CHEP",
         "id": "513d3867-26bc-4203-8cd2-ade981572975",
         "title": "FP&A Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -373125,7 +373097,7 @@
         "company_name": "Microsoft",
         "id": "c67a3efa-2ec3-488c-89f4-2514b853209d",
         "title": "Data Center Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374135,7 +374107,7 @@
         "company_name": "Picarro",
         "id": "78f19624-1c44-4977-b62e-7f62d90abe71",
         "title": "Product Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -375272,7 +375244,7 @@
         "company_name": "EOS IT Solutions",
         "id": "855cf417-5df9-460c-b32b-283c5e2350b6",
         "title": "Graduate Data Centre Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375339,7 +375311,7 @@
         "company_name": "Walleye Capital",
         "id": "28053adc-4960-4b2a-8386-71e1aba8148e",
         "title": "Quantitative Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -375786,7 +375758,7 @@
         "company_name": "Egis Group",
         "id": "7f61605a-79d8-44be-80d6-4e3664d220e7",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378954,7 +378926,7 @@
         "company_name": "mthree",
         "id": "0f16bd26-68b4-45a1-9c02-8a689c8be9f6",
         "title": "Technology Talent Programme",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -381832,7 +381804,7 @@
         "company_name": "Paccar",
         "id": "51f43fa0-cf21-4737-8c20-18080a26021f",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -382112,7 +382084,7 @@
         "company_name": "Intel",
         "id": "5af965bc-41b4-402b-82cc-573ef7108674",
         "title": "Power Integrity Intern - Power Integrity - Electrical Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382814,6 +382786,29 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EOS IT Solutions",
+        "id": "9feea1a6-4256-4c37-a7c3-88143f2bff96",
+        "title": "Data Centre Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781862116,
+        "date_posted": 1781639523,
+        "url": "https://eosits.com/company/careers/?gh_jid=8594075002",
+        "locations": [
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
