@@ -211662,7 +211662,7 @@
         "company_name": "Infojini",
         "id": "ba7781d0-c294-42f8-8255-596388700098",
         "title": "GIS Intern Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -370651,7 +370651,7 @@
         "company_name": "Rippling",
         "id": "0d8819e9-06a6-4bf6-9c18-a00012e17263",
         "title": "Full Stack Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -378926,7 +378926,7 @@
         "company_name": "mthree",
         "id": "0f16bd26-68b4-45a1-9c02-8a689c8be9f6",
         "title": "Technology Talent Programme",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -382471,7 +382471,7 @@
         "company_name": "Nelnet",
         "id": "8edbe308-126f-4a6e-aaca-2f7af80c811e",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382810,5 +382810,68 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Atria Group",
+        "id": "be3aad22-1999-4d92-b4d3-5da3726bd721",
+        "title": "Step Developer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781878076,
+        "date_posted": 1781877914,
+        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/87286153",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Atria-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Baker Hughes",
+        "id": "fb992b23-820c-466a-a892-242e64f92f4a",
+        "title": "Mechanical Production Engineering Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781878701,
+        "date_posted": 1781878117,
+        "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-SO-NAILSEA-2-HIGH-STREET/Emerging-Talent---Mechanical-Production-Engineering-Apprentice-2026--Nailsea-_R165830",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Baker-Hughes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Baker Hughes",
+        "id": "81eeb1c2-13ff-4cd9-a612-91cfcaa4cfed",
+        "title": "Software Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1781878701,
+        "date_posted": 1781878114,
+        "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-SO-NAILSEA-2-HIGH-STREET/Emerging-Talent---Software-Engineer-Apprentice-2026--Nailsea-_R165829",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Baker-Hughes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
