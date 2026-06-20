@@ -1,28 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wieland",
-        "id": "5b61a4d3-8a6c-41d4-baa1-3836b73cd197",
-        "title": "Quality Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1761256486,
-        "date_posted": 1761256486,
-        "url": "https://careers-chasebrass.icims.com/jobs/3536/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Fort Wayne, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Wieland",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1762474513,
         "sponsorship": "Other",
         "active": true,
@@ -229596,7 +229573,7 @@
         "company_name": "Skydio",
         "id": "08faee79-d13d-4d01-b12e-b7e999c54cf0",
         "title": "Autonomy Engineer Intern Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379224,7 +379201,7 @@
         "company_name": "Lucid Motors",
         "id": "29026e84-0245-49b5-b847-ce8c5de528ee",
         "title": "Full Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
