@@ -1,538 +1,5 @@
 [
     {
-        "date_updated": 1762474513,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7342038",
-        "company_name": "Skyryse",
-        "title": "Systems Engineering Intern",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Hardware Engineering",
-        "source": "angie-hue",
-        "id": "1ef1d4d4-cddc-4a86-a360-e6c733b646ee",
-        "date_posted": 1761288610,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1762416590,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7342074",
-        "company_name": "Skyryse",
-        "title": "Systems Test Engineering Intern",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Hardware Engineering",
-        "source": "angie-hue",
-        "id": "9ed57e2d-0d4a-464e-8a3c-78f7c93ee4ef",
-        "date_posted": 1761288683,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762416434,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7345049",
-        "company_name": "Skyryse",
-        "title": "Vehicle Design Intern",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Hardware Engineering",
-        "source": "angie-hue",
-        "id": "36625c27-dd4a-497d-a37a-cc2d9d68b235",
-        "date_posted": 1761288731,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763624635,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://keystone.wd5.myworkdayjobs.com/en-US/keystone/job/Indianapolis-IN/Intern---Data-Analyst_JR102330",
-        "company_name": "Keystone Cooperative",
-        "title": "Intern - Data Analyst",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "0db7bb62-5ed6-4cd9-b563-a8d6bbb86017",
-        "date_posted": 1761288953,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761289059,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4621147005",
-        "company_name": "BillionToOne",
-        "title": "Oncology AI Associate Intern",
-        "locations": [
-            "Menlo Park, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Simplify",
-        "id": "3fbed821-25e9-4322-a653-6116078d4741",
-        "date_posted": 1761289059,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761764124,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/Cloud-Engineering-Intern_J2429234",
-        "company_name": "Jabil",
-        "title": "Cloud Engineering Intern",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "166aa6b0-96de-4699-a205-b7b2588a6d11",
-        "date_posted": 1761289824,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1762531079,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R6439",
-        "company_name": "CAI",
-        "title": "Software Developer Intern",
-        "locations": [
-            "Remote in USA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "f7aa026f-b148-4b3d-987f-4105f6f75aa4",
-        "date_posted": 1761289887,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761289954,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://jobs.lever.co/rivosinc/936eb386-ae9e-478e-8d1b-681c7360c111/apply",
-        "company_name": "Rivos",
-        "title": "Platform Security Software Intern",
-        "locations": [
-            "Santa Clara, CA",
-            "Portland, OR"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Hardware Engineering",
-        "source": "Simplify",
-        "id": "b3cadd01-1cca-4a6b-96bc-787b07169d4b",
-        "date_posted": 1761289954,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762434840,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers-peraton.icims.com/jobs/160776/software-engineering-intern-%E2%80%93-simi-valley%2c-ca/job",
-        "company_name": "Peraton",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "Simi Valley, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "15e12872-cdba-4616-863b-1cf436aa1a1b",
-        "date_posted": 1761290016,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761290088,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.nuro.ai/careersitem?gh_jid=7351061",
-        "company_name": "Nuro",
-        "title": "Software Engineer, AI Platform - Intern",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "242bc7fa-31c3-45b7-959c-5b55fe14cd07",
-        "date_posted": 1761290088,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761324806,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/San-Diego-California/Intern--EngOps-Software-Tools--June---August-2026--Onsite-_REQ-2025-13506",
-        "company_name": "Insulet Corporation",
-        "title": "Intern, EngOps Software Tools",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "1735ecbd-415d-4993-8c69-5b8e13f7a510",
-        "date_posted": 1761290134,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1763029174,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/USA-Indiana-Technical-Center/Embedded-Software-Intern_J000685573",
-        "company_name": "Aptiv",
-        "title": "Embedded Software Intern",
-        "locations": [
-            "Indiana Technical Center, USA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Hardware Engineering",
-        "source": "angie-hue",
-        "id": "7085c9d8-6175-47ba-9484-2ed9f5cfb078",
-        "date_posted": 1761290182,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761350268,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://obsidian.applytojob.com/apply/ze81ARcmta/AI-Engineer-2026-Summer-Internship",
-        "company_name": "Obsidian Entertainment",
-        "title": "AI Engineer",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Simplify",
-        "id": "dc476245-57e9-4eaf-bbcb-2b48a9479d60",
-        "date_posted": 1761290220,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763457815,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Cambridge-MA/Co-op--AI-Engineer_REQ21813",
-        "company_name": "Biogen",
-        "title": "Co-op, AI Engineer",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "terms": [
-            "Spring 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "124ff4c1-4ad5-49b5-af34-e6d0f4821c55",
-        "date_posted": 1761290259,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763457815,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://cohesity.wd5.myworkdayjobs.com/en-US/cohesity_careers/job/Santa-Clara-CA---USA-Office/Data-Scientist-Intern--Summer-2026_R01581",
-        "company_name": "Cohesity",
-        "title": "Data Scientist Intern",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "9090f266-ca54-454e-878b-7d43e64b7f2e",
-        "date_posted": 1761290308,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761290325,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://americas-cookmedical.icims.com/jobs/17536/intern%2c-artificial-intelligence-%26-innovation/job",
-        "company_name": "Cook Group",
-        "title": "Intern, Artificial Intelligence & Innovation",
-        "locations": [
-            "Bloomington, IN"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "8372f24a-5432-43ee-8704-53aad967dbc5",
-        "date_posted": 1761290325,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761290361,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://americas-cookmedical.icims.com/jobs/17500/information-technology-intern%2c-artificial-intelligence/job",
-        "company_name": "Cook Group",
-        "title": "Information Technology Intern, Artificial Intelligence",
-        "locations": [
-            "Bloomington, IN"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "460596bf-652a-4156-914a-38e4b8faea10",
-        "date_posted": 1761290361,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762295267,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Intern---Junior-Back-end-Software-Developer_2531711",
-        "company_name": "LabCorp",
-        "title": "Intern - Junior Back-end Software Developer",
-        "locations": [
-            "Durham, NC"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "6566fe41-ca6f-455a-aa88-9bbf23a5fc52",
-        "date_posted": 1761290403,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1762474336,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://digikey.wd5.myworkdayjobs.com/en-US/digi-key/job/Thief-River-Falls-MN/Data-Analyst-Intern_R5021",
-        "company_name": "DigiKey",
-        "title": "Data Analyst Intern",
-        "locations": [
-            "Thief River Falls, MN"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "986ffd14-c86e-4837-b965-8962ee17c5fc",
-        "date_posted": 1761290435,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1761290466,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://jobs.lever.co/kitware/c7e16bbe-604a-4669-8f90-4f8a4d50961e/apply",
-        "company_name": "Kitware",
-        "title": "AI Research Internship",
-        "locations": [
-            "Clifton Park, NY",
-            "Arlington, VA",
-            "Carrboro, NC",
-            "Minneapolis, MN"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Simplify",
-        "id": "115839f5-1a23-4653-9837-25dffd4d1bff",
-        "date_posted": 1761290466,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761290498,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://tower-research.com/open-positions/?gh_jid=7238472",
-        "company_name": "Tower Research Capital",
-        "title": "Quantitative Researcher Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Spring 2026"
-        ],
-        "category": "Quantitative Finance",
-        "source": "Simplify",
-        "id": "77c2be71-ac3c-4ad0-91b9-a7634f1e07b1",
-        "date_posted": 1761290498,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762292677,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/New-Brunswick-New-Jersey-United-States-of-America/Data-Science-Co-op_R-039072",
-        "company_name": "Johnson & Johnson",
-        "title": "Data Science Co-op",
-        "locations": [
-            "New Brunswick, NJ"
-        ],
-        "terms": [
-            "Spring 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "e235697c-b922-4470-ae9e-0242a57b0ed7",
-        "date_posted": 1761290531,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1766399119,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Data-Science-Intern_JR-20761",
-        "company_name": "Bloom Energy",
-        "title": "Data Science Intern",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "b32b0118-1a76-4b23-a383-b77a263a7d82",
-        "date_posted": 1761290580,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Seaspan",
@@ -368867,7 +368334,7 @@
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
         "title": "Machine Learning Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -369095,7 +368562,7 @@
         "company_name": "Rippling",
         "id": "0d8819e9-06a6-4bf6-9c18-a00012e17263",
         "title": "Full Stack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -375338,7 +374805,7 @@
         "company_name": "ABB",
         "id": "0336c84e-d09f-4608-a173-6b7bc6173015",
         "title": "Electronics Engineer - Electronics/Embedded Software Assistant Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375501,7 +374968,7 @@
         "company_name": "GE Healthcare",
         "id": "bcfc86cc-ce3d-4d16-bd9c-4f33ff1a78b5",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381625,5 +381092,55 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ConnectPrep",
+        "id": "da1b5b7e-ac67-409e-90d4-3cdb8496619a",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782022407,
+        "date_posted": 1782022231,
+        "url": "https://apply.workable.com/connectprep/j/E4655645B8/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/ConnectPrep",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nuro",
+        "id": "242bc7fa-31c3-45b7-959c-5b55fe14cd07",
+        "title": "Software Engineer Intern - AI Platform",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1781641155,
+        "date_posted": 1761871651,
+        "url": "https://nuro.ai/careersitem?gh_jid=7351061",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nuro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
