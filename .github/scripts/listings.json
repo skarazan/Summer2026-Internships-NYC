@@ -377370,7 +377370,7 @@
         "company_name": "mthree",
         "id": "0f16bd26-68b4-45a1-9c02-8a689c8be9f6",
         "title": "Technology Talent Programme",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -381599,6 +381599,29 @@
             "Norcross, GA"
         ],
         "company_url": "https://simplify.jobs/c/ACI-Worldwide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EPRI",
+        "id": "779365fa-ca41-4107-b351-4398f59a4338",
+        "title": "Energy and Climate Modeling Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1781993791,
+        "date_posted": 1781993228,
+        "url": "https://vhr-epri.wd1.myworkdayjobs.com/epricareers/job/RemoteHome-Based/Energy-and-Climate-Modeling-Student-Employee_REQ-4020",
+        "locations": [
+            "Palo Alto, CA",
+            "Washington, DC",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/EPRI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
