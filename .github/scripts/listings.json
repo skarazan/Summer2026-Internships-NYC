@@ -1,52 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "089d4731-3349-4ced-a3ca-83ac446c0599",
-        "title": "Software Engineer Intern - ",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761434674,
-        "date_posted": 1761434674,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210906",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Electronic Arts",
-        "id": "665f2a0a-42d1-4e5f-b0f4-cf6f9b72d91d",
-        "title": "Data Analyst Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761434604,
-        "date_posted": 1761434604,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Data-Analyst-Product-Management-Intern/211488",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "SEO (Sponsors for Educational Opportunity)",
         "id": "42962963-8bc3-46d0-a85c-4ae0c1ecf9d2",
@@ -21759,27 +21713,6 @@
             "Norfolk, VA"
         ],
         "company_url": "https://simplify.jobs/c/Dominion-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Roc Nation",
-        "id": "798fc3da-3325-46d0-9c0e-956f0d5df638",
-        "title": "Spring 2026 Internship - Roc Nation Sports - Basketball",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1761937506,
-        "date_posted": 1761431513,
-        "url": "https://livenation.wd503.myworkdayjobs.com/RNExternalSite/job/New-York-NY-USA/Spring-2026-Intern---Roc-Nation-Sports--Basketball-_JR-84382",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Roc-Nation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -167494,7 +167427,7 @@
         "company_name": "Vise",
         "id": "00cd722a-6801-4d80-9f34-348b1bd6e1e2",
         "title": "Accelerate Fellowship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -281101,7 +281034,7 @@
         "company_name": "Benchling",
         "id": "c701d3ec-b4d0-4c11-98f4-ba377c211462",
         "title": "Software Engineer - Developer Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -343713,7 +343646,7 @@
         "company_name": "Geotab",
         "id": "5f15e338-9e4f-4242-b54d-601ea20a4339",
         "title": "Software Developer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -380610,6 +380543,75 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Interac",
+        "id": "d85d289c-51f3-4f64-a4f9-fb72a227ccf2",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782166333,
+        "date_posted": 1782166099,
+        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern_REQ-2272",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Interac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Simple Technology Solutions",
+        "id": "32857daf-ccf6-4d4d-97af-f9a7b5b5555e",
+        "title": "AI & Data Engineering Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782167761,
+        "date_posted": 1782166631,
+        "url": "https://job-boards.greenhouse.io/simpletechnologysolutions/jobs/6099047004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Simple-Technology-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Figure",
+        "id": "25f62594-b3b3-4b3c-940b-794ec8403c9d",
+        "title": "Firmware Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782167041,
+        "date_posted": 1782166530,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4691070006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Figure-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
