@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CACI",
-        "id": "beb09636-0435-435d-8e69-99d5e1b02a7d",
-        "title": "Data Analyst Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761400067,
-        "date_posted": 1761400067,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-DC-Washington/Data-Analyst-Intern---Summer-2026_318643",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Electronic Arts",
         "id": "089d4731-3349-4ced-a3ca-83ac446c0599",
@@ -21804,27 +21780,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Roc-Nation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "MongoDB",
-        "id": "7d4d0dd7-b079-4558-b0f1-f80079e5d3df",
-        "title": "2026 \u2013 Security Engineering Intern - Seattle",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761853648,
-        "date_posted": 1761405136,
-        "url": "https://www.mongodb.com/careers/job/?gh_jid=7292747",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/MongoDB",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -190133,7 +190088,7 @@
         "company_name": "Gelber Group",
         "id": "541441e9-da1e-46ec-a94c-eba14d7affc2",
         "title": "Technical Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -211395,7 +211350,7 @@
         "company_name": "Gelber Group",
         "id": "128ba955-1cb8-455f-a2f8-e1c35108cd47",
         "title": "Backoffice Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -228666,7 +228621,7 @@
         "company_name": "ACI Worldwide ",
         "id": "d5553fe9-aa69-425b-abfb-8d67c5186296",
         "title": "Intern Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267946,7 +267901,7 @@
         "company_name": "Varda Space",
         "id": "524a758b-b1a2-4a02-9ff9-dcda097b1187",
         "title": "Automation & Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -275174,7 +275129,7 @@
         "company_name": "Tenstorrent",
         "id": "53a083aa-f7ae-4f4d-8a2d-4a9130721f72",
         "title": "Acceleration Kernel Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325780,7 +325735,7 @@
         "company_name": "Gelber Group",
         "id": "159923fa-e2a9-452d-8473-d84dcca80863",
         "title": "Software Engineering Intern - Backoffice Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345222,7 +345177,7 @@
         "company_name": "Ciena",
         "id": "2c6dec66-e2ef-4dd0-868c-553a6dc8bf9e",
         "title": "Embedded Software Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -347533,7 +347488,7 @@
         "company_name": "University of Arkansas",
         "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
         "title": "Student Research Assistant-2",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -367545,7 +367500,7 @@
         "company_name": "CHEP",
         "id": "513d3867-26bc-4203-8cd2-ade981572975",
         "title": "FP&A Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -370112,7 +370067,7 @@
         "company_name": "Duke University",
         "id": "c1b14eaf-e140-4275-b7b5-dee377f8421d",
         "title": "Administrative Intern - Sanford School of Public Policy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370837,7 +370792,7 @@
         "company_name": "Seaspan",
         "id": "91612fd2-257f-438a-849c-5332f94bbe74",
         "title": "Systems Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -370862,7 +370817,7 @@
         "company_name": "Seaspan",
         "id": "8f9ad047-63a6-4765-9ba5-b67706af80ca",
         "title": "Digital Shipyards Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -373808,7 +373763,7 @@
         "company_name": "Pebl",
         "id": "0d216387-5170-4090-9936-abb1b187cf2b",
         "title": "Product Manager Intern - Alfie - Conversational AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374160,7 +374115,7 @@
         "company_name": "Leidos",
         "id": "946795ed-83f9-4f29-9159-81978281dfa3",
         "title": "Software Developer Intern - Cyber & Analytics Business Area - Security Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376635,7 +376590,7 @@
         "company_name": "By Light Professional IT Services",
         "id": "b67257f3-472b-4d81-a8a1-0c2ef4d6ced0",
         "title": "Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379713,7 +379668,7 @@
         "company_name": "Leidos",
         "id": "588cfac9-5805-441a-aa5f-abe232f61af6",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380542,6 +380497,119 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "STEM Xpert",
+        "id": "08d690e6-7adf-4b03-8777-af061b925183",
+        "title": "Tibco Spotfire",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782137529,
+        "date_posted": 1782137245,
+        "url": "https://jobs.smartrecruiters.com/StemXpert1/77580792",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/STEM-Xpert",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kanshe Infotech",
+        "id": "07a5ff16-9935-4009-9cd2-32e9eb46b712",
+        "title": "Python Fullstack Training",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782137161,
+        "date_posted": 1782137116,
+        "url": "https://jobs.smartrecruiters.com/KansheInfotech/744000066239151",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Kanshe-Infotech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "16adbd1f-0eba-4546-abbb-47028c0abca4",
+        "title": "Video Generation Content Understanding and Feedback Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782137529,
+        "date_posted": 1782137183,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Video-Generation-Content-Understanding-and-Feedback-Research-Intern_R107680",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "cd98e851-308e-45b4-a479-fb0a0772898f",
+        "title": "Video Generation Content Understanding and Feedback Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782137529,
+        "date_posted": 1782137188,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Video-Generation-Content-Understanding-and-Feedback-Research-Intern_R107680-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "082e48cd-d716-48a3-9680-8a4a7fa39d35",
+        "title": "DevOps Java OBIEE Salesforce Training and Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782137242,
+        "date_posted": 1782137099,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104662317",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
