@@ -1,53 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wex",
-        "id": "c8b5ae99-8ee0-4d05-8ad0-5df43d708741",
-        "title": "Intern \u2013 Graduate Students Only - Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761395674,
-        "date_posted": 1761395674,
-        "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Intern---Software-Engineer--Graduate-Students-Only-_R19743",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/788246ec-e89c-499a-bb15-9a02acb178a9",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "7d74b2a5-a588-4594-83bb-fb25249b84f5",
-        "title": "Software Development Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Summer 2025"
-        ],
-        "date_updated": 1761397035,
-        "date_posted": 1761397035,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/Software-Development-Intern---Summer-2026_318816",
-        "locations": [
-            "Ashburn, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CACI",
         "id": "beb09636-0435-435d-8e69-99d5e1b02a7d",
@@ -358290,7 +358243,7 @@
         "company_name": "Boston Consulting Group",
         "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
         "title": "Working Student - BCG Vantage - Insurance",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -360583,7 +360536,7 @@
         "company_name": "Magna",
         "id": "f2bff587-1432-4e84-9d58-604de0b930c0",
         "title": "Tools Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -363523,7 +363476,7 @@
         "company_name": "Imerys",
         "id": "c81a74af-1f5b-4165-8236-aafa01145255",
         "title": "Quality Engineer Intern - ERP Data Migration - Quality Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370433,7 +370386,7 @@
         "company_name": "Microsoft",
         "id": "c67a3efa-2ec3-488c-89f4-2514b853209d",
         "title": "Data Center Technician Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -370953,7 +370906,7 @@
         "company_name": "Seaspan",
         "id": "6fc5e027-6a37-4134-8822-04c768781902",
         "title": "Business Technology Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -370999,7 +370952,7 @@
         "company_name": "Seaspan",
         "id": "1392ad07-cefb-4971-9b22-7ce2863eb007",
         "title": "Configuration and Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -372603,7 +372556,7 @@
         "company_name": "American University",
         "id": "f1f49f23-0c5f-4187-b685-f7a5c2e495a3",
         "title": "Undergraduate Research Assistant - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -374230,7 +374183,7 @@
         "company_name": "ABB",
         "id": "0336c84e-d09f-4608-a173-6b7bc6173015",
         "title": "Electronics Engineer - Electronics/Embedded Software Assistant Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -378355,7 +378308,7 @@
         "company_name": "Magna",
         "id": "efc03c50-2d1e-44d3-be7f-f649e778c10b",
         "title": "Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
