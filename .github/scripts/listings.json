@@ -1,97 +1,5 @@
 [
     {
-        "date_updated": 1763457815,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/Troy-MI---USA/Algorithm-Developer-Intern_J000685569",
-        "company_name": "Aptiv",
-        "title": "Algorithm Developer Intern",
-        "locations": [
-            "Troy, MI"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "d729ce89-e7c8-4723-a7a3-5703218f2daf",
-        "date_posted": 1761358306,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761592903,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2026-Software-Engineering-Undergraduate-Intern_J270832-1",
-        "company_name": "Highmark Health",
-        "title": "Software Engineering Undergraduate Intern",
-        "locations": [
-            "Remote in USA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "328b6b3f-a87e-4114-a82a-195ffba6ebf9",
-        "date_posted": 1761358335,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1761592859,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://faithtechnologies.wd1.myworkdayjobs.com/en-US/fti/job/WI---Menasha/Software-Developer-Intern_R7757-1",
-        "company_name": "Faith Technologies",
-        "title": "Software Developer Intern",
-        "locations": [
-            "Menasha, WI"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "341b1db7-e92c-4e8d-9271-d4b2d682fe55",
-        "date_posted": 1761358373,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1761358405,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Sumer-2026-Software-Engineer-Graduate-Intern_J270859",
-        "company_name": "Highmark Health",
-        "title": "Software Engineer Graduate Intern",
-        "locations": [
-            "Remote in USA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "550b357f-3d1e-4980-86a7-b88d8e5e1846",
-        "date_posted": 1761358405,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Wex",
@@ -338321,7 +338229,7 @@
         "company_name": "Regal Rexnord",
         "id": "50d55538-3ab4-43b4-bca2-ee08a31588bf",
         "title": "Electronics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -376354,7 +376262,7 @@
         "company_name": "mthree",
         "id": "0f16bd26-68b4-45a1-9c02-8a689c8be9f6",
         "title": "Technology Talent Programme",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -380666,7 +380574,7 @@
         "company_name": "Freeform",
         "id": "97a57670-9a1b-476c-a367-f0f7d91aaf74",
         "title": "Process Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
