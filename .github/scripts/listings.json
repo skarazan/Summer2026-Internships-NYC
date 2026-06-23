@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "7-Eleven",
-        "id": "37ae87a8-39c9-4e41-9fb9-fbebba5fad91",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761451860,
-        "date_posted": 1761451860,
-        "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-7Next-Irving/Software-Developer-Intern_R25_0000008848",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/7-Eleven",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Micron Technology",
         "id": "4748013e-4d41-4a49-8780-36d452312902",
@@ -370227,7 +370204,7 @@
         "company_name": "Microsoft",
         "id": "c67a3efa-2ec3-488c-89f4-2514b853209d",
         "title": "Data Center Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378680,7 +378657,7 @@
         "company_name": "1Password",
         "id": "1c5d2214-7ef5-428f-8804-fb1dfbb397d4",
         "title": "Developer Intern - Open Source",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -380684,6 +380661,78 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centerfield",
+        "id": "5116a1a4-a977-4162-a4be-3d2edc2d0f4a",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782177121,
+        "date_posted": 1782176976,
+        "url": "https://jobs.ashbyhq.com/centerfield/916dcf42-d69a-4f00-875a-f8fe630e0f33/application",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Centerfield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "045a974d-d808-45c9-b371-91f10e35e4bd",
+        "title": "Data Analytics Intern - People Analytics",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782178587,
+        "date_posted": 1782177528,
+        "url": "https://www.tesla.com/careers/search/job/274560",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AirCapture",
+        "id": "be01ab40-de24-4098-a05f-5e2fd741d92f",
+        "title": "Applied AI Research & Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782177543,
+        "date_posted": 1782177362,
+        "url": "https://job-boards.greenhouse.io/aircapture/jobs/4687916006",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AirCapture",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
