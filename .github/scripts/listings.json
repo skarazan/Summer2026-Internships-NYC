@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SEO (Sponsors for Educational Opportunity)",
-        "id": "42962963-8bc3-46d0-a85c-4ae0c1ecf9d2",
-        "title": "Data Management Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025"
-        ],
-        "date_updated": 1761436972,
-        "date_posted": 1761436972,
-        "url": "https://job-boards.greenhouse.io/sponsorsforeducationalopportunity/jobs/8226365002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/SEO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "7-Eleven",
         "id": "37ae87a8-39c9-4e41-9fb9-fbebba5fad91",
@@ -1077,29 +1053,6 @@
         "date_posted": 1761605388,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SEO (Sponsors for Educational Opportunity)",
-        "id": "412cad48-9149-4043-9e3c-6ee058d77544",
-        "title": "Research Analyst Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761437053,
-        "date_posted": 1761437053,
-        "url": "https://job-boards.greenhouse.io/sponsorsforeducationalopportunity/jobs/8226331002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/SEO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -267834,7 +267787,7 @@
         "company_name": "Varda Space",
         "id": "524a758b-b1a2-4a02-9ff9-dcda097b1187",
         "title": "Automation & Test Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -279901,7 +279854,7 @@
         "company_name": "TikTok",
         "id": "411b3542-fea3-4d69-9491-dea180fbc135",
         "title": "Machine Learning Engineer Intern - App Ads",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326539,7 +326492,7 @@
         "company_name": "Intel",
         "id": "e18b5659-3658-49dd-a554-9ba2b49123a9",
         "title": "AI Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375255,7 +375208,7 @@
         "company_name": "Together AI",
         "id": "d717ac2f-5554-43f7-85ef-3f7f993fd3f2",
         "title": "Frontier Agents Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -376103,7 +376056,7 @@
         "company_name": "mthree",
         "id": "0f16bd26-68b4-45a1-9c02-8a689c8be9f6",
         "title": "Technology Talent Programme",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -380608,6 +380561,125 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Figure-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Core & Main",
+        "id": "cf783ed0-c7de-4051-813a-018e1ba6e7fc",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782166926,
+        "date_posted": 1782166109,
+        "url": "https://coreandmain.wd1.myworkdayjobs.com/en-US/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Core-And-Main",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vanasse Hangen Brustlin (VHB)",
+        "id": "200213cd-bf09-4f42-94e6-5a1ca8a4c960",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782166333,
+        "date_posted": 1782166042,
+        "url": "https://careers-vhb.icims.com/jobs/6116/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanasse-Hangen-Brustlin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Together AI",
+        "id": "be2e3a34-763e-4546-b44d-affa9c4f634e",
+        "title": "Research reinforcement learning & Post-Training Systems Intern - Turbo",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782166539,
+        "date_posted": 1782165928,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5168929007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Together-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kinaxis",
+        "id": "9a8f5772-8fd1-4ebb-9ef6-1234fc1b849c",
+        "title": "Software Engineer Co-op/Intern - Developer Framework",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782166564,
+        "date_posted": 1782165948,
+        "url": "https://careers-kinaxis.icims.com/jobs/34832/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "b53e8084-3f0d-4925-a01f-c1787a740570",
+        "title": "Sys & Development Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782166333,
+        "date_posted": 1782166098,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005280",
+        "locations": [
+            "Las Vegas, NV",
+            "Des Moines, IA",
+            "Sioux City, IA",
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
