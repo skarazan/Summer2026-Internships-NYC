@@ -18438,70 +18438,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Vertiv",
-        "id": "5eea0514-d023-492c-8e01-c0d2f784ab1c",
-        "title": "Product Management Analyst \u2013 Intern - Product Costing",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761520031,
-        "date_posted": 1761520031,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20258362",
-        "locations": [
-            "Dorking, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Vertiv",
-        "id": "1509c6c8-269b-4e0f-8c3c-9c56d987ca5c",
-        "title": "Product Management MBA Internship - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761520193,
-        "date_posted": 1761520193,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256935",
-        "locations": [
-            "Delaware",
-            "Ohio"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "a0b97d08-2167-437b-ae88-d0add3cd99d1",
-        "title": "DSP & Control Firmware Engineer Student",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1761519810,
-        "date_posted": 1761519810,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23979",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Vertiv",
         "id": "a6e2c084-4189-4405-9af2-3cec18dcafc4",
@@ -27757,28 +27693,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lumafield",
-        "id": "03a8b83f-88e9-4c73-92b7-e172e7d84e90",
-        "title": "Engineering Intern - Process",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762442655,
-        "date_posted": 1761520498,
-        "url": "https://jobs.lever.co/lumafield/f4301925-6a92-458c-961e-f9560f058df8/apply",
-        "locations": [
-            "Cambridge, MA",
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumafield",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Electronic Arts",
         "id": "a2d210d4-51b9-42f7-8334-c30dc527edac",
@@ -30798,27 +30712,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Muon Space",
-        "id": "5a2606de-5571-4df1-9609-653da2cc40a9",
-        "title": "Instrumentation Engineer Intern - ",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761951630,
-        "date_posted": 1761519768,
-        "url": "https://job-boards.greenhouse.io/muonspace/jobs/4955846007",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/MuonSpace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -37789,27 +37682,6 @@
         "degrees": []
     },
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cirrus Logic",
-        "id": "f1e33c2a-2d98-460f-92cf-253040f60e5b",
-        "title": "Summer Intern - Digital Design Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762920101,
-        "date_posted": 1761519397,
-        "url": "https://jobs.eu.lever.co/cirrus/ffa55422-e8f7-40bf-8786-84c1bda38b39/apply",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cirrus-Logic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1762971307,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -43538,7 +43410,7 @@
         "company_name": "Figure",
         "id": "4c29c5cb-a89e-426b-92f8-09ff54edf5f7",
         "title": "Hardware Reliability Intern - Winter 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -217579,7 +217451,7 @@
         "company_name": "Hunt Oil Company",
         "id": "cf386c7e-42fe-45d8-b844-c18d28562388",
         "title": "Technology Research Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331919,7 +331791,7 @@
         "company_name": "Tesla",
         "id": "19efdea7-fa87-4d6a-be78-1660ef45f9a0",
         "title": "AI Tooling Intern - Fullstack Engineer - AI Tooling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -365583,7 +365455,7 @@
         "company_name": "Tesla",
         "id": "ac4c4c0e-dfeb-412f-ae3e-29c2556aa07f",
         "title": "Software Engineer Intern - Frontend Engineer - Applications Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -368579,7 +368451,7 @@
         "company_name": "1Password",
         "id": "d392b2b1-5d8e-4ea6-969f-665fbd492ba4",
         "title": "Developer Intern - Data Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -368670,7 +368542,7 @@
         "company_name": "Advanced Energy",
         "id": "3619b0dc-8f8b-4b95-b751-137d3e26c2bb",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377363,7 +377235,7 @@
         "company_name": "RTX",
         "id": "3332393e-b199-4d10-8caa-a47140078007",
         "title": "Junior Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378162,6 +378034,143 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "8c0e53b2-9855-47d4-a4eb-5a83f80e3e7f",
+        "title": "Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782253621,
+        "date_posted": 1782252271,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Heron Power",
+        "id": "64a6f277-b6d0-4d32-9ffd-f2ee6028e599",
+        "title": "Electronics Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1782253523,
+        "date_posted": 1782252524,
+        "url": "http://jobs.ashbyhq.com/heron-power/796052b0-3811-4282-b1f9-7e6f83c3e87b/application",
+        "locations": [
+            "Santa Cruz, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Heron-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "335d47b1-5a15-4ba4-8d65-94a8b563ff34",
+        "title": "Digital Verification Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782253621,
+        "date_posted": 1782252264,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Verification-Engineer-Intern---Fall-2026_R-10064107",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "0a78fcd1-3910-4251-b51e-855aa887288f",
+        "title": "AI Business Architecture & Delivery Intern Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782253519,
+        "date_posted": 1782252517,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Business-Architecture---Delivery-Internship---Toronto--ON--12-Month-Co-Op-_R260018492",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GXO Logistics",
+        "id": "41567161-342e-4a6e-89d9-2f4581ce74bf",
+        "title": "Data Science Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782253343,
+        "date_posted": 1782252443,
+        "url": "https://jobs.gxo.com/job/Northampton-Data-Science-Degree-Apprentice-ENG-NN1-5GE/1402423100/?ats=successfactors",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/GXO-Logistics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Baxter International",
+        "id": "986aeaa3-d51c-4b5c-b0a7-b92eb1bff940",
+        "title": "Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782253607,
+        "date_posted": 1782252597,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Co-op_JR-199620",
+        "locations": [
+            "Auburn, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Baxter-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
