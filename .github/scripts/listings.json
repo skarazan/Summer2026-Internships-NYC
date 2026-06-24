@@ -17222,50 +17222,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "The Tudor Group",
-        "id": "baa7b241-fc99-4ebd-9eac-87f44e657fff",
-        "title": "Summer Internship 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761589582,
-        "date_posted": 1761589582,
-        "url": "https://job-boards.greenhouse.io/tudorgroup/jobs/7205048",
-        "locations": [
-            "London, UK",
-            "Stamford, CT",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/TudorGroup",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Marsh",
-        "id": "357ab41f-8642-4c9a-86c2-018e94e518c0",
-        "title": "Summer Intern - Finance Innovation & Technology - Fit - New York - 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761587405,
-        "date_posted": 1761587405,
-        "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Summer-Intern--Finance-Innovation---Technology--FIT---New-York--2026_R_328449",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/55341c12-8fd6-4cce-8472-d15c4a3ab583",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Rivian",
         "id": "bbdd6b69-e411-4469-aa55-487d44ea13f8",
         "title": "Software Engineering Intern - Android - Mobile App Development",
@@ -209789,7 +209745,7 @@
         "company_name": "Reality Defender",
         "id": "8a4a05a5-30d5-4a35-be3c-2bb1a2b752bc",
         "title": "Applied Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -355195,7 +355151,7 @@
         "company_name": "Ciena",
         "id": "518eaf7f-1690-43dd-a711-377210881c3e",
         "title": "Hardware Design and Verification Intern - Printed Circuit Board Assembly",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377318,7 +377274,7 @@
         "company_name": "Coherent ",
         "id": "67623f45-60aa-432b-8658-2f995ab80fa4",
         "title": "Equipment Engineering associate Intern - Photolithography / Metrology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
