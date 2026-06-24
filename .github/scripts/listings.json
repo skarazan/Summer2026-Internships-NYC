@@ -1,98 +1,5 @@
 [
     {
-        "date_updated": 1762295256,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150",
-        "company_name": "Tesla",
-        "title": "Operational Automation Engineer Intern",
-        "locations": [
-            "Draper, UT"
-        ],
-        "terms": [
-            "Summer 2026",
-            "Winter 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "yubelgg",
-        "id": "5b942900-9a31-4cd3-8db1-bc6f9b54ec4e",
-        "date_posted": 1761547904,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1761547959,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/creditkarma/jobs/5760872003",
-        "company_name": "Credit Karma",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "e8b50019-b51c-454a-a43c-5b372f508ee3",
-        "date_posted": 1761547959,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763029667,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.baesystems.com/global/en/job/117632BR/Cyber-Security-Software-Developer-Part-Time-Intern",
-        "company_name": "BAE Systems",
-        "title": "Cyber Security Software Developer Part Time Intern",
-        "locations": [
-            "Remote"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "category": "Software Engineering",
-        "source": "crosbypenguin3241",
-        "id": "b4afd7d9-101a-4c7d-9d7e-310ce9d05ae3",
-        "date_posted": 1761548121,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Two Six Technologies",
-        "id": "4db3577b-3503-4835-b9dc-12fdd015948d",
-        "title": "Summer Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1761550907,
-        "date_posted": 1761550907,
-        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5686977004",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Bose",
@@ -17599,111 +17506,6 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Epic Games",
-        "id": "38160c08-0955-4dd8-8780-8e7f46c1c350",
-        "title": "Gameplay Systems Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761547275,
-        "date_posted": 1761547275,
-        "url": "https://epicgames.com/careers/jobs/5686204004?gh_jid=5686204004",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Epic-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Red Hat",
-        "id": "dcfe3fbf-a546-4bc5-a90e-62eba84281de",
-        "title": "Business Systems Analyst Intern - Global Engineering",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761546550,
-        "date_posted": 1761546550,
-        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Business-Systems-Analyst-Intern_R-050859",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Red-Hat",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Motorola",
-        "id": "aed5118c-428a-4a02-ae3d-6c73ad4f58d7",
-        "title": "Electronics Design \u2013 Co-Op",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761545980,
-        "date_posted": 1761545980,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Electronics-Design--Co-Op_R58811",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Expedia Group",
-        "id": "6e32054b-2f2a-453e-a598-76fb891e8035",
-        "title": "Machine Learning Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761544316,
-        "date_posted": 1761544316,
-        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Machine-Learning-Science-Intern---June-2026---London---PhD_R-98604",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Skydio",
-        "id": "b0313b92-8a8b-4d31-b174-2b54bfa12fa5",
-        "title": "Systems Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761934088,
-        "date_posted": 1761543338,
-        "url": "https://www.skydio.com/jobs/7499733003?gh_jid=7499733003",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Skydio",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -282517,7 +282319,7 @@
         "company_name": "SharkNinja",
         "id": "d4f62e21-4bd0-4754-9ae0-0f63ab6272e7",
         "title": "Applied AI & Analytics Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -285575,7 +285377,7 @@
         "company_name": "TikTok",
         "id": "779f212c-f34e-4260-b5af-2e54a8c159fb",
         "title": "Software Engineer Intern - Platform efficiency",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -319863,7 +319665,7 @@
         "company_name": "Netflix",
         "id": "7248f7be-bf62-4a1b-a01b-3e4f27918644",
         "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335510,7 +335312,7 @@
         "company_name": "Point72",
         "id": "58c8f46c-bf1a-4a14-9267-45732c023d32",
         "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -373906,7 +373708,7 @@
         "company_name": "BP",
         "id": "5e47ad27-faef-4f9d-9623-8313cc843457",
         "title": "Supply, Trading & Shipping Intern - Supply, Trading & Shipping - Commercial",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374280,7 +374082,7 @@
         "company_name": "BP",
         "id": "f645e8eb-fd04-4046-86ae-79833cb1befb",
         "title": "Supply, Trading & Shipping Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
