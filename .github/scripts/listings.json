@@ -17328,28 +17328,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Vertiv",
-        "id": "63658a67-0174-448a-865d-a4a02140771d",
-        "title": "Product Management MBA Internship - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761566331,
-        "date_posted": 1761566331,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20257346",
-        "locations": [
-            "Delaware",
-            "Ohio"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Rivian",
         "id": "bbdd6b69-e411-4469-aa55-487d44ea13f8",
@@ -291427,7 +291405,7 @@
         "company_name": "Tessera Labs",
         "id": "5023b582-d7cc-49cf-9ae0-49dca04f35b1",
         "title": "Software Engineering Intern - Frontend",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -323865,7 +323843,7 @@
         "company_name": "Copart",
         "id": "5912947c-cf90-4aa1-a763-fe43edb0b67f",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -350842,7 +350820,7 @@
         "company_name": " MAG Aerospace",
         "id": "f8909d93-bd64-4c59-950a-efeb6a7816bc",
         "title": "Systems Analyst Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -354048,7 +354026,7 @@
         "company_name": "PNC Financial Services",
         "id": "f9a84af2-becf-41f5-a24b-ba28dad12682",
         "title": "Graduate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -377396,5 +377374,26 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Coherent ",
+        "id": "67623f45-60aa-432b-8658-2f995ab80fa4",
+        "title": "Equipment Engineering associate Intern - Photolithography / Metrology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782276461,
+        "date_posted": 1780005999,
+        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011367",
+        "locations": [
+            "Celina, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Coherent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
