@@ -17265,69 +17265,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lumafield",
-        "id": "e224f319-f099-4bb1-b360-e659ff0930c0",
-        "title": "Engineering Intern - Embedded Software",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761839978,
-        "date_posted": 1761579400,
-        "url": "https://jobs.lever.co/lumafield/fcef5035-421a-4c2e-a79a-b687401a1efe/apply",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumafield",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Toyota Research Institute",
-        "id": "8c974756-afd6-4aed-b96d-a576414bd842",
-        "title": "Human Interactive Driving Intern - Human-Machine Interaction Research",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761860512,
-        "date_posted": 1761575331,
-        "url": "https://jobs.lever.co/tri/3def58e8-1776-42eb-a644-c6aef922aa6a/apply",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Geotab",
-        "id": "a7e39b05-8120-4415-a13e-680de20090f2",
-        "title": "Youtube Content & Analytics Intern - Winter/January 2026 - 8 - Months",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1761575379,
-        "date_posted": 1761575379,
-        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4958629008",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Geotab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Rivian",
         "id": "bbdd6b69-e411-4469-aa55-487d44ea13f8",
@@ -333971,7 +333908,7 @@
         "company_name": "Snyk",
         "id": "e18daaef-be64-48f6-89a2-95fa3d13f1b5",
         "title": "Software Engineer Intern - Code Rules - Developer Security Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377395,5 +377332,93 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "bd7d64d7-d4c4-4163-8a9a-6520478b52c1",
+        "title": "DSR Lab Data Student Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782310322,
+        "date_posted": 1782309925,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/DSR-Lab-Data-Student-Assistant--Open-to-Work-Study-and-Non-Work-Study-_R_00046913",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hiverge",
+        "id": "2c50d66a-bdb8-46dc-8a47-f505dcf9f116",
+        "title": "Research Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782310684,
+        "date_posted": 1782310149,
+        "url": "https://jobs.ashbyhq.com/hiverge/ea6edea4-5216-4cdc-b368-909ba91c78a3/application",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hiverge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lunon",
+        "id": "1ce95d16-4d81-413d-b47f-f66d2c855b3c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782310608,
+        "date_posted": 1782310073,
+        "url": "https://jobs.ashbyhq.com/Lunon/6700bbef-8be9-46c7-8257-f1a3a0c0aa45/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Lunon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apogee Engineering",
+        "id": "33b85725-8c8d-441f-8cd6-8552d74ae72e",
+        "title": "Systems Architect Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782275807,
+        "date_posted": 1780005932,
+        "url": "https://careers-apogeeusa.icims.com/jobs/1448/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Wright-Patterson AFB, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Apogee-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
