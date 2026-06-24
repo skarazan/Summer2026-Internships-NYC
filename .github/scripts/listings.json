@@ -1,29 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Bose",
-        "id": "6b3fd419-912c-4d4f-864a-94c4250526e6",
-        "title": "Pre-dev Embedded Software Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761561436,
-        "date_posted": 1761561436,
-        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Pre-dev-Embedded-Software-Intern_R28335",
-        "locations": [
-            "Framingham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bose",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1762295189,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -17368,117 +17344,6 @@
             "Ohio"
         ],
         "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "ce05d887-35eb-4a59-b89c-a8d94fee359f",
-        "title": "Data fabric and network automation Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1761563079,
-        "date_posted": 1761563079,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25263",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nokia",
-        "id": "aac0ca4b-2fb2-462d-8852-3b6530bcce1f",
-        "title": "AI R&D Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1761563113,
-        "date_posted": 1761563113,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24918",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "f302bc67-c684-49a9-a490-4526d62f5f54",
-        "title": "Waveserver Software Developer Co-op - Winter 2026",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1761561475,
-        "date_posted": 1761561475,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Waveserver-Software-Developer-Co-op--Winter-2026-_R029322",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lendbuzz",
-        "id": "b6f802b1-3f13-412c-9d70-d3387eccfc08",
-        "title": "Software Engineer Co-op - Machine Learning Infrastructure Team",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1761934628,
-        "date_posted": 1761560092,
-        "url": "https://jobs.lever.co/lendbuzz/993d1052-8793-4bb0-98e2-6ed4cab0585a/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lendbuzz",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Waymo",
-        "id": "c88e3ce8-775d-4abd-a1f8-ddd309487065",
-        "title": "2026 Summer Intern - MS/PhD - ML Architecture - Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761554278,
-        "date_posted": 1761554278,
-        "url": "https://careers.withwaymo.com/jobs?gh_jid=7340150",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Waymo",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -315883,7 +315748,7 @@
         "company_name": "Hello Fresh",
         "id": "03a7e59e-6d1e-41ee-9a3f-8e59e59dee6a",
         "title": "AI Operations & Automation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
