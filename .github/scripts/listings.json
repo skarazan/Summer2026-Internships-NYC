@@ -1,36 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Blue Origin",
-        "id": "f37865a3-2377-4049-a582-75c3fc52d4b2",
-        "title": "Intern Conversion: \u2013 Early Career - Avionics Software Engineer I",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1761658772,
-        "date_posted": 1761658772,
-        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Intern-Conversion---Early-Career--Avionics-Software-Engineer-I_R54003",
-        "locations": [
-            "Seattle, WA",
-            "Washington, DC",
-            "LA",
-            "Cape Canaveral, FL",
-            "Phoenix, AZ",
-            "Denver, CO",
-            "Huntsville, AL",
-            "Van Horn, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Origin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "VSP Vision",
         "id": "5e8cb277-43e4-4b23-8d43-e3f7a10f3539",
@@ -3411,27 +3381,6 @@
             "Austin, TX",
             "Redmond, WA",
             "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Meta",
-        "id": "95477a6a-5761-4a10-8482-cc1319fdb7e3",
-        "title": "Research Scientist Intern - Interactive Physics Simulations - PhD",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762163685,
-        "date_posted": 1761659948,
-        "url": "https://www.metacareers.com/jobs/1289101459634616",
-        "locations": [
-            "Redmond, WA"
         ],
         "company_url": "https://simplify.jobs/c/Meta",
         "is_visible": true,
@@ -15292,91 +15241,6 @@
             "Richmond, VA"
         ],
         "company_url": "https://simplify.jobs/c/International-Mission-Board",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Neuralink",
-        "id": "0a0a0a4b-56b1-4618-95fd-5034bdcf8e2b",
-        "title": "Digital IC Design Engineer Intern",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761666166,
-        "date_posted": 1761666166,
-        "url": "https://boards.greenhouse.io/neuralink/jobs/7090489003",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Neuralink",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NXP Semiconductors",
-        "id": "ece73df3-d803-4d29-af76-6105cfd3f329",
-        "title": "Digital Design Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761660573,
-        "date_posted": 1761660573,
-        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Design-Intern---Summer-2026_R-10059991-1",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Boson Ai",
-        "id": "e6450ce0-c0b2-4433-9d87-431b44b1b70d",
-        "title": "Mscac Internship",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761659408,
-        "date_posted": 1761659408,
-        "url": "https://jobs.lever.co/bosonai/8177a757-9901-44f5-9a4a-2bfc7f463619/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/0a12c14b-a812-45a9-a0c2-a61a2802d9f2",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "79f0219b-7b5f-4681-bca2-8e7c43a92409",
-        "title": "Hardware Design Engineer Intern - Spring 2026",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1761659210,
-        "date_posted": 1761659210,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Hardware-Design-Engineer-Intern--Spring-2026-_R029291",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
