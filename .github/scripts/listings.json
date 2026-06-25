@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "759f81ff-30b9-4314-b2eb-7f0a20e57a8f",
-        "title": "Research Scientist Intern - Data-Tns-Algo-Day Dreamer - 2026 Start - PhD",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761633691,
-        "date_posted": 1761633691,
-        "url": "https://lifeattiktok.com/search/7564088059246512389",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "NTT Data",
         "id": "c35a0e67-4577-4d19-bdeb-2068aa25830d",
         "title": "Data Analytics Intern - ",
@@ -12438,27 +12415,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Stantec",
-        "id": "ce309160-d5e9-4c44-837a-b2fcb09c7110",
-        "title": "GIS Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761631632,
-        "date_posted": 1761631632,
-        "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1002781",
-        "locations": [
-            "Wayzata, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Stantec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Little Caesars Enterprises",
         "id": "d2825d31-93f6-4d6e-86da-cec91c592e67",
@@ -16067,27 +16023,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Cloudflare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "American Bankers Association",
-        "id": "1143375c-aced-40cc-8bf6-7d00e3b13f63",
-        "title": "Intern \u2013 Quantitative Research Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761630558,
-        "date_posted": 1761630558,
-        "url": "https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research-Analyst_R544",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Bankers-Association",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -376364,6 +376299,31 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BCBST",
+        "id": "c9b0dc1b-ff84-4067-91fe-612a60e8aed5",
+        "title": "Provider Data Reporting Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782367886,
+        "date_posted": 1782367655,
+        "url": "https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Intern---Provider-Data-Reporting_R-49815",
+        "locations": [
+            "Chattanooga, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/6624eec0-5300-4435-a8f4-e88cda773305",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
