@@ -124769,7 +124769,7 @@
         "company_name": "SharkNinja",
         "id": "ac62701d-abb4-4530-b0c4-c54a9a94e3fd",
         "title": "Fall 2026: Product Development Co-op - Shark - July to December",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -374599,6 +374599,30 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TDS",
+        "id": "72197bee-e9b3-4978-88cd-1cc51ba6254c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782483055,
+        "date_posted": 1782482706,
+        "url": "https://external-telecom-teldta.icims.com/jobs/29561/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/TDS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
