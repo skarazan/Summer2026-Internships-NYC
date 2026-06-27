@@ -134,7 +134,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (48)</summary>
+<summary>🗃️ Inactive roles (47)</summary>
 
 <table>
 <thead>
@@ -521,14 +521,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Go-to-Market Engineer Intern</td>
 <td>NYC</td>
 <td>Winter 2025</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/ACLU-Kentucky?utm_source=GHList&utm_medium=company">ACLU Kentucky</a></strong></td>
-<td>Spring 2026 Graduate Intern - Educate Pod - Technology and Analytics Department</td>
-<td>NYC</td>
-<td>Spring 2026</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
