@@ -1,28 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Veolia",
-        "id": "0d00ce4c-5e83-4376-8c41-8c41f373a81c",
-        "title": "Intern \u2013 Laboratory",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761781008,
-        "date_posted": 1761781008,
-        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000090705885",
-        "locations": [
-            "Trevose, Feasterville-Trevose, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Veolia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1761799753,
         "sponsorship": "Other",
         "active": true,
@@ -14030,29 +14007,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Meta",
-        "id": "9ba7a461-b1a8-45c2-8d89-4a23a539d7ad",
-        "title": "Research Scientist Intern - Machine Learning Acceleration",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1762164815,
-        "date_posted": 1761782161,
-        "url": "https://www.metacareers.com/jobs/1835678850417840",
-        "locations": [
-            "Redmond, WA",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Tencent",
         "id": "6bdda2c4-63b7-4bbd-9f90-e10f7ddf8325",
@@ -14068,49 +14022,6 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Walt Disney Company",
-        "id": "26515fca-dc1f-40de-8789-153b1292c7ba",
-        "title": "Software Engineering Intern - Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761781899,
-        "date_posted": 1761781899,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/Software-Engineering-Intern--Summer-2026_10135340",
-        "locations": [
-            "Bristol, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Meta",
-        "id": "071af12a-2264-4268-a773-db0131022967",
-        "title": "Silicon Performance Architect Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762167995,
-        "date_posted": 1761782074,
-        "url": "https://www.metacareers.com/jobs/3970417823091881",
-        "locations": [
-            "Redmond, WA",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -324781,7 +324692,7 @@
         "company_name": "X Development",
         "id": "38d16faf-14c3-4aed-8d2e-240d84440dc6",
         "title": "PhD Resident - AI for Chemistry - Early Stage Project",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
