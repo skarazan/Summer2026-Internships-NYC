@@ -134,7 +134,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (44)</summary>
+<summary>🗃️ Inactive roles (43)</summary>
 
 <table>
 <thead>
@@ -492,14 +492,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Five-Rings?utm_source=GHList&utm_medium=company">Five Rings Capital</a></strong></td>
-<td>Winter Internship 2026 - Software Development</td>
-<td>NYC</td>
-<td>Winter 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -515,7 +507,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 > 📅 Curious when Big Tech product internships typically open? Simplify put together an [openings tracker](https://simplify.jobs/top-list/Associate-Product-Manager-Intern?utm_source=GHList&utm_medium=ot) based on historical data for those companies.
 
 <details>
-<summary>🗃️ Inactive roles (16)</summary>
+<summary>🗃️ Inactive roles (15)</summary>
 
 <table>
 <thead>
@@ -649,14 +641,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Waterfall?utm_source=GHList&utm_medium=company">Waterfall</a></strong></td>
-<td>Intern</td>
-<td>NYC</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -714,7 +698,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (47)</summary>
+<summary>🗃️ Inactive roles (46)</summary>
 
 <table>
 <thead>
@@ -1091,14 +1075,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Voyant-Photonics?utm_source=GHList&utm_medium=company">Voyant Photonics</a></strong></td>
 <td>Intern - Field Testing & Dataset Creation</td>
-<td>NYC</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Bedrock-Robotics?utm_source=GHList&utm_medium=company">Bedrock Robotics</a></strong></td>
-<td>Internship 2026 Data & Machine Learning Platform Engineer</td>
 <td>NYC</td>
 <td>Winter 2025</td>
 <td>🔒</td>
