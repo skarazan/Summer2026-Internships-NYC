@@ -63,14 +63,14 @@
 <td>GTM Engineer Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/astronomer/24262c87-1c1e-4815-b008-854f921450a8/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9fb8df8a-a9a7-4ceb-82e5-cfeeb37485ec?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bank-Of-America?utm_source=GHList&utm_medium=company">Bank of America</a></strong></td>
 <td>Global Tech Apprentice - Software Engineer</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Jersey-City/Global-Tech-Apprentice-Program---Software-Engineer----Jersey-City--NJ-and-New-York--NY_26019817-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8274eda3-9ac6-4582-ae1a-b4f690d6737f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Scale-AI?utm_source=GHList&utm_medium=company">Scale AI</a></strong></td>
