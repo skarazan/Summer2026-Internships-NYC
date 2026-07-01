@@ -248727,7 +248727,7 @@
         "company_name": "Cirrus Logic",
         "id": "bdc7629c-5650-435b-bcf9-bd03b35afb33",
         "title": "Co-Op - Formal Verification Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -299879,7 +299879,7 @@
         "company_name": "Seven Research",
         "id": "7a8438ae-a2dd-48c5-a03d-6181f1b815ed",
         "title": "Core Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -331514,7 +331514,7 @@
         "company_name": "Nokia",
         "id": "9cfe8061-a3a5-4fc3-a58c-c21fb3f3b108",
         "title": "Design Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339827,7 +339827,7 @@
         "company_name": "SRI International",
         "id": "f983fd0d-fc22-46f5-bd4a-beb823e3948d",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349513,7 +349513,7 @@
         "company_name": "Kinaxis",
         "id": "9a8f5772-8fd1-4ebb-9ef6-1234fc1b849c",
         "title": "Software Engineer Co-op/Intern - Developer Framework",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -354929,6 +354929,943 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Optiver",
+        "id": "f49b4766-f352-4e81-9cb2-0f42fb9fd101",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1782944642,
+        "date_posted": 1782943980,
+        "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Optiver",
+        "id": "95f1deb7-1dce-443a-ad6d-1d1c78b64892",
+        "title": "Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1782944642,
+        "date_posted": 1782943977,
+        "url": "https://www.optiver.com/join-us/jobs/8451781002/?gh_jid=8451781002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Climate Corps",
+        "id": "ac0187b3-d62d-4462-8812-3f558065a8a5",
+        "title": "Utilities Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782944642,
+        "date_posted": 1782943490,
+        "url": "https://job-boards.greenhouse.io/cc/jobs/5288224008",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Climate-Corps",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Optiver",
+        "id": "a296d107-a3c9-4996-98c4-581930edc8df",
+        "title": "Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1782944642,
+        "date_posted": 1782943978,
+        "url": "https://www.optiver.com/join-us/jobs/8451782002/?gh_jid=8451782002",
+        "locations": [
+            "Austin, TX",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Optiver",
+        "id": "895ea579-0ca7-4aa8-82a2-db62cfeba95c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1782944642,
+        "date_posted": 1782943981,
+        "url": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "87b3e2e9-6e48-46cf-a3ad-0144480aaea6",
+        "title": "Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782944931,
+        "date_posted": 1782944195,
+        "url": "https://www.tesla.com/careers/search/job/275558",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "5288f66e-452b-4ae7-a62d-12249dce5312",
+        "title": "Machine Learning Intern - AI Engineer - Tesla AI",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782944942,
+        "date_posted": 1782944200,
+        "url": "https://www.tesla.com/careers/search/job/275331",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DiDi Global",
+        "id": "82da1599-1528-4192-8849-d9fa626e285d",
+        "title": "Motion Planning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782944847,
+        "date_posted": 1782943840,
+        "url": "https://job-boards.greenhouse.io/didi/jobs/8042470",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/DiDi-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "e7d75784-3452-4e8b-ab92-f6c42a3641c1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782944793,
+        "date_posted": 1782943821,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "0e4a7168-4066-4c3d-a37e-732f9fe8db1c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782944799,
+        "date_posted": 1782943821,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011595",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "f31feaa4-e89d-4c20-b16e-06bd9d94cc8f",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782944801,
+        "date_posted": 1782943821,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011594",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "c038aac0-6db1-415c-a34c-0eadd28627fb",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1782944781,
+        "date_posted": 1782943819,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011603",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "b7d021aa-5607-4809-a3f2-fec2242c4ac8",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1782944814,
+        "date_posted": 1782943822,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011602",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "a563a6da-dcd7-4320-a60e-89e6021a35c9",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782944802,
+        "date_posted": 1782943821,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Bachelor-s-_JR-010190",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "81ba1e38-8f0f-46fc-9ea3-58930bd9d5b1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1782944803,
+        "date_posted": 1782943821,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011605",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "116541fa-771d-4823-a666-0884c8ececfd",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782944794,
+        "date_posted": 1782943821,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011599",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "fe99f8f0-316b-46b5-8453-78ece4219304",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782944793,
+        "date_posted": 1782943822,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011590",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "01d46802-0616-4267-b69b-e69902565213",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782944796,
+        "date_posted": 1782943822,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011598",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Cross Blue Shield of Michigan",
+        "id": "e0d4f452-a4bf-4b10-9618-15d2cfe12f9e",
+        "title": "IT Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1782944551,
+        "date_posted": 1782943736,
+        "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14393",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Michigan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Appliances",
+        "id": "8b3a040d-9740-4868-a1c8-672234e74f84",
+        "title": "Software Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1782944407,
+        "date_posted": 1782943642,
+        "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-26147",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Appliances",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "4aa95e06-d130-4d56-8703-47bccc160e90",
+        "title": "Technology Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782944328,
+        "date_posted": 1782943613,
+        "url": "https://careers-sig.icims.com/jobs/11159/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Wonderful Company",
+        "id": "340cf1d5-2f86-48ad-ba6d-24877471ebcf",
+        "title": "Summer Internship Intern - Business Systems Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782944232,
+        "date_posted": 1782943369,
+        "url": "https://jobs.smartrecruiters.com/TheWonderfulCompany/744000135343439",
+        "locations": [
+            "Bakersfield, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Wonderful-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Seven Research",
+        "id": "e1fc4e73-902b-46f8-a226-2051c83aaee7",
+        "title": "Deep Learning Researcher Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782943955,
+        "date_posted": 1782943782,
+        "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Seven-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Seven Research",
+        "id": "bd7fc029-b360-4fd7-995a-82be679b5e8d",
+        "title": "Algorithmic Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782943967,
+        "date_posted": 1782943780,
+        "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Seven-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Seven Research",
+        "id": "53251689-34f9-4e14-8fd1-42cda602bfe4",
+        "title": "Quantitative Researcher Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782943956,
+        "date_posted": 1782943783,
+        "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Seven-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Climate Corps",
+        "id": "5b74ecb7-7875-4e7a-8482-2baf4c83f1fa",
+        "title": "Sustainability Reporting Specialist Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782943829,
+        "date_posted": 1782943491,
+        "url": "https://job-boards.greenhouse.io/cc/jobs/5287298008",
+        "locations": [
+            "San Rafael, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Climate-Corps",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Iowa State University",
+        "id": "14a709a5-3c90-4741-9cd5-4f72de58c755",
+        "title": "Postdoctoral Researcher in Machine Learning and Computational Chemistry",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782943561,
+        "date_posted": 1782943460,
+        "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Postdoctoral-Researcher-in-Machine-Learning-and-Computational-Chemistry_R19556-1",
+        "locations": [
+            "Ames, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Iowa-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lila Sciences",
+        "id": "c625bdf8-bb79-49ff-ad24-a9edc7c39f8d",
+        "title": "Autonomous SEM Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782945666,
+        "date_posted": 1782945389,
+        "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4300246009",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lila-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "IMC Trading",
+        "id": "78445aa7-00e0-40b9-b4f6-4c249ce90536",
+        "title": "Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1782945541,
+        "date_posted": 1782944927,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907400101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "IMC Trading",
+        "id": "c604390d-1e7b-4ac6-906e-4946647383dd",
+        "title": "Quantitative Trader Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1782945181,
+        "date_posted": 1782944928,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823923101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "9a7e7535-216f-41a8-b35c-5005ec017d35",
+        "title": "Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782945443,
+        "date_posted": 1782943941,
+        "url": "https://www.tesla.com/careers/search/job/275689",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cloudflare",
+        "id": "a7ef9f52-96c8-4e0d-8788-af7650bc8e9b",
+        "title": "Systems Engineer \u2013 Data Residency Intern - Global Resource Management",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782945471,
+        "date_posted": 1782944061,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/8015230",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IMC Trading",
+        "id": "1d7827d1-14f5-4597-b49c-7b91bb07cb0c",
+        "title": "Machine Learning Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1782945181,
+        "date_posted": 1782944925,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IMC Trading",
+        "id": "74ebbab0-9a8d-4399-aec0-07e5ad5f7337",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1782945181,
+        "date_posted": 1782944929,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "IMC Trading",
+        "id": "4aa719b5-d2a2-4379-950b-53301335fcac",
+        "title": "Hardware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1782945181,
+        "date_posted": 1782944922,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "IMC Trading",
+        "id": "302d7a14-d6ef-4887-b2e6-ece00d5ae71a",
+        "title": "Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1782945181,
+        "date_posted": 1782944927,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907399101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Optiver",
+        "id": "6f0dbd5a-a41a-4a05-a5f4-7fa193dbc2ab",
+        "title": "Quantitative Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1782945181,
+        "date_posted": 1782943975,
+        "url": "https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002",
+        "locations": [
+            "Austin, TX",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NOX METALS",
+        "id": "ff7c1aad-5912-40b5-bc71-73b75b60ccd3",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1782945021,
+        "date_posted": 1782943800,
+        "url": "https://jobs.ashbyhq.com/nox-metals/6edc2dff-7c4b-44b8-abba-32d5953b8c5f/application",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/NOX-METALS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Human Computer Lab",
+        "id": "2e647756-f76c-4086-aadb-3957cc7031e7",
+        "title": "Software/ML Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782945053,
+        "date_posted": 1782943857,
+        "url": "https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Human-Computer-Lab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "01788188-df5d-4bc7-8a1c-b32f1569da13",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782945015,
+        "date_posted": 1782943818,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011589",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
