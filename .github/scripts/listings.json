@@ -1,78 +1,5 @@
 [
     {
-        "date_updated": 1762819820,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.baesystems.com/global/en/job/BAE1US117168BREXTERNAL/Technical-Intern-Embedded-Software-Engineer-Summer-2026",
-        "company_name": "BAE Systems",
-        "title": "Technical Intern - Embedded Software Engineer, Summer 2026",
-        "locations": [
-            "Broomfield, CO",
-            "Boulder, CO",
-            "Westminister, CO"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "5cb990f2-aab2-4ffd-aa70-aa914f623930",
-        "date_posted": 1762202189,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1762819820,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.baesystems.com/global/en/job/BAE1US117172BREXTERNAL/Technical-Intern-Software-Systems-Engineer-Summer-2026",
-        "company_name": "BAE Systems",
-        "title": "Technical Intern - Software Systems Engineer, Summer 2026",
-        "locations": [
-            "Broomfield, CO",
-            "Boulder, CO",
-            "Westminster, CO"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "8da88f0d-5115-4a73-af30-7838c0c25002",
-        "date_posted": 1762202273,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1762210430,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://llbean.wd1.myworkdayjobs.com/en-US/LLBean_Careers/job/Freeport-ME/Software-Developer-Internship_JR10190",
-        "company_name": "L.L.Bean",
-        "title": "Software Developer Internship",
-        "locations": [
-            "Freeport, ME"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "4ca9447d-2150-4c9f-9da5-963731ae1d7f",
-        "date_posted": 1762202377,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Layup Parts",
@@ -243152,7 +243079,7 @@
         "company_name": "Eulerity",
         "id": "120a581b-07a7-488c-8947-a7a7c018bd10",
         "title": "Backend Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -256865,7 +256792,7 @@
         "company_name": "Snap",
         "id": "322f0106-31b4-4881-94ad-e76fd4413368",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262928,7 +262855,7 @@
         "company_name": "Verkada",
         "id": "1b2a515c-420c-4739-90eb-0ca8c93613b4",
         "title": "Frontend Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -298699,7 +298626,7 @@
         "company_name": "Cirrus Logic",
         "id": "1381f4c1-ac21-4e96-811a-f6b3cb3bbfc3",
         "title": "Analog/Mixed-Signal Verification Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -345604,7 +345531,7 @@
         "company_name": "JINGDONG",
         "id": "2fba0bab-80a5-4c1b-a674-b0ccaa5019a2",
         "title": "Business Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -350395,7 +350322,7 @@
         "company_name": "Lunon",
         "id": "1ce95d16-4d81-413d-b47f-f66d2c855b3c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
