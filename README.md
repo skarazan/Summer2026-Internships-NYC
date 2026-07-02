@@ -153,20 +153,6 @@
 <td>6d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Phamily?utm_source=GHList&utm_medium=company">Phamily</a></strong></td>
-<td>Business Intelligence & Data Analytics Intern - Undergraduate</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/jobsatphamily/jobs/5281446008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8d2a893d-cc95-4040-b7bb-e75752d54b61?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Phamily?utm_source=GHList&utm_medium=company">Phamily</a></strong></td>
-<td>Machine Learning Intern 🎓</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/jobsatphamily/jobs/5281239008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f000f27d-73d5-4c3f-9e46-7aa5d75a235a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/F-Schumacher-Co?utm_source=GHList&utm_medium=company">F. Schumacher & Co.</a></strong></td>
 <td>Product Data Strategy and Operations Intern</td>
 <td>NYC</td>
@@ -219,7 +205,7 @@
 </table>
 
 
-🔒 **[See 302 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 304 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 

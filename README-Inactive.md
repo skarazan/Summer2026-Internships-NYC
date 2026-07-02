@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 625 Inactive Internship Roles by Category
+### Browse 627 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (203)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (72)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (302)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (304)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (31)
 
@@ -106,14 +106,14 @@
 <td>Web Development Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Chanel?utm_source=GHList&utm_medium=company">Chanel</a></strong></td>
 <td>Creative Technologist Intern - Open Innovation</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bank-Of-America?utm_source=GHList&utm_medium=company">Bank of America</a></strong></td>
@@ -141,7 +141,7 @@
 <td>AI Integration Specialist Co-op</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ee8236a0-5b6a-4389-a774-e10fe29442a2?utm_source=GHList&utm_medium=company">Magnite</a></strong></td>
@@ -501,7 +501,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
+<td>↳</td>
 <td>Software Developer – Co-op/Intern - Summer 2026 - 4 Months</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -2055,6 +2055,20 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Phamily?utm_source=GHList&utm_medium=company">Phamily</a></strong></td>
+<td>Business Intelligence & Data Analytics Intern - Undergraduate</td>
+<td>NYC</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Machine Learning Intern 🎓</td>
+<td>NYC</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
 <td>AI Research Scientist PhD Intern 🎓</td>
 <td>NYC</td>
@@ -2332,7 +2346,7 @@
 <td>Ad Sales Advanced Analytics Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Aura-Frames?utm_source=GHList&utm_medium=company">Aura Frames</a></strong></td>
@@ -3672,7 +3686,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Genentech?utm_source=GHList&utm_medium=company">Genentech</a></strong></td>
+<td>↳</td>
 <td>2026 Summer Intern - Large Language Models 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
