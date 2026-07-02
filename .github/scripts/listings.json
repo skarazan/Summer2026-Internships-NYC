@@ -1,47 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "7f293523-ce81-494e-9f56-04d855187676",
-        "title": "Undergraduate Placement Year 2025 \u2013 Product Quality Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762256080,
-        "date_posted": 1762256080,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000091539663",
-        "locations": [
-            "Stratford-upon-Avon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Apple",
-        "id": "9720993c-ebdc-41b6-81e1-d589d6ab63ee",
-        "title": "SoC Performance Modeling Internship - Platform Architecture",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762256612,
-        "date_posted": 1762256612,
-        "url": "https://jobs.apple.com/en-us/details/200629965",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Apple",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1763457815,
         "sponsorship": "Other",
         "active": false,
@@ -103845,7 +103803,7 @@
         "company_name": "Tencent",
         "id": "3cf4233b-3b89-4258-991d-1885b771f9e6",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -291902,7 +291860,7 @@
         "company_name": "Integra FEC",
         "id": "b9a99f84-c011-4f16-806a-8ad02e98b530",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -319520,7 +319478,7 @@
         "company_name": "Brunswick",
         "id": "a2b670ca-0966-45f7-9a77-1365adca98b8",
         "title": "Computer Graphics Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333298,7 +333256,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -339394,7 +339352,7 @@
         "company_name": "Walleye Capital",
         "id": "c32147c4-e359-49f8-8d2e-d52f0a1646d8",
         "title": "Investment Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -345630,7 +345588,7 @@
         "company_name": "University of Texas at Austin",
         "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
         "title": "Course Support - Rhetoric",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -347522,7 +347480,7 @@
         "company_name": "Together AI",
         "id": "be2e3a34-763e-4546-b44d-affa9c4f634e",
         "title": "Research reinforcement learning & Post-Training Systems Intern - Turbo",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -352467,7 +352425,7 @@
         "company_name": "Intuit",
         "id": "d249bf80-6b21-4361-bcab-b047533c7142",
         "title": "Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -352488,7 +352446,7 @@
         "company_name": "Netflix",
         "id": "dee128c9-ea09-43a7-b1c8-6ab36d14287e",
         "title": "AI/ML Scientist Intern - AIMS AI Foundations",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -352895,7 +352853,7 @@
         "company_name": "Crowdstrike",
         "id": "8429362a-1d03-4406-8ab4-86f7dd0754b2",
         "title": "Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Summer 2026"
@@ -353418,7 +353376,7 @@
         "company_name": "GE Appliances",
         "id": "8b3a040d-9740-4868-a1c8-672234e74f84",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -354728,6 +354686,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oracle",
+        "id": "d55da702-839a-42a9-8c4d-a6356630c452",
+        "title": "Customer Solutions Analyst Intern - Ovip",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782987074,
+        "date_posted": 1779325606,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334388",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
