@@ -260240,7 +260240,7 @@
         "company_name": "Verkada",
         "id": "68da8f52-9a43-4f21-8742-602f2b262808",
         "title": "Backend Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -291302,7 +291302,7 @@
         "company_name": "Integra FEC",
         "id": "b9a99f84-c011-4f16-806a-8ad02e98b530",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -301403,7 +301403,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "44dc6bbf-bf67-45ed-bd4f-36102982e97a",
         "title": "Data Analyst \u2013 Emerging Talent Intern - Automatic Camera Enforcement - Ace",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -324278,7 +324278,7 @@
         "company_name": "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
         "id": "02a3daa8-78be-409a-bd55-b630dfae60c1",
         "title": "Academy Performance Analyst Intern - Academy Performance Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -338909,7 +338909,7 @@
         "company_name": "Evolver",
         "id": "2283b39a-bd55-4fc6-8bb7-6e3a6a999b59",
         "title": "Applied Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339810,7 +339810,7 @@
         "company_name": "Pebl",
         "id": "dfed1b05-8349-40c6-98c4-e56b8c22ad2f",
         "title": "Software Engineer Intern - Invoicing & Payments",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341718,7 +341718,7 @@
         "company_name": "Together AI",
         "id": "2b7fae57-a8e0-402c-8cd6-83e7aaffd1a5",
         "title": "Research Intern - Inference",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341928,7 +341928,7 @@
         "company_name": "Together AI",
         "id": "27f1bae4-fe71-4489-96fd-9707e0ba1cfb",
         "title": "Systems Research Engineer Intern - GPU Programming",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342407,7 +342407,7 @@
         "company_name": "mthree",
         "id": "6ce4c517-ed15-4308-b1b3-db9ed7be5a53",
         "title": "Technology Talent Programme",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -346646,7 +346646,7 @@
         "company_name": "ConnectPrep",
         "id": "da1b5b7e-ac67-409e-90d4-3cdb8496619a",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346922,7 +346922,7 @@
         "company_name": "Together AI",
         "id": "be2e3a34-763e-4546-b44d-affa9c4f634e",
         "title": "Research reinforcement learning & Post-Training Systems Intern - Turbo",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -354221,6 +354221,145 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/TDS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aptiv",
+        "id": "f31b6c02-6615-4940-99d0-cbfb01419b3c",
+        "title": "Associate Engineer - Cloud",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783031221,
+        "date_posted": 1783030170,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Engineer---Cloud_J000699956",
+        "locations": [
+            "Kanata, Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Aptiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fidelity Investments",
+        "id": "405b9ad2-32a7-4811-9fc5-d6d4c4992b8c",
+        "title": "Leap Systems Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783030985,
+        "date_posted": 1783029971,
+        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Systems-Analyst_2132117",
+        "locations": [
+            "Westlake, TX",
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity Investments",
+        "id": "17699a31-38e1-4e82-b409-fe317a841c6f",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783030983,
+        "date_posted": 1783029974,
+        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Software-Engineer_2132114",
+        "locations": [
+            "Westlake, TX",
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "McKesson",
+        "id": "1274597e-7eae-4cdf-9743-7cc810bd3531",
+        "title": "Supply Chain Engineering and Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783030291,
+        "date_posted": 1783029880,
+        "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819",
+        "locations": [
+            "Surrey, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/McKesson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integrity",
+        "id": "21764c96-24e4-46f7-b19f-977407981b13",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783029961,
+        "date_posted": 1783029880,
+        "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Minneapolis-MN/Research-Intern_JR4284",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Traackr",
+        "id": "8c3c4866-6c14-4ec0-bc29-3ce391b4bea3",
+        "title": "Software Engineer Intern - Internal Tooling",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783030234,
+        "date_posted": 1783029836,
+        "url": "https://jobs.lever.co/traackr/9d884d26-018c-45b2-8cfb-f17d29d4e688/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Traackr",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
