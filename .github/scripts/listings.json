@@ -1,74 +1,5 @@
 [
     {
-        "date_updated": 1763457815,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://apply.workable.com/valsoft-corp/j/79849B746F/",
-        "company_name": "Valsoft",
-        "title": "Data Scientist Intern - Canada",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "terms": [
-            "Winter 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "670ade3d-b3c4-4b04-b411-2e63852d39ab",
-        "date_posted": 1762270120,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762270175,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://job-boards.greenhouse.io/inspiremedicalsystemsinc/jobs/4956510008?gh_jid=4956510008",
-        "company_name": "Inspire",
-        "title": "AI Development Internship",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Simplify",
-        "id": "06c8c4ca-0e2b-4496-929a-eacffb49c205",
-        "date_posted": 1762270175,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762283977,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/RESPECInc/publication/643d3be0-a063-4b49-8b31-049c95eb74a5?dcr_ci=RESPECInc",
-        "company_name": "RESPEC",
-        "title": "Student Software Engineering Intern",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "2a29b5ad-fd2f-4b02-a0b8-ed25048576d8",
-        "date_posted": 1762270710,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Lumen Technologies",
@@ -297961,7 +297892,7 @@
         "company_name": "Loblaw Companies",
         "id": "e78fc999-e787-4237-beb5-6e129705ecca",
         "title": "Analyst Co-op - Finance Insights and Technology Engagement",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -313969,7 +313900,7 @@
         "company_name": "Interstates",
         "id": "e0159f6e-7578-47de-b54f-df4e0ef9d581",
         "title": "Manufacturing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335176,7 +335107,7 @@
         "company_name": "SOTI",
         "id": "eedc3481-24f8-4e24-ab3d-8ae10a4eb5ed",
         "title": "Web Producer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339467,7 +339398,7 @@
         "company_name": "Evolver",
         "id": "2283b39a-bd55-4fc6-8bb7-6e3a6a999b59",
         "title": "Applied Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -354735,5 +354666,52 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bosch Home Comfort",
+        "id": "065e5761-d574-4c20-a590-6fd396d58e47",
+        "title": "Business Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783002781,
+        "date_posted": 1783001160,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135497810",
+        "locations": [
+            "Belmont, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TDS",
+        "id": "28ba42da-8a23-42a0-8f6c-e867d40c6e48",
+        "title": "GIS Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1783002241,
+        "date_posted": 1783001101,
+        "url": "https://external-telecom-teldta.icims.com/jobs/29604/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/TDS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
