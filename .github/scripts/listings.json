@@ -2,69 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Tenstorrent",
-        "id": "ff19fd26-9c3d-4f2a-9f6f-8e9db2629828",
-        "title": "Physical Design for Machine Learning Intern",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762241606,
-        "date_posted": 1762241606,
-        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tenstorrent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "95e75b05-e413-49a9-9ee2-3b648f77a7df",
-        "title": "CPU Compiler Intern - 2026",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762242568,
-        "date_posted": 1762242568,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2026_JR2007322",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Tenstorrent",
-        "id": "b70ee37b-cff5-4644-a282-fc170450316c",
-        "title": "Software Intern - AI Compilers",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762241606,
-        "date_posted": 1762241606,
-        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Tenstorrent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Robert Bosch Venture Capital",
         "id": "7f293523-ce81-494e-9f56-04d855187676",
         "title": "Undergraduate Placement Year 2025 \u2013 Product Quality Intern",
@@ -203544,7 +203481,7 @@
         "company_name": "The Information Lab",
         "id": "ca0e46bd-3d87-4ea3-ae5c-3f8c475e3706",
         "title": "The Data School - Data Analyst Consultant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -234869,7 +234806,7 @@
         "company_name": "Copart",
         "id": "1727d396-3a35-4e8b-a6b8-3de2b9259352",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -291965,7 +291902,7 @@
         "company_name": "Integra FEC",
         "id": "b9a99f84-c011-4f16-806a-8ad02e98b530",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -305648,7 +305585,7 @@
         "company_name": "Advanced Energy",
         "id": "729f884e-638b-4dcb-aac8-3d44f316cac9",
         "title": "Electronics Service Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -306439,7 +306376,7 @@
         "company_name": "MongoDB",
         "id": "34e5f044-5304-4c9e-af40-55a70118657b",
         "title": "Software Engineer Intern - Developer Productivity",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -317342,7 +317279,7 @@
         "company_name": "Nuro",
         "id": "66c29e94-cb65-4820-82a4-231e68e2c6ef",
         "title": "Vehicle Reliability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325291,7 +325228,7 @@
         "company_name": "Boston Consulting Group",
         "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
         "title": "Working Student - BCG Vantage - Insurance",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337060,7 +336997,7 @@
         "company_name": "Duke University",
         "id": "c1b14eaf-e140-4275-b7b5-dee377f8421d",
         "title": "Administrative Intern - Sanford School of Public Policy",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -338344,7 +338281,7 @@
         "company_name": "Picarro",
         "id": "78f19624-1c44-4977-b62e-7f62d90abe71",
         "title": "Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339457,7 +339394,7 @@
         "company_name": "Walleye Capital",
         "id": "c32147c4-e359-49f8-8d2e-d52f0a1646d8",
         "title": "Investment Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341931,7 +341868,7 @@
         "company_name": "NEC Software Solutions",
         "id": "ce02e9f1-bf39-48b0-a3a9-3e4415bc9f78",
         "title": "Software Developer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341973,7 +341910,7 @@
         "company_name": "Magna",
         "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345443,7 +345380,7 @@
         "company_name": "Magna",
         "id": "5baf8620-6e7e-443a-bab5-755a61362095",
         "title": "Infrared Imaging & Algorithms Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -347585,7 +347522,7 @@
         "company_name": "Together AI",
         "id": "be2e3a34-763e-4546-b44d-affa9c4f634e",
         "title": "Research reinforcement learning & Post-Training Systems Intern - Turbo",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -352530,7 +352467,7 @@
         "company_name": "Intuit",
         "id": "d249bf80-6b21-4361-bcab-b047533c7142",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -352551,7 +352488,7 @@
         "company_name": "Netflix",
         "id": "dee128c9-ea09-43a7-b1c8-6ab36d14287e",
         "title": "AI/ML Scientist Intern - AIMS AI Foundations",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -352958,7 +352895,7 @@
         "company_name": "Crowdstrike",
         "id": "8429362a-1d03-4406-8ab4-86f7dd0754b2",
         "title": "Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Summer 2026"
@@ -352983,7 +352920,7 @@
         "company_name": "Intel",
         "id": "7dea03b1-05bd-4605-a42a-103a582bb000",
         "title": "Facilities Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -353481,7 +353418,7 @@
         "company_name": "GE Appliances",
         "id": "8b3a040d-9740-4868-a1c8-672234e74f84",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -354690,6 +354627,102 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tenstorrent",
+        "id": "ff19fd26-9c3d-4f2a-9f6f-8e9db2629828",
+        "title": "Machine Learning for Physical Design Intern - CPU/AI Hardware",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765583620,
+        "date_posted": 1765583620,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "5971e10c-96c8-4605-9fe5-6b3de66eb784",
+        "title": "Machine Learning Center of Excellence Intern - NLP",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782983697,
+        "date_posted": 1782983196,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765492",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Oracle",
+        "id": "6bc56f74-fa37-4967-8bfe-dd9785fa6c29",
+        "title": "Data Center Trainee",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782983341,
+        "date_posted": 1775599777,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/330606",
+        "locations": [
+            "Stamford, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Blackstone",
+        "id": "25b9a125-ee47-46ff-852e-22fb108b21d6",
+        "title": "Blackstone Credit and Insurance \u2013 Quant and Portfolio Analytics Summer Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1782986335,
+        "date_posted": 1782985395,
+        "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Summer-Analyst---London-_43819",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Blackstone",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
