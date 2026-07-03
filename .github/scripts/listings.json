@@ -1,92 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "PA Consulting",
-        "id": "db1a9481-40dd-4b54-b1b2-7f3b655c0017",
-        "title": "2026 Summer Internship - Software & Controls Engineer - Cambridge",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762363691,
-        "date_posted": 1762363691,
-        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000091820105",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/PA-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "c0594ae2-5a7a-4974-bed8-f18b100fee2d",
-        "title": "2026 Statistics Intern - PhD",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762363290,
-        "date_posted": 1762363290,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010190306",
-        "locations": [
-            "Waukegan, IL",
-            "California",
-            "Livingston, NJ",
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "89441b3e-bca9-40fd-8ed9-c5b7e4ead110",
-        "title": "2026 Statistics Intern - PhD",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762363291,
-        "date_posted": 1762363291,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010190256",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "2a679c07-d9a9-4ed4-bbb4-7888ed77ccf8",
-        "title": "2026 Statistics Intern - PhD",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762363289,
-        "date_posted": 1762363289,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010190426",
-        "locations": [
-            "Livingston, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1763457815,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -3294,27 +3207,6 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AECOM",
-        "id": "cec23af5-203d-47f4-8213-3315c51ee4e4",
-        "title": "Digital Technology / Drone Pilot Apprentice",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762363937,
-        "date_posted": 1762363937,
-        "url": "https://jobs.smartrecruiters.com/AECOM2/744000091836045",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/AECOM",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -338762,7 +338654,7 @@
         "company_name": "Cummins",
         "id": "5c420a56-27d6-498b-8244-a21b9df392ba",
         "title": "Student \u2013 School to Work-Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342255,7 +342147,7 @@
         "company_name": "Intel",
         "id": "54658487-cbd9-481a-af00-ad1d73459d42",
         "title": "Silicon Architecture Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
