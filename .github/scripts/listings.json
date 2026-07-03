@@ -328565,7 +328565,7 @@
         "company_name": "Sherwin-Williams",
         "id": "ce9cfe28-1f61-400e-a4d2-1cc1887fd921",
         "title": "R&D Product Engineering Co-op - Commercialization Engineering - Process Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -345580,7 +345580,7 @@
         "company_name": "Interac",
         "id": "d85d289c-51f3-4f64-a4f9-fb72a227ccf2",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -349237,7 +349237,7 @@
         "company_name": "Sun Life",
         "id": "de7e28ae-dd6e-4b47-82b3-0afd505f197e",
         "title": "Student \u2013 B2B Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -351543,7 +351543,7 @@
         "company_name": "Palo Alto Networks",
         "id": "01d46802-0616-4267-b69b-e69902565213",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353371,5 +353371,242 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "cbf7c33c-7f5a-40a6-9ec5-b27895094847",
+        "title": "Energy Engineering Intern - Software Engineer Diagnostics - Energy Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783042116,
+        "date_posted": 1783041178,
+        "url": "https://www.tesla.com/careers/search/job/275805",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "b1f8c920-8d06-4fde-b5a2-23db753f0379",
+        "title": "Copyright Solution Product Manager Intern - Tiktok-Music",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783041736,
+        "date_posted": 1783041221,
+        "url": "https://lifeattiktok.com/search/7657541997725288757",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "8f92877d-e680-4332-960c-8f9f8242c24d",
+        "title": "Product Manager Intern - TikTok Product Content Ecosystem",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783041715,
+        "date_posted": 1783041221,
+        "url": "https://lifeattiktok.com/search/7657778928769534213",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centific",
+        "id": "5422cc4b-e8cc-4455-8067-5eea2cebcf86",
+        "title": "Technical Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783041121,
+        "date_posted": 1783040845,
+        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR105488-1",
+        "locations": [
+            "Remote in USA",
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Centific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centific",
+        "id": "311ec043-a7e1-4692-ab46-7714ba837ac7",
+        "title": "Technical Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783041121,
+        "date_posted": 1783040848,
+        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR107479-1",
+        "locations": [
+            "Remote in USA",
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Centific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Saronic",
+        "id": "c230446a-3c98-496a-96d9-235c2b74f10e",
+        "title": "Enterprise Technology Intern - AI and Automation",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783041121,
+        "date_posted": 1783041027,
+        "url": "https://jobs.ashbyhq.com/saronic/c95c2e3a-4c67-47b0-a03d-0e0317ac11a3/application",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Saronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "81a22594-7cb3-4fa8-a10f-7d86bc57fcf6",
+        "title": "Research Scientist Intern - AI Infrastructure",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783041121,
+        "date_posted": 1783041089,
+        "url": "https://jobs.bytedance.com/en/position/7553916190126524680/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "39b14011-bd7a-48d9-b759-cf7d5b7cd8b9",
+        "title": "Research Scientist Intern - AI Infrastructure",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783041121,
+        "date_posted": 1783041089,
+        "url": "https://jobs.bytedance.com/en/position/7553917136512076050/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zoox",
+        "id": "55c81c03-2da3-406d-8777-b78eb48256fe",
+        "title": "Student Worker - AI Validation and Benchmarking Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783041037,
+        "date_posted": 1783040709,
+        "url": "https://jobs.lever.co/zoox/6d8b31d2-6391-44b7-bf9f-93360172fae8/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Rise8",
+        "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
+        "title": "Skillbridge Intern - Product Manager",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783042220,
+        "date_posted": 1782771852,
+        "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rise8",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
