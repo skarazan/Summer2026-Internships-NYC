@@ -326994,7 +326994,7 @@
         "company_name": "Magna",
         "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
         "title": "Junior Full Stack Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344980,7 +344980,7 @@
         "company_name": "Oklahoma State Government",
         "id": "933ba205-c388-4e90-860a-b5e1ca92ba18",
         "title": "Information Systems Application Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -345113,7 +345113,7 @@
         "company_name": "University Health Network",
         "id": "217a4bc5-fe0f-4b63-b0e9-a12e44778fb3",
         "title": "Junior Report Developer Intern - Analytics and Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349445,7 +349445,7 @@
         "company_name": "The Walt Disney Company",
         "id": "41ae06f8-2f03-4a37-8105-9b69f2aa172e",
         "title": "Commercial Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -349813,7 +349813,7 @@
         "company_name": "The Walt Disney Company",
         "id": "256296b9-f70f-4a10-99a9-7fda3af904fb",
         "title": "Commercial Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -353608,5 +353608,302 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Travelers",
+        "id": "68319bca-98b4-425e-a9f1-826f84185db6",
+        "title": "Business Insights & Analytics Leadership Development Program Intern - BI&a Ldp",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783059561,
+        "date_posted": 1783058956,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-51332-1",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Travelers",
+        "id": "8e880f43-881f-428a-a0df-2499ae363955",
+        "title": "Product Management Development Program Intern - Pricing Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783059529,
+        "date_posted": 1783058951,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Pricing-Analyst---Summer-2027_R-51216",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Travelers",
+        "id": "9d7568db-dd77-40a4-ab10-9ddea6a7c985",
+        "title": "Business Insights & Analytics Leadership Development Program - BI&a Ldp - Geospatial Participant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783059123,
+        "date_posted": 1783058951,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Geospatial-Participant_R-51331",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Travelers",
+        "id": "940c277c-55c2-4e03-8046-d765e0c14dd7",
+        "title": "Engineering Development Program - Engineering Development Program - Software Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783059123,
+        "date_posted": 1783058949,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-51183-1",
+        "locations": [
+            "Sparks, MD",
+            "Hartford, CT",
+            "Atlanta, GA",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Travelers",
+        "id": "8dc1849d-c45d-42c3-ac6a-74ec668986a0",
+        "title": "Engineering Development Program Intern - Engineering Development Program",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783059445,
+        "date_posted": 1783058953,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-51185",
+        "locations": [
+            "Sparks, MD",
+            "Hartford, CT",
+            "Atlanta, GA",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AtkinsR\u00e9alis",
+        "id": "958e93d4-5d28-4d64-aef4-7b3e4b7f6e1a",
+        "title": "Physics Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783059123,
+        "date_posted": 1783058900,
+        "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2251-Speakman-Drive/Physics-Student---Fall_R-159111",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AtkinsRealis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Travelers",
+        "id": "4e54f4f7-8945-46be-8759-53b17afb00ea",
+        "title": "Business Insights & Analytics Leadership Development Program - BI&A LDP",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783059123,
+        "date_posted": 1783058952,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Participant_R-51330",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Travelers",
+        "id": "2a5c7288-d7fe-41bb-98ec-b663fb23c85f",
+        "title": "Data Science Leadership Development Program Intern - Dsldp",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783059442,
+        "date_posted": 1783058955,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Science-Leadership-Development-Program--DSLDP--Intern_R-51337",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Travelers",
+        "id": "66abf653-73b2-4490-8902-fd003a1987ce",
+        "title": "Product Management Development Program Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783059442,
+        "date_posted": 1783058952,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Internship---Summer-2027_R-51214",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Travelers",
+        "id": "5d6d2dac-1be0-4319-bcf8-3ee10ba498a5",
+        "title": "Engineering Development Program - Data Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783059123,
+        "date_posted": 1783058953,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Data-Engineering_R-51184-1",
+        "locations": [
+            "Sparks, MD",
+            "Hartford, CT",
+            "Atlanta, GA",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Travelers",
+        "id": "1ef581d4-9bfe-444c-8684-84d5c0732106",
+        "title": "Business Insights & Analytics Leadership Development Program Geospatial Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783059445,
+        "date_posted": 1783058952,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Geospatial-Intern_R-51333-1",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arlington County VA",
+        "id": "098a3e59-47c8-468f-bd4d-7a3c9ad2786c",
+        "title": "Utility Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783059020,
+        "date_posted": 1783058679,
+        "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arlington-County-VA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
