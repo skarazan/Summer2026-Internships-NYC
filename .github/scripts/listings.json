@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1763457815,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://apply.workable.com/valsoft-corp/j/6F0FDC6043/",
-        "company_name": "Valsoft",
-        "title": "Full Stack Developer Intern",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "terms": [
-            "Spring 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "2f12f3b6-8b50-4008-a600-188752672e98",
-        "date_posted": 1762370442,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Seagate Technology ",
@@ -105563,7 +105540,7 @@
         "company_name": "TikTok",
         "id": "f9741a17-06d3-4c2c-a2e5-75d3bcc10db9",
         "title": "Data Science Intern - Advertisement Team - 2026 Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
