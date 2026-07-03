@@ -131916,7 +131916,7 @@
         "company_name": "TikTok",
         "id": "5be21c8e-1326-4ca1-9b44-d4839ecb5574",
         "title": "Data Science Intern - Advertisement Team - 2026 Start','PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289672,7 +289672,7 @@
         "company_name": "SOTI",
         "id": "532987f0-bfae-4a4f-a3fb-c33755ac93fa",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -291821,7 +291821,7 @@
         "company_name": "Nokia",
         "id": "80c7c165-b50f-4379-9cc0-b2370c069c36",
         "title": "Web Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -347534,7 +347534,7 @@
         "company_name": "Rise8",
         "id": "e48da94e-987a-48e6-a34c-82e0558ae8bb",
         "title": "Software Engineer Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -352984,7 +352984,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -353365,5 +353365,98 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "McMaster-Carr",
+        "id": "4dd6c156-2cf7-47e3-a050-40fc952ae8ea",
+        "title": "Management Track",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783117441,
+        "date_posted": 1783117310,
+        "url": "https://job-boards.greenhouse.io/mcmastercarr/jobs/4226729009",
+        "locations": [
+            "Cleveland, OH",
+            "Fort Worth, TX",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/McMaster-Carr",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Manulife Financial",
+        "id": "2f63f3e7-afc3-4a28-a187-dca0d89123c1",
+        "title": "Print & Post Intern / Co-op - P&P",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783117449,
+        "date_posted": 1783116700,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Print---Post--P-P--Operations---Data-Analyst-Intern---Co-op_JR26060039",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sentra",
+        "id": "33c527f2-ac7d-48ff-8bda-4961e809a00b",
+        "title": "Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783117418,
+        "date_posted": 1783116640,
+        "url": "https://jobs.ashbyhq.com/sentra/6974a286-676f-424b-b114-09fbe9ab23e8/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sentra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AI Fund",
+        "id": "61c906f4-8ea5-4177-8afa-854efd9a7e01",
+        "title": "Engineer Marketradar",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783117184,
+        "date_posted": 1783116494,
+        "url": "https://jobs.lever.co/AIFund/a95a55a3-06ca-4e15-8c72-8d9e8255a9d6/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
