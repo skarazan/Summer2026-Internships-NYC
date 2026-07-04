@@ -27976,27 +27976,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rambus",
-        "id": "9899b175-c337-497b-a181-b9ec44f46a36",
-        "title": "Design Verification Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764518791,
-        "date_posted": 1762439920,
-        "url": "https://careers-rambus.icims.com/jobs/22436/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rambus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Keysight Technologies",
         "id": "4c8d8d34-4300-483f-a891-278916c5c58f",
@@ -351977,6 +351956,98 @@
             "PhD",
             "JD",
             "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CTGT",
+        "id": "8c8a1f21-e711-48d0-8cec-601018138920",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783174416,
+        "date_posted": 1783174097,
+        "url": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/CTGT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Droyd Robotics",
+        "id": "d423afb4-e4be-41f7-923e-d55ed5e3bddb",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783174145,
+        "date_posted": 1783174061,
+        "url": "https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Droyd-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Verne Robotics",
+        "id": "5dd5bac7-36ff-4f7d-9bff-a16346ccfa89",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783174145,
+        "date_posted": 1783174066,
+        "url": "https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verne-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Droyd Robotics",
+        "id": "457f1bf0-10ec-41b5-ab16-bc702e1a0fb4",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783174382,
+        "date_posted": 1783174061,
+        "url": "https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Droyd-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
