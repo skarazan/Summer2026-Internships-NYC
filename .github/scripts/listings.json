@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Experian",
-        "id": "98ba296b-f3ae-4839-8379-f408f850ec43",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762395313,
-        "date_posted": 1762395313,
-        "url": "https://jobs.smartrecruiters.com/Experian/744000091928005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Experian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "The Aerospace Corporation",
         "id": "37e5bbf0-7594-4acf-9ce4-9096b87bd726",
@@ -302489,7 +302468,7 @@
         "company_name": "Trane Technologies",
         "id": "cd2ecb0f-e6e0-4b6a-88d4-f45f6168c70b",
         "title": "Collections Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342672,7 +342651,7 @@
         "company_name": "Kinaxis",
         "id": "cc7eaf50-2d27-4f31-89b7-4bf855cd03d2",
         "title": "Software Developer Co-op/Intern - Core Algorithms",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -352005,6 +351984,29 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Sezzle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ABB",
+        "id": "44e2d8e0-1adf-4090-8543-87e3ee669f2f",
+        "title": "Integrated Motor Drive Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783127776,
+        "date_posted": 1783127562,
+        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/Integrated-Motor-Drive-Co-Op---Fall-2026_JR00040102",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/ABB",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
