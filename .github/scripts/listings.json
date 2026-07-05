@@ -323803,7 +323803,7 @@
         "company_name": "ServiceNow",
         "id": "e5a173bc-a66a-4551-b190-093e94c657ac",
         "title": "Servicenow Futures Summit Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -325317,7 +325317,7 @@
         "company_name": "ServiceNow",
         "id": "a321ad73-583a-4203-bee3-a9fe75923346",
         "title": "Futures Summit Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
