@@ -1,74 +1,5 @@
 [
     {
-        "date_updated": 1762555258,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://reingoldinc.applytojob.com/apply/xvpGbLo37x/AI-Innovation-Intern",
-        "company_name": "Reingold",
-        "title": "AI Innovation Intern",
-        "locations": [
-            "Alexandria, VA"
-        ],
-        "terms": [
-            "Spring 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Simplify",
-        "id": "6fdee9fa-f49b-468a-8151-e2314234a52c",
-        "date_posted": 1762555258,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762555325,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/ML-Technology-Intern--Graduate-Students_R37735",
-        "company_name": "CoStar Group",
-        "title": "ML Technology Intern, Graduate Students",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "dceda16e-1d7b-47b7-99a2-069fbe434366",
-        "date_posted": 1762555325,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1765775874,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers-persistentsystems.icims.com/jobs/2113/intern---embedded-software-engineer-%28fall-2025%29/job",
-        "company_name": "Persistent Systems",
-        "title": "Intern - Embedded Software Engineer (Fall 2025)",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "c3d2a71f-583e-4f8b-9310-a6b2eb753417",
-        "date_posted": 1762555426,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Wing",
@@ -348892,6 +348823,81 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Tower Research Capital",
+        "id": "f48a8b1a-b2ba-48ce-becd-612e1c0a2198",
+        "title": "Quantitative Trader Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783290961,
+        "date_posted": 1783290840,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=8024138",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Tower Research Capital",
+        "id": "a619c6de-ef67-4039-af21-31cf505b8ee2",
+        "title": "Quantitative Trader Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783290961,
+        "date_posted": 1783290840,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Tower Research Capital",
+        "id": "9d506d4e-91ee-4f46-bda5-4ab9b5dddf55",
+        "title": "Quantitative Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783290961,
+        "date_posted": 1783290840,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
