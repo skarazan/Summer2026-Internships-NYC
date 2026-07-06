@@ -1,112 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Wing",
-        "id": "dcef8f5d-e765-439b-a147-9cdf5ba9dab6",
-        "title": "Guidance \u2013 Control Software Engineering Intern - Navigation",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762619244,
-        "date_posted": 1762619244,
-        "url": "https://wing.com/careers/8236140002?gh_jid=8236140002",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Zoox",
-        "id": "5b4096fe-75d9-41a3-96a9-b3430977ecd1",
-        "title": "HIL & System Validation Intern - HIL Platform Software - Hardware Software Integration - Systems Integration",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762619035,
-        "date_posted": 1762619035,
-        "url": "https://jobs.lever.co/zoox/07ac26ee-0594-41d8-928e-7cf1e373e2dd/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ramp",
-        "id": "e6dcb022-9baa-4899-9885-73d239ca65ff",
-        "title": "Software Engineer Internship - Forward Deployed",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1762618723,
-        "date_posted": 1762618723,
-        "url": "https://jobs.ashbyhq.com/ramp/ccb1aca4-79ac-414b-b7d8-bc908c575ef1/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Ramp",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "MEMX",
-        "id": "b6b27eb3-8a80-418e-837f-fa17b5309765",
-        "title": "Market Technology and Member Experience Intern - Summer 2026 - Hybrid",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762618663,
-        "date_posted": 1762618663,
-        "url": "https://job-boards.greenhouse.io/memx/jobs/4981333008",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/MEMX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lightmatter",
-        "id": "a491e0cb-aa12-4524-8d2a-7f11a0e1c2f9",
-        "title": "Machine Learning Research Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762618820,
-        "date_posted": 1762618820,
-        "url": "https://boards.greenhouse.io/lightmatter/jobs/4979972008",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lightmatter",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Honeywell",
         "id": "b543c284-33ca-4f17-bd08-506f495c56d9",
@@ -472,27 +366,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "00551b91-4658-4a70-86ee-902c3bf5debd",
-        "title": "2026 Systems Engineering Intern - Onsite - Huntsville - AL",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762619407,
-        "date_posted": 1762619407,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AL200-401-Jan-Davis-Drive-Huntsville-401-Jan-Davis-Drive---Huntsville-AL-35806-USA/XMLNAME-2026-Systems-Engineering-Intern---Onsite---Huntsville--AL_01804908",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Tenstorrent",
         "id": "8317698c-8c9b-4261-88ff-835ba69c42e8",
@@ -575,69 +448,6 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Sanctuary-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "FM Global",
-        "id": "abd39dfe-8a08-418f-b295-2f39fd8b907d",
-        "title": "Corporate Underwriting Data Analyst Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762618766,
-        "date_posted": 1762618766,
-        "url": "https://jobs-fmglobal.icims.com/jobs/16020/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Providence, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/FM-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Zoox",
-        "id": "f5c8f1f3-127e-4a93-b85a-f03cdfc3a536",
-        "title": "Data Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762619030,
-        "date_posted": 1762619030,
-        "url": "https://jobs.lever.co/zoox/b9fb6f1d-31db-4a79-b70b-9396bf01b117/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Formlabs",
-        "id": "599f2c62-2e11-4a28-ad8d-e92b10e424c4",
-        "title": "Print Optimization Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762618878,
-        "date_posted": 1762618878,
-        "url": "https://careers.formlabs.com/job/7384134/apply/?gh_jid=7384134",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Formlabs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -7376,27 +7186,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Crum & Forster Insurance",
-        "id": "a107b137-4940-4d3d-9a72-4010d3eebc39",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763086085,
-        "date_posted": 1762618796,
-        "url": "https://careers-cfins.icims.com/jobs/4645/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Morristown, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Crum-And-Forster-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Rivian",
         "id": "1e32dd6a-0978-4f67-988e-1315eb98f2f0",
@@ -8608,29 +8397,6 @@
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/Great-American-Insurance-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Berkshire Hathaway Energy",
-        "id": "8356ebe6-d27a-4c5b-a609-a029ea5e55d1",
-        "title": "Intern \u2013 Engineer Operations & Analytics",
-        "active": true,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1762618330,
-        "date_posted": 1762618330,
-        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003877",
-        "locations": [
-            "Omaha, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -286879,7 +286645,7 @@
         "company_name": "Nokia",
         "id": "cdc18b7e-0c00-430b-9e72-ec96ba943281",
         "title": "Software Designer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -349242,6 +349008,146 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Capital One",
+        "id": "fd6664b1-b682-4a0c-a15c-193d9a9c67c5",
+        "title": "Product Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783348063,
+        "date_posted": 1783346926,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Summer-2027_R246020-1",
+        "locations": [
+            "Plano, TX",
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Dynamics",
+        "id": "e429452e-d5a5-4ee1-99ce-5248b3ce962d",
+        "title": "Engineering Intern - Business Support",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783348074,
+        "date_posted": 1783346953,
+        "url": "https://careers-gd-ots.icims.com/jobs/36564/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Gadsden, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "1f1ba77e-4231-4e0a-83af-93d4dc3d219e",
+        "title": "Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783347868,
+        "date_posted": 1783347142,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000079934-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "fafb52bd-9836-425b-8b98-418d1bbf3712",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783347664,
+        "date_posted": 1783346928,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Analyst-Intern---Summer-2027_R244317-1",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Quest Global",
+        "id": "71d9d436-8094-473a-8b79-b53c84ea4647",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783347631,
+        "date_posted": 1783347051,
+        "url": "https://careers.quest-global.com/global/en/job/P-120293",
+        "locations": [
+            "Wichita, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Quest-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cloudflare",
+        "id": "823c7521-30db-4a2c-98a3-b7ec0dd88f1d",
+        "title": "AI Builder Intern - Global Customer Engineering - Service Sales",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783348201,
+        "date_posted": 1783347326,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/8044395",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
