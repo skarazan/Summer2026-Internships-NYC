@@ -1,3 +1,82 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "listing_id": "5d95fbd7-3bfc-46bc-8fd9-9f014b6308ed",
+      "company_name": "Citadel Securities",
+      "title": "Designated Market Maker Intern - Designated Market Maker - Trader",
+      "url": "https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/",
+      "simplify_url": "https://simplify.jobs/p/5d95fbd7-3bfc-46bc-8fd9-9f014b6308ed",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "Quant",
+      "date_detected": 1783331393
+    },
+    {
+      "listing_id": "119372b9-773c-43f5-a19e-c61469564529",
+      "company_name": "Citadel Securities",
+      "title": "Credit & Rates Rotational Trader Intern",
+      "url": "https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/",
+      "simplify_url": "https://simplify.jobs/p/119372b9-773c-43f5-a19e-c61469564529",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "Quant",
+      "date_detected": 1783331393
+    },
+    {
+      "listing_id": "88d4320b-8cb5-44fc-b2ec-b7601a389436",
+      "company_name": "Citadel Securities",
+      "title": "Quantitative Trader Intern",
+      "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/",
+      "simplify_url": "https://simplify.jobs/p/88d4320b-8cb5-44fc-b2ec-b7601a389436",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "Quant",
+      "date_detected": 1783331393
+    },
+    {
+      "listing_id": "48327e8c-a8f7-4339-83a4-019ef774f663",
+      "company_name": "Citadel",
+      "title": "Quantitative Research Analyst Intern",
+      "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/",
+      "simplify_url": "https://simplify.jobs/p/48327e8c-a8f7-4339-83a4-019ef774f663",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "Quant",
+      "date_detected": 1783331393
+    },
+    {
+      "listing_id": "28286b52-4c99-4d00-a870-d919c13d68c6",
+      "company_name": "Citadel",
+      "title": "Software Engineer Intern",
+      "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+      "simplify_url": "https://simplify.jobs/p/28286b52-4c99-4d00-a870-d919c13d68c6",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "Software",
+      "date_detected": 1783331393
+    },
+    {
+      "listing_id": "5f7e1e45-9de0-4e8b-a12a-1a068acf36cc",
+      "company_name": "Citadel Securities",
+      "title": "Quantitative Research Analyst Intern",
+      "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/",
+      "simplify_url": "https://simplify.jobs/p/5f7e1e45-9de0-4e8b-a12a-1a068acf36cc",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "Quant",
+      "date_detected": 1783331393
+    }
+  ]
 }

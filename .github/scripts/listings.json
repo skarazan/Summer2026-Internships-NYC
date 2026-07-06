@@ -334463,7 +334463,7 @@
         "company_name": "University of Arkansas",
         "id": "7827d202-eb46-4b93-8cd8-45611c91468b",
         "title": "Graduate Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -334873,7 +334873,7 @@
         "company_name": "University of Arkansas",
         "id": "9b48bb08-b4b3-4d4d-8fe7-f45594b0dd49",
         "title": "Graduate Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339753,7 +339753,7 @@
         "company_name": "Freeform",
         "id": "97a57670-9a1b-476c-a367-f0f7d91aaf74",
         "title": "Process Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342122,7 +342122,7 @@
         "company_name": "CIBC",
         "id": "5ed7f6fd-9a93-4c69-bc9f-6bd7b68e363a",
         "title": "Data Analyst Co-op - Global Asset Management - Bilingual",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346786,7 +346786,7 @@
         "company_name": "Bank of Montreal",
         "id": "64dfd400-2a8b-48e5-8a0a-0da0ac931046",
         "title": "Database Analyst Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -347758,7 +347758,7 @@
         "company_name": "Centific",
         "id": "5422cc4b-e8cc-4455-8067-5eea2cebcf86",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348898,6 +348898,350 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "5d95fbd7-3bfc-46bc-8fd9-9f014b6308ed",
+        "title": "Designated Market Maker Intern - Designated Market Maker - Trader",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783318888,
+        "date_posted": 1783318271,
+        "url": "https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AI Fund",
+        "id": "b1b9bee7-c650-4a9f-ac98-68ddd8145f41",
+        "title": "Engineer in Residence Slidelang",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783318719,
+        "date_posted": 1783318124,
+        "url": "https://jobs.lever.co/AIFund/69894854-3d58-4efd-8b14-a006dbba48ca/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "119372b9-773c-43f5-a19e-c61469564529",
+        "title": "Credit & Rates Rotational Trader Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783318721,
+        "date_posted": 1783318273,
+        "url": "https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "79ceb913-ca59-4a50-9fa9-18c378d86c3e",
+        "title": "Trader: Fixed Income & Macro Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783318674,
+        "date_posted": 1783318135,
+        "url": "https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/",
+        "locations": [
+            "Greenwich, CT",
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "88d4320b-8cb5-44fc-b2ec-b7601a389436",
+        "title": "Quantitative Trader Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783318659,
+        "date_posted": 1783318267,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "48327e8c-a8f7-4339-83a4-019ef774f663",
+        "title": "Quantitative Research Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783318624,
+        "date_posted": 1783318145,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/",
+        "locations": [
+            "Greenwich, CT",
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citadel Securities",
+        "id": "c76dbe61-c0f6-47a8-b05e-b219b4e28fb7",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783318523,
+        "date_posted": 1783318197,
+        "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AI Fund",
+        "id": "b3ababcb-ddbc-4bdb-82aa-6763882ace0b",
+        "title": "Engineer in Residence",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783318363,
+        "date_posted": 1783318125,
+        "url": "https://jobs.lever.co/AIFund/d71c7a46-b358-4851-af8a-83c6f3d859ca/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citadel",
+        "id": "28286b52-4c99-4d00-a870-d919c13d68c6",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783318226,
+        "date_posted": 1783318141,
+        "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+        "locations": [
+            "Greenwich, CT",
+            "Houston, TX",
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "5e40a228-3721-4f88-96d5-3f59b73be6c4",
+        "title": "Quantitative Strategy Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783318209,
+        "date_posted": 1783317943,
+        "url": "https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Celonis",
+        "id": "0edcb9dd-c78a-48c2-aa24-8f3baabe6737",
+        "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783319401,
+        "date_posted": 1783319363,
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/7781716003?gh_jid=7781716003",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Celonis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "5f7e1e45-9de0-4e8b-a12a-1a068acf36cc",
+        "title": "Quantitative Research Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783329420,
+        "date_posted": 1783328996,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "b977109a-8e8c-4173-a584-460e709a733f",
+        "title": "Quantitative Research Analyst Bachelor's or master's degree Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783329150,
+        "date_posted": 1783328998,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/",
+        "locations": [
+            "London, UK",
+            "Paris, France"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "f828e5b4-9ccb-4b61-bb2c-d55a088b45f4",
+        "title": "Quantitative Trader Equities Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783329057,
+        "date_posted": 1783328811,
+        "url": "https://www.citadel.com/careers/details/quantitative-trader-equities-quantitative-research-intern-us/",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
