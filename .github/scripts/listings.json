@@ -1,93 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "7816c941-1cc9-457b-bf37-cdef34d20a8e",
-        "title": "Intern Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762674554,
-        "date_posted": 1762674554,
-        "url": "https://careers-gdms.icims.com/jobs/68654/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "0719dd5f-8188-4e9c-a2c2-fd19008d22a0",
-        "title": "Software Engineer Intern - Software Engineering",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762674554,
-        "date_posted": 1762674554,
-        "url": "https://careers-gdms.icims.com/jobs/68792/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "df08c4c9-1c7d-4bfe-b5da-d05b598d3bbb",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762674549,
-        "date_posted": 1762674549,
-        "url": "https://careers-gdms.icims.com/jobs/69141/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Dedham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Medpace, Inc.",
-        "id": "598be69a-2777-42ff-846f-921774adfc8c",
-        "title": "Business Intelligence Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762674461,
-        "date_posted": 1762674461,
-        "url": "https://careers.medpace.com/jobs/11744?lang=en-us&icims=1",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Medpace-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sigma Computing",
         "id": "76d1720a-3ef5-4e0f-9146-bbb3a3be7072",
@@ -303659,7 +303572,7 @@
         "company_name": "Lambda",
         "id": "b4e9ca86-32bd-446b-9988-cf1cc0345014",
         "title": "Security Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -315157,7 +315070,7 @@
         "company_name": "thyssenkrupp",
         "id": "bd01268d-018b-42de-992a-fbdb6d74c2c0",
         "title": "Trader Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -316566,7 +316479,7 @@
         "company_name": "Boston Consulting Group",
         "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
         "title": "Working Student - BCG Vantage - Insurance",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -320464,7 +320377,7 @@
         "company_name": "Skyscanner",
         "id": "816ebfe9-3db3-4901-8673-2bf1e96e730e",
         "title": "Software Engineering Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323078,7 +322991,7 @@
         "company_name": "Electronic Arts",
         "id": "5c520aff-46ae-4816-86db-f0e15f726997",
         "title": "Rendering Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325793,7 +325706,7 @@
         "company_name": "CHEP",
         "id": "513d3867-26bc-4203-8cd2-ade981572975",
         "title": "FP&A Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -336968,7 +336881,7 @@
         "company_name": "University of Texas at Austin",
         "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
         "title": "Course Support - Rhetoric",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -348196,7 +348109,7 @@
         "company_name": "Quest Global",
         "id": "71d9d436-8094-473a-8b79-b53c84ea4647",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -349153,6 +349066,75 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Orennia",
+        "id": "3f040704-5c6c-4d37-b7d2-019837f8b910",
+        "title": "Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783418247,
+        "date_posted": 1783416111,
+        "url": "https://boards.greenhouse.io/orennia/jobs/5277706008",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Orennia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hitachi Energy",
+        "id": "7717c612-0855-40d4-8f2d-ceb5c5bc2d57",
+        "title": "Software Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783417861,
+        "date_posted": 1783417388,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Burnaby-British-Columbia-Canada/Software-Analyst-Intern--Fall-2026--4-8-12-months-_R1012892-1",
+        "locations": [
+            "Burnaby, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/83d28c1e-7f20-4aac-afd9-6bc8a468d7eb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SCOR",
+        "id": "8b269186-08b4-44b2-b837-dc52fe571905",
+        "title": "Exposure Management & Accumulations Trainee",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783416781,
+        "date_posted": 1782223536,
+        "url": "https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5101",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SCOR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
