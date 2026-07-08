@@ -267702,7 +267702,7 @@
         "company_name": "Wash U",
         "id": "c478f30c-eba8-48c9-a814-9ed93ee9ac72",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302210,7 +302210,7 @@
         "company_name": "SOTI",
         "id": "b2108b78-20bb-4950-b769-4d3f0cfd7ebe",
         "title": "Software Developer in Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331950,7 +331950,7 @@
         "company_name": "Nokia",
         "id": "b6122e00-e95a-403a-b449-fd3cef0894c3",
         "title": "AI R&D Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336359,7 +336359,7 @@
         "company_name": "Viking Global",
         "id": "6200c443-ced9-4868-902f-2ba885ed5c02",
         "title": "Execution Research Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -348591,7 +348591,7 @@
         "company_name": "CSL",
         "id": "50289bb2-c07c-4ad3-b05f-27e264769e70",
         "title": "Analytics Co-op - Strategic Forecasting & AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -348635,7 +348635,7 @@
         "company_name": "CSL",
         "id": "513e722c-3aff-4a90-b1d8-29f0c9675acf",
         "title": "Data Science / Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -350012,7 +350012,7 @@
         "company_name": "Banner Health",
         "id": "701f6c67-0790-44a2-98fb-8bcac02b2041",
         "title": "IT 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -350167,6 +350167,304 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Draper",
+        "id": "fadd801b-b2eb-4bd6-85da-f05b99404d03",
+        "title": "Microsystems Integration Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783549640,
+        "date_posted": 1783548616,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002599",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rakuten International",
+        "id": "4dc5f31e-e744-4c5c-ac98-baeb6b6f17f3",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783549659,
+        "date_posted": 1783548630,
+        "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rakuten-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TelevisaUnivision",
+        "id": "af313090-f2b7-4478-8239-1f0e03c22f17",
+        "title": "Product Manager Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783549581,
+        "date_posted": 1783548569,
+        "url": "https://univision.wd1.myworkdayjobs.com/en-US/External/job/Miami-FL/Co-Op--Product-Manager---Personalization---New-Experiences-Temp_R020713",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/TelevisaUnivision",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OLG",
+        "id": "0e77d643-8649-4aaa-8742-15190102da70",
+        "title": "Front End Developer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783549531,
+        "date_posted": 1783548518,
+        "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Front-End-Developer-Student_R26_00492",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Sault Ste. Marie, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/OLG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aramark",
+        "id": "89eac7a4-2ee8-4449-ace7-5150e68daab7",
+        "title": "Student IT Associate - Application Developer - ASU-C-Store Markets",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783548905,
+        "date_posted": 1783548474,
+        "url": "https://aramarkcareers.com/UnitedStates/job/Tempe-Student-IT-Associate-Application-Developer-ASU-C-Store-Markets-AZ-85281/1406888100/?ats=successfactors",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Aramark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Datasite",
+        "id": "268262ab-3056-48bd-a78d-3fe70d2fb886",
+        "title": "AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783549347,
+        "date_posted": 1783548398,
+        "url": "https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Datasite",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "DTCC",
+        "id": "f6cb85ff-6c83-4b8d-b3eb-d0ae180c4820",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783548905,
+        "date_posted": 1783548394,
+        "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214160",
+        "locations": [
+            "Tampa, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DTCC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Autodesk",
+        "id": "264ddaa3-5c9c-40c7-b6be-fdb08db1d6a8",
+        "title": "AI in Design & Manufacturing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1783548978,
+        "date_posted": 1781360334,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Intern--Model-Based-Systems-Engineering_26WD94900",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Autodesk",
+        "id": "3534aeb9-7b2a-40a2-b3cb-e8812baa2816",
+        "title": "AI in Design & Manufacturing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783548975,
+        "date_posted": 1781360084,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/AMER---Canada---Ontario---Toronto---University-Ave/Intern--Model-Based-Systems-Engineering_26WD94900-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Zurich Insurance",
+        "id": "389af113-9575-45fb-9bbf-493e37f9ef0d",
+        "title": "Digital Trading Underwriter Trainee",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783548698,
+        "date_posted": 1783548305,
+        "url": "https://www.careers.zurich.com/job/Chichester-Digital-Trading-Trainee-Underwriter-GB-W/1366042957/?ats=successfactors",
+        "locations": [
+            "Portsmouth, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Zurich-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ITT",
+        "id": "252e949a-a495-490e-882c-b0c301195d36",
+        "title": "Supply Chain Data Analyst Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783548363,
+        "date_posted": 1783548252,
+        "url": "https://careersenus-itt-inc.icims.com/jobs/15908/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Seneca Falls, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/ITT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zoox",
+        "id": "b4979a01-4110-4ef8-a1a3-cf9c33776e5a",
+        "title": "Student Worker - Manufacturing Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783548589,
+        "date_posted": 1783548208,
+        "url": "https://jobs.lever.co/zoox/02f4bebd-ab47-4d4c-b887-cffcfeea3494/apply",
+        "locations": [
+            "Hayward, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cooper University Health Care",
+        "id": "5605596f-5484-49f2-8d73-cd35a8168c65",
+        "title": "Business Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783548181,
+        "date_posted": 1783548103,
+        "url": "https://careers-cooperhealth.icims.com/jobs/84535/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cooper-University-Health-Care",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
