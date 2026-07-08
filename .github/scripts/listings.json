@@ -227785,7 +227785,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -305198,7 +305198,7 @@
         "company_name": "GenScript",
         "id": "bf6f1046-c707-41a4-9446-0ed05b3dcb3c",
         "title": "AI Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -341157,7 +341157,7 @@
         "company_name": "Rise8",
         "id": "e48da94e-987a-48e6-a34c-82e0558ae8bb",
         "title": "Software Engineer Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -346607,7 +346607,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -350119,5 +350119,101 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OLG",
+        "id": "a92ef88c-0e72-4b45-ac7e-21d41ecd7fea",
+        "title": "Customer Insights - Customer Insights - Analyst Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783521001,
+        "date_posted": 1783519649,
+        "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Customer-Insights--CI--Analyst-Student_R26_00441",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/OLG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "8085b0fb-3683-4307-b90e-062ef95c0389",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783521174,
+        "date_posted": 1783519989,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OLG",
+        "id": "6ffa4911-a821-45a3-9d35-7e473db2ebb1",
+        "title": "Enterprise Analytics Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783521001,
+        "date_posted": 1783519650,
+        "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Enterprise-Analytics-Student_R26_00454",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Sault Ste. Marie, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/OLG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "4c9bb250-a013-4acd-8de3-05b3d7c7f2b2",
+        "title": "Generative AI Associate",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783521001,
+        "date_posted": 1783520733,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4307422009",
+        "locations": [
+            "Montana"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
