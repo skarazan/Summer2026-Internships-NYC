@@ -278553,7 +278553,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "14dcee99-b506-4efe-a80a-63151e541c4d",
         "title": "Quantitative Strategy Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -325810,7 +325810,7 @@
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
         "title": "Machine Learning Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -337813,7 +337813,7 @@
         "company_name": "Copart",
         "id": "7e13e0d3-bd62-458e-869e-bb070af80106",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345260,7 +345260,7 @@
         "company_name": "Intermountain Healthcare",
         "id": "821df725-8277-4656-845f-df116ea22cc6",
         "title": "Investment Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -346276,7 +346276,7 @@
         "company_name": "Kpler",
         "id": "38fae718-2ebc-4e97-af8f-e135cff957b4",
         "title": "Quantitative Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -349124,7 +349124,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "795fc727-866d-4aee-b2f7-e8967b3e4d76",
         "title": "Off Cycle Intern - Aiden Edge",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -350003,6 +350003,29 @@
             "Master's",
             "Associate's",
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "49ac286b-0d2a-44df-b39a-c6540778f26a",
+        "title": "Performance Engineer Intern - Systems Software",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783503120,
+        "date_posted": 1783375946,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
