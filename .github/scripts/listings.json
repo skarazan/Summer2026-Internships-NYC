@@ -2,69 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Sigma Computing",
-        "id": "76d1720a-3ef5-4e0f-9146-bbb3a3be7072",
-        "title": "AI/ML PhD Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762741481,
-        "date_posted": 1762741481,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7523576003",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sigma Computing",
-        "id": "012e714d-906c-461c-9252-f102ba8431bb",
-        "title": "AI/ML Graduate Engineering Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762741480,
-        "date_posted": 1762741480,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7523578003",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "68adc91f-dab5-43a4-a7bf-3a315b755276",
-        "title": "Software Engineer Intern - Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762742445,
-        "date_posted": 1762742445,
-        "url": "https://careers-gdms.icims.com/jobs/67921/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Canonsburg, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "NBCUniversal",
         "id": "55bc3286-7fe4-4eb5-b5eb-80426b3044da",
         "title": "Telemundo Enterprises Programming & Research Internships - Summer 2026",
@@ -346383,7 +346320,7 @@
         "company_name": "Intel",
         "id": "aec3e3cb-1b29-499e-85f5-1be1da41c842",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -349991,6 +349928,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Democratic Governors Association",
+        "id": "375081c2-b95b-4526-ba98-1002490a3e1b",
+        "title": "Data and Coding Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783473091,
+        "date_posted": 1783472786,
+        "url": "https://jobs.lever.co/dga/cc41da12-5af0-41b6-b85e-301af4868bca/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Democratic-Governors-Association",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
