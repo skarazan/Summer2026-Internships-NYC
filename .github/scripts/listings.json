@@ -1,74 +1,5 @@
 [
     {
-        "date_updated": 1763029174,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Aerospace-AI-ML-Intern_R-00169656",
-        "company_name": "Leidos",
-        "title": "Aerospace AI/ML Intern",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "e0c55eb7-9804-4ce3-b61c-94240c397297",
-        "date_posted": 1762875523,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762875637,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://wing.com/careers/8237644002?gh_jid=8237644002",
-        "company_name": "Wing",
-        "title": "Perception Software Engineering Intern, Summer 2026",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Simplify",
-        "id": "435d515c-0b1b-48a1-8fa7-b96b39fc5061",
-        "date_posted": 1762875637,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762875719,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Santa-Clara-CA/Computer-Science-Data-Science-Intern---Bachelor-s-Degree_2502352",
-        "company_name": "Marvell",
-        "title": "Computer Science/Data Science Intern - Bachelor's Degree",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "0f6e6212-087f-40cf-afdb-cc7cb7fe0596",
-        "date_posted": 1762875719,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Ryan",
@@ -333661,7 +333592,7 @@
         "company_name": "Accenture",
         "id": "a31a57fb-fac6-48d7-922d-fd8a0ed9334d",
         "title": "Technology Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342430,7 +342361,7 @@
         "company_name": "Climate Corps",
         "id": "5b74ecb7-7875-4e7a-8482-2baf4c83f1fa",
         "title": "Sustainability Reporting Specialist Fellow",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -347269,7 +347200,7 @@
         "company_name": "Harris Computer",
         "id": "970c3ae9-b47d-4765-baf9-239112cff3a7",
         "title": "AI & Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -348784,5 +348715,99 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "1bfc9357-5590-4abc-b602-691403283106",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783606233,
+        "date_posted": 1783555200,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Motors",
+        "id": "0d684ec2-3984-474f-89ab-9e7ae0809d1e",
+        "title": "Materials Science Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783606466,
+        "date_posted": 1783375826,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--Materials-Science---Metallurgical-Engineering_JR-202612790",
+        "locations": [
+            "Warren, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uber Freight",
+        "id": "51146492-0c25-4e83-b0f2-9bd98505db21",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1783608151,
+        "date_posted": 1783607776,
+        "url": "https://job-boards.greenhouse.io/uberfreight/jobs/5194491008",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber-Freight",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eulerity",
+        "id": "c5e8d6dd-ca17-4cde-89c3-e8da016a78e5",
+        "title": "Digital Marketing Intern - Technical AI & Automation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783607624,
+        "date_posted": 1783606645,
+        "url": "https://job-boards.greenhouse.io/eulerity/jobs/4695806006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Eulerity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
