@@ -84716,7 +84716,7 @@
         "company_name": "Vendelux",
         "id": "08a8a761-d653-47a6-87d0-fb6aeef65d5e",
         "title": "Part Time Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -101310,7 +101310,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -227057,7 +227057,7 @@
         "company_name": "Tencent",
         "id": "e4becf68-5294-4c91-a10c-4626a344f605",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310773,7 +310773,7 @@
         "company_name": "Magna",
         "id": "06de75c2-cc22-4498-95d5-a96d0f6f920b",
         "title": "Artificial Intelligence Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342453,7 +342453,7 @@
         "company_name": "Iowa State University",
         "id": "14a709a5-3c90-4741-9cd5-4f72de58c755",
         "title": "Postdoctoral Researcher in Machine Learning and Computational Chemistry",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -347182,7 +347182,7 @@
         "company_name": "Blackberry",
         "id": "af9f0a8b-b6df-4358-9834-160d1d0d7a32",
         "title": "QNX Software Developer Co-op - Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -348653,6 +348653,35 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
+        "title": "Field Service Apprentice",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1783585745,
+        "date_posted": 1783490750,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043000-1",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Certificate"
         ]
     }
 ]
