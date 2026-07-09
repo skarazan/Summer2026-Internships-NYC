@@ -203990,7 +203990,7 @@
         "company_name": "Occidental Petroleum Corporation (Oxy)",
         "id": "482740e0-68a4-4908-a047-e4788e000945",
         "title": "Co-Op \u2013 Data - Well Servicing & Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289980,7 +289980,7 @@
         "company_name": "Nokia",
         "id": "c8594304-a742-434c-82a0-46f0a41e9f03",
         "title": "Data Science Co-op - Test Automation - Big Data Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -294385,7 +294385,7 @@
         "company_name": "Advanced Energy",
         "id": "729f884e-638b-4dcb-aac8-3d44f316cac9",
         "title": "Electronics Service Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -295684,7 +295684,7 @@
         "company_name": "True Manufacturing",
         "id": "8e39a25b-7f83-469c-a84e-63c374d0f3cf",
         "title": "AI Analyst Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -301098,7 +301098,7 @@
         "company_name": "Lambda",
         "id": "b4e9ca86-32bd-446b-9988-cf1cc0345014",
         "title": "Security Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316792,7 +316792,7 @@
         "company_name": "Salesforce",
         "id": "1a2e58cc-f4e5-478e-a272-afd67fbeedd1",
         "title": "AI Builder - Emerging Talent",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -316887,7 +316887,7 @@
         "company_name": "Salesforce",
         "id": "f72e4f9c-46ba-4a77-aa67-a10faac92de9",
         "title": "AI Builder - Emerging Talent",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -319426,7 +319426,7 @@
         "company_name": "American University",
         "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
         "title": "Graduate Event Data Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -319977,7 +319977,7 @@
         "company_name": "EUNA Solutions",
         "id": "d2e42b14-80d7-45a6-ab23-6aafffab74b5",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331488,7 +331488,7 @@
         "company_name": "Harbinger Motors",
         "id": "5aa6e9bd-09c4-45fd-8a1b-4a72bb9684ab",
         "title": "Production Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342983,7 +342983,7 @@
         "company_name": "Citi",
         "id": "91db4853-adf9-4087-93dc-8182d251fe06",
         "title": "Services Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -345543,7 +345543,7 @@
         "company_name": "Capital One",
         "id": "fd6664b1-b682-4a0c-a15c-193d9a9c67c5",
         "title": "Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345611,7 +345611,7 @@
         "company_name": "Capital One",
         "id": "fafb52bd-9836-425b-8b98-418d1bbf3712",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346904,7 +346904,7 @@
         "company_name": "Citadel",
         "id": "af41c8d1-6670-4cbb-9111-9204ac3a4da9",
         "title": "Quantitative Trader: Equity Quantitative Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -348722,7 +348722,7 @@
         "company_name": "General Motors",
         "id": "0d684ec2-3984-474f-89ab-9e7ae0809d1e",
         "title": "Materials Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -348782,6 +348782,216 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Eulerity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brevium",
+        "id": "6de13808-7632-4d90-b7bb-993b55170ec7",
+        "title": "Data Analyst Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783636051,
+        "date_posted": 1783635954,
+        "url": "https://job-boards.greenhouse.io/brevium/jobs/4326783006",
+        "locations": [
+            "American Fork, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Brevium",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Environmental Defense Fund",
+        "id": "17a2243a-f588-4ca1-887b-f97b5cf3acd3",
+        "title": "Climate & Health Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783635304,
+        "date_posted": 1783555200,
+        "url": "https://osv-edf.wd5.myworkdayjobs.com/en-US/Confidential/job/Remote---US-Home/Climate---Health-Intern_REQ-002561",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Environmental-Defense-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "6c97854c-c8cd-46cc-b26a-8a3f63aab585",
+        "title": "Applications Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783635788,
+        "date_posted": 1783555200,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---Roseville/Intern---Applications-Engineering_R2542-26",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Later",
+        "id": "828b332d-f015-47d7-a4ed-82a7f8d8ce3a",
+        "title": "Software Development Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783636741,
+        "date_posted": 1783636553,
+        "url": "https://job-boards.greenhouse.io/later/jobs/8621762002",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Later",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pylon",
+        "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783636862,
+        "date_posted": 1783635064,
+        "url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Pylon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cotiviti",
+        "id": "1cf14ab5-bc9d-4842-9fb3-7f423c965a86",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783636800,
+        "date_posted": 1783634899,
+        "url": "https://careers-cotiviti.icims.com/jobs/19531/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cotiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "bfec588b-2456-423f-93e9-c55f47100e8e",
+        "title": "Entry and Associate Design and Analysis Engineers - Electronic Systems Design and Analysis",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783636022,
+        "date_posted": 1783555200,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Daytona-Beach-FL/Entry-and-Associate-Design-and-Analysis-Engineers--Electronic-Sys-Design---Analy-_JR2026516394-2",
+        "locations": [
+            "Daytona Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "McKesson",
+        "id": "0cbf75bc-782b-44c5-aa84-1a64af96a3b4",
+        "title": "Data Governance Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783636022,
+        "date_posted": 1783555200,
+        "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/McKesson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vital Lyfe",
+        "id": "1de12102-5f3b-4c75-83ce-02e4d9bb828d",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783636257,
+        "date_posted": 1783635116,
+        "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vital-Lyfe",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
