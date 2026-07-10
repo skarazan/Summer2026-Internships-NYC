@@ -1,51 +1,5 @@
 [
     {
-        "date_updated": 1762971307,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000092795107",
-        "company_name": "NBCUniversal",
-        "title": "Media Tech - Software Engineering",
-        "locations": [
-            "New York City, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "e12cfb4a-fe43-48f1-a311-26b623433aa5",
-        "date_posted": 1762971307,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762971728,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://app.careerpuck.com/job-board/lyft/job/8218030002/",
-        "company_name": "Lyft",
-        "title": "Data Analyst Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "unvibingcode",
-        "id": "9c51b9b0-e4da-4393-8990-143f4c42b142",
-        "date_posted": 1762971491,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sandisk",
@@ -80408,7 +80362,7 @@
         "company_name": "Solva",
         "id": "20e42ba9-f733-4af7-90db-2d2b6bf52da8",
         "title": "AI Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -196170,7 +196124,7 @@
         "company_name": "Copart",
         "id": "2b7c8f72-48b1-4c76-ac63-400cb8ba6b08",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286356,7 +286310,7 @@
         "company_name": "X Development",
         "id": "38d16faf-14c3-4aed-8d2e-240d84440dc6",
         "title": "PhD Resident - AI for Chemistry - Early Stage Project",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -305909,7 +305863,7 @@
         "company_name": "Nokia",
         "id": "b6bad08e-5aba-42dd-9885-70896516ce8b",
         "title": "Software Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -306351,7 +306305,7 @@
         "company_name": "Nokia",
         "id": "480fe6a8-7da0-45a2-9cfb-7f2607367f33",
         "title": "Compliance Data Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -314402,7 +314356,7 @@
         "company_name": "Intel",
         "id": "806bad6e-8c09-49ad-abad-04b898fa8ff4",
         "title": "Silicon Performance Validation and Characterization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316249,7 +316203,7 @@
         "company_name": "Skyscanner",
         "id": "816ebfe9-3db3-4901-8673-2bf1e96e730e",
         "title": "Software Engineering Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337366,7 +337320,7 @@
         "company_name": "Generac",
         "id": "05aaf802-075e-467c-8e96-02dc1f9a1cd0",
         "title": "Manufacturing Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342255,7 +342209,7 @@
         "company_name": "Intel",
         "id": "aec3e3cb-1b29-499e-85f5-1be1da41c842",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -346384,7 +346338,7 @@
         "company_name": "ITT",
         "id": "252e949a-a495-490e-882c-b0c301195d36",
         "title": "Supply Chain Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
