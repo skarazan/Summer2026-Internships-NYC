@@ -1,97 +1,5 @@
 [
     {
-        "date_updated": 1763457815,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.smartrecruiters.com/Sandisk/a6add0bd-0181-4676-a960-ef616f652006?dcr_ci=Sandisk",
-        "company_name": "Sandisk",
-        "title": "GenAI & AI/ML Engineering Intern",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "f36b2fd2-c5c7-4ae0-a36d-9ee34b1d3085",
-        "date_posted": 1762960537,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763624635,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/invitation-only/job/California-United-States-of-America/FTIS-Quantitative-Equity-Portfolio-Management-Intern_865341",
-        "company_name": "Franklin Templeton",
-        "title": "FTIS Quantitative Equity Portfolio Management Intern",
-        "locations": [
-            "California"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Quantitative Finance",
-        "source": "angie-hue",
-        "id": "11f462f4-6945-4927-b869-2cc0668038b5",
-        "date_posted": 1762960700,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763025846,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/radiant/jobs/4606582005",
-        "company_name": "Radiant",
-        "title": "Spring Internship - Software Engineering",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "terms": [
-            "Spring 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "315881aa-1f45-46b9-a382-bdfd07607dd7",
-        "date_posted": 1762960748,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762960795,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Bachelor-s-Degree_2503452-1",
-        "company_name": "Marvell",
-        "title": "Firmware Engineer Intern - Bachelor's Degree",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Hardware Engineering",
-        "source": "angie-hue",
-        "id": "2371d956-f37b-4de2-af10-47e306aa3230",
-        "date_posted": 1762960795,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "AbbVie",
@@ -340029,7 +339937,7 @@
         "company_name": "Citadel Securities",
         "id": "8f8172aa-6806-412b-b161-9e3f526a849c",
         "title": "Quantitative Researcher PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343823,7 +343731,7 @@
         "company_name": "Citadel Securities",
         "id": "88d4320b-8cb5-44fc-b2ec-b7601a389436",
         "title": "Quantitative Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343998,7 +343906,7 @@
         "company_name": "Citadel Securities",
         "id": "5f7e1e45-9de0-4e8b-a12a-1a068acf36cc",
         "title": "Quantitative Research Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344095,7 +344003,7 @@
         "company_name": "General Dynamics",
         "id": "e429452e-d5a5-4ee1-99ce-5248b3ce962d",
         "title": "Engineering Intern - Business Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345241,7 +345149,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "795fc727-866d-4aee-b2f7-e8967b3e4d76",
         "title": "Off Cycle Intern - Aiden Edge",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -347564,6 +347472,121 @@
             "Kanata, Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Aptiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hitachi Energy",
+        "id": "8d8f9605-6605-4474-9a61-7960df14b4a0",
+        "title": "Computer Vision Research & Development Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783693155,
+        "date_posted": 1783641600,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Berkshire-United-Kingdom/Computer-Vision-R-D-Engineer_R0128079",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/83d28c1e-7f20-4aac-afd9-6bc8a468d7eb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "49d144b5-0812-45e0-b67c-5d07571de5e5",
+        "title": "Junior Software Development Engineer - Jr. Developer Program",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783693024,
+        "date_posted": 1783692472,
+        "url": "https://amazon.jobs/en/jobs/10420146/jr-software-development-engineer-san-luis-obispo-ca-jr-developer-program",
+        "locations": [
+            "San Luis Obispo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aptiv",
+        "id": "a62910e6-5d07-4c79-b9be-d6c633815782",
+        "title": "Working Student Interior Sensing ML",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783692362,
+        "date_posted": 1783641600,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Wuppertal-Germany/Working-Student-Interior-Sensing-ML_J000700630",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Aptiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ALFA LAVAL",
+        "id": "e52310c1-4967-4939-a114-b918546141cf",
+        "title": "Database Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783692362,
+        "date_posted": 1783641600,
+        "url": "https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Warminster-PA/Database-Analyst-Intern_JR0046726",
+        "locations": [
+            "Horsham, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/ALFA-LAVAL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Sika",
+        "id": "5f57fcae-f9b7-4f88-abeb-bddc6e9457fa",
+        "title": "Product Management Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783692362,
+        "date_posted": 1783692303,
+        "url": "https://jobs.smartrecruiters.com/SikaAG/744000137117699",
+        "locations": [
+            "Welwyn Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sika",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
