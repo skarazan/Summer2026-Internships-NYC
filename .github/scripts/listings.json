@@ -1,153 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intuitive Surgical",
-        "id": "08f48e31-8623-41c4-94ee-a400b7b3aab5",
-        "title": "Computer Vision Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1762903820,
-        "date_posted": 1762903820,
-        "url": "https://jobs.smartrecruiters.com/Intuitive/744000093048014",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Experian",
-        "id": "2a8d6dc9-b4d6-41e5-801b-03c87723b335",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762903717,
-        "date_posted": 1762903717,
-        "url": "https://jobs.smartrecruiters.com/Experian/744000093043924",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Experian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Memphis Meats",
-        "id": "e8209aad-c335-4afe-978c-30732806a767",
-        "title": "AI Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1762905045,
-        "date_posted": 1762905045,
-        "url": "https://job-boards.greenhouse.io/memphismeats/jobs/7525918003",
-        "locations": [
-            "Oakland, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/1844c206-c3a2-481f-b3f8-ecac02a465ce",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "MongoDB",
-        "id": "4961a8bd-5d2a-475c-85e9-6116a1c1e2d2",
-        "title": "2026 \u2013 Analytics Engineering Intern - NYC",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762905010,
-        "date_posted": 1762905010,
-        "url": "https://www.mongodb.com/careers/job/?gh_jid=7335945",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/MongoDB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Memphis Meats",
-        "id": "2fa0994f-fac9-4e1d-af4f-be4d1161da35",
-        "title": "AI Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762905051,
-        "date_posted": 1762905051,
-        "url": "https://job-boards.greenhouse.io/memphismeats/jobs/7525926003",
-        "locations": [
-            "Oakland, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/1844c206-c3a2-481f-b3f8-ecac02a465ce",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NBCUniversal",
-        "id": "756fd188-c9b7-4c71-abf9-71117c4153ea",
-        "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762904122,
-        "date_posted": 1762904122,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000093024675",
-        "locations": [
-            "North Hollywood, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NBCUniversal",
-        "id": "37bcb49a-d783-4f1c-bf4c-96248f239d30",
-        "title": "Sales and Data Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762904142,
-        "date_posted": 1762904142,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000093035285",
-        "locations": [
-            "Needham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Tenstorrent",
         "id": "71c34990-a263-4f64-8174-dba43fe8a58c",
@@ -277,27 +130,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lightmatter",
-        "id": "03797ae7-246b-48c4-bd96-4ac150c9e63a",
-        "title": "Package Layout Automation Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762905445,
-        "date_posted": 1762905445,
-        "url": "https://boards.greenhouse.io/lightmatter/jobs/4983505008",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lightmatter",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Belden",
         "id": "5d308df6-eda5-4a12-b6a1-371ba5606e17",
@@ -364,27 +196,6 @@
             "Master's",
             "MBA"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Bandwidth",
-        "id": "1c17dff2-4c14-4db9-b785-e3b9bc1711b1",
-        "title": "Software Development Intern - SW Infrastructure - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762905511,
-        "date_posted": 1762905511,
-        "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7386207",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Bandwidth",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -508,27 +319,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Kalepa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Samsung Research America",
-        "id": "1fa2d4f1-cf05-4726-b9ce-01a99378294c",
-        "title": "Intern - AI Computational Imaging and Video",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762905214,
-        "date_posted": 1762905214,
-        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8285752002",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung-Research-America",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -5043,32 +4833,6 @@
             "Mason, OH"
         ],
         "company_url": "https://simplify.jobs/c/Cintas",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Great American Insurance Company",
-        "id": "88c05a4a-8cd2-4602-b73b-313d60bc1ba9",
-        "title": "Digital Relationship Management Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2028",
-            "Winter 2028",
-            "Spring 2028",
-            "Winter 2029",
-            "Spring 2029",
-            "Summer 2029"
-        ],
-        "date_updated": 1763122949,
-        "date_posted": 1762905334,
-        "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Digital-Relationship-Management-Analyst-Intern_R8175",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Great-American-Insurance-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -327618,7 +327382,7 @@
         "company_name": "1Password",
         "id": "4474324d-fc29-44ab-ac6b-ad29c0babae6",
         "title": "Developer Intern - Trust Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -347199,7 +346963,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "0a5d1e5d-49ca-48f2-bc26-b0fd949cbe4b",
         "title": "Communications & AI Intern - AI Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347406,7 +347170,7 @@
         "company_name": "Rockwell Automation",
         "id": "36b79a50-6c90-42a0-8884-86ce10b25d38",
         "title": "Firmware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -347453,7 +347217,7 @@
         "company_name": "Rockwell Automation",
         "id": "503be939-a684-4928-96bc-ae4baa9e4e7c",
         "title": "Firmware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
