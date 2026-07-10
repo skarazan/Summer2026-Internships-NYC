@@ -1,111 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "State Street",
-        "id": "032d6824-f2f3-41f2-8dfa-a5bae4bc0e5c",
-        "title": "Corporate Audit Data Analytics Apprentice",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762922908,
-        "date_posted": 1762922908,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Corporate-Audit-Data--Analytics-Apprentice_R-779872",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "State Street",
-        "id": "ae5efd4c-2b1a-465a-b61a-cc638bad1699",
-        "title": "Software Engineer Intern - ML/Data Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1762923660,
-        "date_posted": 1762923660,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Software-Engineering---ML-Data-Engineer--Internship--Full-Time--Jan---June-2026--Internship_R-779531-1",
-        "locations": [
-            "Princeton, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Flywheel Digital",
-        "id": "145a352d-9ce6-4194-8bd5-22e8d9837d56",
-        "title": "Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762926362,
-        "date_posted": 1762926362,
-        "url": "https://job-boards.greenhouse.io/flywheelcommercestudents/jobs/4024193008",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Flywheel-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Galactic Resource Advancement Mechanism Technologies Corporation",
-        "id": "0931e6b2-b44d-4141-a4f9-032815712cbe",
-        "title": "PhD Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762926333,
-        "date_posted": 1762926333,
-        "url": "https://job-boards.greenhouse.io/gram/jobs/4009072009",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Galactic-Resource-Advancement-Mechanism",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Flagship Pioneering",
-        "id": "7cf5d340-56c8-4d51-a443-8a0a78c95775",
-        "title": "Pioneering Intelligence ML Co-Op - Agentic AI Team",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762921518,
-        "date_posted": 1762921518,
-        "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8227684002",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/FlagshipPioneering",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1763457815,
         "sponsorship": "Other",
         "active": false,
@@ -309,27 +203,6 @@
         "date_posted": 1762971491,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Goodnotes",
-        "id": "44c85850-08ce-48d2-b763-f68423094bee",
-        "title": "Data Analyst Internship - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762928784,
-        "date_posted": 1762928784,
-        "url": "https://job-boards.greenhouse.io/gntemp/jobs/5674891004",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Goodnotes",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -330860,7 +330733,7 @@
         "company_name": "MFS",
         "id": "c2b287d7-ceef-4839-a8ed-a278eecb18cb",
         "title": "Quantitative Research Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338400,7 +338273,7 @@
         "company_name": "KeyBank",
         "id": "fe57e53f-bdb9-4695-9ea0-f16628645798",
         "title": "Marketing Analytics Analyst Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -346466,7 +346339,7 @@
         "company_name": "Draper",
         "id": "fadd801b-b2eb-4bd6-85da-f05b99404d03",
         "title": "Microsystems Integration Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
