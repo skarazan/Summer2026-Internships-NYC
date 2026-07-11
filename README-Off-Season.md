@@ -158,7 +158,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (39)</summary>
+<summary>🗃️ Inactive roles (38)</summary>
 
 <table>
 <thead>
@@ -476,14 +476,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Gensler?utm_source=GHList&utm_medium=company">Gensler</a></strong></td>
-<td>Intern Software Engineer</td>
-<td>NYC</td>
-<td>Winter 2026</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -643,7 +635,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>NYC</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://osv-edf.wd5.myworkdayjobs.com/en-US/Confidential/job/Remote---US-Home/Climate---Health-Intern_REQ-002561?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/17a2243a-f588-4ca1-887b-f97b5cf3acd3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company">Jump Trading</a></strong></td>
