@@ -1,286 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "ID.me",
-        "id": "5689bc99-6bb0-45fb-99f3-743cacdaba79",
-        "title": "University 2026 Intern: Product Manager",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762995122,
-        "date_posted": 1762995122,
-        "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7388902003",
-        "locations": [
-            "McLean, VA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/IDme",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "League",
-        "id": "8807e1f2-0fff-4856-8aa7-3ddc12841a39",
-        "title": "Data Engineer \u2013 Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762994598,
-        "date_posted": 1762994598,
-        "url": "https://job-boards.greenhouse.io/leagueinc/jobs/5673420004",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/League",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Haleon",
-        "id": "3652dcd4-e063-4e8d-abd3-0ef6300a5070",
-        "title": "Co-Op Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762997534,
-        "date_posted": 1762997534,
-        "url": "https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---Missouri---St-Louis/XMLNAME-2026-Co-Op--Engineering--6-months--July-2026-start-_535454",
-        "locations": [
-            "Catskill, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Haleon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hometap",
-        "id": "c5436868-7e21-49cc-a04a-94724650c511",
-        "title": "Full Stack Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1762997098,
-        "date_posted": 1762997098,
-        "url": "https://job-boards.greenhouse.io/hometapjobs/jobs/4927882007",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hometap",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rivian",
-        "id": "2bc4fa74-d0bb-4940-b30a-12f1ee7a4c3e",
-        "title": "UIUC Research Park Intern - Validation",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1762997336,
-        "date_posted": 1762997336,
-        "url": "https://careers.rivian.com/jobs/27472?lang=en-us&icims=1",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BorgWarner",
-        "id": "86359494-b0b6-4e02-9b82-f8dce272e42a",
-        "title": "Corporate Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762996431,
-        "date_posted": 1762996431,
-        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Corporate-Software-Development-Intern--Summer-_R2025-4313-1",
-        "locations": [
-            "Auburn Hills, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/BorgWarner",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Meta",
-        "id": "d221cf61-a4d3-476b-a71d-193db21aa231",
-        "title": "Research Scientist Intern - PhD",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762996029,
-        "date_posted": 1762996029,
-        "url": "https://www.metacareers.com/jobs/784361257809188",
-        "locations": [
-            "London, UK",
-            "Paris, France"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ID.me",
-        "id": "49285e41-2974-435e-8986-f3b44618597d",
-        "title": "Software Development Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762996110,
-        "date_posted": 1762996110,
-        "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7482799003",
-        "locations": [
-            "McLean, VA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/IDme",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HiveWatch",
-        "id": "c33fb2d9-d0c3-4dbd-8999-d55eab15b54b",
-        "title": "AI Data Labeling Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762998765,
-        "date_posted": 1762998765,
-        "url": "https://job-boards.greenhouse.io/hivewatch/jobs/5687363004",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/HiveWatch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Meta",
-        "id": "88e9e020-0a8c-44d1-a282-c3c461a0a979",
-        "title": "Research Scientist Intern - Soft Wearable Tactile Sensors - PhD",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1762998744,
-        "date_posted": 1762998744,
-        "url": "https://www.metacareers.com/jobs/833432782356431",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "54888b20-7434-4721-bae2-2683bd8133d1",
-        "title": "Intern - Power BI Developer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762997808,
-        "date_posted": 1762997808,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW100-East-Hartford-400-Main-Street-East-Hartford-CT-06118-USA/Intern--Summer-2026---PowerBI-Developer--Onsite-_01805774",
-        "locations": [
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "ServiceNow",
-        "id": "fe202bbe-116f-4d30-9f05-c0d6c14b47fc",
-        "title": "Senior Product Marketing Specialist Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763000588,
-        "date_posted": 1763000588,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000093329375",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BorgWarner",
-        "id": "23dd54ef-a4e3-4dac-9322-d22c027e9901",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763000965,
-        "date_posted": 1763000965,
-        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Development-Intern_R2025-4349",
-        "locations": [
-            "Auburn Hills, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/BorgWarner",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Interstates",
         "id": "e019b0ce-4c0e-490b-b51c-9ac7e88b4472",
@@ -56009,28 +55729,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rivian",
-        "id": "1268c87c-0412-4a75-9209-48c2b9a47691",
-        "title": "Research Park Intern - Hardware Design",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1762996713,
-        "date_posted": 1762996713,
-        "url": "https://careers.rivian.com/jobs/27469?lang=en-us&icims=1",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Genentech",
         "id": "fdd55d7f-5055-4149-acc3-9e01b5cddc3a",
@@ -89640,7 +89338,7 @@
         "company_name": "TikTok",
         "id": "022f3758-1e00-41a6-bf19-b759c3041f18",
         "title": "Data Scientist Intern - Tiktok UG-Mid Platform - 2026 Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -162511,31 +162209,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "ID.me",
-        "id": "f25bf7c0-978f-493e-a51e-4d2f1b712864",
-        "title": "University Product Manager",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771889941,
-        "date_posted": 1762998632,
-        "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7388743003",
-        "locations": [
-            "McLean, VA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/IDme",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "MBA"
         ]
     },
     {
@@ -338643,7 +338316,7 @@
         "company_name": "DiDi Global",
         "id": "82da1599-1528-4192-8849-d9fa626e285d",
         "title": "Motion Planning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -346344,5 +346017,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "World Surf League",
+        "id": "3e18521c-a71b-49fb-a9d0-ef94b9361ce6",
+        "title": "Partnerships Analytics & Reporting Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783733845,
+        "date_posted": 1783733650,
+        "url": "https://boards.greenhouse.io/worldsurfleague/jobs/8629100002",
+        "locations": [
+            "Inglewood, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WorldSurfLeague",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
