@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "ByteDance",
-        "id": "ce80bcf6-6d8c-468a-9fec-fb8418fd27af",
-        "title": "3D Graphics Engineer",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763091532,
-        "date_posted": 1763091532,
-        "url": "https://jobs.bytedance.com/en/position/7564516412456306997/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Cintas",
         "id": "9c21bd21-2389-485f-a93b-e984e94a3712",
         "title": "IT Intern Middleware - Integrations",
@@ -333744,7 +333723,7 @@
         "company_name": "The Home Depot",
         "id": "98ab0522-0f4a-4c35-bc28-cf7cd06d5618",
         "title": "Full Stack Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -333767,7 +333746,7 @@
         "company_name": "The Home Depot",
         "id": "a1882eaf-a1fc-44de-b03d-aad32d325664",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -344338,6 +344317,30 @@
             "Master's",
             "Associate's",
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "ce80bcf6-6d8c-468a-9fec-fb8418fd27af",
+        "title": "3D Graphics Engineer Intern - PICO Foundation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780611664,
+        "date_posted": 1780610910,
+        "url": "https://jobs.bytedance.com/en/position/7564516412456306997/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
