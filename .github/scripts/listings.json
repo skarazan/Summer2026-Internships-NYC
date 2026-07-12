@@ -1,93 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Amazon",
-        "id": "e10204d1-1212-40a7-b523-0c30f7f6902f",
-        "title": "Digital Product Manager Apprentice",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763130582,
-        "date_posted": 1763130582,
-        "url": "https://amazon.jobs/en/jobs/3126649/digital-product-manager-apprentice-24-months-fixed-term-contract",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Meta",
-        "id": "100a542f-0c81-42ed-a340-96af5523da95",
-        "title": "Research Scientist Intern - Computational Photography - PhD",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1763131569,
-        "date_posted": 1763131569,
-        "url": "https://www.metacareers.com/jobs/1213006054221601",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Meta",
-        "id": "be031807-109a-4301-8096-7365f2339f10",
-        "title": "Research Scientist \u2013 Physical Modeling Intern - PhD",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763131586,
-        "date_posted": 1763131586,
-        "url": "https://www.metacareers.com/jobs/1371077641147770",
-        "locations": [
-            "Menlo Park, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amazon",
-        "id": "2edd84d8-f216-4722-8633-14dde0b27af4",
-        "title": "Software Development Engineer Apprentice - Month Fixed Term Contract",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1763130580,
-        "date_posted": 1763130580,
-        "url": "https://amazon.jobs/en/jobs/3126641/software-development-engineer-apprentice-42-month-fixed-term-contract",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Veolia",
         "id": "ff94c346-0be5-4afa-80a3-d5d3c9695860",
@@ -340215,7 +340128,7 @@
         "company_name": "General Motors",
         "id": "4a1df858-5ad9-47bc-a093-0d00f0f40b6c",
         "title": "Research and Development Intern - Research & Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
