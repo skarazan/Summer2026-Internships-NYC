@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 24 Internship Roles by Category
+### Browse 23 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (10)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (9)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (0)
 
@@ -73,14 +73,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Datasite?utm_source=GHList&utm_medium=company">Datasite</a></strong></td>
-<td>AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer</td>
-<td>NYC</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/268262ab-3056-48bd-a78d-3fe70d2fb886?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company">Citadel Securities</a></strong></td>
 <td>Software Engineer Intern</td>
@@ -158,7 +150,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (38)</summary>
+<summary>🗃️ Inactive roles (39)</summary>
 
 <table>
 <thead>
@@ -172,6 +164,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Datasite?utm_source=GHList&utm_medium=company">Datasite</a></strong></td>
+<td>AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer</td>
+<td>NYC</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>4d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
 <td>Capital Markets – Aidenedge Program Fall Analyst Intern</td>
