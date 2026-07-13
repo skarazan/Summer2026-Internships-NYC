@@ -307980,7 +307980,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "5d6d7dc9-642a-4e6e-85dc-94e769a60939",
         "title": "Relationship Manager Business Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333768,7 +333768,7 @@
         "company_name": "Mackenzie Investments",
         "id": "6e10494e-9f9e-403a-b4f7-8429fef82c51",
         "title": "Quantitative Research Intern - Investment Management - Multi-Asset Allocation",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -342717,6 +342717,29 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Octaura",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "M&T Bank",
+        "id": "aa21a374-ee42-473d-9242-410e327ad5e3",
+        "title": "Technology Development Program",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783923031,
+        "date_posted": 1783900800,
+        "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program_R88051",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/M-And-T-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
