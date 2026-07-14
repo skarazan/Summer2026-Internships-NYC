@@ -195096,7 +195096,7 @@
         "company_name": "Occidental Petroleum",
         "id": "387d5861-f87f-4086-b76b-88018de85a3f",
         "title": "Intern/Co-op Data - Well Servicing & Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305368,7 +305368,7 @@
         "company_name": "Astranis",
         "id": "ef2272f8-2e44-4153-8877-7adba67d1fe5",
         "title": "CAD Engineer/Librarian Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342813,7 +342813,7 @@
         "company_name": "CVS Health",
         "id": "b26e99d2-bf25-4846-aff8-7af0b8efe6a1",
         "title": "Associate Data Engineer \u2013 UG Intern Conversion",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343755,6 +343755,75 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jane Street",
+        "id": "fcbb295b-3dae-4af6-bd41-ec8b5d05a1ca",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783992472,
+        "date_posted": 1783992270,
+        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Duracell",
+        "id": "a00d36e2-97e7-4df7-9732-450b605fe4d6",
+        "title": "Electronics Tech Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783991581,
+        "date_posted": 1783991336,
+        "url": "https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1330",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Duracell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arizona State University",
+        "id": "64902580-c49d-4221-8f19-a1e00d5b2f02",
+        "title": "Student Data Science Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783991443,
+        "date_posted": 1783900800,
+        "url": "https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Scottsdale-AZ/Student-Assistant---Data-Science_R1449",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Arizona-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
