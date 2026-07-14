@@ -250064,7 +250064,7 @@
         "company_name": "ByteDance",
         "id": "0933265f-9c29-4dbd-b67d-a804773304d6",
         "title": "Student Researcher - Seed Infra Compiler",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -324777,7 +324777,7 @@
         "company_name": "TD Bank",
         "id": "658d22d4-24d4-42a4-85d7-f5d52cf97241",
         "title": "Global Markets Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343327,7 +343327,7 @@
         "company_name": "Nextiva",
         "id": "df655811-97ff-42e6-951f-e7e0a02c6beb",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -344529,6 +344529,144 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "8edff004-dd29-490c-a8e3-1556428ebd30",
+        "title": "AI Engineer Co-op/Intern - 4 months",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784068892,
+        "date_posted": 1783987200,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Engineer--Fall-2026-Co-op-Internship---4-months_R260015224",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lumentum",
+        "id": "4277f49e-ede5-4c63-8d58-81f59263cd5d",
+        "title": "Optical Verification Technician",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784068021,
+        "date_posted": 1783987200,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician_2026888",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TMX Group",
+        "id": "7d2fd52b-088e-42b5-a423-c67a3beb56fd",
+        "title": "Software Engineer Intern - Java",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784068021,
+        "date_posted": 1783987200,
+        "url": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Software-Engineer-Intern--Java-_R-6219",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TMX-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rivian",
+        "id": "bd784f4e-7ef9-4ba6-98c3-407476163c6d",
+        "title": "Machine Learning Compiler Intern - Machine Learning Compiler",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784068326,
+        "date_posted": 1784067026,
+        "url": "https://careers.rivian.com/jobs/29851?icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stryker",
+        "id": "dce077df-3321-4764-a5e6-9cae8f417dcd",
+        "title": "Technical Field Service Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784067305,
+        "date_posted": 1783987200,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Ontario-Waterdown-2-Medicorum-Place/Technical-Field-Service-Co-op_R568460",
+        "locations": [
+            "Hamilton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CalAmp",
+        "id": "daba9493-b756-4c3b-b888-d4045ed38a71",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1784068244,
+        "date_posted": 1784067005,
+        "url": "https://careers-calamp.icims.com/jobs/4349/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CalAmp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
