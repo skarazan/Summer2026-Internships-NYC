@@ -3949,7 +3949,7 @@
         "company_name": "Cisco",
         "id": "754ac4dc-d1a1-41f6-89cd-3a8ae221cb82",
         "title": "Hardware Engineer 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -85135,7 +85135,7 @@
         "company_name": "Tencent",
         "id": "3cf4233b-3b89-4258-991d-1885b771f9e6",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -191845,7 +191845,7 @@
         "company_name": "Tencent",
         "id": "49ea6477-d2a6-4517-b1db-910fa56415d7",
         "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -217672,7 +217672,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -270393,7 +270393,7 @@
         "company_name": "Corpay",
         "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
         "title": "Software Developer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -283284,7 +283284,7 @@
         "company_name": "Apple",
         "id": "1d6bc24e-7367-4dfd-9b3f-53a17c97a567",
         "title": "Privacy-Preserving Machine Learning Privacy Engineering Rotation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -315530,7 +315530,7 @@
         "company_name": "CHEP",
         "id": "513d3867-26bc-4203-8cd2-ade981572975",
         "title": "FP&A Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315974,7 +315974,7 @@
         "company_name": "Solink",
         "id": "45798e16-2cea-4d21-91df-f4c604c2e02b",
         "title": "Software Engineer Co-op - R&D- Data Integrations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316083,7 +316083,7 @@
         "company_name": "Rippling",
         "id": "7df6766d-b43b-464c-a03e-68387c5ffb37",
         "title": "Software Engineer Intern - Backend Focused",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -318572,7 +318572,7 @@
         "company_name": "Agilent Technologies",
         "id": "4d64e4f3-5f35-4574-8196-f5dedf4d3b4c",
         "title": "Predictive Sales Prospecting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -322985,7 +322985,7 @@
         "company_name": "Magna",
         "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
         "title": "Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324848,7 +324848,7 @@
         "company_name": "RELX",
         "id": "52befd31-d887-47a2-8651-4b8574c2d880",
         "title": "Software Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336494,7 +336494,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337187,7 +337187,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339293,7 +339293,7 @@
         "company_name": "GE Healthcare",
         "id": "372d94d1-a83d-44fb-a919-4261fb51f503",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340895,7 +340895,7 @@
         "company_name": "GE Healthcare",
         "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341582,7 +341582,7 @@
         "company_name": "GE Healthcare",
         "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -342012,7 +342012,7 @@
         "company_name": "Fidelity Investments",
         "id": "03e2c12e-866f-454c-b240-466b9ae8ed18",
         "title": "Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342035,7 +342035,7 @@
         "company_name": "GE Healthcare",
         "id": "0858a27e-d921-4e91-8a7a-e791a1a6f4fd",
         "title": "Client Service Technician Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -342201,7 +342201,7 @@
         "company_name": "John Lewis Partnership",
         "id": "19a249af-6862-43b3-bfbc-303536d99321",
         "title": "Driver Technician Trainee 7.5t",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342222,7 +342222,7 @@
         "company_name": "RTX",
         "id": "4add536b-2385-45cb-a5b4-45157793163e",
         "title": "Transformation numerique Intern - Digital Transformation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -343205,7 +343205,7 @@
         "company_name": "Finning",
         "id": "02caee82-02f2-45fb-9aa4-afc0dc827f5b",
         "title": "Data Quality Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343545,7 +343545,7 @@
         "company_name": "Salesforce",
         "id": "45903a19-328a-4e71-802e-c33fbc45d459",
         "title": "Associate Product Manager Intern - Associate Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343620,7 +343620,7 @@
         "company_name": "Leidos",
         "id": "51614fe5-c79b-42d9-997f-c9a22d17645c",
         "title": "Engineering Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343824,6 +343824,32 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "4762de7d-d90a-4004-bf12-486138c11efc",
+        "title": "Software Development Engineer Apprentice - Military Veterans",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784020141,
+        "date_posted": 1784020124,
+        "url": "https://amazon.jobs/en/jobs/3188438/software-development-engineer-apprentice-military-veterans",
+        "locations": [
+            "Arlington, VA",
+            "Bellevue, WA",
+            "Cupertino, CA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
