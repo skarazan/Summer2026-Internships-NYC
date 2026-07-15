@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Airbus",
-        "id": "df47282a-2253-4e10-9445-07970219ff3b",
-        "title": "Apprentice Battery Workshop Technician",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763401067,
-        "date_posted": 1763401067,
-        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/West-London-Area/Apprentice-Battery-Workshop-Technician_JR10371164-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Airbus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Apex Fintech Solutions",
         "id": "5a122b4e-b3dc-427c-a4b0-6c312c10bf5e",
@@ -191931,7 +191910,7 @@
         "company_name": "Monolithic Power Systems",
         "id": "685ce683-1a8d-4426-949b-5542c9ae5a5b",
         "title": "AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -215800,7 +215779,7 @@
         "company_name": "Rivian",
         "id": "cd885e02-d0aa-4f5f-a119-3f60710cc44c",
         "title": "UIUC Research Park Intern - Validation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264705,7 +264684,7 @@
         "company_name": "Blockhouse",
         "id": "5fd9c494-f770-4b60-8ebc-a384213edb6e",
         "title": "Rust Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -334761,7 +334740,7 @@
         "company_name": "Citi",
         "id": "91db4853-adf9-4087-93dc-8182d251fe06",
         "title": "Services Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -336549,7 +336528,7 @@
         "company_name": "Lovable",
         "id": "b36ca521-c0c7-4fb0-a50a-04c0f2c5302d",
         "title": "Product Experience Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -340523,7 +340502,7 @@
         "company_name": "Uber Freight",
         "id": "51146492-0c25-4e83-b0f2-9bd98505db21",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -343123,7 +343102,7 @@
         "company_name": "Avaap",
         "id": "3249364a-f140-41a7-8004-64618a2bdb78",
         "title": "Student Reporting - Ams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
