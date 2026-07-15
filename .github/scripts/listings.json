@@ -1,175 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Berkshire Hathaway Energy",
-        "id": "e0da3d81-704d-418f-a4c8-03aabb7dc278",
-        "title": "Intern Renewable Generation Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763395978,
-        "date_posted": 1763395978,
-        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003911",
-        "locations": [
-            "Des Moines, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CACI",
-        "id": "8f3f53ff-0fad-4d2d-a809-a4c27cdf3f32",
-        "title": "Embedded Software Development Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763395974,
-        "date_posted": 1763395974,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NJ-Florham-Park/Embedded-Software-Development-Intern---Summer-2026_319286",
-        "locations": [
-            "Livingston, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nasdaq",
-        "id": "69e6c834-c41f-488e-9e0e-cecf64288fa0",
-        "title": "Intelligent Automation Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763397134,
-        "date_posted": 1763397134,
-        "url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---New-York-City---New-York/Intelligent-Automation-Intern---2026-Summer-Internship_R0024288",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Nasdaq",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Invesco",
-        "id": "9afc7abc-9c52-4b3b-be25-2017800c8d5f",
-        "title": "Quantitative Research Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763397869,
-        "date_posted": 1763397869,
-        "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Quantitative-Research-Intern_R-12329-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Invesco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Invesco",
-        "id": "2af11532-7e7d-4d5c-b9c3-6c06d035f924",
-        "title": "Portfolio Engineering and Analytics Intern - Portfolio Team",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763397872,
-        "date_posted": 1763397872,
-        "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Boston-Massachusetts/Portfolio-Engineering-and-Analytics-Intern_R-12332-1",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Invesco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "PTC",
-        "id": "73398724-4b54-4fb4-8c46-3c81a2cd6596",
-        "title": "ALM Product Management Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763397060,
-        "date_posted": 1763397060,
-        "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/ALM-Product-Management-Intern_JR111126",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/PTC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Santander",
-        "id": "53684382-b9a0-4dee-81ff-9aee0a9ed677",
-        "title": "Data & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763397321,
-        "date_posted": 1763397321,
-        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/Data---Analytics-Intern_Req1508508",
-        "locations": [
-            "Boston, MA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Santander",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Santander",
-        "id": "5c79d5da-1772-47cd-b46a-4380fe62aa29",
-        "title": "Deposit Product Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763397307,
-        "date_posted": 1763397307,
-        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/Deposit-Product-Intern_Req1508544",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Santander",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Airbus",
         "id": "df47282a-2253-4e10-9445-07970219ff3b",
@@ -74302,29 +74133,6 @@
             "Davenport, IA"
         ],
         "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Virginia",
-        "id": "57ef4d6f-f823-4df3-8105-878f60b1d8f1",
-        "title": "CCL Digital Humanities and Engagement SRA - Student Wage",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1768305102,
-        "date_posted": 1763395665,
-        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/CCL-Digital-Humanities-and-Engagement-SRA--Student-Wage-_R0078089-1",
-        "locations": [
-            "Charlottesville, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -264897,7 +264705,7 @@
         "company_name": "Blockhouse",
         "id": "5fd9c494-f770-4b60-8ebc-a384213edb6e",
         "title": "Rust Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -291837,7 +291645,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "1890070e-5df6-42c3-99b3-fe0af8d95d7f",
         "title": "Data Analyst Intern - Power Control Center",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342237,7 +342045,7 @@
         "company_name": "Revvity",
         "id": "00b3e0f0-200c-473f-a437-7cb992e24028",
         "title": "Front-End AI Marketing Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
