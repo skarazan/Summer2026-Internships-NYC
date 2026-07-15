@@ -282962,7 +282962,7 @@
         "company_name": "Tesla",
         "id": "476c1940-e6f7-4c8b-ac8c-d04259a2bac7",
         "title": "Software Engineer Intern - Integration Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -301064,7 +301064,7 @@
         "company_name": "Rocket Lab USA",
         "id": "37998569-3501-402e-baa5-4dcdbf1b7bae",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343548,7 +343548,7 @@
         "company_name": "Citadel Securities",
         "id": "cf82e4db-1a59-498c-9b80-c974a34e8bed",
         "title": "Sector Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -344149,7 +344149,7 @@
         "company_name": "Kulicke & Soffa",
         "id": "66f8c5dd-ab2d-449d-a8d3-aafde4c1acc9",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -344901,5 +344901,54 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chevron Corporation",
+        "id": "0753b1d0-7af4-4aa8-b9b9-96efa8cde209",
+        "title": "Earth Scientist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784078408,
+        "date_posted": 1783987200,
+        "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Scientist-Full-Time_R000072410",
+        "locations": [
+            "Houston, TX",
+            "Covington, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chevron-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chevron Corporation",
+        "id": "b04c4e51-4f94-4c79-b9eb-dd688af11a82",
+        "title": "Earth Science Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784077700,
+        "date_posted": 1783987200,
+        "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Science-Intern_R000072409",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Chevron-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
