@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Viavi Solutions",
-        "id": "43d0509e-4129-4a31-8720-25df5364dbbe",
-        "title": "Software Engineering Co-Op",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763335145,
-        "date_posted": 1763335145,
-        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_250003872-1",
-        "locations": [
-            "Germantown, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Altom Transport",
         "id": "12bfd1e0-a5fd-4ba9-aeaa-10ac3027e5ed",
         "title": "Software Development Intern",
@@ -303318,7 +303297,7 @@
         "company_name": "SHEIN",
         "id": "63062f36-5cde-4017-a806-571bd44c6087",
         "title": "Database Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -339011,7 +338990,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "795fc727-866d-4aee-b2f7-e8967b3e4d76",
         "title": "Off Cycle Intern - Aiden Edge",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344668,5 +344647,259 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Papa John's",
+        "id": "e42cef8b-1e0f-4fe3-830d-7f97990f5a30",
+        "title": "Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784071144,
+        "date_posted": 1783987200,
+        "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Louisville/Co-Op_R26_0000001989",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Papa-Johns",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NewsBreak",
+        "id": "8975659b-0873-4463-9888-45451e2e150b",
+        "title": "Growth Engineer Intern - Growth Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784070965,
+        "date_posted": 1784067265,
+        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4697070006",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NewsBreak",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Laboratory of the Rockies",
+        "id": "cbd572b1-88d5-4325-a534-e4b8b03290c6",
+        "title": "Graduate Intern - Transportation Systems Analysis",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1784070776,
+        "date_posted": 1783987200,
+        "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "McKesson",
+        "id": "7c8d7a9c-df34-4d65-8b76-da3a59cdb9bc",
+        "title": "AI & Strategic Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784070704,
+        "date_posted": 1783987200,
+        "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/McKesson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ignite Digital Services",
+        "id": "d7042ff9-73e7-4c5a-bc41-551e7b2533b7",
+        "title": "Engineer/Scientist Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784071624,
+        "date_posted": 1784068485,
+        "url": "https://ignite-digital.com/careers/job-listings/?gh_jid=5348498008",
+        "locations": [
+            "Chesapeake, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ignite-Digital-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Five Rings Capital",
+        "id": "589e122b-8999-49a6-8442-c90ddb3b04bf",
+        "title": "Quantitative Trader Intern - Quantitative Trader",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784071836,
+        "date_posted": 1784068201,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Five-Rings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Five Rings Capital",
+        "id": "14baa8ae-f151-483f-b5e0-77ca5086d04e",
+        "title": "Software Developer Intern - Software Developer",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784071838,
+        "date_posted": 1784068202,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Five-Rings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Custom Computer Specialists",
+        "id": "c3433d6a-bf30-4d16-8e0f-5126b09236cf",
+        "title": "Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1784071624,
+        "date_posted": 1784068262,
+        "url": "https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4221846009",
+        "locations": [
+            "Long Island, New York"
+        ],
+        "company_url": "https://simplify.jobs/c/Custom-Computer-Specialists",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Five Rings Capital",
+        "id": "25634961-9424-41ec-9553-925a6e400699",
+        "title": "Quantitative Researcher Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784071838,
+        "date_posted": 1784068201,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Five-Rings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "General Atlantic",
+        "id": "a7fdba37-efe3-4ac2-b779-bbc47aa7daee",
+        "title": "Investment Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784071790,
+        "date_posted": 1784067687,
+        "url": "https://job-boards.greenhouse.io/generalatlantic/jobs/6115031004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Atlantic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Formlabs",
+        "id": "0acde240-8d95-48ba-9f67-ea228b4cbb22",
+        "title": "Test Software Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784071798,
+        "date_posted": 1784067787,
+        "url": "https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
