@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Berkshire Hathaway Energy",
-        "id": "b0417830-1c04-4f1c-9ccc-d11260782322",
-        "title": "Intern Renewable Generation Performance Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763438357,
-        "date_posted": 1763438357,
-        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003913",
-        "locations": [
-            "Des Moines, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "The Aerospace Corporation",
         "id": "4dc9b5f2-05f3-4e8f-b4c7-e47cb7d78ec3",
@@ -281406,7 +281385,7 @@
         "company_name": "Tesla",
         "id": "60a4718f-a0f3-41c8-99e8-7e1535bd4516",
         "title": "Data Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -337985,7 +337964,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "c397c573-0849-4481-968f-9dd2b5b1ab87",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -341922,7 +341901,7 @@
         "company_name": "Salesforce",
         "id": "45903a19-328a-4e71-802e-c33fbc45d459",
         "title": "Associate Product Manager Intern - Associate Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342041,7 +342020,7 @@
         "company_name": "Salesforce",
         "id": "224ca026-078b-4524-bf33-5a214373c094",
         "title": "Associate Product Manager Intern - Associate Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344390,5 +344369,143 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cybernetic Labs",
+        "id": "d939c49f-1d93-4ba9-aa2f-32e4e7398633",
+        "title": "Forward Deployed Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1784164744,
+        "date_posted": 1784164185,
+        "url": "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cybernetic-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cybernetic Labs",
+        "id": "fe8fd0a0-0ded-47c1-8bba-8ac16fdd2926",
+        "title": "Full-Stack Software Engineer Intern - Product",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1784164668,
+        "date_posted": 1784164187,
+        "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cybernetic-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RFCUNY",
+        "id": "b2905e3d-2dad-4ffd-a2cc-2b8c1aa04707",
+        "title": "IT & Data Systems Intern - Archibus & Applications Development",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784164141,
+        "date_posted": 1784073600,
+        "url": "https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/IT---Data-Systems-Intern--Archibus---Applications-Development-_JR3276",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/RFCUNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RFCUNY",
+        "id": "abf4c581-31e3-4e0b-96a4-1451bdb4e8af",
+        "title": "IT & Data Systems Intern - Archibus & Applications Development",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784164141,
+        "date_posted": 1784073600,
+        "url": "https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/IT---Data-Systems-Intern--Archibus---Applications-Development-_JR3277",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/RFCUNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Revvity",
+        "id": "9f3c0656-6cef-4be9-9103-18c13986bef8",
+        "title": "Full-Stack AI Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784164141,
+        "date_posted": 1784073600,
+        "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044913",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Revvity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of British Columbia",
+        "id": "74875a99-6903-4125-ae86-24a7ba6b33bb",
+        "title": "Graduate Teaching Assistant Health Data Analytics Course: Introduction to the Big Data Era",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784168122,
+        "date_posted": 1784073600,
+        "url": "https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Hospital-Site---Vancouver-BC-Canada/Graduate-Teaching-Assistant--Health-Data-Analytics-Course--Introduction-to-the-Big-Data-Era---Opportunities-for-Better-Health-Care_JR25265",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/0afd0e99-520e-4d18-ba6a-1e60dc183fd4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
