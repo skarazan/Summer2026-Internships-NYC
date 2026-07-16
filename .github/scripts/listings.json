@@ -320883,7 +320883,7 @@
         "company_name": "General Motors",
         "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
         "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -342143,7 +342143,7 @@
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "id": "fcd24d2e-1552-4b2e-a939-87596e9177ce",
         "title": "Student 2 - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
