@@ -1,69 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Typeface",
-        "id": "dc0923ff-5751-4532-b001-670c2ca82d4c",
-        "title": "Product Manager Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763594906,
-        "date_posted": 1763594906,
-        "url": "https://job-boards.greenhouse.io/typeface/jobs/4987335007",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/314293b0-25e4-4483-8bae-bf63c8ea23ec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "IXL Learning",
-        "id": "9444b0da-c696-47b4-8878-1ba70fc46bd1",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763594871,
-        "date_posted": 1763594871,
-        "url": "https://www.ixl.com/company/jobs?gh_jid=8299967002",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/IXL-Learning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "IXL Learning",
-        "id": "364aebbb-9018-40dd-9592-7917b201b662",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763594866,
-        "date_posted": 1763594866,
-        "url": "https://www.ixl.com/company/jobs?gh_jid=8299953002",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/IXL-Learning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Red Bull",
         "id": "955bbdfd-f49b-4044-b4ce-c94621b273b3",
@@ -330072,7 +330009,7 @@
         "company_name": "Citadel Securities",
         "id": "e2a8f8b3-cb1a-4411-871c-916776913b34",
         "title": "Machine Learning Researcher PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330143,7 +330080,7 @@
         "company_name": "Citadel Securities",
         "id": "40090818-c9a2-4104-9627-111a5b9cd079",
         "title": "Quantitative Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
