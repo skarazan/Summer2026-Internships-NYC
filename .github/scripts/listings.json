@@ -224945,7 +224945,7 @@
         "company_name": "Atomic Semi",
         "id": "f67f6221-52d3-4905-91fe-1edaf42ed08c",
         "title": "Rust Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -225155,7 +225155,7 @@
         "company_name": "Atomic Semi",
         "id": "a3fc7a58-e89b-45d9-b974-7bb42ada9d3f",
         "title": "Embedded Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337870,7 +337870,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -343486,7 +343486,7 @@
         "company_name": "RTX",
         "id": "ffbb5a63-45f4-4589-8f3e-814233effd30",
         "title": "Digital Project Engineer Intern - Digital Project Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343502,5 +343502,72 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "City of Charlotte",
+        "id": "a9c0f61f-1d7a-470d-9bcc-d4e4c85a0b36",
+        "title": "Management Analyst Intern - Research and Planning Division",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1784298181,
+        "date_posted": 1784246400,
+        "url": "https://charlottenc.wd12.myworkdayjobs.com/citgov/job/CMPD-HQ/Management-Analyst-Intern--Research-and-Planning-Division_JR104084-1",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-Charlotte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
+        "id": "94928190-a01b-4ff0-8068-4fad65af019c",
+        "title": "Student 2 - Data Management",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784298019,
+        "date_posted": 1784246400,
+        "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Data-Management_JR223363",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cincinnati-Childrens-Hospital-And-Medical-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "e3832dea-fb21-489b-b1cb-1dd91cd40a1e",
+        "title": "Nittany AI Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784297734,
+        "date_posted": 1784246400,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Nittany-AI-Innovator_REQ_0000080373-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
