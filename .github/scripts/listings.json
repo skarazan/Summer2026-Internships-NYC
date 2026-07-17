@@ -1,74 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Johnson & Johnson",
-        "id": "47526592-a406-43c7-9bfc-a83deed589d7",
-        "title": "Statistics & Decision Sciences Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763514212,
-        "date_posted": 1763514212,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Summer-Intern-Statistics-Dec-Sci_R-040656",
-        "locations": [
-            "New Hope, PA",
-            "Bridgewater Township, NJ",
-            "La Jolla, San Diego, CA",
-            "Ambler, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "8b698f3e-3456-4087-9473-5789b498d746",
-        "title": "Undergrad Software Engineer Intern - Fusion",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763514887,
-        "date_posted": 1763514887,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/305901",
-        "locations": [
-            "San Carlos, CA",
-            "Pleasanton, CA",
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Apple",
-        "id": "e1606eee-4ef1-4b72-83fc-d0d45a692966",
-        "title": "Engineering Program Management Internships",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763514718,
-        "date_posted": 1763514718,
-        "url": "https://jobs.apple.com/en-us/details/200606141",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Apple",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Traversal",
         "id": "cef12e55-e7a2-456d-a9d9-3d2b8241545f",
@@ -9596,27 +9528,6 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Raymond-James-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Apple",
-        "id": "5fa57ac0-28c3-4ab9-ac11-5d269e14e9ac",
-        "title": "Formal Verification Framework for Hardware Ips Validation Internship",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764235603,
-        "date_posted": 1763514397,
-        "url": "https://jobs.apple.com/en-us/details/200622734",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Apple",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -165527,7 +165438,7 @@
         "company_name": "Cadence Design Systems",
         "id": "f3715da4-8208-47e0-9831-b46b285d0241",
         "title": "SSG Design Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -165669,7 +165580,7 @@
         "company_name": "Cadence Design Systems",
         "id": "624e0bff-3082-46d5-90ce-b611b1fb8c9c",
         "title": "SSG Design Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -292436,7 +292347,7 @@
         "company_name": "Rocket Lab USA",
         "id": "2b5812dd-6790-4dec-99a6-492058cec2b1",
         "title": "HITL Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -313936,35 +313847,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Apple",
-        "id": "33832824-2b0b-4117-96bd-58ec5331d686",
-        "title": "GPU Internship - Platform Architecture",
-        "active": true,
-        "terms": [
-            "Winter 2025",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1763514541,
-        "date_posted": 1763514541,
-        "url": "https://jobs.apple.com/en-us/details/200617616",
-        "locations": [
-            "London, UK",
-            "Cambridge, UK",
-            "Welwyn Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Apple",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -338161,7 +338043,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -338458,7 +338340,7 @@
         "company_name": "RELX",
         "id": "d0fe3c23-78d8-4f8b-a69a-17d72eaa5eb2",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339593,7 +339475,7 @@
         "company_name": "Southern New Hampshire University",
         "id": "195ecfd0-e7d1-4bb2-b0db-9ccf2876b726",
         "title": "Institutional Advancement Graduate Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -343506,6 +343388,74 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Analytical Mechanics Associates",
+        "id": "a578b3d4-fbcb-45d5-903b-c000ea606e26",
+        "title": "Aerothermodynamics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1784251257,
+        "date_posted": 1784160000,
+        "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Mountain-View-CA/Intern---Aerothermodynamics_R-100702",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analytical-Mechanics-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Composio",
+        "id": "015239c6-bc89-4abd-a7a9-97acc270ae0a",
+        "title": "Full-stack Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784251221,
+        "date_posted": 1784250683,
+        "url": "https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Composio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cadence Design Systems",
+        "id": "76d86da2-fb0a-4db1-8359-537c158d74a4",
+        "title": "SSG Design Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784250721,
+        "date_posted": 1784160000,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/SSG-Design-Engineering-Intern--Fall-2026-_R52641",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
