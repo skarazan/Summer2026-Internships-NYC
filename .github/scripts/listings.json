@@ -1,49 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Riot Games",
-        "id": "2814bbbc-1ac6-4008-96a1-673ac645641b",
-        "title": "Game Producer Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763669432,
-        "date_posted": 1763669432,
-        "url": "https://job-boards.greenhouse.io/riotgamesup/jobs/7306489",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Riot-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Trimble",
-        "id": "047eb651-23cc-443c-be36-6ee14089715f",
-        "title": "Agriculture Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1763669100,
-        "date_posted": 1763669100,
-        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Agriculture-Product-Management-Intern_R53157-1",
-        "locations": [
-            "Westminster, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Trimble",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Oracle",
         "id": "dc522f0c-d115-428b-93b1-f9a7947ad77a",
@@ -152,48 +109,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Charter Manufacturing",
-        "id": "b1df6383-e5df-4f94-bb8b-ebd87ab92369",
-        "title": "Data Science & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1763670918,
-        "date_posted": 1763670918,
-        "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Data-Science-Intern---Year-Round_R07008",
-        "locations": [
-            "Mequon, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Charter-Manufacturing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Charter Manufacturing",
-        "id": "41f0123b-9050-4812-88e7-2392e67026b0",
-        "title": "Business Intelligence & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763670942,
-        "date_posted": 1763670942,
-        "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Business-Intelligence---Analytics-Intern---Year-Round_R07220",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Charter-Manufacturing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Oracle",
         "id": "b71069ff-f590-476c-8c4c-42ef98a613c0",
@@ -243,27 +158,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Riot Games",
-        "id": "ac38bf23-50be-423f-a237-1a04e40982e6",
-        "title": "Research Scientist Intern - Game AI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763669409,
-        "date_posted": 1763669409,
-        "url": "https://job-boards.greenhouse.io/riotgamesup/jobs/7306505",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Riot-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Philips",
         "id": "766a297f-6dd2-482e-ac15-c3bb59399001",
         "title": "Co-op \u2013 Data Management - Cleveland OH",
@@ -279,112 +173,6 @@
             "Cleveland, OH"
         ],
         "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ciena",
-        "id": "53f45c7d-f19f-47a2-9e14-9dbe7a851498",
-        "title": "Development Engine \u2013 Security Engineering Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1763669450,
-        "date_posted": 1763669450,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Development-Engine---Security-Engineering-Co-Op--Winter-2026-_R029505-1",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kodak",
-        "id": "c0855650-24a7-406a-a00c-49044e15053b",
-        "title": "Marketing Analytics Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763669200,
-        "date_posted": 1763669200,
-        "url": "https://careers.kodak.com/job/USA-Marketing-Analytics-Intern-CA/1344032100/?ats=successfactors",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Kodak",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sixfold",
-        "id": "95bfeba5-0cfe-4bf0-b86d-4d5f6bea29b0",
-        "title": "Summer 2026 PhD Internship - Applied AI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763671432,
-        "date_posted": 1763671432,
-        "url": "https://job-boards.greenhouse.io/sixfold/jobs/4993090008",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sixfold",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Redis",
-        "id": "54f9bb37-4627-4cab-9741-a135d985bc32",
-        "title": "AI Research Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763669251,
-        "date_posted": 1763669251,
-        "url": "https://job-boards.greenhouse.io/redis/jobs/5547597004",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Redis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Genies",
-        "id": "3eaf395f-5f0b-4a49-aac4-a768cf8acce1",
-        "title": "Backend Engineer - LLM",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763670525,
-        "date_posted": 1763670525,
-        "url": "https://job-boards.greenhouse.io/genies/jobs/7534272003",
-        "locations": [
-            "SF",
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -436,91 +224,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Charter Manufacturing",
-        "id": "3dcdb8bd-29e9-4f1a-a53c-5f14c1a7aa13",
-        "title": "Sales & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763670956,
-        "date_posted": 1763670956,
-        "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Sales---Analytics-Intern---Summer_R07119",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Charter-Manufacturing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rubrik",
-        "id": "4c6851ac-b2e7-4fa2-997b-c5f2ac4cd22c",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1763669433,
-        "date_posted": 1763669433,
-        "url": "https://www.rubrik.com/company/careers/departments/job.7065744?gh_jid=7065744",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rubrik",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Charter Manufacturing",
-        "id": "26269ec3-f552-49f5-aad9-e56fb0d3c897",
-        "title": "Analytics Engineer Intern - Year Round",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763670931,
-        "date_posted": 1763670931,
-        "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Analytics-Engineer-Intern---Year-Round_R07115",
-        "locations": [
-            "Mequon, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Charter-Manufacturing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Moog ",
-        "id": "270459f7-1767-4fef-b0dc-d943fc2347d6",
-        "title": "Intern \u2013 Software Engineering",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1763670576,
-        "date_posted": 1763670576,
-        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Software-Engineering_R-25-14912",
-        "locations": [
-            "Carson, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Moog",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -46032,27 +45735,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Seagate Technology ",
-        "id": "2beffdf1-e790-41f1-9b5e-8fb83a3ce6dc",
-        "title": "Product Assurance Engineering Intern",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1763668931,
-        "date_posted": 1763668931,
-        "url": "https://seagatecareers.com/job/Longmont-Product-Assurance-Engineering-Intern-CO-80501/1344307600/?ats=successfactors",
-        "locations": [
-            "Longmont, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Seagate-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Nokia",
         "id": "6da7e4e6-b7ea-43a7-a78a-849338142df7",
@@ -70491,29 +70173,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Reacher",
-        "id": "f05d5456-5ee1-424c-8192-8cc2f8953f16",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1763670089,
-        "date_posted": 1763670089,
-        "url": "https://jobs.ashbyhq.com/reacher/99eb7e94-ebde-41c6-acae-efef58d3babe/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Reacher",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
