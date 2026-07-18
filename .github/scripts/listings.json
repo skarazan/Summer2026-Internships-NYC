@@ -1,305 +1,5 @@
 [
     {
-        "date_updated": 1763711006,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://job-boards.greenhouse.io/typeface/jobs/4987347007",
-        "company_name": "Typeface",
-        "title": "PhD Research (Applied AI) Intern",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "832d5407-3f54-405c-b5a7-bc0c7c2c2178",
-        "date_posted": 1763656876,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763711006,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://job-boards.greenhouse.io/typeface/jobs/4986825007",
-        "company_name": "Typeface",
-        "title": "ML Engineer Intern",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Simplify",
-        "id": "06da16a3-7cce-455e-a7df-e40a87682ddb",
-        "date_posted": 1763656920,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763656976,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://job-boards.greenhouse.io/truveta/jobs/5712997004",
-        "company_name": "Truveta",
-        "title": "ML PhD Intern - LLMs & Generative AI",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Simplify",
-        "id": "dbe32592-0624-419b-b515-d327c3f19029",
-        "date_posted": 1763656976,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763657028,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---Quantitative-Risk-Management_REQ-4483-1",
-        "company_name": "OCC",
-        "title": "Year-Round Intern - Quantitative Risk Management",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Quantitative Finance",
-        "source": "angie-hue",
-        "id": "3dd0b5dc-b999-4f33-91de-d0e33887f6c8",
-        "date_posted": 1763657028,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1764154238,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://microchiphr.wd5.myworkdayjobs.com/en-US/external/job/OR---Gresham/Intern--Data-Analyst-_R2302-25",
-        "company_name": "Microchip Technology",
-        "title": "Intern (Data Analyst)",
-        "locations": [
-            "Gresham, OR"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "33eef790-0461-47d5-9992-c0ef2b582876",
-        "date_posted": 1763657076,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763657145,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.skydio.com/jobs/7494672003?gh_jid=7494672003",
-        "company_name": "Skydio",
-        "title": "Wireless Software Engineer Intern",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "fbf47c69-385d-4a70-b29b-ef7c60aa48bc",
-        "date_posted": 1763657145,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1764858222,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2026_R56709",
-        "company_name": "Motorola",
-        "title": "Android Platform Software Engineering Intern",
-        "locations": [
-            "Plantation, FL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "866e671e-90ee-4723-afcc-fc6eb927c528",
-        "date_posted": 1763657216,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1764154238,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Intern--Software-Engineering_R-25-14912",
-        "company_name": "Moog",
-        "title": "Intern, Software Engineering",
-        "locations": [
-            "Torrance, CA"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "684a27ec-18c6-498c-ba91-496f8ad93f89",
-        "date_posted": 1763657266,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1767838994,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e",
-        "company_name": "Mechanize",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "4c5fd454-9b28-4086-874b-2067228b1f7e",
-        "date_posted": 1763657309,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1763657355,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2115543",
-        "company_name": "KBR",
-        "title": "Software Application Developer Intern for GOES-R Series Satellites",
-        "locations": [
-            "Silver Spring, MD"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "698d39b9-b6c9-4c12-acb1-0515aed542c5",
-        "date_posted": 1763657355,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1765374630,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers-gdms.icims.com/jobs/68290/intern-software-engineer/job",
-        "company_name": "General Dynamics Mission Systems",
-        "title": "Intern Software Engineer",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "ece4af36-203e-437b-97ba-1e5ae89921b1",
-        "date_posted": 1763657414,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1765374630,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers-gdms.icims.com/jobs/68798/software-intern-engineer---tactical-radios/job",
-        "company_name": "General Dynamics Mission Systems",
-        "title": "Software Intern Engineer - Tactical Radios",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "16211ba5-2955-4bef-9188-ef21dc4dde2a",
-        "date_posted": 1763657520,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1764858222,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://uscareers-docusign.icims.com/jobs/28219/site-reliability-software-engineer-intern/job",
-        "company_name": "DocuSign",
-        "title": "Site Reliability Software Engineer Intern",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "36bf21a2-7ceb-41c8-a2f8-206aca41e530",
-        "date_posted": 1763657558,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "NBCUniversal",
@@ -82510,7 +82210,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -171712,7 +171412,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -191968,7 +191668,7 @@
         "company_name": "Nightwing Intelligence Solutions",
         "id": "e9569c77-dc0a-48e3-a280-aab0544afe8e",
         "title": "Radio Frequency Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -264268,7 +263968,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -280668,7 +280368,7 @@
         "company_name": "NVIDIA",
         "id": "bebbeff8-81af-4e7a-b6f6-7658307b38b6",
         "title": "Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -287572,7 +287272,7 @@
         "company_name": "NVIDIA",
         "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
         "title": "PhD Research Intern - Security and Privacy",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -299441,7 +299141,7 @@
         "company_name": "NVIDIA",
         "id": "d2de708b-89ff-406f-bd7a-70f5d52cf392",
         "title": "PhD Software Engineer Intern - Decision Intelligence",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -300921,7 +300621,7 @@
         "company_name": "thyssenkrupp",
         "id": "bd01268d-018b-42de-992a-fbdb6d74c2c0",
         "title": "Trader Trainee",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -302418,7 +302118,7 @@
         "company_name": "FHLBank Topeka",
         "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
         "title": "Financial Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -306039,7 +305739,7 @@
         "company_name": "Boys Town",
         "id": "d9fcc633-0100-463e-b6d7-1abdfdda5a5f",
         "title": "Artificial Intelligence & Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -310400,7 +310100,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -310698,7 +310398,7 @@
         "company_name": "thyssenkrupp",
         "id": "5830852c-614b-4f98-b679-c96b5f7474be",
         "title": "Trader Trainee - Steel",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -318805,7 +318505,7 @@
         "company_name": "General Motors",
         "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
         "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -320501,7 +320201,7 @@
         "company_name": "MFS",
         "id": "c2b287d7-ceef-4839-a8ed-a278eecb18cb",
         "title": "Quantitative Research Associate",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -325686,7 +325386,7 @@
         "company_name": "Tencent",
         "id": "2154dbb1-0a02-4ce3-8bc5-6fbe782e9d84",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -328041,7 +327741,7 @@
         "company_name": "KeyBank",
         "id": "fe57e53f-bdb9-4695-9ea0-f16628645798",
         "title": "Marketing Analytics Analyst Program",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -333089,7 +332789,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "ac237463-1f16-49c9-a219-27e3ac54a9a3",
         "title": "Office of Career Services Intern - Technology Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -334043,7 +333743,7 @@
         "company_name": "General Motors",
         "id": "4a1df858-5ad9-47bc-a093-0d00f0f40b6c",
         "title": "Research and Development Intern - Research & Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
