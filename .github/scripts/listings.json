@@ -1,116 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "VSP Vision",
-        "id": "6e988a43-6816-4676-9b01-53dadd4b860e",
-        "title": "Internship - Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763606154,
-        "date_posted": 1763606154,
-        "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-8772",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/VSP-Vision",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cisco",
-        "id": "68c24854-bd2b-440a-80b7-713cdeb9e5d3",
-        "title": "AI Machine Learning Engineer 2 - Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763608722,
-        "date_posted": 1763608722,
-        "url": "https://careers.cisco.com/global/en/job/2000461",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cisco",
-        "id": "1cde2689-d3c8-4c81-bfd1-624897f66d01",
-        "title": "AI Machine Learning Engineer 1 - Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763608417,
-        "date_posted": 1763608417,
-        "url": "https://careers.cisco.com/global/en/job/2000454",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cisco",
-        "id": "52ef204d-8424-4808-9bef-f5125171c544",
-        "title": "Hardware Engineer PhD \u2013 Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763607788,
-        "date_posted": 1763607788,
-        "url": "https://careers.cisco.com/global/en/job/2000136",
-        "locations": [
-            "Austin, TX",
-            "San Jose, CA",
-            "Research Triangle, Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cisco",
-        "id": "4b024c3a-55ba-4dbe-ab57-7807be9a012b",
-        "title": "Splunk Intern - Frontend - Software Engineer II",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763607840,
-        "date_posted": 1763607840,
-        "url": "https://careers.cisco.com/global/en/job/2000145",
-        "locations": [
-            "Research Triangle, Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "The Aerospace Corporation",
         "id": "a9de3a0f-ef87-4438-9084-e0b8fac52c69",
@@ -329988,7 +329878,7 @@
         "company_name": "Citadel Securities",
         "id": "e2a8f8b3-cb1a-4411-871c-916776913b34",
         "title": "Machine Learning Researcher PhD Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -330012,7 +329902,7 @@
         "company_name": "Citadel Securities",
         "id": "8f8172aa-6806-412b-b161-9e3f526a849c",
         "title": "Quantitative Researcher PhD Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
