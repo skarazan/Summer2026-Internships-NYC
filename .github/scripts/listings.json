@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "a9ef6600-5544-4b4f-81a7-a2939aa937ee",
-        "title": "Data Analyst Intern - Tiktok Shop",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1763679472,
-        "date_posted": 1763679472,
-        "url": "https://lifeattiktok.com/search/7574308640640878853",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TJX",
-        "id": "a46f75ea-a36b-41f6-bcc4-0c6b5effd357",
-        "title": "Merchandise Operations Analyst Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763679293,
-        "date_posted": 1763679293,
-        "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Mississauga-ON-L5R-0G1/Merchandise-Operations-Analyst-Co-op---Winter-Term_REQ62110",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TJX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Robert Bosch Venture Capital",
         "id": "c75ce643-3c69-4428-b2e5-33b4437f433c",
@@ -307607,7 +307565,7 @@
         "company_name": "ByteDance",
         "id": "9d377784-8ac4-48d0-9e39-db00dec7d15a",
         "title": "Student Researcher - LLM Post Training - Agent & Reinforcement Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
