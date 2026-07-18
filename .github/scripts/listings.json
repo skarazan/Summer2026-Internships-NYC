@@ -327248,7 +327248,7 @@
         "company_name": "thyssenkrupp",
         "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -327856,7 +327856,7 @@
         "company_name": "Copart",
         "id": "dc2f3a9e-bfd2-4ade-a19a-e77dfdcd2301",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -329053,7 +329053,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -331002,7 +331002,7 @@
         "company_name": "NVIDIA",
         "id": "0317c6ee-8867-463c-899c-dab81eee99b4",
         "title": "PhD Research Intern - System Software and I/O Architecture",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -331027,7 +331027,7 @@
         "company_name": "NVIDIA",
         "id": "cf5b742b-7660-43e5-969b-f4a57b8b9935",
         "title": "Java Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -331051,7 +331051,7 @@
         "company_name": "NVIDIA",
         "id": "22a20d43-6a5e-4760-88c0-cadff9b8bacc",
         "title": "Applied Research Intern - NLP",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -331627,7 +331627,7 @@
         "company_name": "Fidelity Investments",
         "id": "17699a31-38e1-4e82-b409-fe317a841c6f",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -334966,7 +334966,7 @@
         "company_name": "GE Healthcare",
         "id": "372d94d1-a83d-44fb-a919-4261fb51f503",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335330,7 +335330,7 @@
         "company_name": "Amgen",
         "id": "242592f3-d34b-4408-83fc-12609e3b71f9",
         "title": "Software Engineer Co-op - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335545,7 +335545,7 @@
         "company_name": "GE Healthcare",
         "id": "cf736802-724f-4f8f-874b-185fd97a9f55",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336539,7 +336539,7 @@
         "company_name": "GE Healthcare",
         "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
         "title": "Field Service Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -336568,7 +336568,7 @@
         "company_name": "GE Healthcare",
         "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336594,7 +336594,7 @@
         "company_name": "GE Healthcare",
         "id": "27cd0b35-4964-4f9e-95d3-2968a5776184",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336620,7 +336620,7 @@
         "company_name": "GE Healthcare",
         "id": "ec539e13-7378-478b-b778-72a9b227541d",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337708,7 +337708,7 @@
         "company_name": "GE Healthcare",
         "id": "0858a27e-d921-4e91-8a7a-e791a1a6f4fd",
         "title": "Client Service Technician Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337733,7 +337733,7 @@
         "company_name": "GE Healthcare",
         "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
         "title": "Field Service Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -342578,7 +342578,7 @@
         "company_name": "GE Healthcare",
         "id": "287c1182-006f-487e-aa40-c2eef51435aa",
         "title": "Client Service Technician Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -343349,5 +343349,52 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Light & Wonder",
+        "id": "3206a3c7-6479-4c8b-a740-4ef15061ca24",
+        "title": "Mathematics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784394284,
+        "date_posted": 1782511486,
+        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Chicago-IL/Math-Intern_R322327",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Light-And-Wonder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Truveta",
+        "id": "dbe32592-0624-419b-b515-d327c3f19029",
+        "title": "ML PhD Intern - LLMs & Generative AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763666322,
+        "date_posted": 1763666322,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5712997004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truveta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
