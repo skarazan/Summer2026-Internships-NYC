@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intuitive Surgical",
-        "id": "549d8449-d93d-4fd5-b514-2a6d6805ec6e",
-        "title": "AI Research Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1763691278,
-        "date_posted": 1763691278,
-        "url": "https://jobs.smartrecruiters.com/Intuitive/744000094742485",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "da4ebfc6-10fc-4482-bce3-a58db0d23a4e",
@@ -315783,7 +315762,7 @@
         "company_name": "General Motors",
         "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
         "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331021,7 +331000,7 @@
         "company_name": "General Motors",
         "id": "4a1df858-5ad9-47bc-a093-0d00f0f40b6c",
         "title": "Research and Development Intern - Research & Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
