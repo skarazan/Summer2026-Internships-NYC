@@ -65494,78 +65494,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "c53f1961-e571-4a77-a084-c5970b120724",
-        "title": "Software Engineer/Principal Software Engineer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1763812536,
-        "date_posted": 1763812536,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME--DoD-SkillBridge--Software-Engineer-Principal-Software-Engineer_R10198108",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "2753bbb8-8695-46ca-9ab3-062953b9c0c0",
-        "title": "Part-Time Research Assistants-Statistics",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1763812052,
-        "date_posted": 1763812052,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistants-Statistics_REQ_0000055596-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Northwestern Mutual",
-        "id": "33863275-2a05-41ff-bedb-8b3c2e3b8867",
-        "title": "Investment Analyst - Private Debt & Equity",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1763809042,
-        "date_posted": 1763809042,
-        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst---Private-Debt---Equity_JR-40524",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Auctane",
         "id": "9a4bb2dd-90a7-47b4-bbc8-f65bfe3a038b",
@@ -182635,7 +182563,7 @@
         "company_name": "Tencent",
         "id": "66572abf-79bc-4959-81dc-2d51e16c64a4",
         "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -229848,7 +229776,7 @@
         "company_name": "GE Appliances",
         "id": "a4d76612-8c17-43cd-ae7e-d0bcebd21928",
         "title": "Engineering Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -246002,7 +245930,7 @@
         "company_name": "Pennsylvania State University",
         "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
         "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -249309,7 +249237,7 @@
         "company_name": "Tencent",
         "id": "5d7f71ac-5019-4377-9a96-d95b20a6befe",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -286403,7 +286331,7 @@
         "company_name": "University of Arkansas",
         "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
         "title": "Student Research Assistant-2",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -294321,7 +294249,7 @@
         "company_name": "Kinaxis",
         "id": "937ea815-7e19-4bed-a8eb-a226a5201df1",
         "title": "Software Development Co-op/Intern - C++",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -296949,7 +296877,7 @@
         "company_name": "Leidos",
         "id": "675a9412-93b5-472a-b2b3-fb762ddbcc1a",
         "title": "Reports Officer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -297178,7 +297106,7 @@
         "company_name": "FHLBank Topeka",
         "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
         "title": "Financial Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -305160,7 +305088,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305458,7 +305386,7 @@
         "company_name": "thyssenkrupp",
         "id": "5830852c-614b-4f98-b679-c96b5f7474be",
         "title": "Trader Trainee - Steel",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -327891,7 +327819,7 @@
         "company_name": "Visa",
         "id": "b3481e39-bfac-4371-a229-3988483eefff",
         "title": "3 Applicants Only - Analyst - Visa Consulting and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -328012,7 +327940,7 @@
         "company_name": "American University",
         "id": "d571bbf2-dce0-4bd7-a661-6ccb7a93f2a6",
         "title": "Lab Technician - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -330579,7 +330507,7 @@
         "company_name": "GE Healthcare",
         "id": "ca122686-92d2-4b2b-8273-a546c5c21a01",
         "title": "Field Service Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330654,7 +330582,7 @@
         "company_name": "GE Healthcare",
         "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332217,7 +332145,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332793,7 +332721,7 @@
         "company_name": "GE Healthcare",
         "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
         "title": "Field Service Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334971,7 +334899,7 @@
         "company_name": "GE Healthcare",
         "id": "913714da-b33d-46f8-89fa-c78911521433",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336943,7 +336871,7 @@
         "company_name": "GE Healthcare",
         "id": "4483e436-40a3-47b2-b54d-3bb6048b787d",
         "title": "Client Service Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337785,7 +337713,7 @@
         "company_name": "GE Healthcare",
         "id": "f7eb1ce6-bd5a-46b6-844d-5b28bcebc3a1",
         "title": "Client Service Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337810,7 +337738,7 @@
         "company_name": "Magna",
         "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
         "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -338692,6 +338620,54 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hitachi Energy",
+        "id": "62a3a51b-c71e-44c9-b28b-32be479dc488",
+        "title": "Cloud & Data Specialist Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784541722,
+        "date_posted": 1784505600,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/London-London-United-Kingdom/Intern---Cloud---Data-Specialist--67651-_R0138533",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/83d28c1e-7f20-4aac-afd9-6bc8a468d7eb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "ab42be6d-de7a-4175-9360-3aa1b0b3446c",
+        "title": "Surgery Field Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784547835,
+        "date_posted": 1783987200,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice_R4043509",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
         ]
     }
 ]
