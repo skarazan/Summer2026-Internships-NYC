@@ -270649,7 +270649,7 @@
         "company_name": "Pennsylvania State University",
         "id": "4686a41a-e15f-4233-8277-21cb6d26a8c2",
         "title": "CSE Researcher-Narayanan Intern - V",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -271020,7 +271020,7 @@
         "company_name": "Nokia",
         "id": "74afc000-9214-4266-baef-ff8fbab5c0a0",
         "title": "Incubation Developer Coop/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -274132,7 +274132,7 @@
         "company_name": "Pennsylvania State University",
         "id": "a543ce3e-1976-406e-9398-c700e1bfcbad",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -282129,7 +282129,7 @@
         "company_name": "SOTI",
         "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -292568,7 +292568,7 @@
         "company_name": "Cadence Design Systems",
         "id": "21733e97-8cdc-4e2f-ae0c-75d18a8802da",
         "title": "Product Engineering Intern - Simulation and Verification",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -298429,7 +298429,7 @@
         "company_name": "Magna",
         "id": "d507cff6-5d9b-45f2-a806-de4fe7b2e699",
         "title": "Engineering ADAS Perception Features Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -299306,7 +299306,7 @@
         "company_name": "Salesforce",
         "id": "f72e4f9c-46ba-4a77-aa67-a10faac92de9",
         "title": "AI Builder - Emerging Talent",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -301279,7 +301279,7 @@
         "company_name": "Protech Automotive Solutions",
         "id": "f67f6341-7b86-4397-a467-a0e0538e54ce",
         "title": "Automotive ADAS Calibration Technician Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -302983,7 +302983,7 @@
         "company_name": "Zipline",
         "id": "02b310b9-4510-4ae2-9b3f-54bcb3eaab3b",
         "title": "Perception Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -304443,7 +304443,7 @@
         "company_name": "Nio",
         "id": "f8c55540-2c77-4666-a43b-0bd880b968f9",
         "title": "Data Analysis Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -308003,7 +308003,7 @@
         "company_name": "Tesla",
         "id": "36452090-98d7-49de-9884-697203676c3d",
         "title": "Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -309289,7 +309289,7 @@
         "company_name": "GE Vernova",
         "id": "f0ac800d-804a-400b-9ee5-a6006e56c30b",
         "title": "Grid Automation & Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -309983,7 +309983,7 @@
         "company_name": "Zipline",
         "id": "72e1792e-aad9-40a4-9464-641c1c28ccd1",
         "title": "Enterprise Systems Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -313397,7 +313397,7 @@
         "company_name": "Synchrony Financial",
         "id": "1862811d-f108-4ae2-80e1-ebadd703d58a",
         "title": "Digital Technology Center Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -313831,7 +313831,7 @@
         "company_name": "OfferUp",
         "id": "cc2fec71-d445-40e3-be3e-b8dd51184164",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316385,7 +316385,7 @@
         "company_name": "Viking Global",
         "id": "6200c443-ced9-4868-902f-2ba885ed5c02",
         "title": "Execution Research Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -316797,7 +316797,7 @@
         "company_name": "University of Texas at Austin",
         "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
         "title": "Course Support - Rhetoric",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -317402,7 +317402,7 @@
         "company_name": "Autodesk",
         "id": "bf8a5772-d7a7-4239-8119-4ed3cfb9f480",
         "title": "Cloud Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -319056,7 +319056,7 @@
         "company_name": "Ciena",
         "id": "42d6ca6a-8aa6-404b-a0fa-0251620e1565",
         "title": "Embedded Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -321089,7 +321089,7 @@
         "company_name": "Virtu Financial",
         "id": "808f7430-55f6-4daa-9c66-727dc6615eee",
         "title": "Quantitative Research Intern - Quant Research - Undergrad",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -321930,7 +321930,7 @@
         "company_name": "Ciena",
         "id": "d61485a9-6c16-4f35-ab29-9444caf5b0aa",
         "title": "Software Engineering Co-op - 8 Months",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -324489,7 +324489,7 @@
         "company_name": "Palo Alto Networks",
         "id": "116541fa-771d-4823-a666-0884c8ececfd",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326068,7 +326068,7 @@
         "company_name": "Integrity",
         "id": "21764c96-24e4-46f7-b19f-977407981b13",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -326561,7 +326561,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330286,7 +330286,7 @@
         "company_name": "Datasite",
         "id": "268262ab-3056-48bd-a78d-3fe70d2fb886",
         "title": "AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -331962,7 +331962,7 @@
         "company_name": "Arrowstreet Capital",
         "id": "6db9e02b-faca-4e0e-ac29-f4fb8c87be71",
         "title": "Quantitative Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -333419,7 +333419,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "1c39cba6-ebfc-4c07-b06a-3ab376302145",
         "title": "Energy Data Analysis Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -334789,7 +334789,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "cbd572b1-88d5-4325-a534-e4b8b03290c6",
         "title": "Graduate Intern - Transportation Systems Analysis",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -335267,7 +335267,7 @@
         "company_name": "Copart",
         "id": "27bc7565-972b-4dff-a2b6-d86296a62c88",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335334,7 +335334,7 @@
         "company_name": "Copart",
         "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335653,7 +335653,7 @@
         "company_name": "Copart",
         "id": "95db5bec-3f24-4913-816e-bfabc131f401",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335723,7 +335723,7 @@
         "company_name": "DataRobot",
         "id": "a7d8ee7d-d813-4aac-afa0-b2cc56b8b7f6",
         "title": "Agentic AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335850,7 +335850,7 @@
         "company_name": "Motorola",
         "id": "255595f1-f6b4-4007-9563-647c8db7fae5",
         "title": "Data Analyst Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -335922,7 +335922,7 @@
         "company_name": "Tencent",
         "id": "1da1916d-7918-44db-9d73-5bc1eb73ea7f",
         "title": "Research Intern - Video World Models - Research & ML Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336539,7 +336539,7 @@
         "company_name": "Semtech",
         "id": "4d4d6084-e83e-46b3-9d26-63f710d1be04",
         "title": "Salesforce QA & Data Analyst Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336560,7 +336560,7 @@
         "company_name": "Semtech",
         "id": "165173b5-9af2-4e5c-929e-0274613ad6b0",
         "title": "Salesforce QA & Data Analyst Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337190,7 +337190,7 @@
         "company_name": "City of Charlotte",
         "id": "a9c0f61f-1d7a-470d-9bcc-d4e4c85a0b36",
         "title": "Management Analyst Intern - Research and Planning Division",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -337303,7 +337303,7 @@
         "company_name": "Veralto",
         "id": "669285b9-7671-42a2-aa8c-413c7a3d0334",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339568,7 +339568,7 @@
         "company_name": "Onware",
         "id": "47396485-020d-4723-a0eb-84364424bc72",
         "title": "Full Stack Developer-Intern Opportunity",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -339802,7 +339802,7 @@
         "company_name": "Gitar, Inc.",
         "id": "c8b23aef-956a-4e8f-bf36-9f747b2a67ef",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -339892,7 +339892,7 @@
         "company_name": "Moon",
         "id": "de36e85a-366d-49db-98a9-fb9c3004ef0b",
         "title": "Software Engineer Intern - Backend & API",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339957,7 +339957,7 @@
         "company_name": "LightGuide, Inc.",
         "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
         "title": "Product Innovation Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -341865,7 +341865,7 @@
         "company_name": "Axon",
         "id": "01ae98fa-826d-40b3-990a-3254933cd747",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342016,6 +342016,139 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Ottawa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "49b2fba7-c2df-477e-bad5-db668e2ad45f",
+        "title": "Graduate Assistant - Data - Dell Medical School",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784663822,
+        "date_posted": 1784592000,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Graduate-Assistant--Data--Texas-Child-Mental-Health-Programs--Department-of-Psychiatry-and-Behavioral-Sciences--Dell-Medical-School_R_00047460-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Littelfuse",
+        "id": "684c7d2c-b34e-4cf6-95e4-d11be0cc5565",
+        "title": "Intern 1 - Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784672549,
+        "date_posted": 1784592000,
+        "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Dole/Intern-I--engineering_JR-112116",
+        "locations": [
+            "Gastonia, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Littelfuse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nidec",
+        "id": "2b524c26-dc94-466d-b684-f390328278c1",
+        "title": "Test Lab Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784671761,
+        "date_posted": 1784246400,
+        "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Test-Lab-Engineer-Co-op_R0016732",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Nidec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "a13cbb72-8a90-4b24-83d8-1896547d8948",
+        "title": "Associate Simulation Software Engineer / Simulation Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784668141,
+        "date_posted": 1783030633,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Simulation-Software-Engineer---Simulation-Software-Engineer_R10238808",
+        "locations": [
+            "Melbourne, FL",
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "523819c3-69f8-43ab-9ed1-81e28aea88f6",
+        "title": "Junior Layout Design Engineer - Trainee",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784663822,
+        "date_posted": 1784592000,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-AZ-Chandler-East-Elliot/Junior-Layout-Design-Engineer--Trainee-_R263726",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Trane Technologies",
+        "id": "e66bd9ce-9790-409e-9e11-af9403fec303",
+        "title": "Motor Winder Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784675863,
+        "date_posted": 1784239925,
+        "url": "https://careers.tranetechnologies.com/global/en/job/JR-10651",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
