@@ -306095,7 +306095,7 @@
         "company_name": "Solink",
         "id": "45798e16-2cea-4d21-91df-f4c604c2e02b",
         "title": "Software Engineer Co-op - R&D- Data Integrations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316862,7 +316862,7 @@
         "company_name": "Navaide",
         "id": "81ec5b4c-5377-4e90-8df6-0084619942ce",
         "title": "Technology & Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327254,7 +327254,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328116,7 +328116,7 @@
         "company_name": "American University",
         "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
         "title": "Quantitative Research Methodology Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -328727,7 +328727,7 @@
         "company_name": "Meta",
         "id": "613c87b3-0776-4db5-94de-3dac3d3140d4",
         "title": "Research Scientist Intern - 3D Vision & World Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328844,7 +328844,7 @@
         "company_name": "Hitachi",
         "id": "3274d779-e985-4d1a-a236-73e8fe32e66e",
         "title": "Software Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -329724,7 +329724,7 @@
         "company_name": "Amgen",
         "id": "242592f3-d34b-4408-83fc-12609e3b71f9",
         "title": "Software Engineer Co-op - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -329771,7 +329771,7 @@
         "company_name": "Rockwell Automation",
         "id": "36b79a50-6c90-42a0-8884-86ce10b25d38",
         "title": "Firmware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -329939,7 +329939,7 @@
         "company_name": "GE Healthcare",
         "id": "cf736802-724f-4f8f-874b-185fd97a9f55",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -331203,7 +331203,7 @@
         "company_name": "Microchip Technology",
         "id": "6c97854c-c8cd-46cc-b26a-8a3f63aab585",
         "title": "Applications Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -333731,7 +333731,7 @@
         "company_name": "Salesforce",
         "id": "224ca026-078b-4524-bf33-5a214373c094",
         "title": "Associate Product Manager Intern - Associate Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -333875,7 +333875,7 @@
         "company_name": "Arizona State University",
         "id": "64902580-c49d-4221-8f19-a1e00d5b2f02",
         "title": "Student Data Science Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -337324,7 +337324,7 @@
         "company_name": "Ensemble Health Partners",
         "id": "fe4a0f8c-3de2-411c-8959-9b9893900a52",
         "title": "Engineering Excellence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -341925,6 +341925,97 @@
             "Ferndale, MI"
         ],
         "company_url": "https://simplify.jobs/c/Magna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hitachi Energy",
+        "id": "ddb70cb2-7fcb-4a14-815e-7c1756538921",
+        "title": "Engineering Knowledge Management Intern - 8 months",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784668141,
+        "date_posted": 1783404638,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Engineering-Knowledge-Management-Intern--Fall-2026--8-months-_R1012818-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/83d28c1e-7f20-4aac-afd9-6bc8a468d7eb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tencent",
+        "id": "6e34bef0-a1a7-4cef-9837-41f96c2b9ab0",
+        "title": "Data Product Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784665981,
+        "date_posted": 1782108393,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Data-Product-Intern_R107644-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "2f6eef33-0694-4b8f-b0bf-fa6da1428cb2",
+        "title": "Equipment Engineering Technician Intern - Metrology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1784670352,
+        "date_posted": 1783900800,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern-Equipment-Engineering-Technician--Metrology-_R3077-26",
+        "locations": [
+            "Fairview, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Ottawa",
+        "id": "de35f1fb-9d09-4d78-ad30-d5b353c0a69a",
+        "title": "Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784668862,
+        "date_posted": 1783641600,
+        "url": "https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/Research-Assistant_JR37685",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Ottawa",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
