@@ -288107,7 +288107,7 @@
         "company_name": "PlusAI",
         "id": "16f8011e-fc9d-4983-89eb-fa56f1bafc0d",
         "title": "Machine Learning Infrastructure Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -288291,7 +288291,7 @@
         "company_name": "PlusAI",
         "id": "14194f20-cd82-44ed-873d-7a7c8473ba4b",
         "title": "Software Engineer Intern - Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339505,6 +339505,108 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "b67c806f-262a-4ec2-8ed1-de44ffbca035",
+        "title": "Software Engineer Intern - MS",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784591882,
+        "date_posted": 1784591786,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/95141459539174086",
+        "locations": [
+            "Palo Alto, CA",
+            "Cambridge, MA",
+            "Madison, WI",
+            "Seattle, WA",
+            "Houston, TX",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "San Jose, CA",
+            "Irvine, CA",
+            "San Carlos, CA",
+            "Raleigh, NC",
+            "San Bruno, CA",
+            "Redmond, WA",
+            "Durham, NC",
+            "Santa Cruz, CA",
+            "Chicago, IL",
+            "Goleta, CA",
+            "Pittsburgh, PA",
+            "Kirkland, WA",
+            "Reston, VA",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA",
+            "Mountain View, CA",
+            "Portland, OR",
+            "Boulder, CO",
+            "Atlanta, GA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "820400f1-d2e5-43b3-94b0-c8913692b46a",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784591853,
+        "date_posted": 1784591791,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126",
+        "locations": [
+            "Palo Alto, CA",
+            "Cambridge, MA",
+            "Madison, WI",
+            "Seattle, WA",
+            "Houston, TX",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "San Jose, CA",
+            "Irvine, CA",
+            "San Carlos, CA",
+            "Raleigh, NC",
+            "San Bruno, CA",
+            "Redmond, WA",
+            "Durham, NC",
+            "Santa Cruz, CA",
+            "Chicago, IL",
+            "Goleta, CA",
+            "Pittsburgh, PA",
+            "Kirkland, WA",
+            "Reston, VA",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA",
+            "Mountain View, CA",
+            "Portland, OR",
+            "Boulder, CO",
+            "Atlanta, GA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
