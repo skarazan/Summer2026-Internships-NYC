@@ -35319,7 +35319,7 @@
         "company_name": "Tencent",
         "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
         "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -37100,7 +37100,7 @@
         "company_name": "thyssenkrupp",
         "id": "bbda7e7c-7de0-4db9-91d9-c5964f94704a",
         "title": "Sustainability Systems Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -43348,30 +43348,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "54b8f4a9-ca1b-4733-8ea9-2d062f9dd4d5",
-        "title": "Intern Semiconductor Design Engineer",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1763924800,
-        "date_posted": 1763924800,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Semiconductor-Design-Engineer_JR84962",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -182016,7 +181992,7 @@
         "company_name": "Tencent",
         "id": "49ea6477-d2a6-4517-b1db-910fa56415d7",
         "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -186086,7 +186062,7 @@
         "company_name": "Nightwing Intelligence Solutions",
         "id": "e9569c77-dc0a-48e3-a280-aab0544afe8e",
         "title": "Radio Frequency Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -288063,7 +288039,7 @@
         "company_name": "Tencent",
         "id": "395f3030-955c-467e-96f2-92d69de7f491",
         "title": "AI Agent Research & Application Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -290740,7 +290716,7 @@
         "company_name": "Brunswick",
         "id": "a2b670ca-0966-45f7-9a77-1365adca98b8",
         "title": "Computer Graphics Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -305796,7 +305772,7 @@
         "company_name": "University of Texas at Austin",
         "id": "1d929b62-c0c3-48c4-914d-2541b5ce214a",
         "title": "Content Management Automation Student Technician",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -306070,7 +306046,7 @@
         "company_name": "Rippling",
         "id": "0d8819e9-06a6-4bf6-9c18-a00012e17263",
         "title": "Full Stack Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -313695,7 +313671,7 @@
         "company_name": "Centific",
         "id": "33224b22-75a0-49b0-84fb-9dc23b4307ae",
         "title": "Speech Research Intern - Centific AI Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -319804,7 +319780,7 @@
         "company_name": "Tencent",
         "id": "2154dbb1-0a02-4ce3-8bc5-6fbe782e9d84",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -319851,7 +319827,7 @@
         "company_name": "Copart",
         "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -320781,7 +320757,7 @@
         "company_name": "Hendrick Motorsports",
         "id": "53184a1f-0b75-4446-9995-e99531372620",
         "title": "Racing Performance Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -324559,7 +324535,7 @@
         "company_name": "Palo Alto Networks",
         "id": "01d46802-0616-4267-b69b-e69902565213",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -334329,7 +334305,7 @@
         "company_name": "GE Healthcare",
         "id": "913714da-b33d-46f8-89fa-c78911521433",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334651,7 +334627,7 @@
         "company_name": "Lumentum",
         "id": "4277f49e-ede5-4c63-8d58-81f59263cd5d",
         "title": "Optical Verification Technician",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -335201,7 +335177,7 @@
         "company_name": "BlackRock",
         "id": "28de39fe-563f-4b16-93f7-5d3bbbb04340",
         "title": "Global Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335970,7 +335946,7 @@
         "company_name": "Tencent",
         "id": "fbb72559-8ab8-44a7-b199-5fa04ec5a879",
         "title": "Research Intern - Video World Models - Research & ML Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336374,7 +336350,7 @@
         "company_name": "Solar Turbines",
         "id": "f35a104f-8aa2-4e17-9c25-aec1fe42185e",
         "title": "Gas Turbine Products Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -336765,7 +336741,7 @@
         "company_name": "CuspAI",
         "id": "6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
         "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337539,7 +337515,7 @@
         "company_name": "PGIM",
         "id": "2f47de17-a088-41a1-8238-0a8713c924ae",
         "title": "Private Credit \u2013 Investment Analyst Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -338257,7 +338233,7 @@
         "company_name": "GE Healthcare",
         "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
         "title": "Engineering Development Program Intern - Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -338281,7 +338257,7 @@
         "company_name": "Copart",
         "id": "2852d53d-1e2d-4026-9f6f-90758dc79f0a",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339230,7 +339206,7 @@
         "company_name": "Fab2",
         "id": "e33c66b9-051d-4401-813b-71a5197aa622",
         "title": "Rust Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339638,7 +339614,7 @@
         "company_name": "SpreeAI ",
         "id": "b307b311-8a8c-4096-bd3b-0d244f3423f0",
         "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339849,7 +339825,7 @@
         "company_name": "Gitar, Inc.",
         "id": "53fcaec4-0e49-4a63-94d1-c52a5741cef0",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -340004,7 +339980,7 @@
         "company_name": "Blue Robotics",
         "id": "9d41334e-0aa3-4509-8eba-8d8c172355e6",
         "title": "Electronics Design Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -341807,6 +341783,100 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/BlackEdge-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Protech Automotive Solutions",
+        "id": "27b85c15-8a83-4408-a5d5-0d8a3a727f46",
+        "title": "Automotive ADAS Calibration Technician Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784651584,
+        "date_posted": 1784073600,
+        "url": "https://calibercollision.wd1.myworkdayjobs.com/protech/job/PT-East-Bay-North/Automotive-ADAS-Calibration-Technician-Apprentice_R0221145",
+        "locations": [
+            "Tracy, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Protech-Automotive-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Optiver",
+        "id": "48263b7f-c07b-458b-99a8-4af5e13edd67",
+        "title": "FPGA Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784654462,
+        "date_posted": 1784643587,
+        "url": "https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Keysight Technologies",
+        "id": "94d15250-b26f-43ee-8091-069b19db76c3",
+        "title": "AI/ML Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784653742,
+        "date_posted": 1784624642,
+        "url": "https://jobs.keysight.com/jobs/52557?icims=1",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Axon",
+        "id": "01ae98fa-826d-40b3-990a-3254933cd747",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784662669,
+        "date_posted": 1784614995,
+        "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
