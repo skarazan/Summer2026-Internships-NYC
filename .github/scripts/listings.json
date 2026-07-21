@@ -298936,7 +298936,7 @@
         "company_name": "NVIDIA",
         "id": "b32acaf4-dae5-4de6-976f-d8efb876afe7",
         "title": "PhD Research Intern - Generative AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -305842,7 +305842,7 @@
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
         "title": "Machine Learning Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -306228,7 +306228,7 @@
         "company_name": "Rippling",
         "id": "7df6766d-b43b-464c-a03e-68387c5ffb37",
         "title": "Software Engineer Intern - Backend Focused",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -306526,7 +306526,7 @@
         "company_name": "Zipline",
         "id": "3233bc5d-9026-42f2-acc6-1cbf5cd4e5f2",
         "title": "Embedded Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -308297,7 +308297,7 @@
         "company_name": "GE Vernova",
         "id": "da6be78c-1b09-49a9-971b-358be0b1c54c",
         "title": "Grid Automation & Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -308344,7 +308344,7 @@
         "company_name": "GE Vernova",
         "id": "043ed3a6-8e6c-45b5-a197-8b549d008117",
         "title": "Grid Automation & Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -308688,7 +308688,7 @@
         "company_name": "Agilent Technologies",
         "id": "4d64e4f3-5f35-4574-8196-f5dedf4d3b4c",
         "title": "Predictive Sales Prospecting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -308780,7 +308780,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -311215,7 +311215,7 @@
         "company_name": "Autodesk",
         "id": "2d6183be-3318-46d4-b9b9-0365de329244",
         "title": "Machine Learning Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -314964,7 +314964,7 @@
         "company_name": "RELX",
         "id": "52befd31-d887-47a2-8651-4b8574c2d880",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -315822,7 +315822,7 @@
         "company_name": "Synchrony Financial",
         "id": "1d75fdd5-eaef-4466-a5fc-a3e915aa252d",
         "title": "Technology Intern - Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -316685,7 +316685,7 @@
         "company_name": "Marvell",
         "id": "536fde66-67e3-4896-ad49-2fc746ff36a5",
         "title": "Design Verification Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -319502,7 +319502,7 @@
         "company_name": "University of Texas at Austin",
         "id": "bd7d64d7-d4c4-4163-8a9a-6520478b52c1",
         "title": "DSR Lab Data Student Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -320707,7 +320707,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "c40fd9e2-3295-4cb4-a082-0102aefe562b",
         "title": "Graduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -322297,7 +322297,7 @@
         "company_name": "Cadence Design Systems",
         "id": "58c07bf1-1207-453a-9803-cc5b3bcd94cb",
         "title": "Product Engineering Intern - Simulation and Verification",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -322437,7 +322437,7 @@
         "company_name": "Blue Cross Blue Shield of Arizona",
         "id": "468a6978-f0fe-405f-88d2-84f7d0a0cbac",
         "title": "Analyst Analytics and Data Science 2-3",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -322550,7 +322550,7 @@
         "company_name": "University of Virginia",
         "id": "1a9c61d8-2a8a-481f-a0e7-a41aff6447bb",
         "title": "Audio-Visual Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -331851,7 +331851,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "9de0cd3c-8069-46b0-8a3f-21a2cf350daa",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -341636,6 +341636,131 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zipline",
+        "id": "b8d37958-94eb-4403-bf94-50b5a7809a39",
+        "title": "Applications Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784640782,
+        "date_posted": 1780956931,
+        "url": "https://www.zipline.com/open-roles?gh_jid=7765099003",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Aerospace",
+        "id": "ceffdfc7-2794-424e-836b-524a7a195428",
+        "title": "Embedded Systems Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1784640062,
+        "date_posted": 1783167574,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bohemia/Embedded-Systems-Engineer-Co-op--Bohemia--NY----Spring-2027_R5035583-1",
+        "locations": [
+            "Long Island, New York"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Laboratory of the Rockies",
+        "id": "b5d555bf-f83a-4ccb-bcee-64c6f47083f0",
+        "title": "Graduate Geospatial Data Science Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784652588,
+        "date_posted": 1783166662,
+        "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14338",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "b7a7213e-4e27-48ac-82d9-593ced5ab46d",
+        "title": "Intern to Entry Level Conversion Intern Program - Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1784652452,
+        "date_posted": 1783160370,
+        "url": "https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Seattle-WA/Intern-to-Entry-Level-Conversion---Engineering--Summer-2026-Intern-Program-_JR2026516292",
+        "locations": [
+            "Germantown, MD",
+            "Seattle, WA",
+            "Houston, TX",
+            "New Orleans, LA",
+            "Long Beach, CA",
+            "Newburgh, NY",
+            "Mesa, AZ",
+            "Miami, FL",
+            "Colorado Springs, CO",
+            "Fairfax, VA",
+            "Philadelphia, PA",
+            "Merritt Island, FL",
+            "Seal Beach, CA",
+            "Tukwila, WA",
+            "St Charles, MO",
+            "San Antonio, TX",
+            "St. Louis, MO",
+            "Everett, WA",
+            "Auburn, WA",
+            "Ridgecrest, CA",
+            "Heath, OH",
+            "Fort Walton Beach, FL",
+            "Oklahoma City, OK",
+            "Kent, WA",
+            "Portland, OR",
+            "Huntsville, AL",
+            "North Charleston, SC",
+            "Huntington Beach, CA",
+            "Hazelwood, MO",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
