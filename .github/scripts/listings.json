@@ -171304,7 +171304,7 @@
         "company_name": "Tencent",
         "id": "f682356d-55da-4f90-987d-77f140cc652d",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -295015,7 +295015,7 @@
         "company_name": "thyssenkrupp",
         "id": "bd01268d-018b-42de-992a-fbdb6d74c2c0",
         "title": "Trader Trainee",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -316385,7 +316385,7 @@
         "company_name": "Viking Global",
         "id": "6200c443-ced9-4868-902f-2ba885ed5c02",
         "title": "Execution Research Fellow",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -316752,7 +316752,7 @@
         "company_name": "Sony",
         "id": "95f67d1a-0c71-458d-a724-50a943e61f90",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326561,7 +326561,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334817,7 +334817,7 @@
         "company_name": "McKesson",
         "id": "7c8d7a9c-df34-4d65-8b76-da3a59cdb9bc",
         "title": "AI & Strategic Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335517,7 +335517,7 @@
         "company_name": "Revvity",
         "id": "aec4ad25-f3ea-4386-99cc-b24aaa5e5926",
         "title": "Full-Stack AI Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335803,7 +335803,7 @@
         "company_name": "Sentara Health",
         "id": "681c9b80-c50a-46fc-8f94-cec1e4cbb554",
         "title": "Enterprise Data & AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336141,7 +336141,7 @@
         "company_name": "RFCUNY",
         "id": "b2905e3d-2dad-4ffd-a2cc-2b8c1aa04707",
         "title": "IT & Data Systems Intern - Archibus & Applications Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336648,7 +336648,7 @@
         "company_name": "AtkinsR\u00e9alis",
         "id": "eca14cf3-9cb2-4442-9923-14a6d67b70fd",
         "title": "Cost and Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -336857,7 +336857,7 @@
         "company_name": "Chevron Corporation",
         "id": "09855ad6-f11c-4939-b41a-39ff8df98ee6",
         "title": "Software Engineer Intern - Information Technology - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337144,7 +337144,7 @@
         "company_name": "Magna",
         "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
         "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337348,7 +337348,7 @@
         "company_name": "Ensemble Health Partners",
         "id": "c49d403e-9c01-4e02-bbf3-31cbc36e6522",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -338208,7 +338208,7 @@
         "company_name": "GE Healthcare",
         "id": "0b12884f-ce29-40d6-a184-ded1653ddc1b",
         "title": "Engineering Development Program Intern - Hardware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339848,7 +339848,7 @@
         "company_name": "NERv Technology Inc. D.B.A. FluidAI Medical",
         "id": "aea064c1-caa5-4d1b-ac55-f280216fe181",
         "title": "Data and AI Engineering Associate Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -342149,6 +342149,185 @@
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "3dbf7cdf-f9d4-45de-88c4-96a4d3ec984d",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784677955,
+        "date_posted": 1784592000,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "AQR Capital Management",
+        "id": "92ec25b9-67cb-4a92-87d3-379a0012eb5d",
+        "title": "Trading Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784677733,
+        "date_posted": 1784671532,
+        "url": "https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Virginia",
+        "id": "f3a6cbdd-294b-4a93-8d46-49a58b9aa228",
+        "title": "Graduate Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784677586,
+        "date_posted": 1784592000,
+        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/CPSJ-Graduate-Research-Intern--Student-Wage-_R0085307",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "ca78630f-2644-41de-bd59-cb53998d6c7d",
+        "title": "Graduate Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784665262,
+        "date_posted": 1783157912,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Graduate-Research-Assistant_R_00046050",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "63b37cdd-9cee-4eaa-94b3-a8bca7c6fc75",
+        "title": "Product Manager Intern - Tiktok-Product-Search",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784679097,
+        "date_posted": 1784672196,
+        "url": "https://lifeattiktok.com/search/7663349357178620165",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tencent",
+        "id": "1a2e27d2-16f9-4a71-9f87-70a2b51b8041",
+        "title": "AI Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784665981,
+        "date_posted": 1781877976,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Product-manager-Intern_R107654",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Excel Sports Management",
+        "id": "8561f5cd-b767-461e-9de0-0a7862069ef8",
+        "title": "Analytics Intern - Analytics",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784678750,
+        "date_posted": 1784672038,
+        "url": "https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4716581005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Excel-Sports-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fab2",
+        "id": "f97c8aa5-6888-44e1-a593-8b2b91ce485e",
+        "title": "Rust Software Engineer Intern - Chip Design Tools",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784678659,
+        "date_posted": 1784671984,
+        "url": "https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/3a5ae75b-4fdf-4d28-80d4-6e549f2cf5fa",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
