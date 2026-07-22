@@ -231082,7 +231082,7 @@
         "company_name": "Impulse Space",
         "id": "8d3b136a-e903-480d-b1ff-ac54f742b8b7",
         "title": "Radio Frequency Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -313382,7 +313382,7 @@
         "company_name": "Solar Turbines",
         "id": "480b1ffd-7a33-4a90-9d19-fd390e121055",
         "title": "Gas Compressor Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -330023,7 +330023,7 @@
         "company_name": "TelevisaUnivision",
         "id": "af313090-f2b7-4478-8239-1f0e03c22f17",
         "title": "Product Manager Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331354,7 +331354,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332372,7 +332372,7 @@
         "company_name": "Jump Trading",
         "id": "0c2aa586-6aed-4f97-a1d4-e56e503f47a2",
         "title": "Campus ML Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334755,7 +334755,7 @@
         "company_name": "General Atlantic",
         "id": "a7fdba37-efe3-4ac2-b779-bbc47aa7daee",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337420,7 +337420,7 @@
         "company_name": "Phaidra",
         "id": "b77751b6-859f-4a04-a1aa-66508bbaf277",
         "title": "PhD Studentship: Causal Reinforcement Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342909,6 +342909,119 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Later",
+        "id": "eda1aead-c8ff-4d2b-84d5-5e921bdfc622",
+        "title": "Software Development Co-op - Later Influence",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784758160,
+        "date_posted": 1784758137,
+        "url": "https://job-boards.greenhouse.io/later/jobs/8643138002",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Later",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Kepler Communications",
+        "id": "fa4975ec-d463-48d0-9a3e-2333084e1c63",
+        "title": "FPGA Digital Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1784758728,
+        "date_posted": 1784757938,
+        "url": "https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kepler-Communications",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lennox International",
+        "id": "6e043ff4-35f3-4dd9-b704-1be62043d4e9",
+        "title": "AI Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784758622,
+        "date_posted": 1784757845,
+        "url": "https://uscareers-lennox.icims.com/jobs/54120/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Lennox-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Varian",
+        "id": "5552be60-0f97-4b78-9b64-2eb8fef91cee",
+        "title": "Product Engineering Assistant Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784760519,
+        "date_posted": 1784678400,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Product-Engineering-Assistant--Co-op-_R-29570",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arcadis",
+        "id": "58fdddae-3677-433e-8a28-40e7b82c4570",
+        "title": "GIS Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784758880,
+        "date_posted": 1784758335,
+        "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42762",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcadis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
