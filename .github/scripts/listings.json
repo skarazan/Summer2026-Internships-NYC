@@ -1,97 +1,5 @@
 [
     {
-        "date_updated": 1766399119,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.lever.co/syntax/df170288-c049-4e75-a0c3-1c55b24f454d",
-        "company_name": "Syntax",
-        "title": "Data Analyst Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Quantitative Finance",
-        "source": "angie-hue",
-        "id": "7e767ef8-99b8-49e8-afea-46106c9342db",
-        "date_posted": 1763999714,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1765195069,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-36419",
-        "company_name": "KeyBank",
-        "title": "2026 Summer Analytics and Quantitative Modeling Internship - Cleveland",
-        "locations": [
-            "Cleveland, OH"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Quantitative Finance",
-        "source": "angie-hue",
-        "id": "49424262-401a-4429-b335-9c1465ed9e16",
-        "date_posted": 1763999771,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763999845,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/walrusfi/99c93c0e-ed9a-4e41-862a-0cdbe71d7d54",
-        "company_name": "Walrus",
-        "title": "Full Stack Developer Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "ea4a1ec2-be57-42a0-b019-7e37d08513b1",
-        "date_posted": 1763999845,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763999898,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304",
-        "company_name": "TENEX.AI",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "570c98b9-af9a-4beb-8de0-1c1f8c577ccf",
-        "date_posted": 1763999898,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Veolia",
@@ -165441,7 +165349,7 @@
         "company_name": "TikTok",
         "id": "2202e642-993c-409e-9a28-010a98bbeafc",
         "title": "Data Scientist Intern - Tiktok Integrity and Safety - 2026 Summer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -312451,7 +312359,7 @@
         "company_name": "Delta Dental",
         "id": "ec35d3c0-8676-419f-a30b-6eafecc10f7c",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313397,7 +313305,7 @@
         "company_name": "Kepler Communications",
         "id": "d06a7a40-bbf3-4ea3-b87d-2f3e7ce67249",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -342990,6 +342898,80 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rivian",
+        "id": "c2ae75ae-db63-4c6a-8c96-45db53afbd4c",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784730947,
+        "date_posted": 1784729576,
+        "url": "https://careers.rivian.com/jobs/32355?icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian",
+        "id": "ad36c275-69d8-4f8a-a543-c15d377852e5",
+        "title": "Research Park Intern - Embedded Software",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784730915,
+        "date_posted": 1784729570,
+        "url": "https://careers.rivian.com/jobs/32354?icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rivian",
+        "id": "86d85a8b-7db1-47cc-98e9-ba9b7d14ba7a",
+        "title": "UIUC Research Park Intern - Computational Methods Development",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784730798,
+        "date_posted": 1784729572,
+        "url": "https://careers.rivian.com/jobs/32340?icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
