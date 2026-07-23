@@ -1,159 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "ea755069-c7b8-4bdd-93a9-6ce15ba018ff",
-        "title": "Campus Apprenticeship Programme - Technology Software Engineering",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764043437,
-        "date_posted": 1764043437,
-        "url": "https://aexp.eightfold.ai/careers/job/38991449",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wisk",
-        "id": "90082f84-46c5-4280-9e8d-6c2e77b75067",
-        "title": "HRIS Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764042872,
-        "date_posted": 1764042872,
-        "url": "https://wisk.wd108.myworkdayjobs.com/Wisk_Careers/job/Mountain-View-CA/HRIS-Data-Analyst-Intern_JR100358",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wisk-Aero",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fortive",
-        "id": "fa847154-1c79-4de4-9098-b0d49bcd6831",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764042692,
-        "date_posted": 1764042692,
-        "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8106",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fortive",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dover",
-        "id": "f0096eac-6ae5-4547-b031-a07fdfc48505",
-        "title": "Customer Quality/Warranty Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764043825,
-        "date_posted": 1764043825,
-        "url": "https://careers.dovercorporation.com/job/Conyers-Customer-QualityWarranty-Intern-GA-30013/1270480601/?ats=successfactors",
-        "locations": [
-            "Lithonia, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/511130a6-b974-4ccb-a78b-14049de141bb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Emerson Electric",
-        "id": "cff05de8-2ea8-4bb1-a58c-285a779ad98a",
-        "title": "Cloud Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764050179,
-        "date_posted": 1764050179,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25029303",
-        "locations": [
-            "Round Rock, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GE Appliances",
-        "id": "04553971-a1cf-4320-ab79-31ad62af0889",
-        "title": "AI Lab Intern",
-        "active": false,
-        "terms": [
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027",
-            "Fall 2027"
-        ],
-        "date_updated": 1764049754,
-        "date_posted": 1764049754,
-        "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/AI-Lab-Intern_REQ-24396",
-        "locations": [
-            "Louisville, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Appliances",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "VF",
-        "id": "9946fdc0-cd04-42e7-aa2b-713d77089911",
-        "title": "Summer 2026 Product Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764049171,
-        "date_posted": 1764049171,
-        "url": "https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/Summer-2026-Product-Intern_R-20251121-0019-2",
-        "locations": [
-            "Newport Beach, CA",
-            "Portsmouth, NH",
-            "Greensboro, NC",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/VF",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Microchip Technology",
         "id": "fb2ea0ba-0744-4453-8df7-9aa480ce7521",
@@ -55467,27 +55314,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Toll Brothers",
-        "id": "e7951ee5-93f5-4f94-8f1c-dab5650a252a",
-        "title": "Web Development Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768259682,
-        "date_posted": 1764042442,
-        "url": "https://jobs-tollbrothers.icims.com/jobs/24248/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ambler, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Toll-Brothers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Kapitus",
         "id": "cb5dcac7-30c7-439b-8077-d204eeb8589b",
@@ -63756,29 +63582,6 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/SDSU-Research-Foundation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ford Motor Company",
-        "id": "8879342f-7604-45b1-8165-dcda82a93e0d",
-        "title": "Student Worker Program - Associate Electrical Hardware Engineer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1766570720,
-        "date_posted": 1764042209,
-        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/55210",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -163161,7 +162964,7 @@
         "company_name": "Phia",
         "id": "2e0aa3df-91b7-4de3-bc9d-f452dc1c7183",
         "title": "Full Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342301,6 +342104,29 @@
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Red Bull",
+        "id": "9a3e5294-d914-4470-8231-855d92e407d6",
+        "title": "Data Science Intern - Data Science",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784777455,
+        "date_posted": 1784769002,
+        "url": "https://jobs.smartrecruiters.com/RedBull/744000139168339",
+        "locations": [
+            "Morristown, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Bull",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
