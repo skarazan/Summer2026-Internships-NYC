@@ -263404,7 +263404,7 @@
         "company_name": "Intel",
         "id": "e18b5659-3658-49dd-a554-9ba2b49123a9",
         "title": "AI Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -282559,7 +282559,7 @@
         "company_name": "BDO Canada",
         "id": "89cd8782-07fb-498b-98cc-0e43e5a50f79",
         "title": "Data & Analytics Co-op/Intern - Data & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -318989,7 +318989,7 @@
         "company_name": "Sun Life",
         "id": "d752d3de-1880-4a55-86e3-f62e4c6ce7d0",
         "title": "Student Associate Front-End Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -329929,7 +329929,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330004,7 +330004,7 @@
         "company_name": "Exowatt",
         "id": "c0a71d19-4941-44c1-9408-7c39f29dfb85",
         "title": "Software Engineer Intern - Agent Platform - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334728,7 +334728,7 @@
         "company_name": "Solar Turbines",
         "id": "f35a104f-8aa2-4e17-9c25-aec1fe42185e",
         "title": "Gas Turbine Products Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -342497,5 +342497,390 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Veralto",
+        "id": "17ee3293-8626-4393-994a-0a3ef7946447",
+        "title": "Machine Learning Co-op Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784845748,
+        "date_posted": 1784764800,
+        "url": "https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Veralto",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "fbe907df-048b-4499-93d8-d597c25a6efb",
+        "title": "Signal Processing Technical Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1784845648,
+        "date_posted": 1784246400,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Signal-Processing-Technical-Intern_R-00187499",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Primetals Technologies",
+        "id": "96987133-07a3-4c60-9d64-0b2de61ca4e7",
+        "title": "Data Science Internship - Governance",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1784845081,
+        "date_posted": 1784844761,
+        "url": "https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Governance)-FL-32746/1401009733/?ats=successfactors",
+        "locations": [
+            "Lake Mary, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Primetals-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sanofi",
+        "id": "8027380c-3700-4d91-bf26-2de5e22a7e75",
+        "title": "Operational Planning & Capacity Management Data Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784844548,
+        "date_posted": 1784764800,
+        "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Operational-Planning---Capacity-Management-Data-Analyst---VIE-Contract_R2864870",
+        "locations": [
+            "Morristown, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Sanofi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Axogen",
+        "id": "04df6f78-d556-4fc7-964d-e85ebb3a67ff",
+        "title": "AI/ML Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784845116,
+        "date_posted": 1784844440,
+        "url": "https://www.axogeninc.com/about-axogen/careers/?gh_jid=8645955002",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Axogen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Western Digital",
+        "id": "9a969dee-3299-4199-9e37-0f0e37a0d66f",
+        "title": "Failure Analysis Automation Engineer Intern - Failure Analysis Automation Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784844813,
+        "date_posted": 1784844336,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000139338269",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tenstorrent",
+        "id": "3084c516-85ae-493d-a322-241adba5a8ed",
+        "title": "Software Engineer Intern - Power Modeling & AI Tools",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1784844752,
+        "date_posted": 1784844302,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Guidehouse",
+        "id": "e6d7765d-e77d-4662-a2fe-0007dad9f27a",
+        "title": "Technical Associate - Platforms - Technology",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784844362,
+        "date_posted": 1784764800,
+        "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Technical-Associate---Platforms--Technology---Campus-2026--San-Antonio-_42401",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidehouse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Royal Bank of Canada",
+        "id": "4239cf96-37b5-405d-8764-53684b347047",
+        "title": "Relationship Manager Commercial Markets Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784846702,
+        "date_posted": 1784764800,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CHARLOTTETOWN-Prince-Edward-Island-Canada/Relationship-Manager-Commercial-Markets-ntern-CFS_R-0000181764-1",
+        "locations": [
+            "Charlottetown, PE, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Royal Bank of Canada",
+        "id": "15949f9f-5891-47a6-bcc1-7d9b08cc30da",
+        "title": "Relationship Manager Commercial Markets Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1784846702,
+        "date_posted": 1784764800,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CAPE-BRETON-Nova-Scotia-Canada/Relationship-Manager-Commercial-Markets--Intern_R-0000181768",
+        "locations": [
+            "Inverness, NS, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Spectrum Control",
+        "id": "72d8a4a8-d0c7-40a5-bad9-c085945a7d7e",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784846702,
+        "date_posted": 1784764800,
+        "url": "https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Fairview-PA/Engineering-Intern_JR101449",
+        "locations": [
+            "Erie, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Spectrum-Control",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vizient ",
+        "id": "82173387-f97a-42e2-9dfa-4b62cdf081a0",
+        "title": "Data and Analytic Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784846702,
+        "date_posted": 1784764800,
+        "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Data-and-Analytic-Fellow_34534R-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/85ed65fb-d411-473a-a950-b4d5c8ad7bdf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "f3b7a1a3-5bd5-4370-87cd-0c469759e19f",
+        "title": "Graduate Researcher - Redwing Group - Materials Science and Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784845981,
+        "date_posted": 1784764800,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Graduate-Researcher---Redwing-Group----Materials-Science-and-Engineering_REQ_0000080560-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Compassion International",
+        "id": "452bd6d1-0b35-4f40-aa51-c0ae49420249",
+        "title": "Software Developer Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784845981,
+        "date_posted": 1784764800,
+        "url": "https://compassion.wd5.myworkdayjobs.com/CompassionCareersPrivateLink/job/Remote---USA/Software-Developer-Fellow---CVG_R8264",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Compassion-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Golden Pet Brands",
+        "id": "c3cb586c-7a74-433e-9247-a5bf6ab308e5",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784845081,
+        "date_posted": 1784844809,
+        "url": "https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Golden-Pet-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "d0537d89-d21b-4246-b1b8-89bc300cc337",
+        "title": "Data Analytics and Cloud Engineer - Military Bridge",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784845081,
+        "date_posted": 1784764800,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/All-Cities-Texas-United-States-of-America/Data-Analytics-and-Cloud-Engineer---Military-Bridge_3166463",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "36a3cb41-211c-4c6c-9c0d-c92318a763a6",
+        "title": "Data Analytics and Cloud Engineer - Military Bridge",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784845081,
+        "date_posted": 1784764800,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/All-Cities-Texas-United-States-of-America/Data-Analytics-and-Cloud-Engineer---Military-Bridge_3166463-1",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
