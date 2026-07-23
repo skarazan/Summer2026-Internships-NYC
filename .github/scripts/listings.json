@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1764088142,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.baesystems.com/global/en/job/BAE1US118688BREXTERNAL/Software-Intern-Summer-2026",
-        "company_name": "BAE Systems",
-        "title": "Software Intern, Summer 2026",
-        "locations": [
-            "Totowa, NJ"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "e0a1771c-1c61-4ac4-8b5f-a0228b75180b",
-        "date_posted": 1764088142,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Central Hudson",
@@ -335725,7 +335702,7 @@
         "company_name": "Ensemble Health Partners",
         "id": "fe4a0f8c-3de2-411c-8959-9b9893900a52",
         "title": "Engineering Excellence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342469,6 +342446,55 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Optiver",
+        "id": "9b96cf35-590b-4fe5-9a32-caf76a2a6a85",
+        "title": "Institutional Trader Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784822582,
+        "date_posted": 1784816353,
+        "url": "https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "G-Research",
+        "id": "e0f7c410-495b-4e54-8274-9a6d2f191e10",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784822996,
+        "date_posted": 1784764800,
+        "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/G-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
             "PhD"
         ]
     }
