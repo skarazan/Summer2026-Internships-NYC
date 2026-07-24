@@ -33170,7 +33170,7 @@
         "company_name": "Copart",
         "id": "4fa1b683-fa30-44b0-a279-ea52a60e6a84",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -287531,7 +287531,7 @@
         "company_name": "Brunswick",
         "id": "a2b670ca-0966-45f7-9a77-1365adca98b8",
         "title": "Computer Graphics Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -290350,7 +290350,7 @@
         "company_name": "NVIDIA",
         "id": "d2de708b-89ff-406f-bd7a-70f5d52cf392",
         "title": "PhD Software Engineer Intern - Decision Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -291830,7 +291830,7 @@
         "company_name": "thyssenkrupp",
         "id": "bd01268d-018b-42de-992a-fbdb6d74c2c0",
         "title": "Trader Trainee",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -293098,7 +293098,7 @@
         "company_name": "Leidos",
         "id": "675a9412-93b5-472a-b2b3-fb762ddbcc1a",
         "title": "Reports Officer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -301309,7 +301309,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -301607,7 +301607,7 @@
         "company_name": "thyssenkrupp",
         "id": "5830852c-614b-4f98-b679-c96b5f7474be",
         "title": "Trader Trainee - Steel",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -302466,7 +302466,7 @@
         "company_name": "CHEP",
         "id": "513d3867-26bc-4203-8cd2-ade981572975",
         "title": "FP&A Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305571,7 +305571,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -319065,7 +319065,7 @@
         "company_name": "Copart",
         "id": "dc2f3a9e-bfd2-4ade-a19a-e77dfdcd2301",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326728,7 +326728,7 @@
         "company_name": "GE Healthcare",
         "id": "ca122686-92d2-4b2b-8273-a546c5c21a01",
         "title": "Field Service Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -328642,7 +328642,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "9de0cd3c-8069-46b0-8a3f-21a2cf350daa",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -328663,7 +328663,7 @@
         "company_name": "RELX",
         "id": "d0fe3c23-78d8-4f8b-a69a-17d72eaa5eb2",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -328844,7 +328844,7 @@
         "company_name": "GE Healthcare",
         "id": "d72456b7-6689-4c34-84b3-3f394ad3fb4d",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -328942,7 +328942,7 @@
         "company_name": "GE Healthcare",
         "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
         "title": "Field Service Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332468,7 +332468,7 @@
         "company_name": "Copart",
         "id": "95db5bec-3f24-4913-816e-bfabc131f401",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -333907,7 +333907,7 @@
         "company_name": "GE Healthcare",
         "id": "c1a4bf61-90df-42b7-8c6c-5b197e81cb7d",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334521,7 +334521,7 @@
         "company_name": "Centerstone",
         "id": "fec42271-5a2c-43cd-8fc9-d3ab4140f87c",
         "title": "Bachelor Level Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334872,7 +334872,7 @@
         "company_name": "GE Healthcare",
         "id": "ab42be6d-de7a-4175-9360-3aa1b0b3446c",
         "title": "Surgery Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336361,7 +336361,7 @@
         "company_name": "Mistral AI",
         "id": "9c623c6e-1770-474c-942e-c2c0bcd6d9c0",
         "title": "Applied Scientist / Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338362,7 +338362,7 @@
         "company_name": "GE Healthcare",
         "id": "664a4064-bf27-4a2a-bbd6-939cd77b76ce",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340753,7 +340753,7 @@
         "company_name": "Becton Dickinson",
         "id": "44c0f8ab-bc09-4802-ad77-110dc6c77373",
         "title": "Edge Program Associate - Technology & Global Services - Tgs",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -340962,7 +340962,7 @@
         "company_name": "Leidos",
         "id": "fbe907df-048b-4499-93d8-d597c25a6efb",
         "title": "Signal Processing Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341175,7 +341175,7 @@
         "company_name": "Spectrum Control",
         "id": "72d8a4a8-d0c7-40a5-bad9-c085945a7d7e",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341522,7 +341522,7 @@
         "company_name": "Mistral AI",
         "id": "ebc10de7-d079-4f61-82e2-abbf332284fb",
         "title": "AI Data Solutions Intern - Data Partnerships",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
