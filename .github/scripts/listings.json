@@ -1,51 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intuitive Surgical",
-        "id": "ede54e84-6c38-4b23-82f9-e4a5835ac2c6",
-        "title": "Supply Chain Risk & Analytics",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764141248,
-        "date_posted": 1764141248,
-        "url": "https://jobs.smartrecruiters.com/Intuitive/744000095583090",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intuitive Surgical",
-        "id": "20a37d3d-06fb-4c9a-bc5f-5f752733d95b",
-        "title": "AI Research Intern",
-        "active": false,
-        "terms": [
-            "Fall 2024",
-            "Summer 2024"
-        ],
-        "date_updated": 1764141251,
-        "date_posted": 1764141251,
-        "url": "https://jobs.smartrecruiters.com/Intuitive/744000095572186",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Hewlett Packard Enterprise",
         "id": "e02c70cb-a5c4-487c-90bc-c3a3371e6821",
@@ -191306,7 +191261,7 @@
         "company_name": "GE Vernova",
         "id": "2bfd1c4d-795c-497f-b0d6-1d455cd67aeb",
         "title": "Controls Application Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -207735,7 +207690,7 @@
         "company_name": "GE Vernova",
         "id": "7439f59d-7849-4135-905d-ac5f88ad7b9b",
         "title": "Controls Application Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -321740,7 +321695,7 @@
         "company_name": "Palo Alto Networks",
         "id": "116541fa-771d-4823-a666-0884c8ececfd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330670,7 +330625,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "1c39cba6-ebfc-4c07-b06a-3ab376302145",
         "title": "Energy Data Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -330982,7 +330937,7 @@
         "company_name": "Salesforce",
         "id": "224ca026-078b-4524-bf33-5a214373c094",
         "title": "Associate Product Manager Intern - Associate Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341930,5 +341885,26 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Quadrillion",
+        "id": "53663e4c-42be-4d2a-ba0f-ac7a0d65da22",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784874241,
+        "date_posted": 1784874073,
+        "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/856db7dd-5e23-4bcd-a161-c06cda5ac820",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
