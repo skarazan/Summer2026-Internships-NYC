@@ -57702,7 +57702,7 @@
         "company_name": "Samsung Research America",
         "id": "311bab17-1a4e-44b2-83ec-8effa88827de",
         "title": "Health AI Scholar",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -307916,7 +307916,7 @@
         "company_name": "Autodesk",
         "id": "2d6183be-3318-46d4-b9b9-0365de329244",
         "title": "Machine Learning Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -313018,7 +313018,7 @@
         "company_name": "Tesla",
         "id": "27b0ff71-9c47-4670-a917-7c371d53f755",
         "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -315366,7 +315366,7 @@
         "company_name": "Core & Main",
         "id": "cf783ed0-c7de-4051-813a-018e1ba6e7fc",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325250,7 +325250,7 @@
         "company_name": "Jane Street",
         "id": "33b81d4d-2080-4016-b2af-33d8a690356f",
         "title": "Quantitative Trader",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -328276,7 +328276,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328947,7 +328947,7 @@
         "company_name": "M&T Bank",
         "id": "aa21a374-ee42-473d-9242-410e327ad5e3",
         "title": "Technology Development Program",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -335406,7 +335406,7 @@
         "company_name": "Deloitte",
         "id": "a81b5746-aaa5-40cc-93ed-a56d6e18b145",
         "title": "Audit & Assurance Analyst - Risk Technology & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -335430,7 +335430,7 @@
         "company_name": "Deloitte",
         "id": "694ca9d6-abb6-4b8a-8fbb-743c035e90dd",
         "title": "Audit & Assurance - Assistant - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -341171,7 +341171,7 @@
         "company_name": "Golden Pet Brands",
         "id": "c3cb586c-7a74-433e-9247-a5bf6ab308e5",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341471,5 +341471,286 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Trillium",
+        "id": "82a4d731-9bcd-4a93-8dda-6d7af0e3b64c",
+        "title": "Equity Trader Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784932060,
+        "date_posted": 1784931813,
+        "url": "https://www.trlm.com/apply/5076003007?gh_jid=5076003007",
+        "locations": [
+            "Miami, FL",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Trillium",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Trillium",
+        "id": "5b1d76c6-a7ec-4033-afed-6f676bf2129a",
+        "title": "Equity Trader Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784932059,
+        "date_posted": 1784931816,
+        "url": "https://www.trlm.com/apply/5076017007?gh_jid=5076017007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Trillium",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Trillium",
+        "id": "311ec440-4ace-4b64-9b10-5400f36e62ac",
+        "title": "Equity Trader Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784932059,
+        "date_posted": 1784931817,
+        "url": "https://www.trlm.com/apply/5076067007?gh_jid=5076067007",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Trillium",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MSM Inc.",
+        "id": "6277e90d-1e91-4b5e-9644-631c6bdaa131",
+        "title": "AI Solutions Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784931984,
+        "date_posted": 1784931075,
+        "url": "https://ats.rippling.com/msm/jobs/6326629b-5434-4a86-8fce-d0e28ec424d4",
+        "locations": [
+            "Webster, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/8d1b7256-9f2c-4705-9492-153d0cf3dbb2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "ROCKWOOL Group",
+        "id": "ddd72faf-fb7e-44d6-ae3e-77a6be37bcbc",
+        "title": "Paint & Coating Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784931676,
+        "date_posted": 1784851200,
+        "url": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Mono---Paint---Coating-Intern_R0035879",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/ROCKWOOL-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northwell Health",
+        "id": "c9e4f3b2-4e34-43ea-add3-ddcd7ae26931",
+        "title": "Data Analytics / Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1784931122,
+        "date_posted": 1784930867,
+        "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/192734",
+        "locations": [
+            "Manhasset, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwell-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "18762fe0-77c9-4c38-9e4c-d649c204e975",
+        "title": "Surgery Field Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784931662,
+        "date_posted": 1784851200,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice_R4043950-1",
+        "locations": [
+            "Austin, TX",
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Northwestern Mutual",
+        "id": "b325b0d7-6893-48a0-ba15-2cb50835c698",
+        "title": "Investment Analyst Intern - Private Debt & Equity",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784931122,
+        "date_posted": 1784851200,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2027_JR-45705",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bosch Home Comfort",
+        "id": "950b5180-0bc8-4444-8955-f853d4e2e6e6",
+        "title": "Autonomous Driving Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784931582,
+        "date_posted": 1784930797,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "2108c98a-b4d3-46d0-b47a-185ef28d4867",
+        "title": "Data & Insights Graduate Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784931122,
+        "date_posted": 1784851200,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Data---Insights-Graduate-Research-Assistant_R_00047610",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Howmet Aerospace",
+        "id": "595e4ece-bee9-40de-9a07-71edd2f70957",
+        "title": "Product Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784930832,
+        "date_posted": 1784930548,
+        "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118645",
+        "locations": [
+            "Valparaiso, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Virginia",
+        "id": "08205941-f240-469b-8e68-33e220e58b33",
+        "title": "Data & Analytics Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784930582,
+        "date_posted": 1784851200,
+        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Data---Analytics-Assistant--Student-Wage-_R0085657-1",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
