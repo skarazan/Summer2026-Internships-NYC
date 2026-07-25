@@ -322894,7 +322894,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "ac237463-1f16-49c9-a219-27e3ac54a9a3",
         "title": "Office of Career Services Intern - Technology Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -340180,7 +340180,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "d0537d89-d21b-4246-b1b8-89bc300cc337",
         "title": "Data Analytics and Cloud Engineer - Military Bridge",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
