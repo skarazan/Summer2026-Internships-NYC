@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "8db96167-1218-4668-a3b3-f05bd712c27d",
-        "title": "Product Marketing Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764265779,
-        "date_posted": 1764265779,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000095943320",
-        "locations": [
-            "Suffolk, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Ticketmaster",
         "id": "c69d1040-78ab-49e9-83eb-692cda7db935",
@@ -340108,7 +340087,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "36a3cb41-211c-4c6c-9c0d-c92318a763a6",
         "title": "Data Analytics and Cloud Engineer - Military Bridge",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
