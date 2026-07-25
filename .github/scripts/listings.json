@@ -2,50 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Genies",
-        "id": "07e8b773-4e60-4cfd-8807-0b74c389e1ee",
-        "title": "Research Engineer Intern - Speech Generation - Spring 2026",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764199909,
-        "date_posted": 1764199909,
-        "url": "https://job-boards.greenhouse.io/genies/jobs/7540237003",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Genies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Walrus",
-        "id": "c0c203b1-139f-4fe9-9bc3-a81a8d3dd17f",
-        "title": "Full Stack Developer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2028"
-        ],
-        "date_updated": 1764200401,
-        "date_posted": 1764200401,
-        "url": "https://jobs.ashbyhq.com/walrusfi/99c93c0e-ed9a-4e41-862a-0cdbe71d7d54/application",
-        "locations": [
-            "Remote in USA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Walrus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Lightmatter",
         "id": "370929d0-fe09-4fcf-8665-31d89ec75240",
         "title": "Electro-Optical Automation Intern",
@@ -72064,7 +72020,7 @@
         "company_name": "Tencent",
         "id": "3cf4233b-3b89-4258-991d-1885b771f9e6",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -318491,7 +318447,7 @@
         "company_name": "Palantir",
         "id": "ffc1f08c-7dd5-4fce-986e-2e3b824aabb4",
         "title": "Forward Deployed Software Engineer Intern - Commercial",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027",
