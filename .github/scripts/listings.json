@@ -180159,7 +180159,7 @@
         "company_name": "KION Group",
         "id": "fe972247-600c-481b-961d-3abad929c277",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -254097,7 +254097,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -327838,7 +327838,7 @@
         "company_name": "GE Healthcare",
         "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
         "title": "Field Service Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341059,5 +341059,51 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kobo",
+        "id": "4b6839e2-e49a-4a07-8df2-fae7b6226e2b",
+        "title": "Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1784983776,
+        "date_posted": 1784073600,
+        "url": "https://rakuten.wd1.myworkdayjobs.com/Kobo/job/Toronto-Canada/Software-Quality-Assurance-Engineer-Co-op_1035873",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kobo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "cff6c5a6-5c4a-4f30-bb48-4543328cc059",
+        "title": "Research Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784984864,
+        "date_posted": 1784678400,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
