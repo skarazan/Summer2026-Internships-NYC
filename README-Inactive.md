@@ -3686,7 +3686,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
 <td>Research Intern - AI Agents - Microsoft Research AI Frontiers</td>
 <td>NYC</td>
 <td>🔒</td>
