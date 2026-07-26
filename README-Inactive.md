@@ -1341,7 +1341,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/645bbffd-6910-4c90-b4d5-ec941d975b60?utm_source=GHList&utm_medium=company">Simons Foundation</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -1450,7 +1450,7 @@
 <td>Creative Product Operations Project Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SP-Global?utm_source=GHList&utm_medium=company">S&P Global </a></strong></td>
@@ -3840,11 +3840,11 @@
 <td>19d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company">Citadel Securities</a></strong></td>
 <td>Quantitative Trader Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Dow-Jones?utm_source=GHList&utm_medium=company">Dow Jones</a></strong></td>
