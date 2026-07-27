@@ -191859,7 +191859,7 @@
         "company_name": "University of Texas at Austin",
         "id": "58899808-7a44-410d-b431-7e2179a09fb5",
         "title": "Student Analyst - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -214228,7 +214228,7 @@
         "company_name": "Global Channel Management",
         "id": "dac2d80d-c906-4d8a-ac41-194f649beda9",
         "title": "Data Analyst Lead",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339275,7 +339275,7 @@
         "company_name": "Lila Sciences",
         "id": "b2bc4542-7fff-42e4-8d09-6aa19e6b55d7",
         "title": "Electrosynthesis Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339827,7 +339827,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "5b8ecabc-cc7c-47e1-a045-73b4659a0f7a",
         "title": "AI Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339850,7 +339850,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "0447c790-3534-451d-8bb5-45c10fe0b6ad",
         "title": "Product & Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340005,6 +340005,213 @@
             "Master's",
             "MBA",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "5a0804d4-f2e3-43ca-8eff-3a2fa46ab2f6",
+        "title": "Student Analyst - Data Analytics and Strategy - Career Management and Corporate Relations",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785190141,
+        "date_posted": 1785110400,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Student-Analyst--Data-Analytics-and-Strategy--Career-Management-and-Corporate-Relations--CMCR---Work-Study-Only-_R_00047631",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ciena",
+        "id": "36188615-2ec9-492b-83c1-b7ae24c9bb17",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785190894,
+        "date_posted": 1785110400,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mercer University",
+        "id": "a1337e43-b296-4c26-ad08-556bf3c36dec",
+        "title": "Graduate Assistant - Center for Sports Analytics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785190636,
+        "date_posted": 1785110400,
+        "url": "https://merceruniversity.wd1.myworkdayjobs.com/student/job/Macon-Campus/SHSB-Graduate-Assistant--Center-for-Sports-Analytics_JR104053",
+        "locations": [
+            "Macon, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercer-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": " CCC Intelligent Solutions",
+        "id": "0f92cafb-0f29-4673-a008-b02b0445f75c",
+        "title": "Applied AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785190634,
+        "date_posted": 1785110400,
+        "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Applied-AI-Engineering-Intern_0014827",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CCC-Intelligent-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "0b1e0284-448c-4f73-828a-e14246ce62c9",
+        "title": "Device Engineer Intern - Ulp Cmos",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785190480,
+        "date_posted": 1785190071,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Product-Business-Unit-Finance-Intern--Summer-2026-_JR-2502830",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "East Penn Manufacturing Company",
+        "id": "d97bc5e0-5ab3-4624-a0ac-a04f047413df",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785190427,
+        "date_posted": 1785189929,
+        "url": "https://careers-eastpennmanufacturing.icims.com/jobs/30007/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/East-Penn-Manufacturing-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "East Penn Manufacturing Company",
+        "id": "81c27c2f-7650-4a5b-ad93-720da3891b10",
+        "title": "Product Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1785190414,
+        "date_posted": 1785189928,
+        "url": "https://careers-eastpennmanufacturing.icims.com/jobs/30021/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/East-Penn-Manufacturing-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "East Penn Manufacturing Company",
+        "id": "f1dfbee5-9dd3-426c-b0ec-7bd3fae462ef",
+        "title": "Power BI & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785189961,
+        "date_posted": 1785189927,
+        "url": "https://careers-eastpennmanufacturing.icims.com/jobs/30020/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/East-Penn-Manufacturing-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apptronik",
+        "id": "03e27deb-c124-4ce6-9e6c-49eed4353493",
+        "title": "Software Engineer Intern - ML Systems",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785190325,
+        "date_posted": 1785189871,
+        "url": "https://boards.greenhouse.io/apptronik/jobs/6128057004",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apptronik",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
