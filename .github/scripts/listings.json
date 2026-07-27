@@ -325587,7 +325587,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331226,7 +331226,7 @@
         "company_name": "City of Charlotte",
         "id": "a9c0f61f-1d7a-470d-9bcc-d4e4c85a0b36",
         "title": "Management Analyst Intern - Research and Planning Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331606,7 +331606,7 @@
         "company_name": "Interac",
         "id": "c043acbe-1a9f-4818-a8e7-a82d105c32d1",
         "title": "Product Intern - Money Movement",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332695,7 +332695,7 @@
         "company_name": "Sun Life",
         "id": "98447d49-92bc-4310-9267-507b8efcbe81",
         "title": "Student Associate Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337263,7 +337263,7 @@
         "company_name": "Blackstone",
         "id": "2539c19a-bd13-4e12-b098-21cfc96b7d39",
         "title": "Blackstone Infrastructure Partners Investment Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338905,7 +338905,7 @@
         "company_name": "Northwell Health",
         "id": "c9e4f3b2-4e34-43ea-add3-ddcd7ae26931",
         "title": "Data Analytics / Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339681,6 +339681,75 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Toshiba Global Commerce",
+        "id": "5dc00cee-4e2e-4533-9b44-94c295ffddd4",
+        "title": "Agentic Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785115591,
+        "date_posted": 1785115127,
+        "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Toshiba-Global-Commerce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toshiba Global Commerce",
+        "id": "3393d4cf-e1e5-47d1-8143-309545e4195f",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785115305,
+        "date_posted": 1785115127,
+        "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Toshiba-Global-Commerce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "d378c42b-5e79-40b8-91ea-020a28e4bc43",
+        "title": "Associate Integration and Test Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785114662,
+        "date_posted": 1785114241,
+        "url": "https://jobs.l3harris.com/job/Northampton-Associate,-Integration-and-Test-Engineering-MA-01060/1412685600/?ats=successfactors",
+        "locations": [
+            "Northampton, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
