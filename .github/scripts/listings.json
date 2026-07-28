@@ -43,48 +43,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "82a8570a-442c-4d6e-a606-0fa55a4b5ed3",
-        "title": "Content Planning & Analysis Graduate Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764530678,
-        "date_posted": 1764530678,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Content-Planning---Analysis-Graduate-Intern--Summer-2026_10135438-1",
-        "locations": [
-            "Glendale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Aerospace Corporation",
-        "id": "17a0f2b4-89aa-4a01-b8fe-dd858c213c94",
-        "title": "Signal Processing AI/ML Undergrad Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764530227,
-        "date_posted": 1764530227,
-        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Signal-Processing-AI-ML-Undergrad-Intern_R014039",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Marvell",
         "id": "21818437-c8c0-42eb-bf98-082b8e191f2f",
@@ -165663,7 +165621,7 @@
         "company_name": "Meta",
         "id": "de215e2c-25b9-4713-90e5-31dba65622de",
         "title": "Research Scientist Intern PhD - Applied Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -339419,7 +339377,7 @@
         "company_name": "RSM",
         "id": "dd063926-c4ed-4671-9412-bc5e8fcb7b5d",
         "title": "Application Development Consulting Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
