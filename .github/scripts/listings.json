@@ -1,49 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Capital Group",
-        "id": "3c9d1e1f-64e5-4ffd-a16d-4a1a844e41c5",
-        "title": "MBA Fixed Income Investment Analyst Summer Associate - US",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764535332,
-        "date_posted": 1764535332,
-        "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/West-Los-Angeles/MBA-Fixed-Income-Investment-Analyst-Summer-Associate--US-_JR5918",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hitachi",
-        "id": "d29c62b4-b005-4946-b014-1739ff065158",
-        "title": "Industrial AI Internship",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1764534737,
-        "date_posted": 1764534737,
-        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Industrial-AI-Internship_R0112973",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hitachi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Wayve",
         "id": "527b0ead-74a7-4f99-a31d-b90ad6c1ffad",
@@ -295677,7 +295634,7 @@
         "company_name": "ByteDance",
         "id": "f1526646-4e0f-4501-b158-b8d7eb77bf4e",
         "title": "Software Engineer Intern - Applied Machine Learning-Enterprise",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299076,7 +299033,7 @@
         "company_name": "Tesla",
         "id": "899430e7-72cd-4e65-9394-58fd69b316ad",
         "title": "Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -299217,7 +299174,7 @@
         "company_name": "Tesla",
         "id": "a8790742-1793-4b5a-b3a7-faf1d438c4fb",
         "title": "Software Engineer Intern - Software Engineer Opticaster - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
