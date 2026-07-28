@@ -1233,27 +1233,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Qorvo",
-        "id": "1eed9aec-c01a-4d91-a985-ea772b0a934a",
-        "title": "Product Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764510758,
-        "date_posted": 1764510758,
-        "url": "https://careers.qorvo.com/job/Greensboro-Product-Engineering-Intern-NC-27409/1340354900/?ats=successfactors",
-        "locations": [
-            "Greensboro, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "NBCUniversal",
         "id": "20d5cfa5-f533-4fe0-bc51-d80119d453c7",
         "title": "Engineering Intern",
@@ -1268,27 +1247,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LinkedIn",
-        "id": "31b5a900-9531-4d1b-b336-9e5e30b1b927",
-        "title": "AI/ML Engineer Intern - Generative AI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764512766,
-        "date_posted": 1764512766,
-        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000095221125",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/LinkedIn",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -29717,7 +29675,7 @@
         "company_name": "Tencent",
         "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
         "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -279197,7 +279155,7 @@
         "company_name": "University of Arkansas",
         "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
         "title": "Student Research Assistant-2",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -289787,7 +289745,7 @@
         "company_name": "thyssenkrupp",
         "id": "ccf39ec4-c9ad-4fc2-bac6-17ab53ca8bdc",
         "title": "Trader Trainee - Industrial Minerals",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -297954,7 +297912,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -323373,7 +323331,7 @@
         "company_name": "GE Healthcare",
         "id": "ca122686-92d2-4b2b-8273-a546c5c21a01",
         "title": "Field Service Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -325587,7 +325545,7 @@
         "company_name": "GE Healthcare",
         "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
         "title": "Field Service Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330552,7 +330510,7 @@
         "company_name": "GE Healthcare",
         "id": "c1a4bf61-90df-42b7-8c6c-5b197e81cb7d",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332959,7 +332917,7 @@
         "company_name": "NeoSigma",
         "id": "f472ec8a-728e-429e-ba5c-4e72d559732f",
         "title": "Member of Technical Staff Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335798,7 +335756,7 @@
         "company_name": "Virtu Financial",
         "id": "ce1d842e-89a6-4905-a608-3eca02ddd233",
         "title": "Quantitative Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -336641,7 +336599,7 @@
         "company_name": "Varian",
         "id": "5552be60-0f97-4b78-9b64-2eb8fef91cee",
         "title": "Product Engineering Assistant Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337398,7 +337356,7 @@
         "company_name": "Becton Dickinson",
         "id": "44c0f8ab-bc09-4802-ad77-110dc6c77373",
         "title": "Edge Program Associate - Technology & Global Services - Tgs",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -338287,7 +338245,7 @@
         "company_name": "MSM Inc.",
         "id": "6277e90d-1e91-4b5e-9644-631c6bdaa131",
         "title": "AI Solutions Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339620,7 +339578,7 @@
         "company_name": "Apptronik",
         "id": "03e27deb-c124-4ce6-9e6c-49eed4353493",
         "title": "Software Engineer Intern - ML Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339917,7 +339875,7 @@
         "company_name": "Northrop Grumman",
         "id": "97736cf7-6766-46a2-81bc-b5cc5f9ea248",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340309,7 +340267,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -340347,6 +340305,98 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blackberry",
+        "id": "a66dc648-8c3f-403a-8640-01dd140e2822",
+        "title": "Application Engineering Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785240727,
+        "date_posted": 1785196800,
+        "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX--Application-Engineering-Student_20260269",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackBerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blackberry",
+        "id": "2ac22162-948b-43cf-978a-c2b3a2ac0a58",
+        "title": "QNX-Software Development Student - Acoustics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785239461,
+        "date_posted": 1785196800,
+        "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Burnaby-British-Columbia/QNX--Software-Development-Student--Acoustics-_20260270",
+        "locations": [
+            "Burnaby, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackBerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "d3981dc2-eb59-464b-bef9-70365bd9af64",
+        "title": "R&D Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Spring 2027"
+        ],
+        "date_updated": 1785242973,
+        "date_posted": 1784073600,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000079178-1",
+        "locations": [
+            "State College, PA",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Citadel Securities",
+        "id": "d4041518-dc22-4f01-96d9-aa0030510fd8",
+        "title": "FPGA Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785248432,
+        "date_posted": 1783318269,
+        "url": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
