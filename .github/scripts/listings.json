@@ -2,52 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Wayve",
-        "id": "527b0ead-74a7-4f99-a31d-b90ad6c1ffad",
-        "title": "Research Scientist Intern - Data for Embodied AI",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764538781,
-        "date_posted": 1764538781,
-        "url": "https://job-boards.greenhouse.io/wayve/jobs/8217788002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Wayve",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Walmart",
-        "id": "fec0b54b-dc4a-4397-8f00-bf0f1bf6369a",
-        "title": "2026 Summer Intern: Software Engineering 2 - Sunnyvale",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764541755,
-        "date_posted": 1764541755,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME-2026-Summer-Intern--Software-Engineering-II--Sunnyvale-_R-2354882",
-        "locations": [
-            "Bentonville, AR",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Eversource Energy",
         "id": "8b5b6fc0-1edd-4841-b9c8-32a339f58981",
         "title": "GIS Intern",
@@ -207394,7 +207348,7 @@
         "company_name": "Instawork",
         "id": "96dfff8a-1935-48d2-8b5f-a193be59dd4d",
         "title": "Product Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -276405,7 +276359,7 @@
         "company_name": "ATCO",
         "id": "72a990c3-d541-41db-9b3c-7ca3dc7bb197",
         "title": "Data Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -295634,7 +295588,7 @@
         "company_name": "ByteDance",
         "id": "f1526646-4e0f-4501-b158-b8d7eb77bf4e",
         "title": "Software Engineer Intern - Applied Machine Learning-Enterprise",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -313049,7 +313003,7 @@
         "company_name": "Altasciences",
         "id": "60d97eba-f793-4277-98fb-82245aabd7bf",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -318974,7 +318928,7 @@
         "company_name": "ByteDance",
         "id": "81a22594-7cb3-4fa8-a10f-7d86bc57fcf6",
         "title": "Research Scientist Intern - AI Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -318997,7 +318951,7 @@
         "company_name": "ByteDance",
         "id": "39b14011-bd7a-48d9-b759-cf7d5b7cd8b9",
         "title": "Research Scientist Intern - AI Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -320507,7 +320461,7 @@
         "company_name": "Cloudflare",
         "id": "823c7521-30db-4a2c-98a3-b7ec0dd88f1d",
         "title": "AI Builder Intern - Global Customer Engineering - Service Sales",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -324034,7 +323988,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -328453,7 +328407,7 @@
         "company_name": "Sparksoft",
         "id": "5f921f62-bbfa-454c-978f-31310fc72515",
         "title": "Data Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333525,7 +333479,7 @@
         "company_name": "Menasha Corporation",
         "id": "bbb57323-d6ff-4e8f-88ca-b96ac09f3ea1",
         "title": "Material Innovation Center Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -339462,6 +339416,147 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Riverside Research",
+        "id": "bf0e1cf7-901b-4621-90eb-5ef97b7894df",
+        "title": "Junior Artificial Intelligence / Machine Learning Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785277392,
+        "date_posted": 1785276528,
+        "url": "https://careers-riversideresearch.icims.com/jobs/4309/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Riverside-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Axis Capital",
+        "id": "b670d0f6-a015-4f70-82cd-a7fb212cc98b",
+        "title": "Renewable Energy Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785277240,
+        "date_posted": 1785196800,
+        "url": "https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/London---Scalpel/Renewable-Energy-Engineering-Intern_REQ06664-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Axis-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bosch Home Comfort",
+        "id": "7b87bfa3-a92f-4b2b-b94d-0a62fcd2df64",
+        "title": "ADAS Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785277173,
+        "date_posted": 1785276392,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140317669",
+        "locations": [
+            "Plymouth, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ciena",
+        "id": "526d4a4f-c5cc-4a59-9843-9913e8ac5685",
+        "title": "Software Liquid Spectrum Applications Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785276542,
+        "date_posted": 1785196800,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Assurant",
+        "id": "cd8ad71e-1cf7-47e2-a955-1b09ab203e48",
+        "title": "Digital & AI Transformation Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785276542,
+        "date_posted": 1785196800,
+        "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-3",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Assurant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Texas Instruments",
+        "id": "aff149ec-8435-4f94-9798-ea3716d37883",
+        "title": "Product Operations Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785276696,
+        "date_posted": 1785276243,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016766",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
