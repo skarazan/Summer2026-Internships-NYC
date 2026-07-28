@@ -97194,7 +97194,7 @@
         "company_name": "Sila Nanotechnologies",
         "id": "c63b8bb6-93cf-413a-843e-f9afd9aa57b2",
         "title": "Battery Simulation & Computational Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325587,7 +325587,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -340812,6 +340812,29 @@
             "Master's",
             "MBA",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "d91645a0-c83d-4a09-bb25-c45044295c83",
+        "title": "Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785202202,
+        "date_posted": 1785202145,
+        "url": "https://lifeattiktok.com/search/7667248888103782661",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
