@@ -1,78 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Marvell",
-        "id": "53217d2a-3ac5-4429-99cd-e42fc5a85d13",
-        "title": "Validation Intern - Bachelor's Degree",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764551894,
-        "date_posted": 1764551894,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westborough-MA/Validation-Intern---Bachelor-s-Degree_2502721",
-        "locations": [
-            "Santa Clara, CA",
-            "Westborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "e58ad3e6-d27e-4a16-b91e-7a37db8fd6b7",
-        "title": "Application-Specific Integrated Circuit \u2013 Engineer Intern - ASIC",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1764555268,
-        "date_posted": 1764555268,
-        "url": "https://amazon.jobs/en/jobs/3134081/application-specific-integrated-circuit-asic-engineer-internship-2026-us",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amazon",
-        "id": "5b7bacca-24bf-4491-9e54-823cd4251250",
-        "title": "Software Development Engineer Test Intern - Summer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764554884,
-        "date_posted": 1764554884,
-        "url": "https://amazon.jobs/en/jobs/3134079/software-development-engineer-test-intern-summer",
-        "locations": [
-            "Seattle, WA",
-            "Los Gatos, CA",
-            "NYC",
-            "Bellevue, WA",
-            "Cupertino, CA",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "KBR",
         "id": "fdb033ae-3516-431d-928b-6eead2f8c3b0",
@@ -21457,27 +21385,6 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Analog Devices",
-        "id": "bcede76d-8f09-48e9-9f57-2efa9615c700",
-        "title": "Design Evaluation Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764561385,
-        "date_posted": 1764561385,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Design-Evaluation-Engineering-Intern--PhD-_R256340",
-        "locations": [
-            "Beaverton, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -70728,30 +70635,6 @@
             "McLean, VA"
         ],
         "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Marvell",
-        "id": "c6480e6f-0e9b-47c9-bf8d-943f32c64b2f",
-        "title": "Validation Intern - Bachelor's Degree",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764551894,
-        "date_posted": 1764551894,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Validation-Intern---Bachelor-s-Degree_2502721-1",
-        "locations": [
-            "Santa Clara, CA",
-            "Westborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -317758,7 +317641,7 @@
         "company_name": "NVIDIA",
         "id": "0317c6ee-8867-463c-899c-dab81eee99b4",
         "title": "PhD Research Intern - System Software and I/O Architecture",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -323913,7 +323796,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332092,7 +331975,7 @@
         "company_name": "Varick Agents",
         "id": "c240d04c-b78f-4385-95d6-379ebd0c3801",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335679,7 +335562,7 @@
         "company_name": "Moog ",
         "id": "bb2699db-c654-4cb9-b4ca-b5140fcb8ee6",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340064,6 +339947,76 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/RSM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "6219c04b-bc5c-4d14-90ea-426f117b51c0",
+        "title": "Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785287881,
+        "date_posted": 1785287725,
+        "url": "https://lifeattiktok.com/search/7667690418804902149",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "2522e64f-6b7b-4896-8fec-6536ad4ea335",
+        "title": "Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785287881,
+        "date_posted": 1785287723,
+        "url": "https://lifeattiktok.com/search/7667613782697232693",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Richemont",
+        "id": "7a671b3f-8535-4895-8252-5687d2076563",
+        "title": "Business Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785287521,
+        "date_posted": 1781222400,
+        "url": "https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Business-Analytics-Intern_JR124478-1",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Richemont",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
