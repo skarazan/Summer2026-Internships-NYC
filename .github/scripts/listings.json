@@ -36901,7 +36901,7 @@
         "company_name": "Voltus",
         "id": "0b7d9c7a-6864-4792-846e-e52cf3087746",
         "title": "Energy Markets Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -225236,7 +225236,7 @@
         "company_name": "Eulerity",
         "id": "6f53e7a8-a859-4111-972d-988f2d4b31e2",
         "title": "Android Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252154,7 +252154,7 @@
         "company_name": "Copart",
         "id": "8a0769fc-4aa4-4b2f-a6e9-d5fcc27c11a6",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257651,7 +257651,7 @@
         "company_name": "Apptronik",
         "id": "607b4415-ebae-4f35-9ca9-6d14d2ce86ce",
         "title": "Robotics Software Intern - Real-Time Controls",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -272421,7 +272421,7 @@
         "company_name": "TSC",
         "id": "3bfb4bf7-06c9-49ef-afe3-cb05435f4792",
         "title": "Hardware Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -276075,7 +276075,7 @@
         "company_name": "BDO Canada",
         "id": "89cd8782-07fb-498b-98cc-0e43e5a50f79",
         "title": "Data & Analytics Co-op/Intern - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -278219,7 +278219,7 @@
         "company_name": "SiFive",
         "id": "ec5e83b4-1cb5-4b81-9056-28110a076c6e",
         "title": "Platform Technologies Language Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -323445,7 +323445,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330102,7 +330102,7 @@
         "company_name": "GE Healthcare",
         "id": "0b12884f-ce29-40d6-a184-ded1653ddc1b",
         "title": "Engineering Development Program Intern - Hardware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -330127,7 +330127,7 @@
         "company_name": "GE Healthcare",
         "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
         "title": "Engineering Development Program Intern - Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -337570,7 +337570,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "3393d4cf-e1e5-47d1-8143-309545e4195f",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338195,7 +338195,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "66aed69d-0acd-43a5-9aa1-fcbdc96ceebd",
         "title": "Computer Specialist - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338881,7 +338881,7 @@
         "company_name": "Riverside Research",
         "id": "bf0e1cf7-901b-4621-90eb-5ef97b7894df",
         "title": "Junior Artificial Intelligence / Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339883,7 +339883,7 @@
         "company_name": "Loblaw Companies",
         "id": "5d6565ee-57cf-4fcf-9e34-63db06c7b27e",
         "title": "Analyst Co-op - Data Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339944,6 +339944,51 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dexterra Group",
+        "id": "4d3560e6-35ec-4909-aef6-325e6f3920b4",
+        "title": "Coordinator AI & Data Systems Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785363207,
+        "date_posted": 1785362714,
+        "url": "https://jobs.smartrecruiters.com/Dexterra/744000140536634",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dexterra-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Euronext",
+        "id": "4312a2c5-15b1-48e5-98cf-0ad7f7ee2333",
+        "title": "Sales Analyst - Vie",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785362765,
+        "date_posted": 1785283200,
+        "url": "https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/London/Sales-Analyst--VIE-_R28184",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Euronext",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
