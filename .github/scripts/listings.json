@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The New York Times",
-        "id": "73629633-1996-430c-8552-721da211c9fc",
-        "title": "DIG Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764612506,
-        "date_posted": 1764612506,
-        "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4634887005",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/The-New-York-Times",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "NBCUniversal",
         "id": "20d5cfa5-f533-4fe0-bc51-d80119d453c7",
@@ -53361,31 +53340,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Seven Research",
-        "id": "1a783273-b35d-4264-a4e8-54c21ee8ad5b",
-        "title": "Seven Research Quant Experience - Sqx",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1765495760,
-        "date_posted": 1764613812,
-        "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/5013551008",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Seven-Research",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -303867,7 +303821,7 @@
         "company_name": "Rivian and Volkswagen Group Technologies",
         "id": "a475fa37-e595-443b-807e-dce909238f55",
         "title": "Software Engineer Intern Co-op - Android Connectivity",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327785,7 +327739,7 @@
         "company_name": "Motorola",
         "id": "e8b59897-2766-4ebd-907b-14e589a75372",
         "title": "Data Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
