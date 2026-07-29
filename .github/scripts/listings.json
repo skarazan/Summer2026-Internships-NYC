@@ -1,81 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Eversource Energy",
-        "id": "8b5b6fc0-1edd-4841-b9c8-32a339f58981",
-        "title": "GIS Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764546105,
-        "date_posted": 1764546105,
-        "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2026-Summer-GIS-Intern--Master-s-Degree--Hybrid-schedule-_R-029081",
-        "locations": [
-            "Dorchester, Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Eversource-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Marvell",
-        "id": "71a1e224-f8fe-475d-8c76-59743073cb80",
-        "title": "Signal Integrity Engineer - Cloud Platform Optics",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027"
-        ],
-        "date_updated": 1764550080,
-        "date_posted": 1764550080,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Signal-Integrity-Engineer-Intern--Cloud-Platform-Optics----Master-s-Degree_2502468",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Marvell",
-        "id": "3b861c94-3975-4342-af95-7cedf6e77cdc",
-        "title": "Physical Design Engineer Intern - Bachelor's Degree",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027"
-        ],
-        "date_updated": 1764550087,
-        "date_posted": 1764550087,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern---Bachelor-s-Degree_2502773",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Marvell",
         "id": "53217d2a-3ac5-4429-99cd-e42fc5a85d13",
@@ -340033,7 +339958,7 @@
         "company_name": "Motorola",
         "id": "9931eca9-18c5-4132-9b4c-4fd99ada208a",
         "title": "Systems Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
