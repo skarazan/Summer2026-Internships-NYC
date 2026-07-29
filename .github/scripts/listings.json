@@ -1,26 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KBR",
-        "id": "fdb033ae-3516-431d-928b-6eead2f8c3b0",
-        "title": "Software Application Developer Intern for GOES-R Series Satellites",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764568592,
-        "date_posted": 1764568592,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2115543",
-        "locations": [
-            "Silver Spring, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1764858222,
         "sponsorship": "Other",
         "active": false,
@@ -57519,29 +57498,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Morgan Stanley",
-        "id": "10a8315a-069e-4177-a5e0-e546001384bf",
-        "title": "Machine Learning Research Associate Program - PhD",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1764564624,
-        "date_posted": 1764564624,
-        "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Machine-Learning-Research-Associate-Program---PhD_JR020171",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -323796,7 +323752,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335633,7 +335589,7 @@
         "company_name": "RSM",
         "id": "176683ad-4f54-4461-9907-17a88c4e7569",
         "title": "Tax Technology Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -337967,7 +337923,7 @@
         "company_name": "Blackberry",
         "id": "7831a3f0-fe97-450c-8eb6-9ad12ce8c694",
         "title": "QNX Application Engineering Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339569,7 +339525,7 @@
         "company_name": "Bank of Montreal",
         "id": "f762c709-479e-46fb-9c5a-1a6d1dc19968",
         "title": "Data and AI Operations Analyst Co-op/Internship - Cloud",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339634,7 +339590,7 @@
         "company_name": "Bank of Montreal",
         "id": "e189179d-efd7-43f6-9072-206e51c3b392",
         "title": "Data and AI Operations Analyst Co-op/Internship - Cloud",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340022,6 +339978,30 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Brunswick",
+        "id": "355b5e1d-f111-47b2-8e17-99593839fef6",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1785305930,
+        "date_posted": 1785196800,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Brunswick",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
