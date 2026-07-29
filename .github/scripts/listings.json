@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1764858222,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/virturecruitinghidden/jobs/8314488002",
-        "company_name": "Virtu Financial",
-        "title": "Internship - Low Latency Software Engineer",
-        "locations": [
-            "Austin, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Quantitative Finance",
-        "source": "angie-hue",
-        "id": "e3c092ba-0df0-448d-bb53-ee47883f2be7",
-        "date_posted": 1764604736,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Seagate Technology ",
@@ -200042,7 +200019,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -224939,7 +224916,7 @@
         "company_name": "GE Vernova",
         "id": "b999705a-0da3-486f-bf67-52950468bbe9",
         "title": "GE Vernova Grid Automation Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -224963,7 +224940,7 @@
         "company_name": "GE Vernova",
         "id": "b693b1d7-b061-40b3-b7ee-a66cddbd42b6",
         "title": "GE Vernova Grid Automation Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -282917,7 +282894,7 @@
         "company_name": "Brunswick",
         "id": "a2b670ca-0966-45f7-9a77-1365adca98b8",
         "title": "Computer Graphics Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -306244,7 +306221,7 @@
         "company_name": "KPH Healthcare Services",
         "id": "e3b700af-e7ed-4996-8e20-210929055da8",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338750,7 +338727,7 @@
         "company_name": "RSM",
         "id": "a4a63327-9224-4cff-a56d-a4ee9adb6cf3",
         "title": "Business Central Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -339546,7 +339523,7 @@
         "company_name": "XTX Markets",
         "id": "f47c36ad-cc2d-42e4-9f83-4e5ebe4340e0",
         "title": "Philanthropy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340176,6 +340153,75 @@
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140462550",
         "locations": [
             "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Loblaw Companies",
+        "id": "5d6565ee-57cf-4fcf-9e34-63db06c7b27e",
+        "title": "Analyst Co-op - Data Operations",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785338894,
+        "date_posted": 1785283200,
+        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Analyst--Data-Operations---Co-op-Student_R2000688374",
+        "locations": [
+            "Brampton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "13dd6f9c-c173-4f09-aefe-7255a8bc03f6",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785338863,
+        "date_posted": 1785283200,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bosch Home Comfort",
+        "id": "2970def3-bba8-4f36-a2fe-f710b8bf6414",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785338210,
+        "date_posted": 1785333970,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140457960",
+        "locations": [
+            "Southfield, MI"
         ],
         "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
         "is_visible": true,
