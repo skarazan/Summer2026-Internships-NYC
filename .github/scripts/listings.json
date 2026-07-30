@@ -282437,7 +282437,7 @@
         "company_name": "PlusAI",
         "id": "c01e4a39-29a1-4e02-876e-5385672cd56d",
         "title": "Software Engineer Intern-Runtime - Robotics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -282718,7 +282718,7 @@
         "company_name": "PlusAI",
         "id": "5f7df515-a7c8-4ae7-9327-e95ef0848474",
         "title": "Machine Learning Engineer Intern - Scenario Generation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -282808,7 +282808,7 @@
         "company_name": "Quadric",
         "id": "7f9b3fa5-adc5-4c00-aead-555d25e024fd",
         "title": "AI Inference Engineer Intern - Model Pruning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -287173,7 +287173,7 @@
         "company_name": "PlusAI",
         "id": "87bf913a-f01f-4edf-b21e-df5528825207",
         "title": "Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302701,7 +302701,7 @@
         "company_name": "General Motors",
         "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
         "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -309415,7 +309415,7 @@
         "company_name": "Phamily",
         "id": "8d2a893d-cc95-4040-b7bb-e75752d54b61",
         "title": "Business Intelligence & Data Analytics Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323272,7 +323272,7 @@
         "company_name": "DRW",
         "id": "6d81dba4-27af-4e8b-b52b-a5b3b123f393",
         "title": "FPGA Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325455,7 +325455,7 @@
         "company_name": "Copart",
         "id": "95db5bec-3f24-4913-816e-bfabc131f401",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328035,7 +328035,7 @@
         "company_name": "GE Healthcare",
         "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
         "title": "Engineering Development Program Intern - Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -338726,6 +338726,306 @@
             "Lehi, UT"
         ],
         "company_url": "https://simplify.jobs/c/Waystar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "9a6942e8-038d-4b47-8c8a-c56f0b1800fa",
+        "title": "Digital and Logic Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785450522,
+        "date_posted": 1785369600,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Intern---Digital-and-Logic-Design-Engineer-Fall-Intern_R0167259",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Spotify",
+        "id": "0064eca3-4bb7-4725-a6e2-f421e9c143aa",
+        "title": "Research Scientist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785449882,
+        "date_posted": 1785449454,
+        "url": "https://jobs.lever.co/spotify/35198a63-5c42-4dad-929f-818aab639284/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Spotify",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Copart",
+        "id": "c63937cc-49b3-4672-b316-c4e35731c6af",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785450369,
+        "date_posted": 1785369600,
+        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Copart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Copart",
+        "id": "079e1669-46b8-488f-8297-f7c139a745ec",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785450341,
+        "date_posted": 1785369600,
+        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Copart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Avery Dennison",
+        "id": "e1b49a58-1908-48f2-9e54-650a44f90353",
+        "title": "RFID Applications Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1785449882,
+        "date_posted": 1785449096,
+        "url": "https://jobs.smartrecruiters.com/AveryDennison/744000140739858",
+        "locations": [
+            "Miamisburg, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Avery-Dennison",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Avery Dennison",
+        "id": "902d3dbb-4510-4992-9df9-7d4d6ea58f64",
+        "title": "RFID Applications Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1785449882,
+        "date_posted": 1785449097,
+        "url": "https://jobs.smartrecruiters.com/AveryDennison/744000140739479",
+        "locations": [
+            "Miamisburg, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Avery-Dennison",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ubisoft",
+        "id": "c0f2b55a-b4bc-4326-b4a6-4cea2dd86df6",
+        "title": "Data Analytics Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785449162,
+        "date_posted": 1785449029,
+        "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000140704339",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ubisoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CALSTART",
+        "id": "bca90a25-419e-46da-864d-1d8564cdf838",
+        "title": "Data Analysis Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785449343,
+        "date_posted": 1785449295,
+        "url": "https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CALSTART",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CALSTART",
+        "id": "10d96e7a-3541-4fba-b9e4-02bc40feaea7",
+        "title": "Zero-Emission Data & Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785449343,
+        "date_posted": 1785449300,
+        "url": "https://jobs.lever.co/calstart/faf839b1-8c62-4fcf-991c-71750d8fc909/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CALSTART",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CALSTART",
+        "id": "50713986-aff9-40ea-98ea-3a751c83b80f",
+        "title": "Web Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785449343,
+        "date_posted": 1785449294,
+        "url": "https://jobs.lever.co/calstart/cbd0d758-18b0-481d-9e67-a065682f30ea/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CALSTART",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "b8b0e684-6f34-44c2-ab88-4abfe4a5ff53",
+        "title": "Video and Analytics Intern - Baseball",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1785449343,
+        "date_posted": 1785369600,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Video-and-Analytics-Intern--Baseball_R_00047706",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Home Depot",
+        "id": "7e366937-87f7-41fb-9481-e1c24fa3a9dd",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785449914,
+        "date_posted": 1785369600,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Home-Depot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Formlabs",
+        "id": "fbc2121f-6452-434e-a732-904dabe11cd7",
+        "title": "Hardware R&D Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785449387,
+        "date_posted": 1785448989,
+        "url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
