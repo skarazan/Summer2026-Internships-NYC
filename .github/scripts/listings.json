@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ivalua",
-        "id": "2803d251-227d-436a-bf29-f62886d7683e",
-        "title": "Customer Application Engineer",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764632342,
-        "date_posted": 1764632342,
-        "url": "https://boards.greenhouse.io/ivalua/jobs/7426737",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/ad048830-3daa-4873-8fb3-0dc7481a85eb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Washpost",
-        "id": "e6a2cbb9-4025-46a1-9da7-0f8e3168bac4",
-        "title": "Intern - Advertising Product Management",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764634079,
-        "date_posted": 1764634079,
-        "url": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Advertising-Product-Management_JR-90275619",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Washpost",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "DV Trading",
         "id": "6a8575ab-b947-4179-8291-3806aca55092",
@@ -321602,7 +321560,7 @@
         "company_name": "Aramark",
         "id": "89eac7a4-2ee8-4449-ace7-5150e68daab7",
         "title": "Student IT Associate - Application Developer - ASU-C-Store Markets",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
