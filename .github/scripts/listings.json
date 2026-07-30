@@ -1,111 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "AffiniPay",
-        "id": "263816ad-9073-4fcc-a715-7393a194ffaf",
-        "title": "Software Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764656340,
-        "date_posted": 1764656340,
-        "url": "https://www.8am.com/openings/?gh_jid=4622069006",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AffiniPay",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Commonwealth of Massachusetts",
-        "id": "66e8c7ad-4c85-4ff7-ae29-13e3b0d433de",
-        "title": "Contracted Student Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764659410,
-        "date_posted": 1764659410,
-        "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=250007YY",
-        "locations": [
-            "Massachusetts"
-        ],
-        "company_url": "https://simplify.jobs/c/Commonwealth-Of-Massachusetts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cisco",
-        "id": "63762f49-2a9d-4e37-ab44-6148be49061c",
-        "title": "Software Engineer 2",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764659305,
-        "date_posted": 1764659305,
-        "url": "https://careers.cisco.com/global/en/job/2001164",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "3058d075-dde1-44e5-971b-e35bbb30f28a",
-        "title": "Systems Engineer Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764659431,
-        "date_posted": 1764659431,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Systems--Integration--and-Test--SEIT--Engineer-Intern_R-00170853",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NBCUniversal",
-        "id": "58488e0b-9553-4784-8351-615db36e1bb3",
-        "title": "Media Tech \u2013 Data Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764660587,
-        "date_posted": 1764660587,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000096546037",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Plexus",
         "id": "d4b10bec-2fcd-42f4-8194-b1568d20ef2d",
@@ -196756,7 +196651,7 @@
         "company_name": "Copart",
         "id": "1727d396-3a35-4e8b-a6b8-3de2b9259352",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289777,7 +289672,7 @@
         "company_name": "Salesforce",
         "id": "1a2e58cc-f4e5-478e-a272-afd67fbeedd1",
         "title": "AI Builder - Emerging Talent",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -306343,7 +306238,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "1f22bcf0-083e-4c7f-819e-d6a83d4efadb",
         "title": "Software Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314013,7 +313908,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316587,7 +316482,7 @@
         "company_name": "Fidelity Investments",
         "id": "17699a31-38e1-4e82-b409-fe317a841c6f",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -319902,7 +319797,7 @@
         "company_name": "Medpace",
         "id": "38a95da6-cf61-402d-b348-03983059e836",
         "title": "Clinical Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -321499,7 +321394,7 @@
         "company_name": "GE Healthcare",
         "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
         "title": "Field Service Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -322117,7 +322012,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -326488,7 +326383,7 @@
         "company_name": "Tencent",
         "id": "1da1916d-7918-44db-9d73-5bc1eb73ea7f",
         "title": "Research Intern - Video World Models - Research & ML Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327869,7 +327764,7 @@
         "company_name": "Veralto",
         "id": "669285b9-7671-42a2-aa8c-413c7a3d0334",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328340,7 +328235,7 @@
         "company_name": "BlackRock",
         "id": "b892cd72-a393-48b4-8104-0d2f30989e9b",
         "title": "Global Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330435,7 +330330,7 @@
         "company_name": "Pendulum Intelligence",
         "id": "3e2fa4d6-9588-4f77-a073-1747d963be9e",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334392,7 +334287,7 @@
         "company_name": "Iowa State University",
         "id": "029b9666-a3d9-4d99-a944-c7560692ad2b",
         "title": "Postdoctoral Research Associate",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -337069,7 +336964,7 @@
         "company_name": "RSM",
         "id": "d1fd9426-66a2-4330-accc-1e88592772e5",
         "title": "Application Development Consulting Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -337092,7 +336987,7 @@
         "company_name": "RSM",
         "id": "bca3fb5a-31ba-4b4c-ba79-d90e1105b572",
         "title": "Application Development Consulting Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -337138,7 +337033,7 @@
         "company_name": "RSM",
         "id": "8fd43783-717e-437c-9ad2-a3f7f542958d",
         "title": "ServiceNow Developer Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337162,7 +337057,7 @@
         "company_name": "RSM",
         "id": "01bec32c-d5a0-4a23-b905-fe2e3cef04b0",
         "title": "Microsoft Dynamics 365 Business Central Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -337301,7 +337196,7 @@
         "company_name": "Nelnet",
         "id": "11cb0443-c90b-467f-a21d-c37c98257a5f",
         "title": "Program Intern - Agentic AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337482,7 +337377,7 @@
         "company_name": "Blackberry",
         "id": "2ac22162-948b-43cf-978a-c2b3a2ac0a58",
         "title": "QNX-Software Development Student - Acoustics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337648,7 +337543,7 @@
         "company_name": "Assurant",
         "id": "cd8ad71e-1cf7-47e2-a955-1b09ab203e48",
         "title": "Digital & AI Transformation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338233,7 +338128,7 @@
         "company_name": "RSM",
         "id": "cc379a3a-81b6-4514-92a2-e9cf308f6ee4",
         "title": "Business Intelligence Consulting Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -338375,7 +338270,7 @@
         "company_name": "PathAI",
         "id": "0d592991-3f3c-4b1b-b380-4395ca871e34",
         "title": "Software Engineering Mlops Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -338578,7 +338473,7 @@
         "company_name": "Leidos",
         "id": "13dd6f9c-c173-4f09-aefe-7255a8bc03f6",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339309,6 +339204,53 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "e1ef0c61-0133-4fe9-b4eb-f96359766b1f",
+        "title": "Trading Operations Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785392525,
+        "date_posted": 1785391699,
+        "url": "https://careers-sig.icims.com/jobs/11244/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "id": "04d1606f-f4e5-4d3e-8dfb-7e6f6058d4ef",
+        "title": "Electromechanical Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785400367,
+        "date_posted": 1781168821,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/14734be2-9c81-4aab-bfa6-7dbbe95c94a6/application?embed=true",
+        "locations": [
+            "Palo Alto, CA",
+            "Urbana, IL",
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian-And-Volkswagen-Group-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
