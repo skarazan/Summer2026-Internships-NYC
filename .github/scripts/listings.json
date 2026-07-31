@@ -294892,7 +294892,7 @@
         "company_name": "Tesla",
         "id": "f4601ab3-f480-4a5c-b297-ead3081a4469",
         "title": "Software Engineer Intern - Fullstack Software Engineer - Fleetnet",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -294916,7 +294916,7 @@
         "company_name": "Tesla",
         "id": "d8407a57-173d-4104-a650-05c5456bd0b5",
         "title": "Mobile Applications Engineering Intern - Android Engineer - Mobile Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -295522,7 +295522,7 @@
         "company_name": "Tesla",
         "id": "e5e96098-6521-4bb0-8994-3127501c8908",
         "title": "AI Inference Engineer Intern - Software Compiler Engineer - AI Inference",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -334039,7 +334039,7 @@
         "company_name": "GE Appliances",
         "id": "0951e693-d645-4f21-a9eb-fb285f82ae9c",
         "title": "AI Data Science Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
