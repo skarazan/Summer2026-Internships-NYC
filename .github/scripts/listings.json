@@ -184820,7 +184820,7 @@
         "company_name": "Fortinet",
         "id": "81c102c7-236a-49a3-b3ac-c8c71323abef",
         "title": "Software Development - GenAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -273991,7 +273991,7 @@
         "company_name": "Neuralink",
         "id": "7f826bfb-a9e6-425c-a6dc-82510874e1d0",
         "title": "Software Engineer Intern - Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -307843,7 +307843,7 @@
         "company_name": "Lila Sciences",
         "id": "6328a189-9c8c-4d76-a8c2-02dc892720ae",
         "title": "Automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312720,7 +312720,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "4aa95e06-d130-4d56-8703-47bccc160e90",
         "title": "Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -315060,7 +315060,7 @@
         "company_name": "McMaster-Carr",
         "id": "4dd6c156-2cf7-47e3-a050-40fc952ae8ea",
         "title": "Management Track",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -323914,7 +323914,7 @@
         "company_name": "Sentara Health",
         "id": "681c9b80-c50a-46fc-8f94-cec1e4cbb554",
         "title": "Enterprise Data & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327959,7 +327959,7 @@
         "company_name": "NERv Technology Inc. D.B.A. FluidAI Medical",
         "id": "aea064c1-caa5-4d1b-ac55-f280216fe181",
         "title": "Data and AI Engineering Associate Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331723,7 +331723,7 @@
         "company_name": "TAP Engineering",
         "id": "81f2c13d-2485-497a-ae69-2e73193cb14e",
         "title": "Software Engineer Level 1",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -332557,7 +332557,7 @@
         "company_name": "Golden Pet Brands",
         "id": "c3cb586c-7a74-433e-9247-a5bf6ab308e5",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -333170,7 +333170,7 @@
         "company_name": "Nextiva",
         "id": "a743b22b-067a-47c3-aef7-8e3f2b8a912c",
         "title": "Forward Deployed Engineer Intern - AI Implementation",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333764,7 +333764,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "5dc00cee-4e2e-4533-9b44-94c295ffddd4",
         "title": "Agentic Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334320,7 +334320,7 @@
         "company_name": "Kodak",
         "id": "50f076dc-b912-4d1b-b7d7-59cfb38b5688",
         "title": "Marketing Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335006,7 +335006,7 @@
         "company_name": "Blackberry",
         "id": "a66dc648-8c3f-403a-8640-01dd140e2822",
         "title": "Application Engineering Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -337557,7 +337557,7 @@
         "company_name": "University of Virginia Investment Management Company (UVIMCO)",
         "id": "7c270e85-d47c-4c59-88ce-1f61ded9511a",
         "title": "Investment Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338074,5 +338074,218 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Altice USA",
+        "id": "443c6322-3e3b-48b4-9fd4-3a9c04931db8",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785536925,
+        "date_posted": 1785535925,
+        "url": "https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors",
+        "locations": [
+            "Long Island City, Queens, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Altice-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Berkeley National Laboratory",
+        "id": "9f48cf3b-02b6-4273-add7-e4b623f6ddd2",
+        "title": "AI-Readiness Data Automation Postdoctoral Scholar",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785536641,
+        "date_posted": 1778288920,
+        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=106583",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Genworth Financial",
+        "id": "8e984444-bc04-494b-b26d-4f4a8cd5d1e7",
+        "title": "IT Development Program Intern - IT Development Program",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785536322,
+        "date_posted": 1785456000,
+        "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genworth-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "16329376-3dc6-48b0-b0ec-d6b62c01f5ae",
+        "title": "Hardware Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785536014,
+        "date_posted": 1785535533,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000140949875",
+        "locations": [
+            "Fremont, CA",
+            "Rochester, MN",
+            "San Jose, CA",
+            "Irvine, CA",
+            "Colorado Springs, CO",
+            "Longmont, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PSECU",
+        "id": "c798be75-f002-4735-ae90-3a77727b897e",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785535998,
+        "date_posted": 1785456000,
+        "url": "https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Data-Analyst-Intern_JR100964",
+        "locations": [
+            "Harrisburg, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PSECU",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arizona State University",
+        "id": "13bded89-387e-4599-bde0-b61dc8d82ab3",
+        "title": "Student Assistant - Gift Administration and Data Management",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785535562,
+        "date_posted": 1785456000,
+        "url": "https://asuep.wd5.myworkdayjobs.com/ASUFoundation/job/Tempe-AZ/Student-Assistant---Gift-Administration-and-Data-Management_R1467",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Arizona-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "f8b9e37f-3c7e-4e07-b7ca-ac75b69f8c7d",
+        "title": "Solid State Magnetic Resonance Spectroscopist - Postdoctoral Researcher",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785535562,
+        "date_posted": 1785535454,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990014395066",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marsh & McLennan",
+        "id": "f9fe7e9f-de7d-47c2-875e-a933cee69ede",
+        "title": "Data and Analytics Team Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785535851,
+        "date_posted": 1784678400,
+        "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Toronto---Bremner/Oliver-Wyman---Analyst---Data-and-Analytics-Team---Toronto_R_354529",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Marsh-McLennan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Neuralink",
+        "id": "72df9597-3b28-4b97-b878-5cef9737aa8e",
+        "title": "Analog and Mixed-Signal IC Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785536641,
+        "date_posted": 1771458476,
+        "url": "https://boards.greenhouse.io/neuralink/jobs/7565469003",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Neuralink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
