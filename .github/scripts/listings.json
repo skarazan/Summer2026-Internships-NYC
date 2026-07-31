@@ -1,132 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "ServiceNow",
-        "id": "c6456e63-35d5-4467-87d7-d275a2eafd58",
-        "title": "Portfolio Associate Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764721895,
-        "date_posted": 1764721895,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000096698843",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ServiceNow",
-        "id": "40374267-4927-48b8-ac35-6314c39e4a5f",
-        "title": "Service Offering Automation Intern",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1764721890,
-        "date_posted": 1764721890,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000096702565",
-        "locations": [
-            "Jackson Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RR Donnelley",
-        "id": "f0fa7a32-b312-4789-bcd7-99eac3f63a85",
-        "title": "Business Intelligence Developer \u2013 Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764720678,
-        "date_posted": 1764720678,
-        "url": "https://jobs.smartrecruiters.com/RRDonnelley/744000096687511",
-        "locations": [
-            "Warrenville, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/RR-Donnelley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "RR Donnelley",
-        "id": "b6e450ec-8174-4a34-8e70-b08f9da910ce",
-        "title": "Product Management Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764720688,
-        "date_posted": 1764720688,
-        "url": "https://jobs.smartrecruiters.com/RRDonnelley/744000096679615",
-        "locations": [
-            "Warrenville, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/RR-Donnelley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "0b07a603-cf28-47c9-8a5a-d17cadcaf186",
-        "title": "2026 Asset Wealth Management Machine Learning Engineer \u2013 Summer Associate",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764720861,
-        "date_posted": 1764720861,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690773",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Zscaler",
-        "id": "bf170d98-8fd5-41c3-91b7-2b2f36d5d0c9",
-        "title": "Product Management Intern - AI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764722274,
-        "date_posted": 1764722274,
-        "url": "https://job-boards.greenhouse.io/zscaler/jobs/4996494007",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zscaler",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Found Energy",
         "id": "62f50214-a277-4ad0-8710-d7c4a46fde67",
@@ -283748,7 +283622,7 @@
         "company_name": "Astranis",
         "id": "e6484fbc-0112-45c8-912b-94742f46f010",
         "title": "FPGA Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
