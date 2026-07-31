@@ -1,343 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "0c4c89e3-f4d2-4866-b1ec-8b7304a61761",
-        "title": "Software Development Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764778607,
-        "date_posted": 1764778607,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23811",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Altom Transport",
-        "id": "a81d63f5-261c-47ec-8d1d-5b7b85ecb61e",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764778048,
-        "date_posted": 1764778048,
-        "url": "https://apply.workable.com/altom-transport/j/45B0108843/apply",
-        "locations": [
-            "Markham, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Altom-Transport",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Teamworks",
-        "id": "95fb8ccb-18fd-4a11-bb10-a633356038bd",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764778079,
-        "date_posted": 1764778079,
-        "url": "https://ats.rippling.com/teamworks-careers/jobs/33646480-af53-432b-b481-e806831e2b69",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Teamworks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Altom Transport",
-        "id": "32229731-9b9e-48ef-95a4-fd147c820a71",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764778046,
-        "date_posted": 1764778046,
-        "url": "https://apply.workable.com/altom-transport/j/F1DC42E598/apply",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Altom-Transport",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "2cdf8e00-4bfb-49ec-ba5d-c92c0d71b0c5",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764779380,
-        "date_posted": 1764779380,
-        "url": "https://careers-gdms.icims.com/jobs/69481/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Dedham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Walt Disney Company",
-        "id": "dc496b90-052c-4c8c-9b93-3799288af531",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764779589,
-        "date_posted": 1764779589,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Software-Engineering-Intern--Summer-2026_10135329-1",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "PA Consulting",
-        "id": "cf8c67fd-fca3-45ff-954c-5ea87529466c",
-        "title": "Apprentice - Software Development",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1764780926,
-        "date_posted": 1764780926,
-        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000096797904",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/PA-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "PA Consulting",
-        "id": "9adbba34-edf7-4ee4-839d-3d3ee4a814b4",
-        "title": "Apprentice - Digital - Software Development",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1764780928,
-        "date_posted": 1764780928,
-        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000096797875",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/PA-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Walt Disney Company",
-        "id": "7a26d037-6f81-4b64-91c8-2963b256ecf5",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764779590,
-        "date_posted": 1764779590,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Software-Engineering-Intern--Summer-2026-_10135863",
-        "locations": [
-            "Celebration, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PA Consulting",
-        "id": "73110a5b-8eeb-41d5-9f43-8457ac0936f9",
-        "title": "2026 Apprentice - Digital - Data Science",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1764780914,
-        "date_posted": 1764780914,
-        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000096797924",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/PA-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "The Walt Disney Company",
-        "id": "6b750018-7021-4bde-875e-9f73937fdd4a",
-        "title": "Data Product Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764779585,
-        "date_posted": 1764779585,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bay-Lake-FL-USA/Data-Product-Intern--Summer-2026_10135707-2",
-        "locations": [
-            "Celebration, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Parsons",
-        "id": "0f2d1f1c-200a-440d-8d5f-c732c6e00b60",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764778846,
-        "date_posted": 1764778846,
-        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Engineering-Co-Op-Summer-2026_R175093-1",
-        "locations": [
-            "Charlotte, NC",
-            "Centreville, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Parsons",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ServiceNow",
-        "id": "4d0d580d-c94a-4400-907a-18c33386da35",
-        "title": "Technical AI Architect Intern",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1764782306,
-        "date_posted": 1764782306,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000096854835",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Tencent",
-        "id": "2962898c-fae7-45cf-9285-736c2c1b01bc",
-        "title": "Data Product Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764782183,
-        "date_posted": 1764782183,
-        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Data-Product-Intern_R106486",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Terex",
-        "id": "2117492d-6b88-4eb8-ba35-107bab80d779",
-        "title": "Business and Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764779890,
-        "date_posted": 1764779890,
-        "url": "https://terex.wd1.myworkdayjobs.com/terexcareers/job/USA-SD-Watertown/Business---Data-Analyst-Intern_REQ-10289",
-        "locations": [
-            "Milbank, SD"
-        ],
-        "company_url": "https://simplify.jobs/c/Terex",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Trillium",
-        "id": "9cc15f47-422f-417d-b8dc-e887049f17c1",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764780256,
-        "date_posted": 1764780256,
-        "url": "https://www.trlm.com/apply/4993466007?gh_jid=4993466007",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Trillium",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "e7069e4b-c553-444f-8cdf-b77b46740b0a",
@@ -331010,7 +330673,7 @@
         "company_name": "Ciena",
         "id": "79710552-fb6a-4392-b3e7-d23c2d22f5f4",
         "title": "Routing/IP Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334692,7 +334355,7 @@
         "company_name": "Apptronik",
         "id": "03e27deb-c124-4ce6-9e6c-49eed4353493",
         "title": "Software Engineer Intern - ML Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336635,7 +336298,7 @@
         "company_name": "Loop",
         "id": "512aa7d8-2939-4cfc-a1c7-078cb2bf5f94",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -337583,7 +337246,7 @@
         "company_name": "Avery Dennison",
         "id": "902d3dbb-4510-4992-9df9-7d4d6ea58f64",
         "title": "RFID Applications Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
