@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "e7069e4b-c553-444f-8cdf-b77b46740b0a",
-        "title": "Electrical Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764787192,
-        "date_posted": 1764787192,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026--Intern--Electrical-Engineer-Production-Hardware-Intern---Onsite-_01810095",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Element Biosciences",
-        "id": "8c88a93a-3292-4aa3-ac71-92faf4e4294f",
-        "title": "Genetic Data Scientist",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1764787013,
-        "date_posted": 1764787013,
-        "url": "https://job-boards.greenhouse.io/elementbiosciences/jobs/5721812004",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ElementBiosciences",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Robert Bosch Venture Capital",
         "id": "a4fbe341-3134-4d13-95a8-9d5c46dc3706",
@@ -306564,7 +306522,7 @@
         "company_name": "ACI Worldwide ",
         "id": "8e2715af-7e3d-4e10-abed-1b78f92ee685",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336322,7 +336280,7 @@
         "company_name": "KBR",
         "id": "e5cda4c5-0633-455f-8d0d-b5ae18db552d",
         "title": "Computer Science Technician Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338095,7 +338053,7 @@
         "company_name": "CLEAResult",
         "id": "8c8cf5d2-f485-4d7e-b8b1-ce1caaf73d31",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
