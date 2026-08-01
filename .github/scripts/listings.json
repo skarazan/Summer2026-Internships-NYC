@@ -22,27 +22,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Attain Partners",
-        "id": "a80e6c09-1cf9-4325-902d-c0e83af80082",
-        "title": "Data Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764831118,
-        "date_posted": 1764831118,
-        "url": "https://job-boards.greenhouse.io/attainpartners/jobs/5017962008",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Attain-Partners",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Cummins",
         "id": "2c2264e5-8769-4a2e-a04d-aea912d6ad98",
@@ -333008,7 +332987,7 @@
         "company_name": "L3Harris Technologies",
         "id": "d378c42b-5e79-40b8-91ea-020a28e4bc43",
         "title": "Associate Integration and Test Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
