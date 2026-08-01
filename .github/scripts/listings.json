@@ -318581,7 +318581,7 @@
         "company_name": "Meta",
         "id": "ba1e95d6-38c8-4dfd-98bb-f6954a1aaab8",
         "title": "Research Scientist Intern - Monetization Computer Vision",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -318655,7 +318655,7 @@
         "company_name": "GE Healthcare",
         "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -318944,7 +318944,7 @@
         "company_name": "Arrowstreet Capital",
         "id": "cee814d5-6814-4bea-b567-0b0b7460e127",
         "title": "Quantitative Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -318968,7 +318968,7 @@
         "company_name": "Arrowstreet Capital",
         "id": "6db9e02b-faca-4e0e-ac29-f4fb8c87be71",
         "title": "Quantitative Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -319935,7 +319935,7 @@
         "company_name": "Procter & Gamble (P&G)",
         "id": "70567d14-93a2-4b6f-b4bd-a9e981c14af4",
         "title": "R&D Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2028",
             "Spring 2028",
@@ -320302,7 +320302,7 @@
         "company_name": "NXP Semiconductors",
         "id": "e790b9f8-a895-4493-b4b7-acfffcb9b5d7",
         "title": "Digital Physical Design Intern - P&R",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -320881,7 +320881,7 @@
         "company_name": "Arizona State University",
         "id": "64902580-c49d-4221-8f19-a1e00d5b2f02",
         "title": "Student Data Science Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -328988,7 +328988,7 @@
         "company_name": "Microchip Technology",
         "id": "2f6eef33-0694-4b8f-b0bf-fa6da1428cb2",
         "title": "Equipment Engineering Technician Intern - Metrology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -338623,6 +338623,27 @@
             "Laredo, TX"
         ],
         "company_url": "https://simplify.jobs/c/Texas-AM-International-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "e30befae-b497-48e1-a3a8-bd81c05547ed",
+        "title": "Materials Science and Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785605624,
+        "date_posted": 1783641600,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Support---Hickey-Group---Materials-Science-and-Engineering_REQ_0000080064-2",
+        "locations": [
+            "University Park, State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
