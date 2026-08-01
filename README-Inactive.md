@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 562 Inactive Internship Roles by Category
+### Browse 561 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (181)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (180)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (63)
 
@@ -132,13 +132,6 @@
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Stash?utm_source=GHList&utm_medium=company">Stash</a></strong></td>
 <td>Engineer Intern</td>
-<td>NYC</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/LiveRamp?utm_source=GHList&utm_medium=company">LiveRamp</a></strong></td>
-<td>Software Engineer Co-op - Conversions API</td>
 <td>NYC</td>
 <td>🔒</td>
 <td>1mo</td>
@@ -3070,7 +3063,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>↳</td>
 <td>ABC News Insights and Analytics Intern - Summer/Fall 2026</td>
 <td>NYC</td>
 <td>🔒</td>

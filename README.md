@@ -72,11 +72,18 @@
 <td><div align="center"><a href="https://job-boards.greenhouse.io/scaleai/jobs/4703343005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/10f26a2e-0806-4a95-ab5a-9937df1917fa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/LiveRamp?utm_source=GHList&utm_medium=company">LiveRamp</a></strong></td>
+<td>Software Engineer Co-op - Conversions API</td>
+<td>NYC</td>
+<td><div align="center"><a href="https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-Op--Software-Engineer---Conversions-API_JR012232-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/09174c1c-7ac5-489a-8c87-dcb67b971aa0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
 
-🔒 **[See 181 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 180 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -102,6 +109,13 @@
 <td>Product Design Intern 🛂</td>
 <td>New York City, NY</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Tessera-Labs?utm_source=GHList&utm_medium=company">Tessera Labs</a></strong></td>
+<td>Product Manager Intern</td>
+<td>NYC</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/369aa379-9db8-44bd-8238-0cbf7f9c3483?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 </tbody>

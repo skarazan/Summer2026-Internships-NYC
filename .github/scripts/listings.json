@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cloudflare",
-        "id": "5580b4b2-b3fc-4cc3-8cce-4c3803891ba6",
-        "title": "Hardware Systems Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1764839987,
-        "date_posted": 1764839987,
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/7436125",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cloudflare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Pinterest",
         "id": "993493cc-bbcd-4e97-8659-4c3dbc3dda4a",
@@ -10991,7 +10969,7 @@
         "company_name": "Cadence Design Systems",
         "id": "40dbbf5f-d4ad-493a-9644-4f4b0662556c",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -62851,7 +62829,7 @@
         "company_name": "Marvell",
         "id": "19adb890-3588-42e8-ac86-3d099f703889",
         "title": "Applied Machine Learning Scientist Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -70968,7 +70946,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -98996,7 +98974,7 @@
         "company_name": "Auctor",
         "id": "5a48777f-0af6-4e37-b9d2-1766b5c02ea2",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -135720,7 +135698,7 @@
         "company_name": "Sony",
         "id": "1c8db85e-f34a-4b3b-b809-3502d6cdbfa2",
         "title": "Intern \u2013 Advanced Computer Graphics Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -149169,7 +149147,7 @@
         "company_name": "Fundwell",
         "id": "543db09f-0743-4f5f-a18a-ae6f1eb3bdbc",
         "title": "AI Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -155164,7 +155142,7 @@
         "company_name": "Marmon Holdings",
         "id": "09806186-6904-490c-b577-2c0b53e167a9",
         "title": "Digital Production Engineering Intern OR Student Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -157864,7 +157842,7 @@
         "company_name": "PennState University",
         "id": "2d73b434-02a8-4393-858d-cfdf9db63bd2",
         "title": "Undergraduate Research Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -185092,7 +185070,7 @@
         "company_name": "University of Texas at Austin",
         "id": "06ba6a6e-e713-450a-b464-1f3ebcc67afc",
         "title": "Undergraduate Research Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -202051,7 +202029,7 @@
         "company_name": "Nio",
         "id": "0d4503e1-90d1-4c0f-bd67-bb854a37ac01",
         "title": "LLM Algorithmic Optimization Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -221862,7 +221840,7 @@
         "company_name": "Perplexity AI",
         "id": "50476edb-b428-4583-901b-6dc310fab018",
         "title": "Intern - Search Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -223995,7 +223973,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "7da3c280-040c-4a6b-bbdc-ccf7e3d9f527",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -232917,7 +232895,7 @@
         "company_name": "Cotiviti",
         "id": "1497c112-6957-44c5-8912-4b7a454cc4ff",
         "title": "Generative AI/Agentic AI/Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -236068,7 +236046,7 @@
         "company_name": "Context",
         "id": "26fdb601-e0f4-4074-8616-d16bfbb4f7b9",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237970,7 +237948,7 @@
         "company_name": "Tencent",
         "id": "1c141650-b107-465f-a7ed-290459b5da2a",
         "title": "Software Engineering Intern - PC Game Client Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -241884,7 +241862,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "4f46a01a-d152-4a18-9cf9-ff106eede269",
         "title": "Quantitative Research Intern - PhD: Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -241930,7 +241908,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "1eeacbc8-6f20-4cf6-b5a2-0a2578151236",
         "title": "Quantitative Systematic Trading Intern - Master's: Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -241976,7 +241954,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "214fe12f-0a66-495e-bbeb-de7c8d78fdf8",
         "title": "Quantitative Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -242463,7 +242441,7 @@
         "company_name": "Blockhouse",
         "id": "5fd9c494-f770-4b60-8ebc-a384213edb6e",
         "title": "Rust Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -245678,7 +245656,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "14dcee99-b506-4efe-a80a-63151e541c4d",
         "title": "Quantitative Strategy Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -247631,7 +247609,7 @@
         "company_name": "Corpay",
         "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
         "title": "Software Developer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -249167,7 +249145,7 @@
         "company_name": "Netflix",
         "id": "7248f7be-bf62-4a1b-a01b-3e4f27918644",
         "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -255993,7 +255971,7 @@
         "company_name": "Cohere",
         "id": "3c716e20-040d-41dc-9d9d-b398aa4b7f77",
         "title": "Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -256162,7 +256140,7 @@
         "company_name": "Meta",
         "id": "180cdc97-01ab-4340-9dbd-7d3d84a4cc85",
         "title": "Research Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -260472,7 +260450,7 @@
         "company_name": "Apple",
         "id": "828870c4-ff76-42db-ab7a-390c1c51362f",
         "title": "Early Career CAD Tools Optimisation Engineer Intern - Design Verification",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -264918,7 +264896,7 @@
         "company_name": "SOTI",
         "id": "10b8ba9b-4b53-4c9d-ac43-9343422d6e2d",
         "title": "Associate Product Manager Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -267000,7 +266978,7 @@
         "company_name": "Heron Power",
         "id": "73ceaf56-0208-4efc-ab70-3dea4246f067",
         "title": "Hardware Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269222,7 +269200,7 @@
         "company_name": "SOTI",
         "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -271324,7 +271302,7 @@
         "company_name": "Astera",
         "id": "2bf9596e-6416-4fef-8c6d-48ac964d59fa",
         "title": "Computational Neuroscience Intern - Data Analysis and Modeling",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -274286,7 +274264,7 @@
         "company_name": "Melotech",
         "id": "39d9c34d-25c2-4b63-b896-ad1ecb98c563",
         "title": "Data Science Intern - Music & Audio",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -274579,7 +274557,7 @@
         "company_name": "Quadric",
         "id": "683140b0-3387-4bc2-b341-7ea5fa65f78f",
         "title": "Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -280238,7 +280216,7 @@
         "company_name": "Quadric",
         "id": "32ef093e-4ade-4a88-bac2-63b0be259cf4",
         "title": "AI Kernel Engineer Intern - Kernel Optimization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -286514,7 +286492,7 @@
         "company_name": "Magna",
         "id": "14d33eac-9588-4ef2-aad6-4f65465e5bc0",
         "title": "Product Engineering Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -290220,7 +290198,7 @@
         "company_name": "LiveRamp",
         "id": "09174c1c-7ac5-489a-8c87-dcb67b971aa0",
         "title": "Software Engineer Co-op - Conversions API",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -291908,7 +291886,7 @@
         "company_name": "University System of New Hampshire",
         "id": "17d853eb-3412-4b94-a962-815fd64e1b6c",
         "title": "Broadband Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -292338,7 +292316,7 @@
         "company_name": "Ancestry",
         "id": "30968849-8351-4128-a546-cd9bbad4a60c",
         "title": "Data Science Co-op - AI Document Understanding",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -292434,7 +292412,7 @@
         "company_name": "Meta",
         "id": "30d1162f-2765-4044-9e44-203f4a85d5a1",
         "title": "Research Scientist Intern - AI Alignment",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -292865,7 +292843,7 @@
         "company_name": "University of Texas at Austin",
         "id": "1d929b62-c0c3-48c4-914d-2541b5ce214a",
         "title": "Content Management Automation Student Technician",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -293297,7 +293275,7 @@
         "company_name": "Rippling",
         "id": "7df6766d-b43b-464c-a03e-68387c5ffb37",
         "title": "Software Engineer Intern - Backend Focused",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -298715,7 +298693,7 @@
         "company_name": "Rivian and Volkswagen Group Technologies",
         "id": "39b0338f-985f-4dd5-8adf-290b1e4ca1de",
         "title": "Software Engineer Intern - Connected Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -299992,7 +299970,7 @@
         "company_name": "General Motors",
         "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
         "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -300396,7 +300374,7 @@
         "company_name": "Ciena",
         "id": "7bf1dde2-5de6-4a6d-99bf-d149e1a36e58",
         "title": "Software Engineer and Tools Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -300490,7 +300468,7 @@
         "company_name": "Synchrony Financial",
         "id": "1862811d-f108-4ae2-80e1-ebadd703d58a",
         "title": "Digital Technology Center Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -300511,7 +300489,7 @@
         "company_name": "Synchrony Financial",
         "id": "0de94479-9581-45a1-9e9b-1d63a3842ebb",
         "title": "Emerging Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -301225,7 +301203,7 @@
         "company_name": "Mercer University",
         "id": "33fd521e-474f-45b3-851e-27d577a78a8b",
         "title": "Archival Digitization",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -301267,7 +301245,7 @@
         "company_name": "mthree",
         "id": "6ce4c517-ed15-4308-b1b3-db9ed7be5a53",
         "title": "Technology Talent Programme",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -302793,7 +302771,7 @@
         "company_name": "Meta",
         "id": "7d40282a-e5d1-4104-ba34-426064c6790a",
         "title": "Research Scientist Intern - Photorealistic Telepresence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -306592,7 +306570,7 @@
         "company_name": "Hiverge",
         "id": "2c50d66a-bdb8-46dc-8a47-f505dcf9f116",
         "title": "Research Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -308018,7 +307996,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "12c027ac-4d4e-436f-8165-633a717cc12a",
         "title": "Quantitative Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -309114,7 +309092,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "55723c85-bd8c-4d95-be54-2a6851a48b6c",
         "title": "Quantitative Systematic Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -310469,7 +310447,7 @@
         "company_name": "Altom Transport",
         "id": "4ff4ed6a-dc28-48f6-a2db-ebf1cdbab9c2",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -310513,7 +310491,7 @@
         "company_name": "Espa AI",
         "id": "458415d1-7c6f-417e-9299-30a80dcdf88b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -310540,7 +310518,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -310609,7 +310587,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "31ba5843-05de-4d5d-bc6f-3182b9d4d812",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -313161,7 +313139,7 @@
         "company_name": "Integrity",
         "id": "21764c96-24e4-46f7-b19f-977407981b13",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -314880,7 +314858,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "5e40a228-3721-4f88-96d5-3f59b73be6c4",
         "title": "Quantitative Strategy Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -316817,7 +316795,7 @@
         "company_name": "Amgen",
         "id": "242592f3-d34b-4408-83fc-12609e3b71f9",
         "title": "Software Engineer Co-op - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -318055,7 +318033,7 @@
         "company_name": "GE Healthcare",
         "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -318081,7 +318059,7 @@
         "company_name": "GE Healthcare",
         "id": "27cd0b35-4964-4f9e-95d3-2968a5776184",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -318742,7 +318720,7 @@
         "company_name": "GE Healthcare",
         "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -321043,7 +321021,7 @@
         "company_name": "Heron Power",
         "id": "864fb857-973c-4041-8f03-889fcffa79c2",
         "title": "Electronics Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027"
@@ -321068,7 +321046,7 @@
         "company_name": "Orbital Industries",
         "id": "698fe2c1-8146-44d2-ad0e-8b4bcb8a9cbb",
         "title": "AI Residency Programme",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -322360,7 +322338,7 @@
         "company_name": "Copart",
         "id": "27bc7565-972b-4dff-a2b6-d86296a62c88",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -322471,7 +322449,7 @@
         "company_name": "Evonik",
         "id": "339b4eca-44a7-4023-a1be-33591d928b3c",
         "title": "Life Cycle Management Intern - Sustainability & Life Cycle Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -322519,7 +322497,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "55c03818-d743-45eb-bb1d-d9d6f3cdcc5b",
         "title": "Quantitative Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -322540,7 +322518,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "45121612-e5f7-499d-a2b8-403f1234f051",
         "title": "Quantitative Systematic Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -322943,7 +322921,7 @@
         "company_name": "Motorola",
         "id": "255595f1-f6b4-4007-9563-647c8db7fae5",
         "title": "Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -323015,7 +322993,7 @@
         "company_name": "Tencent",
         "id": "1da1916d-7918-44db-9d73-5bc1eb73ea7f",
         "title": "Research Intern - Video World Models - Research & ML Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323834,7 +323812,7 @@
         "company_name": "CuspAI",
         "id": "6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
         "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -324778,7 +324756,7 @@
         "company_name": "Synchrony Financial",
         "id": "3ead5def-8555-40d4-817c-7435fa78e157",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325350,7 +325328,7 @@
         "company_name": "Copart",
         "id": "2852d53d-1e2d-4026-9f6f-90758dc79f0a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325506,7 +325484,7 @@
         "company_name": "Chevron Corporation",
         "id": "25a61501-a552-4f3c-b147-5d1ba74548f5",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325822,7 +325800,7 @@
         "company_name": "Vega Investment Technologies",
         "id": "7dafcd00-57dc-437d-ad40-cc064eb2bea8",
         "title": "Product Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325938,7 +325916,7 @@
         "company_name": "Cirrus Logic",
         "id": "5a87d599-5c9b-4a61-af5e-84755a75597c",
         "title": "AI Business Analytics Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326275,7 +326253,7 @@
         "company_name": "Odin Dynamics, Inc",
         "id": "7e9c41e0-72f6-4e65-8150-4a44cf26d415",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326465,7 +326443,7 @@
         "company_name": "Denari",
         "id": "509af5ea-e34a-4b4c-bace-1d7ffbefc797",
         "title": "Product & Software Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326661,7 +326639,7 @@
         "company_name": "Onware",
         "id": "47396485-020d-4723-a0eb-84364424bc72",
         "title": "Full Stack Developer-Intern Opportunity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326730,7 +326708,7 @@
         "company_name": "SpreeAI ",
         "id": "4c54516c-986b-40c6-be23-fc11b0404861",
         "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326918,7 +326896,7 @@
         "company_name": "Gitar, Inc.",
         "id": "53fcaec4-0e49-4a63-94d1-c52a5741cef0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -326962,7 +326940,7 @@
         "company_name": "Pendulum Intelligence",
         "id": "3e2fa4d6-9588-4f77-a073-1747d963be9e",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327162,7 +327140,7 @@
         "company_name": "Phonely",
         "id": "5c68573e-df1f-407a-99e4-7a870ec61813",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327316,7 +327294,7 @@
         "company_name": "Frontier Health",
         "id": "3fa76277-1482-466b-8699-4aeec94965be",
         "title": "Applied Scientist / Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327424,7 +327402,7 @@
         "company_name": "Terranova",
         "id": "4ce5b5f7-d03d-487f-aa5c-b9786a42a4b2",
         "title": "Drop Out Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -327676,7 +327654,7 @@
         "company_name": "Gritt Robotics Inc",
         "id": "75d16764-30ef-4615-8287-aee8dcab750a",
         "title": "Robot Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327840,7 +327818,7 @@
         "company_name": "Northwestern Mutual",
         "id": "33863275-2a05-41ff-bedb-8b3c2e3b8867",
         "title": "Investment Analyst - Private Debt & Equity",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -328528,7 +328506,7 @@
         "company_name": "Pennsylvania State University",
         "id": "3603208b-f848-4599-8f67-abbe31a85cb8",
         "title": "Research Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -328551,7 +328529,7 @@
         "company_name": "Pennsylvania State University",
         "id": "41a24982-1c82-4a92-a2db-647eeae2854d",
         "title": "Part-time Research Support-Yan Li group",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -328572,7 +328550,7 @@
         "company_name": "Wells Fargo",
         "id": "0828ba46-8539-4401-9c81-3c38584a5690",
         "title": "Corporate Risk Development Program Intern - Core Risk - Early Careers",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328838,7 +328816,7 @@
         "company_name": "Medpace",
         "id": "78b03927-c204-476c-947a-99cb2714c3ee",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329075,7 +329053,7 @@
         "company_name": "Microchip Technology",
         "id": "2f6eef33-0694-4b8f-b0bf-fa6da1428cb2",
         "title": "Equipment Engineering Technician Intern - Metrology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329252,7 +329230,7 @@
         "company_name": "Ciena",
         "id": "3dbf7cdf-f9d4-45de-88c4-96a4d3ec984d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329362,7 +329340,7 @@
         "company_name": "Tencent",
         "id": "1a2e27d2-16f9-4a71-9f87-70a2b51b8041",
         "title": "AI Product Manager Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -329825,7 +329803,7 @@
         "company_name": "Castleton Commodities International",
         "id": "2c656f83-6247-4e1c-a019-3126608b9e23",
         "title": "Data Science Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330251,7 +330229,7 @@
         "company_name": "Lennox International",
         "id": "6e043ff4-35f3-4dd9-b704-1be62043d4e9",
         "title": "AI Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331779,7 +331757,7 @@
         "company_name": "Quadrillion",
         "id": "53663e4c-42be-4d2a-ba0f-ac7a0d65da22",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333091,7 +333069,7 @@
         "company_name": "Ciena",
         "id": "36188615-2ec9-492b-83c1-b7ae24c9bb17",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333206,7 +333184,7 @@
         "company_name": "East Penn Manufacturing Company",
         "id": "81c27c2f-7650-4a5b-ad93-720da3891b10",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -333348,7 +333326,7 @@
         "company_name": "Keysight Technologies",
         "id": "8468a0fc-41d7-41eb-b908-66f723a8eea4",
         "title": "R&D Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333900,7 +333878,7 @@
         "company_name": "Pennsylvania State University",
         "id": "0b7bf7f5-040c-4d9b-afff-7324441aeb52",
         "title": "Undergraduate Researcher - Cee",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -333942,7 +333920,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -334266,7 +334244,7 @@
         "company_name": "First Bank & Trust",
         "id": "2bac3eef-7c9a-432b-9261-87bd7c6669d4",
         "title": "SharePoint/Power Platform Intern - SharePoint - Power Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334289,7 +334267,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "6ffe9360-2d1b-4612-90b5-2b30153fe38c",
         "title": "Embedded Software Engineer - HOH Fellows - Spouseworks Fellows",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -334878,7 +334856,7 @@
         "company_name": "Brunswick",
         "id": "355b5e1d-f111-47b2-8e17-99593839fef6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -335431,7 +335409,7 @@
         "company_name": "CVS Health",
         "id": "229ace69-8177-42cc-a85f-c0517803f03b",
         "title": "Analytics & Behavior Change \u2013 Data Science Grad - Conversion",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -335524,7 +335502,7 @@
         "company_name": "Canadian Tire",
         "id": "28a39a26-10ea-4b63-8937-ec8a232212ed",
         "title": "AI Enablement Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -336627,7 +336605,7 @@
         "company_name": "Heliux",
         "id": "5410157c-2206-4b07-8f6c-ef7f52129039",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -336747,7 +336725,7 @@
         "company_name": "Zededa",
         "id": "54eb8a09-3206-49de-ab52-5f7361b9dae4",
         "title": "Software Engineer - AI & Edge Kubernetes Orchestration",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -336836,7 +336814,7 @@
         "company_name": "American Association of People With Disabilities",
         "id": "67b5b449-b8c2-494e-a306-0e9bc0573ab3",
         "title": "Disability Data Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337680,5 +337658,255 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Marmon Holdings",
+        "id": "19d2ffe3-9f24-4342-bfbb-0fe7ddcf3ad5",
+        "title": "New Product Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785575702,
+        "date_posted": 1778947365,
+        "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Charlotte-NC/New-Product-Development-Intern---Summer-2026_JR0000037718",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Marmon-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AfterQuery",
+        "id": "19b2324a-4abf-497a-8497-1c89e59e92f8",
+        "title": "Coding Intern - Strategic Projects",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1785577797,
+        "date_posted": 1782338960,
+        "url": "https://jobs.ashbyhq.com/AfterQuery/51437c4c-9510-4704-a779-e61ac52c39d7/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/AfterQuery",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nexstar",
+        "id": "163d8d37-6db8-403a-8471-eea9e23a4d43",
+        "title": "Media Archivist Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785577321,
+        "date_posted": 1782561277,
+        "url": "https://nexstar.wd5.myworkdayjobs.com/nexstar/job/AL-Mobile/Media-Archivist-Intern--In--Person--Fall-2026_REQ-41978",
+        "locations": [
+            "Mobile, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Nexstar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Centerfield",
+        "id": "172c59ae-8170-4234-a70a-6be80850c2d1",
+        "title": "Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785576421,
+        "date_posted": 1781226574,
+        "url": "https://jobs.ashbyhq.com/centerfield/92a124aa-9efd-4dbd-90f1-6319be7706b2/application?embed=true",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Centerfield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Sweatpals",
+        "id": "1f413552-77af-4f45-aecd-532852b777c8",
+        "title": "Product Manager Intern - Host Squad",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785577267,
+        "date_posted": 1781042926,
+        "url": "https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sweatpals",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tessera Labs",
+        "id": "369aa379-9db8-44bd-8238-0cbf7f9c3483",
+        "title": "Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1785577188,
+        "date_posted": 1780898881,
+        "url": "https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application?embed=true",
+        "locations": [
+            "San Jose, CA",
+            "Remote in USA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tessera-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Super",
+        "id": "249ebbb5-4252-4e41-9dbe-9539d0e8a355",
+        "title": "Travel Supply Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785575702,
+        "date_posted": 1780409319,
+        "url": "https://jobs.ashbyhq.com/super.com/d12fc858-e930-4f43-9c92-da2f02dd2cd2/application?embed=true",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Super",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "249582ff-82d0-4883-adda-90d4315e8a98",
+        "title": "Trading System Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785578746,
+        "date_posted": 1783317944,
+        "url": "https://careers-sig.icims.com/jobs/11169/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "28e06c15-84d9-4dbe-b66e-924b9cd268e8",
+        "title": "Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785578825,
+        "date_posted": 1781361064,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000066961-1",
+        "locations": [
+            "University Park, State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Alljoined",
+        "id": "2085d00f-83c2-44da-ba4b-591e4820b7be",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785577321,
+        "date_posted": 1783156172,
+        "url": "https://jobs.ashbyhq.com/alljoined/b9e2f607-6a07-4836-8d89-e4f6de8bd515/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Alljoined",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Marmon Holdings",
+        "id": "29df5054-31c5-463e-8ed0-313f0dc2308e",
+        "title": "New Product Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785578432,
+        "date_posted": 1778943274,
+        "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/New-Product-Development-Intern---Summer-2026_JR0000037718-5",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Marmon-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
