@@ -22,27 +22,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Port Authority NY NJ",
-        "id": "20b8c01d-7e15-4155-816f-0f53f108388b",
-        "title": "Summer Intern - Engineering Technology Solutions",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764890967,
-        "date_posted": 1764890967,
-        "url": "https://jobs.jobvite.com/panynj/job/oej1yfwQ?nl=1&nl=1&fr=false",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Port-Authority-NY-NJ",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Massachusetts School Building Authority",
         "id": "add44d05-5842-439c-807e-1f20a4bafd79",
@@ -338654,7 +338633,7 @@
         "company_name": "AMD",
         "id": "751b37f3-e092-4cf4-a813-7e16d43d89ce",
         "title": "Analog/Mixed-Signal Serdes Design Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338962,5 +338941,287 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HPR (Hyannis Port Research)",
+        "id": "e142c984-ca46-4624-af2c-e5061b8b60f2",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785624670,
+        "date_posted": 1785623162,
+        "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/HyannisPortResearch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "HPR (Hyannis Port Research)",
+        "id": "b000afca-793b-458b-811c-ebfc26ed646b",
+        "title": "FPGA Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785624669,
+        "date_posted": 1785623159,
+        "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/HyannisPortResearch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Postman",
+        "id": "cef7eb65-ef35-4d6e-961e-cd3c0afe1058",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785624665,
+        "date_posted": 1785622401,
+        "url": "https://job-boards.greenhouse.io/postman/jobs/7823417003",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Postman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medtronic",
+        "id": "43929c26-d19b-4057-9543-bf087c4bbf62",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785624482,
+        "date_posted": 1785542400,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630",
+        "locations": [
+            "Boston, MA",
+            "Santa Ana, CA",
+            "Fridley, MN",
+            "Santa Rosa, CA",
+            "Irvine, CA",
+            "Mansfield, MA",
+            "Mounds View, MN",
+            "Tempe, AZ",
+            "Memphis, TN",
+            "Brooklyn Center, MN",
+            "Plymouth, MN",
+            "Brooklyn Park, MN",
+            "Fort Worth, TX",
+            "Dexter, MI",
+            "North Haven, CT",
+            "Lafayette, CO",
+            "Minneapolis, MN",
+            "Newton, MA",
+            "Jacksonville, FL",
+            "Eatontown, NJ",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ConocoPhillips",
+        "id": "1d56fcf0-39ad-4779-9c90-25804a75135e",
+        "title": "GIS Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785623942,
+        "date_posted": 1785542400,
+        "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Bartlesville-OK/GIS-Intern--Corporate-Land-2027_REQ-006208",
+        "locations": [
+            "Bartlesville, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/ConocoPhillips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ConocoPhillips",
+        "id": "6782ff48-fa1d-47f8-bab9-bb94b0ab30f1",
+        "title": "Geosciences Intern",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1785624402,
+        "date_posted": 1785542400,
+        "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Geosciences-2027_REQ-006385",
+        "locations": [
+            "Midland, TX",
+            "Houston, TX",
+            "Anchorage, AK"
+        ],
+        "company_url": "https://simplify.jobs/c/ConocoPhillips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TMX Group",
+        "id": "3725cd0e-9932-44d8-96f4-2534ae618827",
+        "title": "Analyst Student Intern - Market Insights",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785624398,
+        "date_posted": 1785542400,
+        "url": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Analyst--Market-Insights--Student-Intern_R-6125",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TMX-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "1236f3af-608e-4177-93a8-42bf3dafd82f",
+        "title": "WaveLogic Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785624396,
+        "date_posted": 1785456000,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PPL",
+        "id": "87ba0492-0ef9-4598-a85a-3c3824537920",
+        "title": "Research & Development PhD Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785624324,
+        "date_posted": 1785579945,
+        "url": "https://careers.pplweb.com/jobs/14149?icims=1",
+        "locations": [
+            "Lexington, KY",
+            "Providence, RI",
+            "Allentown, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PPL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Clyde Companies",
+        "id": "0ad21b0e-b334-4f46-a502-e75492ac01b2",
+        "title": "Business Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785623401,
+        "date_posted": 1785579885,
+        "url": "https://careers.clydeinc.com/jobs/22659?icims=1",
+        "locations": [
+            "Orem, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Clyde-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Garmin",
+        "id": "7584349f-872b-4e52-aa51-ce708d9c25e5",
+        "title": "Technician Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785624122,
+        "date_posted": 1785579904,
+        "url": "https://careers.garmin.com/jobs/18681?icims=1",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
     }
 ]
