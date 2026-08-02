@@ -98998,7 +98998,7 @@
         "company_name": "University of Texas - Austin",
         "id": "6e5cee30-3f8a-404e-961c-556ec227c185",
         "title": "Resa 1 - Texus",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -182846,7 +182846,7 @@
         "company_name": "University of Arkansas",
         "id": "b9bcf351-5da5-411a-9194-d85ff25786a8",
         "title": "Graduate Assistant - Information Science",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -331030,7 +331030,7 @@
         "company_name": "Pennsylvania State University",
         "id": "cff6c5a6-5c4a-4f30-bb48-4543328cc059",
         "title": "Research Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337958,6 +337958,27 @@
             "Abilene, TX"
         ],
         "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Airbus",
+        "id": "b722e715-5a14-4a63-a460-c1e16e834e4e",
+        "title": "Electrical Assembler",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785671354,
+        "date_posted": 1785110400,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/Assembleur-se--lectrique-d-avions---Alternance-Travail-tudes--ATE----Airbus-Canada_JR10425810",
+        "locations": [
+            "Mirabel, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
