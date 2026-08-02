@@ -1,35 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AT&T",
-        "id": "d636941a-f03a-4646-9a6d-36941ee55059",
-        "title": "AT&T Labs Internship - Undergraduate and Masters Degrees",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764941586,
-        "date_posted": 1764941586,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTSpecialInvite/job/Middletown-New-Jersey/AT-T-Labs-Internship---Undergraduate-and-Masters-Degrees_R-89788",
-        "locations": [
-            "Austin, TX",
-            "Bothell, WA",
-            "Dallas, TX",
-            "San Ramon, CA",
-            "Redmond, WA",
-            "Plano, TX",
-            "Bedminster, NJ",
-            "Alpharetta, GA",
-            "Middletown Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Northrop Grumman",
         "id": "74170680-f4ab-4855-a7c4-5e54e25b0d12",
@@ -29822,27 +29793,6 @@
             "Kenosha, WI"
         ],
         "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lucid Motors",
-        "id": "c127a9f2-2818-455b-b042-e386e1e96d2c",
-        "title": "Intern \u2013 SAP Consulting - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765365334,
-        "date_posted": 1764940256,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4996727007",
-        "locations": [
-            "Casa Grande, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Lucid-Motors",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -285644,7 +285594,7 @@
         "company_name": "Fidelity Investments",
         "id": "8ec64e5f-4755-45a9-ae9e-abd13cd712b0",
         "title": "Undergraduate Software Engineer - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -315012,7 +314962,7 @@
         "company_name": "GE Healthcare",
         "id": "372d94d1-a83d-44fb-a919-4261fb51f503",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -317779,7 +317729,7 @@
         "company_name": "GE Healthcare",
         "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
         "title": "Field Service Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -322744,7 +322694,7 @@
         "company_name": "GE Healthcare",
         "id": "c1a4bf61-90df-42b7-8c6c-5b197e81cb7d",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335789,7 +335739,7 @@
         "company_name": "Marsh & McLennan",
         "id": "f9fe7e9f-de7d-47c2-875e-a933cee69ede",
         "title": "Data and Analytics Team Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
