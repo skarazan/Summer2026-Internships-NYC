@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "74170680-f4ab-4855-a7c4-5e54e25b0d12",
-        "title": "Cyber Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764944322,
-        "date_posted": 1764944322,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/XMLNAME-2026-Cyber-Software-Engineer-Intern--Annapolis-Junction-MD_R10207081",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Dexcom",
         "id": "22f255b5-b8e4-43b3-8f04-edaffeb38f6d",
         "title": "Intern 1 \u2013 Automation System Engineering",
@@ -332451,7 +332430,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -337932,5 +337911,51 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Obsidian Solutions Group",
+        "id": "ee1bc7a8-d82f-4c73-8228-18ce9b38d4b0",
+        "title": "Unity 3D Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785680641,
+        "date_posted": 1784321985,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4341435",
+        "locations": [
+            "Fredericksburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/06bbf859-b052-41a1-ac95-7e8a7a01eb6a",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Block Imaging",
+        "id": "c893299d-6d66-4c03-b7bb-2c7982182e81",
+        "title": "Field Service Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785680821,
+        "date_posted": 1783735258,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4324694",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/9627faa4-4c5f-4914-b567-28b6b90b32f0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
