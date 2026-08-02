@@ -281,7 +281,7 @@
 <td>Backend Engineer Intern</td>
 <td>New York, NY</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/MUBI?utm_source=GHList&utm_medium=company">MUBI</a></strong></td>
@@ -2038,7 +2038,7 @@
 <td>Data Engineer Intern</td>
 <td>New York, NY</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Faherty-Brand?utm_source=GHList&utm_medium=company">Faherty Brand</a></strong></td>
@@ -3056,7 +3056,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>↳</td>
 <td>ABC News Insights and Analytics Intern - Summer/Fall 2026</td>
 <td>NYC</td>
 <td>🔒</td>

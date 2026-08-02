@@ -1,50 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Tanium",
-        "id": "112775b1-9926-4305-aa04-e22ef0f62e6a",
-        "title": "Product Operations Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764928831,
-        "date_posted": 1764928831,
-        "url": "https://www.tanium.com/careers/7371406?gh_jid=7371406",
-        "locations": [
-            "Oakland, CA",
-            "Durham, NC",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tanium",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fidelity National Information Services",
-        "id": "603d74b6-44a9-4139-9ce5-02ea3362c4ce",
-        "title": "Intern \u2013 AI ML Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1764927781,
-        "date_posted": 1764927781,
-        "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/CAN-TRNT-5000-Ste-900/Intern--AI-ML-Engineer_JR0303201",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Fidelity-National-Information-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Intuitive Surgical",
         "id": "8115eff0-f296-4ad9-98ae-c0003df21639",
@@ -47955,7 +47911,7 @@
         "company_name": "Anthropic",
         "id": "8a17a8bb-179e-4026-be78-6324749ad898",
         "title": "Anthropic AI Security Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -119211,7 +119167,7 @@
         "company_name": "Northrop Grumman",
         "id": "1c140b14-cbd4-45da-9316-2fd50f440ccf",
         "title": "Software Engineer - Cloudworks - Skillbridge",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -121775,7 +121731,7 @@
         "company_name": "3S Business Corporation",
         "id": "f6cba027-4f6a-4213-adf2-a739bf808dde",
         "title": "Free training on SP - Sap Abap - MM','SD','Java','Dot Net','Oracel','Business Anolyisit",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -121822,7 +121778,7 @@
         "company_name": "3S Business Corporation",
         "id": "6fefbc10-1d16-4a4a-ba97-4beb6effc11c",
         "title": "iOS Training and Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -135425,7 +135381,7 @@
         "company_name": "University of Wyoming",
         "id": "64a91e7e-1b95-42ad-a900-e1d38ac2de7d",
         "title": "Work Study Posn Student - UWIN Makerspace Tech - Academic Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -140722,7 +140678,7 @@
         "company_name": "Sajix",
         "id": "ddf53d2b-54a9-409e-a0c4-16b535b95685",
         "title": "Python Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -140745,7 +140701,7 @@
         "company_name": "Sajix",
         "id": "89b5d725-a59f-4eb3-9e08-476905ff182c",
         "title": "Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -140769,7 +140725,7 @@
         "company_name": "Sajix",
         "id": "76576561-4ea2-4ced-8208-659e9c8d5c16",
         "title": "Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -140792,7 +140748,7 @@
         "company_name": "Sajix",
         "id": "65ccd1b8-214b-4942-a9c7-6247cea6feb2",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -140815,7 +140771,7 @@
         "company_name": "Sajix",
         "id": "2ee71f7d-72b1-4059-8bac-ab051417fc0f",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -144108,7 +144064,7 @@
         "company_name": "USM Business Systems",
         "id": "2e5faa04-6c45-47f0-b267-e6afb75d640c",
         "title": "Front End with PHP - Need GC and USC",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -160786,7 +160742,7 @@
         "company_name": "The Information Lab",
         "id": "ca0e46bd-3d87-4ea3-ae5c-3f8c475e3706",
         "title": "The Data School - Data Analyst Consultant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -205977,7 +205933,7 @@
         "company_name": "Atria Group",
         "id": "c0b02d06-d718-4cda-8337-9d34d85cf921",
         "title": "Dataflux Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -205998,7 +205954,7 @@
         "company_name": "Comtech",
         "id": "126d88e3-b139-4f05-a819-7867cd679fde",
         "title": "Software Development Engineer in Test",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -206066,7 +206022,7 @@
         "company_name": "Global Channel Management",
         "id": "dac2d80d-c906-4d8a-ac41-194f649beda9",
         "title": "Data Analyst Lead",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -206131,7 +206087,7 @@
         "company_name": "Atria Group",
         "id": "c51e0bc2-6541-41bf-8619-6f14d7059d0e",
         "title": "Ext JS & SQL Server DB Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -206198,7 +206154,7 @@
         "company_name": "Atria Group",
         "id": "de0ae2a8-5972-43e3-ac20-cde1cd43d7d5",
         "title": "SQL Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -206242,7 +206198,7 @@
         "company_name": "USM Business Systems",
         "id": "10fd1f55-da69-47fe-9aab-74af4f789977",
         "title": "Perl Programmer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -206428,7 +206384,7 @@
         "company_name": "SA Technologies",
         "id": "40b3806c-fa11-45ec-b641-43558f1402ee",
         "title": "Python Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -206475,7 +206431,7 @@
         "company_name": "Atria Group",
         "id": "0a6be2c7-fdee-4022-8221-6eda2e045944",
         "title": "Informatica Admin",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -206496,7 +206452,7 @@
         "company_name": "Kanshe Infotech",
         "id": "b075f87f-70d6-4067-8b91-9fd15fa20351",
         "title": "Python Fullstack Training",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -206517,7 +206473,7 @@
         "company_name": "Kanshe Infotech",
         "id": "13255a90-d8fa-462c-b2b8-b802001750d0",
         "title": "Generative AI Training",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -206770,7 +206726,7 @@
         "company_name": "Atria Group",
         "id": "ab1ea8d0-4bb5-42e2-8d85-0a34ba574da9",
         "title": "Business Warehouse",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -207179,7 +207135,7 @@
         "company_name": "Kanshe Infotech",
         "id": "deed4f00-40b1-4e15-a318-5e848adf52e6",
         "title": "Dot Net Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -208137,7 +208093,7 @@
         "company_name": "Integrated Resources",
         "id": "7fd7c463-a42a-4902-b3da-d9fa1c497f4d",
         "title": "Testing Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -208276,7 +208232,7 @@
         "company_name": "ByteDance",
         "id": "e766517d-2d35-42da-a646-5d0b5173939c",
         "title": "Research Scientist in Speech Foundation Model \u2013 Graduates - Seed - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -208368,7 +208324,7 @@
         "company_name": "ByteDance",
         "id": "95aa47dc-146b-4b77-b4bf-c6e32f6d99ad",
         "title": "Research Scientist in AI Foundation Model Infrastructure \u2013 Graduates",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -215080,7 +215036,7 @@
         "company_name": "GE Appliances",
         "id": "a4d76612-8c17-43cd-ae7e-d0bcebd21928",
         "title": "Engineering Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -223824,7 +223780,7 @@
         "company_name": "Point72",
         "id": "98eccffc-52b7-4e0c-8582-c067be4b121d",
         "title": "Point72 Academy",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -223871,7 +223827,7 @@
         "company_name": "Point72",
         "id": "246a1421-484f-4ff3-bc4a-36fdd73a9268",
         "title": "Point72 Academy Investment Analyst Program for Experienced Professionals",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -236637,7 +236593,7 @@
         "company_name": "Unisys",
         "id": "d70d4c4f-f216-471e-a37d-152ffd6f18cb",
         "title": "Banco de Talentos J\u00f3venes Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -241866,7 +241822,7 @@
         "company_name": "RoboForce",
         "id": "cb8969ea-a048-45c2-8ba6-f00ae4e5743a",
         "title": "AI Resident Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -246500,7 +246456,7 @@
         "company_name": "AI Fund",
         "id": "130031de-4390-465c-819b-f088fd95a160",
         "title": "Visiting Engineer: Live Selling Copilot Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -246542,7 +246498,7 @@
         "company_name": "AI Fund",
         "id": "2b301aee-6d8a-4e84-b5fb-8ab5a676bfd5",
         "title": "Visiting Engineer: Briocare Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -252446,7 +252402,7 @@
         "company_name": "DoorDash",
         "id": "1184bddc-5d14-4805-8849-f08c3efbfd74",
         "title": "AI Research Fellowship Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -253133,7 +253089,7 @@
         "company_name": "AI Fund",
         "id": "10f63732-b872-4b8f-bbb7-529d8b168ab6",
         "title": "Engineer in Residence: Enterprise Agent Infrastructure Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -262043,7 +261999,7 @@
         "company_name": "Smiths Detection Group",
         "id": "0a319815-2604-4c98-94da-26b6a462a885",
         "title": "Depot Service Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -263398,7 +263354,7 @@
         "company_name": "Point72",
         "id": "58c8f46c-bf1a-4a14-9267-45732c023d32",
         "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -268919,7 +268875,7 @@
         "company_name": "AI Fund",
         "id": "11ea5480-70db-4e67-a6e6-4142d944e289",
         "title": "Engineer in Residence",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -269500,7 +269456,7 @@
         "company_name": "Point72",
         "id": "8aac7553-4bc1-4d00-a652-6a72002cf6b0",
         "title": "Investment Analyst Program for Upcoming Graduates",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -280907,7 +280863,7 @@
         "company_name": "Northrop Grumman",
         "id": "57188420-86bc-4aa9-97c2-9a1eea64ec7d",
         "title": "Electromechanical Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -281698,7 +281654,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "05e1803e-07e6-4a32-a5be-1e29b9ac66ae",
         "title": "Application Developer Level 1 - iOS",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -287670,7 +287626,7 @@
         "company_name": "American University",
         "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
         "title": "Graduate Event Data Assistant - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -296903,7 +296859,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "f6b08d5d-a560-4521-b32a-58a97a4d3d9f",
         "title": "Application Developer Level 1 - Information Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -298432,7 +298388,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "910e3e83-067b-4745-909a-efefbbacd8ec",
         "title": "Application Developer Level 1 - Geographic Information Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -303867,7 +303823,7 @@
         "company_name": "Atria Group",
         "id": "be3aad22-1999-4d92-b4d3-5da3726bd721",
         "title": "Step Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -304284,7 +304240,7 @@
         "company_name": "STEM Xpert",
         "id": "08d690e6-7adf-4b03-8777-af061b925183",
         "title": "Tibco Spotfire",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -304305,7 +304261,7 @@
         "company_name": "Kanshe Infotech",
         "id": "07a5ff16-9935-4009-9cd2-32e9eb46b712",
         "title": "Python Fullstack Training",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -304374,7 +304330,7 @@
         "company_name": "AG Technologies",
         "id": "082e48cd-d716-48a3-9680-8a4a7fa39d35",
         "title": "DevOps Java OBIEE Salesforce Training and Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -306153,7 +306109,7 @@
         "company_name": "ByteDance",
         "id": "093acc82-ac5e-463e-8739-43de0fe8a38d",
         "title": "Graduate Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -306847,7 +306803,7 @@
         "company_name": "GRVTY",
         "id": "89853369-c8a2-4952-91b2-8db159dfbd9c",
         "title": "Russian Multi-Disciplined Language Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -308994,7 +308950,7 @@
         "company_name": "GRVTY",
         "id": "70080624-6fa9-494e-b073-b0d9ebe07c59",
         "title": "Chinese Multi-Disciplined Language Analyst - Level 1 - 4",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -309619,7 +309575,7 @@
         "company_name": "AG Technologies",
         "id": "b18b3506-e44a-480b-9aeb-b7a747708038",
         "title": "Java Training and Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -312846,7 +312802,7 @@
         "company_name": "AI Fund",
         "id": "61c906f4-8ea5-4177-8afa-854efd9a7e01",
         "title": "Engineer Marketradar",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -313563,7 +313519,7 @@
         "company_name": "AI Fund",
         "id": "b3ababcb-ddbc-4bdb-82aa-6763882ace0b",
         "title": "Engineer in Residence",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -314836,7 +314792,7 @@
         "company_name": "SCOR",
         "id": "8b269186-08b4-44b2-b837-dc52fe571905",
         "title": "Exposure Management & Accumulations Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -315976,7 +315932,7 @@
         "company_name": "Innodata",
         "id": "4c9bb250-a013-4acd-8de3-05b3d7c7f2b2",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -316207,7 +316163,7 @@
         "company_name": "Zurich Insurance",
         "id": "389af113-9575-45fb-9bbf-493e37f9ef0d",
         "title": "Digital Trading Underwriter Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -316813,7 +316769,7 @@
         "company_name": "GE Healthcare",
         "id": "27cd0b35-4964-4f9e-95d3-2968a5776184",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -317474,7 +317430,7 @@
         "company_name": "GE Healthcare",
         "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -318255,7 +318211,7 @@
         "company_name": "L3Harris Technologies",
         "id": "4b2e2f45-3126-41ce-9506-f526d2c82376",
         "title": "SkillBridge Senior Specialist - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -320130,7 +320086,7 @@
         "company_name": "GE Healthcare",
         "id": "913714da-b33d-46f8-89fa-c78911521433",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -327077,7 +327033,7 @@
         "company_name": "Toyota Research Institute",
         "id": "2b494321-fbc0-4139-834b-d582eac6bb57",
         "title": "AI Resident - Learning From Videos - Lfv",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -327942,7 +327898,7 @@
         "company_name": "Analog Devices",
         "id": "523819c3-69f8-43ab-9ed1-81e28aea88f6",
         "title": "Junior Layout Design Engineer - Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -329075,7 +329031,7 @@
         "company_name": "Deloitte",
         "id": "15e2628c-9ea6-46b7-b10b-1c4aae03e7df",
         "title": "Consultative Offerings Analyst - Government & Public Services - AI & Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -329259,7 +329215,7 @@
         "company_name": "Deloitte",
         "id": "7599b00f-543d-45cf-ad21-d80fa58b6d90",
         "title": "Software Engineering Analyst - Government & Public Services - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -329573,7 +329529,7 @@
         "company_name": "3dB Labs",
         "id": "e21e6f0c-d60c-47df-aee9-20fc973d43ba",
         "title": "Labs",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -329626,7 +329582,7 @@
         "company_name": "Bespoke Technologies, Inc.",
         "id": "6db3dedb-6d02-4025-82ce-507796ab97fd",
         "title": "R&D Computer Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -332149,7 +332105,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "d954b282-1586-4e74-818f-8d83c3936a8c",
         "title": "Application Developer 1 - PeopleSoft",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338113,5 +338069,26 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Oracle",
+        "id": "aa822bdb-dc5f-4ef2-9dd8-6851c3f7f31c",
+        "title": "Data Center Trainee - Data Center Operations",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785662101,
+        "date_posted": 1775513264,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/330594",
+        "locations": [
+            "Abilene, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
