@@ -149670,7 +149670,7 @@
         "company_name": "TikTok",
         "id": "2202e642-993c-409e-9a28-010a98bbeafc",
         "title": "Data Scientist Intern - Tiktok Integrity and Safety - 2026 Summer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -296515,7 +296515,7 @@
         "company_name": "Lila Sciences",
         "id": "fb0ceea6-ceca-4077-a4d8-a6446bce7359",
         "title": "Machine Learning for Digital Twins Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -301425,7 +301425,7 @@
         "company_name": "Autodesk",
         "id": "e7ca86c9-9b55-4d3a-a409-f781291f435d",
         "title": "Cloud Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -301448,7 +301448,7 @@
         "company_name": "Autodesk",
         "id": "bf8a5772-d7a7-4239-8119-4ed3cfb9f480",
         "title": "Cloud Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331128,7 +331128,7 @@
         "company_name": "Assurant",
         "id": "cd8ad71e-1cf7-47e2-a955-1b09ab203e48",
         "title": "Digital & AI Transformation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332012,7 +332012,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "77059d8e-b73d-47d8-916b-60c5925c13ab",
         "title": "Autonomous Driving Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332242,7 +332242,7 @@
         "company_name": "Leidos",
         "id": "93127e7e-efae-4f1e-9ad1-c722e20cf3aa",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333329,7 +333329,7 @@
         "company_name": "Sparksoft",
         "id": "9f4f7324-75cc-408e-8f40-d332e544174f",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333373,7 +333373,7 @@
         "company_name": "Autostore",
         "id": "0c5577ea-da23-4f9c-b54f-70bc34fee45d",
         "title": "AI Engineer - Hardware Development",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -334116,7 +334116,7 @@
         "company_name": "PSECU",
         "id": "c798be75-f002-4735-ae90-3a77727b897e",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338589,5 +338589,276 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "53a2a495-c3df-469b-964d-b5d126fdc219",
+        "title": "Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785767348,
+        "date_posted": 1785715200,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2027_R244387-1",
+        "locations": [
+            "Plano, TX",
+            "McLean, VA",
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "1e4d7c96-ae34-4db0-8464-a7e707c6c800",
+        "title": "Product Development Intern - Product Development - Consumer Services",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785767326,
+        "date_posted": 1785766454,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011571",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SRI International",
+        "id": "75880263-18a3-4cf6-b94e-6780699c7aa3",
+        "title": "Computer Science Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785766506,
+        "date_posted": 1785766053,
+        "url": "https://careers-sri.icims.com/jobs/6438/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SRI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "42c0c70a-f3aa-4aab-b737-a65c498589b7",
+        "title": "Research Engineer Intern - Monetization Technology - Business Integrity",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785767221,
+        "date_posted": 1785766812,
+        "url": "https://lifeattiktok.com/search/7668204394458466565",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "04b480ff-ebb0-42e4-b8b2-91fc9a145fe2",
+        "title": "Research Scientist Intern - Monetization Technology - Business Integrity",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785767221,
+        "date_posted": 1785766812,
+        "url": "https://lifeattiktok.com/search/7668204438271969589",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Jane Street",
+        "id": "32a355c4-a9a4-4b0e-b7f7-e64aa0564030",
+        "title": "Quantitative Trader",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785767221,
+        "date_posted": 1785766939,
+        "url": "https://www.janestreet.com/join-jane-street/apply/8474407002?gh_jid=8474407002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jane Street",
+        "id": "6491aa79-4030-43bf-9522-9f00fafdfe61",
+        "title": "Machine Learning Researcher",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785767592,
+        "date_posted": 1785766930,
+        "url": "https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aramark",
+        "id": "e7e57613-69ef-441a-bbc8-15974df01172",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785767564,
+        "date_posted": 1785766746,
+        "url": "https://aramarkcareers.com/UnitedStates/job/Newark-Student-Dietetic-Intern-DE-19716/1415241000/?ats=successfactors",
+        "locations": [
+            "Newark, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Aramark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "14e4cecc-8df0-4784-b302-5fa8e96fae39",
+        "title": "Research Engineer Intern - Monetization Technology - Business Integrity",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785767221,
+        "date_posted": 1785766814,
+        "url": "https://lifeattiktok.com/search/7668202602270951733",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "aa3ae48a-c50e-4ccf-ad24-b0dee7dbdabc",
+        "title": "Research Scientist Intern - Monetization Technology - Business Integrity",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785767221,
+        "date_posted": 1785766813,
+        "url": "https://lifeattiktok.com/search/7668202600147552517",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jane Street",
+        "id": "6b833521-4df7-4224-994b-3d4e142cd98a",
+        "title": "Linux Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785767589,
+        "date_posted": 1785766934,
+        "url": "https://www.janestreet.com/join-jane-street/apply/8626146002?gh_jid=8626146002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Jane Street",
+        "id": "13222163-c599-401a-9be8-b9bc44dd84ce",
+        "title": "Quantitative Researcher",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785767221,
+        "date_posted": 1785766939,
+        "url": "https://www.janestreet.com/join-jane-street/apply/8474416002?gh_jid=8474416002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
