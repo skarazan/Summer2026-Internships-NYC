@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 35 Internship Roles by Category
+### Browse 34 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (11)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (10)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (2)
 
@@ -106,14 +106,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>13d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/5c75c789-f71e-43ef-956c-9b7c2e37106b?utm_source=GHList&utm_medium=company">Kirin</a></strong></td>
-<td>Software Engineer Intern - AI Agents + Devices</td>
-<td>NYC</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/kirin/38772f01-84fd-4f09-a36d-e7fa86341b99/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8cd6c68a-d1b7-4a16-9dc4-411fb9932fbb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company">Citadel Securities</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>NYC</td>
@@ -166,7 +158,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (31)</summary>
+<summary>🗃️ Inactive roles (32)</summary>
 
 <table>
 <thead>
@@ -183,6 +175,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <tr>
 <td><strong><a href="https://simplify.jobs/c/856db7dd-5e23-4bcd-a161-c06cda5ac820?utm_source=GHList&utm_medium=company">Quadrillion</a></strong></td>
 <td>Software Engineer Intern</td>
+<td>NYC</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/5c75c789-f71e-43ef-956c-9b7c2e37106b?utm_source=GHList&utm_medium=company">Kirin</a></strong></td>
+<td>Software Engineer Intern - AI Agents + Devices</td>
 <td>NYC</td>
 <td>Fall 2026</td>
 <td>🔒</td>
