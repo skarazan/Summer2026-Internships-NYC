@@ -7360,27 +7360,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Reworld",
-        "id": "74909a30-feda-4391-85c7-46a06a87ccb2",
-        "title": "Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1765450923,
-        "date_posted": 1765041817,
-        "url": "https://reworld.wd5.myworkdayjobs.com/external/job/USA-FL-Spring-Hill/Intern_JR11808",
-        "locations": [
-            "Spring Hill, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Reworld",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Howmet Aerospace",
         "id": "7f3e278f-fee7-4ed3-89fa-4e66a098cc0a",
@@ -28776,27 +28755,6 @@
             "Anchorage, AK"
         ],
         "company_url": "https://simplify.jobs/c/Hilcorp",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Marmon Holdings",
-        "id": "0cf46ddc-b2a7-4568-9ab6-378e069d5334",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765042563,
-        "date_posted": 1765042563,
-        "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Ferdinand-IN/Engineering-Intern---Summer-2026_JR0000037706-5",
-        "locations": [
-            "Owensboro, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Marmon-Holdings",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -234121,7 +234079,7 @@
         "company_name": "Hermeus",
         "id": "4b19cb9f-36b5-47b9-b230-2cb53454f6bb",
         "title": "Hardware-In-the-Loop Software Engineering Intern - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -269580,7 +269538,7 @@
         "company_name": "Meta",
         "id": "5586ae51-ed8e-4c4f-a2ba-98b61c35dbe0",
         "title": "Research Scientist Intern - Multimodal Contextual AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -322537,7 +322495,7 @@
         "company_name": "HireVue",
         "id": "7e3b0f18-833c-47d0-b356-5fbe36e7154d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329837,7 +329795,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "5b8ecabc-cc7c-47e1-a045-73b4659a0f7a",
         "title": "AI Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334409,7 +334367,7 @@
         "company_name": "CLEAResult",
         "id": "35d8cb0a-56cf-478f-80bb-73ba1dafbac2",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338621,7 +338579,7 @@
         "company_name": "American Express",
         "id": "1e4d7c96-ae34-4db0-8464-a7e707c6c800",
         "title": "Product Development Intern - Product Development - Consumer Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
