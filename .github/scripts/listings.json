@@ -269589,7 +269589,7 @@
         "company_name": "University of Arkansas",
         "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
         "title": "Student Research Assistant-2",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -306102,7 +306102,7 @@
         "company_name": "Copart",
         "id": "dc2f3a9e-bfd2-4ade-a19a-e77dfdcd2301",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -313212,7 +313212,7 @@
         "company_name": "GE Healthcare",
         "id": "372d94d1-a83d-44fb-a919-4261fb51f503",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -314866,7 +314866,7 @@
         "company_name": "GE Healthcare",
         "id": "ec539e13-7378-478b-b778-72a9b227541d",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -318157,7 +318157,7 @@
         "company_name": "GE Healthcare",
         "id": "913714da-b33d-46f8-89fa-c78911521433",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -320996,7 +320996,7 @@
         "company_name": "Magna",
         "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
         "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336168,7 +336168,7 @@
         "company_name": "Airbus",
         "id": "b722e715-5a14-4a63-a460-c1e16e834e4e",
         "title": "Electrical Assembler",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337602,7 +337602,7 @@
         "company_name": "JP Morgan Chase",
         "id": "98635871-6276-41e4-ad95-172485704a2c",
         "title": "Data & AI Intern - Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337633,7 +337633,7 @@
         "company_name": "JP Morgan Chase",
         "id": "1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
         "title": "Data Internship - Data & AI Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
