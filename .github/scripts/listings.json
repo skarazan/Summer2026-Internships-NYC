@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dexcom",
-        "id": "20b6ea75-9646-40c3-a3f4-aaac9c4fcdbe",
-        "title": "Intern 2 - Firmware Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765086318,
-        "date_posted": 1765086318,
-        "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Intern-II---Firmware-Engineering_JR115337",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dexcoma",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AECOM",
         "id": "f1a39450-52dc-4b4a-8471-f8f790518200",
@@ -17641,27 +17620,6 @@
             "Birmingham, UK"
         ],
         "company_url": "https://simplify.jobs/c/Atos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "X-energy",
-        "id": "5027f42f-7c99-4f47-bfd2-79d7b2d8ab32",
-        "title": "Engineering Intern - Systems",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766063144,
-        "date_posted": 1765086553,
-        "url": "https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Oak-Ridge-TN/Engineering-Intern--Systems_R100694-1",
-        "locations": [
-            "Oak Ridge, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/X-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -49226,27 +49184,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "460c121a-307a-4178-bb4a-b91a55d959a4",
-        "title": "Graduate Research Aide - Nuclear Engineering",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1765086364,
-        "date_posted": 1765086364,
-        "url": "https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Graduate-Research-Aide---Nuclear-Engineering_419425",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -158017,7 +157954,7 @@
         "company_name": "John Deere",
         "id": "a1f9bdda-ef89-4be4-b96d-0b533c672b33",
         "title": "Part Time Student - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -331021,7 +330958,7 @@
         "company_name": "Assurant",
         "id": "cd8ad71e-1cf7-47e2-a955-1b09ab203e48",
         "title": "Digital & AI Transformation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340061,6 +339998,215 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "e-Careers",
+        "id": "072800b9-3b80-4a6e-8cb3-e41ea30d9a45",
+        "title": "Software Developer Trainee",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785824282,
+        "date_posted": 1785824197,
+        "url": "https://apply.workable.com/ecareers/j/C82B9AD635/apply",
+        "locations": [
+            "Blackpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/3cbf1146-76cb-4990-bcb3-dfbd25070a72",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WebMD",
+        "id": "21ff534d-4d4b-4caf-aaf9-39ed035a0f0a",
+        "title": "Business Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785824516,
+        "date_posted": 1785824093,
+        "url": "https://jobs.jobvite.com/webmd/job/oQBjAfw4?nl=1&nl=1&fr=false",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/1c9c570e-45f7-4abc-a498-b455727b820b",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "25286ad8-8260-4a0d-9ab1-89a677c29b20",
+        "title": "Software Engineer: AI/ML & LLM Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785824223,
+        "date_posted": 1785823778,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "4fa5508b-be5b-43c6-8651-fcb4753d6e99",
+        "title": "Software Engineer Intern - Data Platform & Analytics",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785824210,
+        "date_posted": 1785823779,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nidec",
+        "id": "6be04bf5-9fb6-4262-ac8a-d45baf82286c",
+        "title": "Engineering Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785824203,
+        "date_posted": 1785715200,
+        "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Engineering-Co-op-2_R0017023",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Nidec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "0229beda-126f-43a7-a85a-286066c436b8",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785824203,
+        "date_posted": 1785715200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "b412b084-36e9-45e2-b3a0-561c4336e62e",
+        "title": "Software Engineer Security & Identity Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785824201,
+        "date_posted": 1785823783,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "ed31bd8d-9acf-436c-9628-1d4c79959bac",
+        "title": "Full-Stack Product Engineer Intern - Web + Services",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785824197,
+        "date_posted": 1785823783,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "7e143f06-1c28-41b7-9291-53a869d86325",
+        "title": "Software Engineer Intern - Cloud & Distributed Backend",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785824194,
+        "date_posted": 1785823778,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
