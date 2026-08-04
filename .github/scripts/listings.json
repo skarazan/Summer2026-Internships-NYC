@@ -301133,7 +301133,7 @@
         "company_name": "iHerb",
         "id": "36e30f4d-f208-49e7-b220-df4872f5af7b",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -304434,7 +304434,7 @@
         "company_name": "KRAFTON",
         "id": "7445221a-4683-4040-9ebb-25e29d31c57f",
         "title": "Programming Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339939,6 +339939,124 @@
             "Carmel, IN"
         ],
         "company_url": "https://simplify.jobs/c/CNO-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "dc98760f-d794-4d68-be4d-5639d2bcf3f3",
+        "title": "Cell Engineering Intern - Cell Qualification",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1785806869,
+        "date_posted": 1785806537,
+        "url": "https://www.tesla.com/careers/search/job/278620",
+        "locations": [
+            "Palo Alto, CA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "4afc774c-1a8c-44d6-b0c6-ebae36dfd0b9",
+        "title": "Data Engineer Intern - Cell Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1785806848,
+        "date_posted": 1785806538,
+        "url": "https://www.tesla.com/careers/search/job/278622",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microchip Technology",
+        "id": "b42f1692-5275-4f0e-8d12-d63ea6464341",
+        "title": "Engineering Intern - Software Development",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785806343,
+        "date_posted": 1785715200,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "7aa9448f-c028-4566-8078-45d402ca4ffe",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785806279,
+        "date_posted": 1785806023,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cloudflare",
+        "id": "dd4ec464-8abe-43b9-a5a9-cffa389440f6",
+        "title": "Marketing Programs and Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785807181,
+        "date_posted": 1785807093,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/8104138",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
