@@ -104797,7 +104797,7 @@
         "company_name": "Faculty AI",
         "id": "f5e510ee-4c7f-4a0b-b009-217ae6e5b564",
         "title": "UK Defence Veterans - Civilian Work Attachment",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -289503,7 +289503,7 @@
         "company_name": "CHEP",
         "id": "513d3867-26bc-4203-8cd2-ade981572975",
         "title": "FP&A Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -306102,7 +306102,7 @@
         "company_name": "Copart",
         "id": "dc2f3a9e-bfd2-4ade-a19a-e77dfdcd2301",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313791,7 +313791,7 @@
         "company_name": "GE Healthcare",
         "id": "cf736802-724f-4f8f-874b-185fd97a9f55",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -313840,7 +313840,7 @@
         "company_name": "GE Healthcare",
         "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -315881,7 +315881,7 @@
         "company_name": "GE Healthcare",
         "id": "d72456b7-6689-4c34-84b3-3f394ad3fb4d",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -317101,7 +317101,7 @@
         "company_name": "Hudson River Trading",
         "id": "e37131d1-d111-4bf1-8493-2e54ad4ced68",
         "title": "Algorithm Development Intern - Quant Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -319119,7 +319119,7 @@
         "company_name": "Copart",
         "id": "27bc7565-972b-4dff-a2b6-d86296a62c88",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -320824,7 +320824,7 @@
         "company_name": "GE Healthcare",
         "id": "287c1182-006f-487e-aa40-c2eef51435aa",
         "title": "Client Service Technician Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -322109,7 +322109,7 @@
         "company_name": "Copart",
         "id": "2852d53d-1e2d-4026-9f6f-90758dc79f0a",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -323420,7 +323420,7 @@
         "company_name": "Onware",
         "id": "47396485-020d-4723-a0eb-84364424bc72",
         "title": "Full Stack Developer-Intern Opportunity",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -323489,7 +323489,7 @@
         "company_name": "SpreeAI ",
         "id": "4c54516c-986b-40c6-be23-fc11b0404861",
         "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -323721,7 +323721,7 @@
         "company_name": "Pendulum Intelligence",
         "id": "3e2fa4d6-9588-4f77-a073-1747d963be9e",
         "title": "Product Manager Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -325399,7 +325399,7 @@
         "company_name": "GE Healthcare",
         "id": "664a4064-bf27-4a2a-bbd6-939cd77b76ce",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -338745,7 +338745,7 @@
         "company_name": "Williams",
         "id": "de4fe3d1-76de-472c-8e5d-cd3753a6ab3c",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340917,6 +340917,76 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "46135c75-025d-4cac-8bc6-7d2aadb170eb",
+        "title": "Extra Help Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785837973,
+        "date_posted": 1778940425,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/University-of-Arkansas-at-Pine-Bluff/Extra-Help-Assistant_R0065563",
+        "locations": [
+            "Pine Bluff, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Arkansas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "ac3e3883-21b0-4ad1-8011-bf5060c01aab",
+        "title": "Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785839402,
+        "date_posted": 1785737703,
+        "url": "https://lifeattiktok.com/search/7667934792727906565",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zipline",
+        "id": "b27edad4-236e-4268-8fe8-1e913b1d59c8",
+        "title": "Mechatronics Perception Intern - Fall 2026",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785839582,
+        "date_posted": 1780697709,
+        "url": "https://www.zipline.com/open-roles?gh_jid=7763697003",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD",
+            "Incomplete"
         ]
     }
 ]
