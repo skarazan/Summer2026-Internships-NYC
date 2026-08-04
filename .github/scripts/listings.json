@@ -294504,7 +294504,7 @@
         "company_name": "Walleye Capital",
         "id": "28053adc-4960-4b2a-8386-71e1aba8148e",
         "title": "Quantitative Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -300237,7 +300237,7 @@
         "company_name": "Viking Global",
         "id": "6200c443-ced9-4868-902f-2ba885ed5c02",
         "title": "Execution Research Fellow",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -305759,7 +305759,7 @@
         "company_name": "Truland Equipment",
         "id": "a47f5b39-f0c7-4d92-b3ba-b6eafe282f63",
         "title": "Power Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -316812,7 +316812,7 @@
         "company_name": "Revvity",
         "id": "ebfc6fbe-b1da-492a-9aa7-3731d3c5c9f2",
         "title": "Front-End AI Marketing Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330220,7 +330220,7 @@
         "company_name": "Bank of Montreal",
         "id": "b3adad35-fbd3-410d-a07f-c9df9cf024d9",
         "title": "Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -341428,5 +341428,213 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "DV Trading",
+        "id": "0fcced78-d86d-400f-922d-576be4853376",
+        "title": "Quantitative Risk Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785884221,
+        "date_posted": 1785882504,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719118005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/DV-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "fd3e2e22-2204-4e00-a4a5-16dab46017cb",
+        "title": "Industrial Engineer Intern - Technology & Products Group - Global Industrial Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785884159,
+        "date_posted": 1785801600,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR107486",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Magna",
+        "id": "867db835-a4f8-43bf-85e3-5a7430b868f7",
+        "title": "Warranty Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785883886,
+        "date_posted": 1785801600,
+        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Warranty-Co-op_R00254754",
+        "locations": [
+            "Newmarket, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Magna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Metropolitan Transportation Authority",
+        "id": "0d5b6431-b3ab-4450-8dc4-f912a69e0e6a",
+        "title": "Data Analyst Intern - Power - Emerging Talent",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785883493,
+        "date_posted": 1785881949,
+        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/o6OAAfwO?nl=1&nl=1&fr=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "5330c788-da2f-40f9-9eee-54b3ef06386d",
+        "title": "Research Assistant - Astronomy Department",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785883440,
+        "date_posted": 1785801600,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Astronomy-Department_REQ_0000080947-1",
+        "locations": [
+            "University Park, State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Inogen",
+        "id": "88c6c90a-12f6-4c8e-810a-ebdd431c5950",
+        "title": "Firmware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785883455,
+        "date_posted": 1785881932,
+        "url": "https://jobs.jobvite.com/inogen/job/om2zAfwh?nl=1&nl=1&fr=false",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Inogen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Environmental Defense Fund",
+        "id": "16f0ec89-1346-4e42-a090-89ea1ec29513",
+        "title": "Economics and Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785882626,
+        "date_posted": 1785801600,
+        "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Economics-and-Machine-Learning-Intern_REQ-002575",
+        "locations": [
+            "SF",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Environmental-Defense-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "14be19fd-d9b5-4218-9a72-21ca5a1b73da",
+        "title": "Product Development Intern - US Consumer Services",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785882787,
+        "date_posted": 1785881684,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012174",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ITT",
+        "id": "594a0242-930a-47a8-8341-f94d47034b4c",
+        "title": "Trade & Supply Chain Data Analytics Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Spring 2027"
+        ],
+        "date_updated": 1785881702,
+        "date_posted": 1785881551,
+        "url": "https://careersenus-itt-inc.icims.com/jobs/17342/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Orchard Park, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/ITT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
