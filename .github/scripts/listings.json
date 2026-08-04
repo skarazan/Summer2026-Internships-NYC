@@ -313765,7 +313765,7 @@
         "company_name": "GE Healthcare",
         "id": "ca122686-92d2-4b2b-8273-a546c5c21a01",
         "title": "Field Service Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336473,7 +336473,7 @@
         "company_name": "ZGF Architects",
         "id": "61518b6a-0c0a-450a-b25d-82c438d68acc",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337578,7 +337578,7 @@
         "company_name": "JP Morgan Chase",
         "id": "c603c749-ab7d-489e-a4f7-a962ea05b835",
         "title": "Quantitative Research Intern - Markets - Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337722,7 +337722,7 @@
         "company_name": "JP Morgan Chase",
         "id": "067fde7e-5b83-40ed-8830-3864aced6f33",
         "title": "Quantitative Research Summer Analyst Intern - Asset Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337746,7 +337746,7 @@
         "company_name": "JP Morgan Chase",
         "id": "6d7e83bd-6e67-4d8c-919e-862288b8b561",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339205,7 +339205,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "f258c80b-4140-4f8b-a3f4-4c1682682d30",
         "title": "Artificial Intelligence and Software Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340095,7 +340095,7 @@
         "company_name": "RTX",
         "id": "0229beda-126f-43a7-a85a-286066c436b8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340987,6 +340987,98 @@
             "Master's",
             "PhD",
             "Incomplete"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "McKesson",
+        "id": "6460be14-109c-4ede-a2ad-63b0be123a5a",
+        "title": "Associate Business Systems Analyst Intern - Data Hub Canada",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785849953,
+        "date_posted": 1785715200,
+        "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-associ-e---analyste-des-systmes-d-affaires---Automne-2026---Associate-Business-Systems-Analyst-Intern---Fall-2026_JR0150830",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/McKesson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PNC Financial Services",
+        "id": "8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
+        "title": "Data and Analytics Intern - Modeling",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785853622,
+        "date_posted": 1785801600,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data--Modeling--and-Analytics-Undergraduate-Intern_R231526-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NBT Bank",
+        "id": "37eb663f-8550-42f6-9494-b03ad65cafdd",
+        "title": "Data Warehouse & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785854110,
+        "date_posted": 1785801600,
+        "url": "https://nbtbancorp.wd12.myworkdayjobs.com/NBT-B/job/Williamsville-NY/Internship---Data-Warehouse---Analytics-Consultant_JR4868",
+        "locations": [
+            "Williamsville, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/NBT-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "b4947a2f-6ea5-4d4a-8cb0-1e08e351d0e9",
+        "title": "Product Innovation Intern - Credit & Fraud Risk",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785853987,
+        "date_posted": 1785853002,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
