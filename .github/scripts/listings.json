@@ -2,31 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "83202c55-8636-4cc2-9b99-1ae2c111a000",
-        "title": "Amazon Robotics \u2013 Applied Scientist 2 Intern / Co-op - 2026",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Spring 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1765178876,
-        "date_posted": 1765178876,
-        "url": "https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more",
-        "locations": [
-            "Seattle, WA",
-            "Wakefield, MA",
-            "Westborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Samsung Research America",
         "id": "2b859b30-895c-43a3-9bbb-cf2845fe2ce3",
         "title": "2026 Summer Research Intern - Digital Health Algorithms",
@@ -273516,7 +273491,7 @@
         "company_name": "Tencent",
         "id": "59e03fa0-3049-4051-83b3-1b019f5a3193",
         "title": "Agent Evaluation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320803,7 +320778,7 @@
         "company_name": "GE Healthcare",
         "id": "287c1182-006f-487e-aa40-c2eef51435aa",
         "title": "Client Service Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -322676,7 +322651,7 @@
         "company_name": "Cirrus Logic",
         "id": "5a87d599-5c9b-4a61-af5e-84755a75597c",
         "title": "AI Business Analytics Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333409,7 +333384,7 @@
         "company_name": "NAXO",
         "id": "0fc23464-ee24-45e4-ae4c-cbf98ca6ac10",
         "title": "Technical Investigations Support Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -333430,7 +333405,7 @@
         "company_name": "Citylogix Inc.",
         "id": "15163d00-cb37-433c-86b3-3f93d179b8d1",
         "title": "Field Data Collection Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -334240,7 +334215,7 @@
         "company_name": "Microchip Technology",
         "id": "68d9d4d0-a1b3-4673-a429-1d2524909e32",
         "title": "Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336429,7 +336404,7 @@
         "company_name": "Copart",
         "id": "3217e7e4-0695-43ab-aabb-76560f697ed4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339454,7 +339429,7 @@
         "company_name": "Samsara",
         "id": "43a2a7c2-28cb-4d16-9914-b1e324a8c4a5",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2028"
         ],
@@ -342158,6 +342133,218 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "861c7a8a-d9c3-4137-b070-331f0d26e5b3",
+        "title": "Data Scientist Intern - VOD Data",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785921482,
+        "date_posted": 1785921474,
+        "url": "https://lifeattiktok.com/search/7670287013157095733",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "633fde2a-eea3-462a-91b6-f0c8025fba8d",
+        "title": "Machine Learning Engineer Intern - Search",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785921482,
+        "date_posted": 1785921479,
+        "url": "https://lifeattiktok.com/search/7668396597746862341",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "ec44a0f2-7cf0-4dd9-84b2-cdc746efb42e",
+        "title": "Backend Software Engineer Intern - Creation Platform",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785921482,
+        "date_posted": 1785921473,
+        "url": "https://lifeattiktok.com/search/7670289874020993285",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "7fdf2de6-75ca-4715-8764-720c7cc52695",
+        "title": "Data Engineer Intern - Ads Targeting",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785921668,
+        "date_posted": 1785921432,
+        "url": "https://lifeattiktok.com/search/7668533140146817333",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "fe93fbfa-cba0-4f3c-8f20-9cbc4828ef01",
+        "title": "Student Researcher Intern - AI Foundation Models Infrastructure - Seed Infra",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785921458,
+        "date_posted": 1785921282,
+        "url": "https://jobs.bytedance.com/en/position/7670330161462364421/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "d9969d97-e4d1-467c-94b9-aeb9a75fda17",
+        "title": "Student Researcher - Multiple Teams",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785921301,
+        "date_posted": 1785921278,
+        "url": "https://jobs.bytedance.com/en/position/7670323135220959493/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "ee6577e4-306e-47ad-8c9e-bcbbd0b17ab1",
+        "title": "Student Researcher - Multiple Teams",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785921301,
+        "date_posted": 1785921277,
+        "url": "https://jobs.bytedance.com/en/position/7670318960697952517/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "2c2db121-8cc0-42be-a379-525e93f06a6b",
+        "title": "Student Researcher - LLM Post Training - Agent & Reinforcement Learning",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785921301,
+        "date_posted": 1785921273,
+        "url": "https://jobs.bytedance.com/en/position/7670325736893565189/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "0391c602-59f2-4230-93cc-3619a0a86272",
+        "title": "Student Researcher - Seed Vision - Long-Range Video Generation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785921301,
+        "date_posted": 1785921270,
+        "url": "https://jobs.bytedance.com/en/position/7670326702018906421/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
