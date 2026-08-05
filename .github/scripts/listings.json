@@ -97319,7 +97319,7 @@
         "company_name": "John Deere",
         "id": "499fcb5e-208d-44fd-a7ff-c915caf2a113",
         "title": "Part Time Student - Data & Analytics - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -102202,7 +102202,7 @@
         "company_name": "John Deere",
         "id": "ef1f3a44-77c2-4d49-9805-7bc0aa9c6e79",
         "title": "Part-Time Student - Continuous Improvement - Waterloo IA Product Engineering (CA)",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -143968,7 +143968,7 @@
         "company_name": "John Deere",
         "id": "2cda038e-f60e-4b0f-8cf0-5dc72c51d2c2",
         "title": "Part Time Student - Software Engineering - Champaign, IL, Technology (CA)",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -288556,7 +288556,7 @@
         "company_name": "ByteDance",
         "id": "14f19965-aa67-424b-92a5-f048cefb3a34",
         "title": "Student Researcher - Seed Vision - Long-Range Video Generation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -303968,7 +303968,7 @@
         "company_name": "John Deere",
         "id": "1162ee7c-8e4b-49e5-97a6-1c4b420d7bad",
         "title": "Part-Time Student - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -310013,7 +310013,7 @@
         "company_name": "Moment Energy",
         "id": "c43a8efe-18e4-4741-95da-c6e0f6e5f3f7",
         "title": "Firmware Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327035,7 +327035,7 @@
         "company_name": "Arcadis",
         "id": "58fdddae-3677-433e-8a28-40e7b82c4570",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341614,6 +341614,313 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "87667d11-6adc-446a-9b2e-15e0dc0b761b",
+        "title": "Machine Learning Engineer Intern - Data-Global E-Commerce-Search",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785893230,
+        "date_posted": 1785893059,
+        "url": "https://lifeattiktok.com/search/7668415591670417717",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "3b700557-5c32-4773-8cfe-f11a66b71a4f",
+        "title": "Data Science Intern - TikTok Product",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785893230,
+        "date_posted": 1785893052,
+        "url": "https://lifeattiktok.com/search/7669683639101884725",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Valstad",
+        "id": "daba25e4-9e11-4769-bf2a-22371dbb26a5",
+        "title": "Software Engineer Intern - 3D & Manufacturing Applications",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785893098,
+        "date_posted": 1785892702,
+        "url": "https://jobs.ashbyhq.com/valstad/7ff6d452-969f-43a6-9127-d153025e6aea/application?embed=true",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Valstad",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "f7298edb-1fb0-4e58-bc88-d30b54d9deea",
+        "title": "Product Operations Intern - Apps and API",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785893050,
+        "date_posted": 1785893043,
+        "url": "https://lifeattiktok.com/search/7669927344569764101",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Valstad",
+        "id": "e1ae2c85-470c-4630-9b2d-c0fcd897ad01",
+        "title": "Robotics Software Intern - Manipulation & Simulation",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785892861,
+        "date_posted": 1785892703,
+        "url": "https://jobs.ashbyhq.com/valstad/8478558b-c5b5-43d2-b9c0-eae7a1fb30d8/application?embed=true",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Valstad",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tacit",
+        "id": "26d2dafc-08d8-4f8c-b165-54fecb442352",
+        "title": "Radio Frequency Hardware Intern - Fall 2026",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785893083,
+        "date_posted": 1785892707,
+        "url": "https://jobs.ashbyhq.com/tacit/d001e2d9-90af-4d0b-bc97-fd6fa149ad19/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Tacit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Skydio",
+        "id": "9177815a-e02f-413c-b8ad-32c3c5c644cc",
+        "title": "Hardware Test & Reliability Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785892682,
+        "date_posted": 1785892611,
+        "url": "https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924/application?embed=true",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skydio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "f2aef99d-5325-4d85-b025-b5d38d673a4a",
+        "title": "Student Researcher - Compiler - Seed Infra",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785892510,
+        "date_posted": 1785892501,
+        "url": "https://jobs.bytedance.com/en/position/7670317975513794869/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "1077cb58-5992-4ad8-acb0-7980b9360baa",
+        "title": "Student Researcher - Compiler - Seed Infra",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785892510,
+        "date_posted": 1785892505,
+        "url": "https://jobs.bytedance.com/en/position/7670316084662339845/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Louisiana Blue",
+        "id": "29d68ecc-9522-4639-899c-3f7bf4997769",
+        "title": "Data Modeler Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Fall 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1785892870,
+        "date_posted": 1785283200,
+        "url": "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Data-Modeler-Intern_R11956",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/e0ba33bf-6408-471a-a00d-f7f0a08b8d08",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Louisiana Blue",
+        "id": "0c0ff931-7496-432b-8fed-37be9e38b8e7",
+        "title": "Provider Reimbursement Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785892869,
+        "date_posted": 1785283200,
+        "url": "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Provider-Reimbursement-Intern_R11964",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/e0ba33bf-6408-471a-a00d-f7f0a08b8d08",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Louisiana Blue",
+        "id": "41322ea3-9446-4196-ad23-37747898216b",
+        "title": "Healthcare Price and Transparency Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785892510,
+        "date_posted": 1784505600,
+        "url": "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/Healthcare-Price-and-Transparency-Data-Analyst-Intern_R11903",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/e0ba33bf-6408-471a-a00d-f7f0a08b8d08",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Louisiana Blue",
+        "id": "27b61932-d5fb-4bd8-81ea-90b600aaabe5",
+        "title": "Operational Reporting & Data Analyst Intern - CW",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Fall 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1785892845,
+        "date_posted": 1784678400,
+        "url": "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Operational-Reporting---Data-Analyst-Intern_R11907",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/e0ba33bf-6408-471a-a00d-f7f0a08b8d08",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
