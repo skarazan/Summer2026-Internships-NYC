@@ -91564,7 +91564,7 @@
         "company_name": "John Deere",
         "id": "aab2c1bd-bf56-42bf-b06b-fd9efea2acba",
         "title": "Part-Time Student - Software Engineering - Ames IA Technology CA",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -330680,7 +330680,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -341917,6 +341917,243 @@
             "Baton Rouge, LA"
         ],
         "company_url": "https://simplify.jobs/c/e0ba33bf-6408-471a-a00d-f7f0a08b8d08",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eaton Corporation",
+        "id": "931c35b2-3528-4bb5-9d2a-97809685a672",
+        "title": "Product Development Engineer Co-op - Research & Development Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785911161,
+        "date_posted": 1785910632,
+        "url": "https://eaton.eightfold.ai/careers/job/687234535534",
+        "locations": [
+            "Hodges, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Eaton-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualcomm",
+        "id": "d51738a7-c696-4490-8b3f-37c15f392347",
+        "title": "AI Integration & Interoperability Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785910968,
+        "date_posted": 1785910578,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446716226621",
+        "locations": [
+            "Cheektowaga, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "John Deere",
+        "id": "cf5af52b-83aa-43da-b187-a24ee19f0533",
+        "title": "Software Engineer Part-Time Student - Technology",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785910867,
+        "date_posted": 1785910546,
+        "url": "https://johndeere.eightfold.ai/careers/job/137480957123",
+        "locations": [
+            "Moline, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "John Deere",
+        "id": "b20b0911-b10f-4e19-9e46-7252c61b7c30",
+        "title": "Part-Time Student - Product Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785910681,
+        "date_posted": 1785910546,
+        "url": "https://johndeere.eightfold.ai/careers/job/137481425666",
+        "locations": [
+            "Moline, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "John Deere",
+        "id": "9bbd470f-bd28-4072-9e6c-9f1fd6623c53",
+        "title": "Engine Lab Support Part-Time Student - Product Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785910870,
+        "date_posted": 1785910544,
+        "url": "https://johndeere.eightfold.ai/careers/job/137482177469",
+        "locations": [
+            "Waterloo, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "John Deere",
+        "id": "3341457c-dacb-42db-bb9e-af3db4702f0a",
+        "title": "Advanced Engineering Student Intern - Product Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785910894,
+        "date_posted": 1785910546,
+        "url": "https://johndeere.eightfold.ai/careers/job/137481393611",
+        "locations": [
+            "Fargo, ND"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "John Deere",
+        "id": "1757c4ab-3e90-49bb-9fe9-1f16bd55d158",
+        "title": "Data Science and Analytics Part-Time Student - Data and Analytics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785910868,
+        "date_posted": 1785910545,
+        "url": "https://johndeere.eightfold.ai/careers/job/137481458189",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "John Deere",
+        "id": "3e175b04-3198-4edf-84a4-adfbc0023419",
+        "title": "Data Science and Analytics Part-Time Student - Data and Analytics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785910860,
+        "date_posted": 1785910545,
+        "url": "https://johndeere.eightfold.ai/careers/job/137481983166",
+        "locations": [
+            "Austin, TX",
+            "Urbandale, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "John Deere",
+        "id": "bbf51c12-4cdc-4285-9e8b-a0411363137c",
+        "title": "Sensor Software Design Student - Product Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785910863,
+        "date_posted": 1785910546,
+        "url": "https://johndeere.eightfold.ai/careers/job/137481396869",
+        "locations": [
+            "Fargo, ND"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "John Deere",
+        "id": "0a4cde76-0c66-45e5-9dc4-55f9d3d77009",
+        "title": "Electrical Systems Engineer Part-Time Student - Product Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785910861,
+        "date_posted": 1785910543,
+        "url": "https://johndeere.eightfold.ai/careers/job/137482489158",
+        "locations": [
+            "Silvis, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
