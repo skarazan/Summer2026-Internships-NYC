@@ -1,90 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Marsh",
-        "id": "3cbf1732-775a-4cd5-96b6-034512191cb8",
-        "title": "Oliver Wyman-Vector-Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765282755,
-        "date_posted": 1765282755,
-        "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Atlanta---Hartsfield/Oliver-Wyman--Vector--Software-Development-Intern_R_333148",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/55341c12-8fd6-4cce-8472-d15c4a3ab583",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Thomson Reuters",
-        "id": "30cc96c0-114a-4804-8281-6c88477a6433",
-        "title": "Applied Scientist Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765282276,
-        "date_posted": 1765282276,
-        "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Applied-Scientist-Intern_JREQ196689",
-        "locations": [
-            "Eagan, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Thomson-Reuters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "9747f3d2-0ec2-4c0e-b855-b9b2bd719a5b",
-        "title": "Intern \u2013 Software Engineer Intern - CA",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765284844,
-        "date_posted": 1765284844,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA601-Goleta-EW-Bldg-H01-6380-Hollister-Avenue-Building-H01-Goleta-CA-93117-USA/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite---CA-_01810527",
-        "locations": [
-            "Goleta, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nextiva",
-        "id": "c5c866bb-acf8-4357-bd43-ab09149cf8b1",
-        "title": "Intern AI Engineer",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1765284438,
-        "date_posted": 1765284438,
-        "url": "https://www.nextiva.com/company/careers-listing?gh_jid=8297628002",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Nextiva",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1765287745,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -273199,7 +273114,7 @@
         "company_name": "BorgWarner",
         "id": "a5e9c092-6cda-482a-967c-6c02b15a0fbd",
         "title": "Validation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -317727,7 +317642,7 @@
         "company_name": "Copart",
         "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327975,7 +327890,7 @@
         "company_name": "American University",
         "id": "a038ee64-00b2-435e-8318-90254ba95b10",
         "title": "Audiovisual Services Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -337770,7 +337685,7 @@
         "company_name": "PNC Financial Services",
         "id": "ac0e3f80-3460-4cf1-b1bb-83a05b56b495",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -340985,7 +340900,7 @@
         "company_name": "GE Appliances",
         "id": "ea40b09a-1b9a-48b0-8330-24a499d63fe8",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
