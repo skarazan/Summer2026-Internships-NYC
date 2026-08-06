@@ -1,97 +1,5 @@
 [
     {
-        "date_updated": 1765287745,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/etched/605c286d-be56-4e83-83b8-436d29ce17df",
-        "company_name": "Etched.ai",
-        "title": "Software Intern",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "f937daea-aeb8-40de-b73d-c0acf73ca056",
-        "date_posted": 1765287745,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1765287964,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compiler-Intern---Summer-2026_JR2009431",
-        "company_name": "NVIDIA",
-        "title": "AI Compiler Intern",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Simplify",
-        "id": "77944109-b3fd-464c-b095-6ae87916c252",
-        "date_posted": 1765287964,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1766399119,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Biology-Research---AI-Development_202512-131066",
-        "company_name": "Genentech",
-        "title": "Biology Research - AI Development",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "7a2dbb5e-972e-4e6b-b197-fd286a4d762f",
-        "date_posted": 1765288051,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1767712029,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers-sharpusa.icims.com/jobs/8567/ai-process-automation-intern/job",
-        "company_name": "Sharp Electronics",
-        "title": "AI Process Automation Intern",
-        "locations": [
-            "Montvale, NJ"
-        ],
-        "terms": [
-            "Spring 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "1c807a36-6e7e-4362-9c09-e982d95cf7b3",
-        "date_posted": 1765288214,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": " RGA Reinsurance Company",
@@ -215189,7 +215097,7 @@
         "company_name": "TikTok",
         "id": "262de8fa-292e-4d47-9bd2-bbf3befe8b30",
         "title": "Data Analyst Project Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -260851,7 +260759,7 @@
         "company_name": "Desjardins Group",
         "id": "b8011049-1548-4053-9e0a-5906cd2dbd3f",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -317642,7 +317550,7 @@
         "company_name": "Copart",
         "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -325964,7 +325872,7 @@
         "company_name": "T. Rowe Price",
         "id": "fb1333ce-9156-4a30-a89d-92ec4d2b6185",
         "title": "Quantitative Equity Investing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326011,7 +325919,7 @@
         "company_name": "T. Rowe Price",
         "id": "1a3e9e00-5d2c-4657-be1b-e639c34231eb",
         "title": "Global Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334741,7 +334649,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "98224f6a-9244-4a2a-94e7-e9166181bd40",
         "title": "Digital & Technology Extern - Digital & Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339753,7 +339661,7 @@
         "company_name": "Simple Technology Solutions",
         "id": "7bd4f4c6-eca9-4fd7-93db-4bbd9540ca11",
         "title": "AI Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341787,7 +341695,7 @@
         "company_name": "Northrop Grumman",
         "id": "a9d682ef-59ba-42c1-9fad-28a7afc1aea4",
         "title": "Software Engineer Intern - Aeronautics Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342114,7 +342022,7 @@
         "company_name": "Canva",
         "id": "40fce4fe-2ffc-4371-9b54-174b5b8f649b",
         "title": "PhD Research Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -342130,5 +342038,230 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Harris Computer",
+        "id": "2501f0b1-c33a-4309-87a7-8de524f63285",
+        "title": "Technology Architecture Intern - Corporate AI Foundation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786025891,
+        "date_posted": 1785974400,
+        "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Rimouski/Stagiaire-en-architecture-technologique---Socle-IA-corporatif_R0045667-3",
+        "locations": [
+            "Rimouski, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Harris-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SharkNinja",
+        "id": "f21fd8c2-51b1-48c3-a6af-092113970a45",
+        "title": "Digital Experience Web Development - D2C",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786027361,
+        "date_posted": 1786027066,
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4702667006",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "0fefede3-d618-469a-be1e-163efc08a347",
+        "title": "Electromechanical Assembly Co-op Intern - Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1786027349,
+        "date_posted": 1786025647,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39234",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": " impact.com ",
+        "id": "e80e3302-1101-475b-8706-adaf4a95d93a",
+        "title": "Associate Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786027292,
+        "date_posted": 1786026477,
+        "url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
+        "locations": [
+            "Santa Barbara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Impact",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KBR",
+        "id": "65168593-c923-4365-b58a-af70c7f8c6cd",
+        "title": "Software Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786025881,
+        "date_posted": 1785974400,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Software-Intern_R2127863",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Open Road Integrated Media",
+        "id": "9a73f37b-f0c1-4f51-8d29-8096bf876470",
+        "title": "Marketing Analytics Intern - Paid",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786025881,
+        "date_posted": 1786025814,
+        "url": "https://openroadmedia.applytojob.com/apply/k0wJxCZspo/Marketing-Analytics-Intern-PTPaid",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/75a9eda5-9911-41a7-8df4-9ab82801cdcc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cohesity",
+        "id": "53ae6844-073a-4934-8b5a-e05573679b27",
+        "title": "Data Cleansing and Sales Enablement Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786026934,
+        "date_posted": 1785974400,
+        "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Cohesity---London/Data-Analyst--Intern--London_R04433",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cohesity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Terminal",
+        "id": "5eb62a8d-6a50-43b2-8ad5-9e2a0cd7947c",
+        "title": "Software Engineer Intern - Data Platform",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1786026909,
+        "date_posted": 1786025745,
+        "url": "https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729/application?embed=true",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/9dfc40d9-43a5-42e1-9aef-f158caa5a883",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Terminal",
+        "id": "efcb42ec-c0ae-4445-80bf-7e91ae4e749b",
+        "title": "Software Engineer Intern - Backend",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1786026885,
+        "date_posted": 1786025744,
+        "url": "https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/9dfc40d9-43a5-42e1-9aef-f158caa5a883",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "c15f3015-5cd2-4085-b96b-0f494e898517",
+        "title": "AI Research Assistant Graduate",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786026834,
+        "date_posted": 1785974400,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Harrisburg/Part-Time---Student--Graduate----AI-Research-Assistant_REQ_0000081095-1",
+        "locations": [
+            "Middletown, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
