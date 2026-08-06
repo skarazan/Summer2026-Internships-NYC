@@ -1,90 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "d3cb99ee-7ae5-46d8-a2b5-8e4985eb0a4a",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765253987,
-        "date_posted": 1765253987,
-        "url": "https://careers-gdms.icims.com/jobs/69671/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Cape Canaveral, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intuitive Surgical",
-        "id": "0f3b453c-fb04-4e63-9852-d03592ff979a",
-        "title": "Data Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765256696,
-        "date_posted": 1765256696,
-        "url": "https://jobs.smartrecruiters.com/Intuitive/744000097624395",
-        "locations": [
-            "Norcross, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Realtor.com",
-        "id": "73bca8b0-9475-4356-bd17-e017811cd225",
-        "title": "User Experience and Web Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765261213,
-        "date_posted": 1765261213,
-        "url": "https://boards.greenhouse.io/rdccareers/jobs/7499951003",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Realtordotcom",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AEG",
-        "id": "584b81a2-320b-4a07-af31-22025aa334d7",
-        "title": "Spring Intern - Broadcast - Dignity Health Sports Park",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765261259,
-        "date_posted": 1765261259,
-        "url": "https://www.aegworldwide.com/jobs?gh_jid=8326598002",
-        "locations": [
-            "Carson, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AEG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sparksoft",
         "id": "32df4c32-167c-42eb-8ef1-7eb8f0880959",
@@ -254434,7 +254350,7 @@
         "company_name": "XPENG Motors",
         "id": "b1e7848c-2bcb-4141-8a17-fde660e87b84",
         "title": "VLA Deployment AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -306969,7 +306885,7 @@
         "company_name": "Citadel",
         "id": "6813e05c-291f-4297-bae8-9e6c59d4a809",
         "title": "Quantitative Researcher \u2013 PhD Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -310566,7 +310482,7 @@
         "company_name": "Citadel",
         "id": "79ceb913-ca59-4a50-9fa9-18c378d86c3e",
         "title": "Trader: Fixed Income & Macro Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -312202,7 +312118,7 @@
         "company_name": "Citadel",
         "id": "af41c8d1-6670-4cbb-9111-9204ac3a4da9",
         "title": "Quantitative Trader: Equity Quantitative Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -315589,7 +315505,7 @@
         "company_name": "Citadel Securities",
         "id": "aeb731f5-2ac3-477e-921b-74a84adcbdb6",
         "title": "Quantitative Trading Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -315665,7 +315581,7 @@
         "company_name": "Citadel Securities",
         "id": "18b48766-5e2c-436d-9735-13746605df79",
         "title": "Rates Trading Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -331177,7 +331093,7 @@
         "company_name": "Rockwell Automation",
         "id": "aeb14b2f-abb3-4021-9504-a2a018bbda23",
         "title": "Applied AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332903,7 +332819,7 @@
         "company_name": "Altice USA",
         "id": "443c6322-3e3b-48b4-9fd4-3a9c04931db8",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -333437,7 +333353,7 @@
         "company_name": "Citadel",
         "id": "71e539ff-f839-4f08-8c0f-0c7a934bbf05",
         "title": "Sector Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -342637,6 +342553,100 @@
         "sponsorship": "Other",
         "degrees": [
             "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "d22b9a28-466e-4bdc-aa6e-bb61ca96a1e7",
+        "title": "Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785997261,
+        "date_posted": 1785997081,
+        "url": "https://lifeattiktok.com/search/7670247810111768837",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "ca012a00-87e1-40b7-ac6f-1464ce5ad2f1",
+        "title": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785997001,
+        "date_posted": 1785996830,
+        "url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "83e8dcee-3e30-49d2-97e2-42937bcfe4fa",
+        "title": "Applied Machine Learning Production Engineer Intern - AML Production Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785996901,
+        "date_posted": 1785996826,
+        "url": "https://jobs.bytedance.com/en/position/7670009669494704437/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Canva",
+        "id": "b42d28f6-494f-4b0a-8e40-29dd669c4846",
+        "title": "PhD Research Scientist Intern - Generative AI",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785996541,
+        "date_posted": 1785996426,
+        "url": "https://jobs.smartrecruiters.com/Canva/6000000001289897",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Canva",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
