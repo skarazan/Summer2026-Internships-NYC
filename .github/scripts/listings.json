@@ -308604,7 +308604,7 @@
         "company_name": "Cerence",
         "id": "ffb41745-2e42-4e1e-a0bc-f617a050a263",
         "title": "Student Worker",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -329993,7 +329993,7 @@
         "company_name": "CVS Health",
         "id": "08a728f0-6281-4206-a022-403284d64763",
         "title": "Analytics & Behavior Change - Engineering Undergrad - Conversion",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -330039,7 +330039,7 @@
         "company_name": "CVS Health",
         "id": "229ace69-8177-42cc-a85f-c0517803f03b",
         "title": "Analytics & Behavior Change \u2013 Data Science Grad - Conversion",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342472,5 +342472,119 @@
             "MBA",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Terranova",
+        "id": "5725405b-6f22-485b-a418-ad3c6148afb4",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786084070,
+        "date_posted": 1786083589,
+        "url": "https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/7c7fbf25-9bc1-48dc-9021-9e7ee6186fca",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Premium Merchant Funding",
+        "id": "9a82fcbd-e34b-494d-8264-b065e528699d",
+        "title": "Real Estate Investment Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786083841,
+        "date_posted": 1786083503,
+        "url": "https://apply.workable.com/premium-merchant-funding-3/j/395F154DF8/apply",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/8549429e-1365-4bf6-9edc-0bd2c772976f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Luminance",
+        "id": "1befbdf8-c7d1-4c45-8adc-8870dcde0ff4",
+        "title": "AI Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786083481,
+        "date_posted": 1786083475,
+        "url": "https://apply.workable.com/luminance-1/j/E045EF5A7A/apply",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/a1a624bf-dd42-4ffd-8502-462a419631e8",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HealthCorps",
+        "id": "dabc12b1-c602-4c02-a96a-6d8d58128394",
+        "title": "Monitoring & Evaluation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786083481,
+        "date_posted": 1786083446,
+        "url": "https://apply.workable.com/healthcorpsorg/j/DD52981B55/apply",
+        "locations": [
+            "Remote in USA",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/2d66b3e7-d0aa-43f9-9957-a03063032b0d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "tarte cosmetics",
+        "id": "e3c2315a-4781-449f-9fe9-17d3d76d7b82",
+        "title": "Product Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786083594,
+        "date_posted": 1786083345,
+        "url": "https://apply.workable.com/tarte-inc/j/66E81C77A4/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/9c184c2b-9499-47c6-bfcf-bea709e4ea28",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
