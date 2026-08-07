@@ -1,118 +1,5 @@
 [
     {
-        "date_updated": 1766399119,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Intern---Clinical-Development-Backend-Engineering_2534910",
-        "company_name": "Labcorp",
-        "title": "Intern \u2013 Clinical Development-Backend Engineering",
-        "locations": [
-            "Durham, NC"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "6478f0a9-d9c1-48a4-84bb-e64e3051dc62",
-        "date_posted": 1765390095,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1767712029,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Santa-Clara-CA/Data-Engineer-Intern_2502263",
-        "company_name": "Marvell",
-        "title": "Data Engineer Intern",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "f29fb596-a0db-4fb1-9ece-8d5a7b1f8722",
-        "date_posted": 1765390329,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1765983013,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Software-Engineering-AI-Intern--Summer-2026_10136353",
-        "company_name": "Disney",
-        "title": "Software Engineering AI Intern",
-        "locations": [
-            "Glendale, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "7f2ab273-6ad2-49d7-8a7d-2ecfa55a4a8d",
-        "date_posted": 1765390447,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Copart",
-        "id": "8a205391-9fe7-4a42-80f1-237337aab624",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765390631,
-        "date_posted": 1765390631,
-        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/US-TX-IT-Software-QA-726/Software-Engineering-Intern_JR106006",
-        "locations": [
-            "Texas"
-        ],
-        "company_url": "https://simplify.jobs/c/Copart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Capital Power",
-        "id": "59561e7b-db75-46e0-8700-5ad427cc0f3c",
-        "title": "ICS Engineering Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1765391888,
-        "date_posted": 1765391888,
-        "url": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/ICS-Engineering-Co-op_JR806753",
-        "locations": [
-            "Edmonton, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-Power",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Netflix",
@@ -337636,7 +337523,7 @@
         "company_name": "Northrop Grumman",
         "id": "a9d682ef-59ba-42c1-9fad-28a7afc1aea4",
         "title": "Software Engineer Intern - Aeronautics Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
