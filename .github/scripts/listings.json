@@ -1,69 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Codal",
-        "id": "07714051-aa80-41fd-b292-f7d904994c3b",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765353645,
-        "date_posted": 1765353645,
-        "url": "https://job-boards.greenhouse.io/codalinc/jobs/5022689008",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Codal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Zoox",
-        "id": "a99aef92-477d-4c37-a7e3-de8786644179",
-        "title": "Signal Processing",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765355440,
-        "date_posted": 1765355440,
-        "url": "https://jobs.lever.co/zoox/96857e0b-d39c-4505-b0b4-9a14c7d9db58/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Washpost",
-        "id": "788dea8e-d7aa-47dd-9532-990b8c505f13",
-        "title": "Intern - Android App Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765354850,
-        "date_posted": 1765354850,
-        "url": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Android-App-Development_JR-90275630",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Washpost",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "KEEN Footwear",
         "id": "87d6071e-4088-483d-a98f-d9a11cd0c5cb",
@@ -47038,27 +46975,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "b1f2bb0d-751f-41bf-81fb-cf2924f2bd9c",
-        "title": "Tai AI Project Research Assistant",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1765354751,
-        "date_posted": 1765354751,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Tai-AI-Project-Research-Assistant_REQ_0000074125-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
