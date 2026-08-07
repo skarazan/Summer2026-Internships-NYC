@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The National Football League",
-        "id": "d846c68d-418a-4abf-a4c8-74fe2ec62768",
-        "title": "2026 Graduate Summer Intern - NY",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765364349,
-        "date_posted": 1765364349,
-        "url": "https://job-boards.greenhouse.io/nflcareers/jobs/5016231008",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/The-National-Football-League",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Aramark",
-        "id": "a196ed22-d4aa-4ac8-a0b1-37c28a6accf6",
-        "title": "Sustainability Data Analysis Program Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765363951,
-        "date_posted": 1765363951,
-        "url": "https://aramarkcareers.com/UnitedStates/job/Tempe-ASU-Sustainability-Data-Analysis-Program-Intern,-ASU-Tempe-AZ-85281/1335351700/?ats=successfactors",
-        "locations": [
-            "Tempe, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Aramark",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Tenstorrent",
         "id": "1abafbf0-6e65-49bb-8556-1a35768e1287",
@@ -240605,7 +240563,7 @@
         "company_name": "Tencent",
         "id": "6e53b9de-07c4-4545-b612-707fca641b88",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -303154,7 +303112,7 @@
         "company_name": "thyssenkrupp",
         "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -321492,7 +321450,7 @@
         "company_name": "Blue Robotics",
         "id": "9d41334e-0aa3-4509-8eba-8d8c172355e6",
         "title": "Electronics Design Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330816,7 +330774,7 @@
         "company_name": "LightGuide, Inc.",
         "id": "cdaa541b-91c1-4d8e-9532-02dc579cfa22",
         "title": "Application Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333252,7 +333210,7 @@
         "company_name": "k-ID",
         "id": "d1956f60-b9eb-4d52-8da7-ac5ab857772b",
         "title": "Engineering Intern - Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333615,7 +333573,7 @@
         "company_name": "ConocoPhillips",
         "id": "6782ff48-fa1d-47f8-bab9-bb94b0ab30f1",
         "title": "Geosciences Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2027"
         ],
