@@ -2,48 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Modernizing Medicine",
-        "id": "0424e01b-4141-4948-a9e5-a17221616099",
-        "title": "Product Development Intern - AI & ML Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765359788,
-        "date_posted": 1765359788,
-        "url": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8213598002",
-        "locations": [
-            "Boca Raton, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/ModMed",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Codal",
-        "id": "653753e8-ffef-4afe-8d34-843f667875f1",
-        "title": "Backend Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765359615,
-        "date_posted": 1765359615,
-        "url": "https://job-boards.greenhouse.io/codalinc/jobs/5022723008",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Codal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "The National Football League",
         "id": "d846c68d-418a-4abf-a4c8-74fe2ec62768",
         "title": "2026 Graduate Summer Intern - NY",
@@ -240647,7 +240605,7 @@
         "company_name": "Tencent",
         "id": "6e53b9de-07c4-4545-b612-707fca641b88",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -303196,7 +303154,7 @@
         "company_name": "thyssenkrupp",
         "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -318698,7 +318656,7 @@
         "company_name": "Magna",
         "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
         "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -321534,7 +321492,7 @@
         "company_name": "Blue Robotics",
         "id": "9d41334e-0aa3-4509-8eba-8d8c172355e6",
         "title": "Electronics Design Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323101,7 +323059,7 @@
         "company_name": "GE Healthcare",
         "id": "664a4064-bf27-4a2a-bbd6-939cd77b76ce",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331046,7 +331004,7 @@
         "company_name": "Arizona State University",
         "id": "3c1b2328-d3a3-402c-b2bd-6a357bcea69a",
         "title": "Management Intern - Career Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333657,7 +333615,7 @@
         "company_name": "ConocoPhillips",
         "id": "6782ff48-fa1d-47f8-bab9-bb94b0ab30f1",
         "title": "Geosciences Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -340521,7 +340479,7 @@
         "company_name": "NVIDIA",
         "id": "2ccc5c31-d719-47e7-ab38-b42010d3a585",
         "title": "Software Engineer Intern - Dynamo",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -342516,7 +342474,7 @@
         "company_name": "Canva",
         "id": "24e7466f-1151-4ad5-80f0-97bc9df8d2c8",
         "title": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342531,6 +342489,29 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Everstream Analytics",
+        "id": "6bd91b2c-c817-4f94-bd81-3406c3d2d17b",
+        "title": "Intelligence Solutions Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786096624,
+        "date_posted": 1778278510,
+        "url": "https://everstream.ai/careers/jobs/?gh_jid=5991766004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/EverstreamAnalytics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
