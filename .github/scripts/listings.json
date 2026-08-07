@@ -1,155 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "64fef2ad-7032-4697-ad29-4970221e9bd5",
-        "title": "Data fabric and network automation Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765382760,
-        "date_posted": 1765382760,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28203",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nokia",
-        "id": "4d5784dc-55f2-4b2d-a9ec-d34045a2ef22",
-        "title": "Summer Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765382767,
-        "date_posted": 1765382767,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28139",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Marvell",
-        "id": "16d959d6-bb5f-4f6d-89df-813c4dd682d2",
-        "title": "RTL Design Intern - Bachelor's Degree",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765385300,
-        "date_posted": 1765385300,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westborough-MA/RTL-Design-Intern---Bachelors-Degree_2502811",
-        "locations": [
-            "Westborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "LabCorp",
-        "id": "025a6a6a-f7f3-4b71-8dc1-adfa161259aa",
-        "title": "Intern \u2013 Clinical Development-Backend Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765384676,
-        "date_posted": 1765384676,
-        "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Clinical-Development-Backend-Engineering_2534910",
-        "locations": [
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/LabCorp",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Marvell",
-        "id": "cb0736da-c84a-4686-84d3-3fd801b1e81f",
-        "title": "Data Engineer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1765385308,
-        "date_posted": 1765385308,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Data-Engineer-Intern_2502263",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CVS Health",
-        "id": "d0e2071d-ce81-462f-a5a8-bfdb5abe9d8e",
-        "title": "Associate Data Engineer",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765384417,
-        "date_posted": 1765384417,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Associate-Data-Engineer---UG-Intern-Conversion_R0786848",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "The Walt Disney Company",
-        "id": "cb63b4bb-ec60-4c97-9621-d08b29507b17",
-        "title": "Product Manager Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765384364,
-        "date_posted": 1765384364,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Manager-Intern--Summer-2026_10136084-1",
-        "locations": [
-            "Glendale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1765387587,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -171,92 +21,6 @@
         "date_posted": 1765387587,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Manulife Financial",
-        "id": "71ffd762-8c02-459d-af4c-371691dced3e",
-        "title": "Intern - Data Science Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765384938,
-        "date_posted": 1765384938,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Summer-Intern-2026---Data-Science-Engineer_JR25100424",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Chubb",
-        "id": "93c4c268-ec87-4db7-af5e-197c3a8db4b8",
-        "title": "Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765383884,
-        "date_posted": 1765383884,
-        "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/28479",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Chubb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "PTC",
-        "id": "99f185a9-4b1f-4806-b121-595eccb1ac91",
-        "title": "Arena Product Management Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765385371,
-        "date_posted": 1765385371,
-        "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Foster-City-CA-USA/Arena-Product-Management-Intern_JR111315",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/PTC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "CHS",
-        "id": "6637fff6-abef-407c-b746-94ccbefff059",
-        "title": "Trading Analytics & AI Intern - Fertilizer",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765384170,
-        "date_posted": 1765384170,
-        "url": "https://careers.chsinc.com/job/Inver-Grove-Heights-Trading-Analytics-&-AI-Intern-Fertilizer-MN-55077-1721/1348750600/?ats=successfactors",
-        "locations": [
-            "Cottage Grove, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/CHS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -572,48 +336,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "9b8c97c9-3ec7-462c-ae47-fdf599f170eb",
-        "title": "Research Intern - Extended Perception Interaction Cognition - Epic",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765383871,
-        "date_posted": 1765383871,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556631767",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CLEAResult",
-        "id": "6ba9cb62-e7a0-4608-9687-122494dfbe41",
-        "title": "Clean Energy & Green Building Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765385879,
-        "date_posted": 1765385879,
-        "url": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Providence-RI---Harris-Avenue/Rhode-Island-Clean-Energy---Green-Building-Intern_R0016568",
-        "locations": [
-            "Providence, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/CLEAResult",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "date_updated": 1766399119,
@@ -231964,7 +231686,7 @@
         "company_name": "X Development",
         "id": "89566391-fb11-4a1c-8973-916ece3bb6ce",
         "title": "PhD Residency Intern - Operations Research and Optimization",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -326923,7 +326645,7 @@
         "company_name": "Leidos",
         "id": "589c3fd9-a059-4f9e-a14c-c3e9ebebfc74",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
