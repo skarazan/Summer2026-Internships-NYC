@@ -1,75 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Tenstorrent",
-        "id": "1abafbf0-6e65-49bb-8556-1a35768e1287",
-        "title": "Data Movement Architecture Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765365701,
-        "date_posted": 1765365701,
-        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4999339007",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA",
-            "Fort Collins, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Tenstorrent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Realtor.com",
-        "id": "c6c86aa7-29e4-497c-a843-74d2b6a8bd4f",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765364858,
-        "date_posted": 1765364858,
-        "url": "https://boards.greenhouse.io/rdccareers/jobs/7453221003",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Realtordotcom",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sika",
-        "id": "1416b578-211a-41ac-911b-3a064b487512",
-        "title": "Product Management Apprentice",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765367426,
-        "date_posted": 1765367426,
-        "url": "https://jobs.smartrecruiters.com/SikaAG/744000098013061",
-        "locations": [
-            "Solihull, UK",
-            "Leeds, UK",
-            "Glasgow, UK",
-            "Welwyn Garden City, UK",
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sika",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ServiceNow",
         "id": "6bc9048c-0168-4ee2-af5e-6e02b18baf60",
@@ -239945,7 +239876,7 @@
         "company_name": "Tencent",
         "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -290226,7 +290157,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315395,7 +315326,7 @@
         "company_name": "QuantCo",
         "id": "da17d790-4a1d-4cc5-830f-91dcb97ae8ed",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330774,7 +330705,7 @@
         "company_name": "LightGuide, Inc.",
         "id": "cdaa541b-91c1-4d8e-9532-02dc579cfa22",
         "title": "Application Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -333210,7 +333141,7 @@
         "company_name": "k-ID",
         "id": "d1956f60-b9eb-4d52-8da7-ac5ab857772b",
         "title": "Engineering Intern - Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -341810,7 +341741,7 @@
         "company_name": "Canva",
         "id": "8695d3de-326d-44ff-976a-ba070dbbe750",
         "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
