@@ -342586,5 +342586,54 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kastle AI",
+        "id": "600d65ac-5918-4d2c-80ed-c6a5ba2a90d4",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786084344,
+        "date_posted": 1786083770,
+        "url": "https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Kastle-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LUZCO TECHNOLOGIES LLC",
+        "id": "6dfc5a86-055d-4015-b7e0-68b2545cf61d",
+        "title": "AI Solutions Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786084327,
+        "date_posted": 1785201890,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361617",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/88a7c59f-a71c-48c1-9457-31a22266dd85",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
