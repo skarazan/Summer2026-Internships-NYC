@@ -1,111 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CACI",
-        "id": "fee49486-4e88-429c-98a3-2cb4060a1c4c",
-        "title": "Darkblue Intelligence Analyst Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765379180,
-        "date_posted": 1765379180,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/DarkBlue-Intelligence-Analyst-Intern---Summer-2026_320339-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genentech",
-        "id": "ddd6f51e-594f-400b-be9f-7702baec7c03",
-        "title": "Machine Learning Scientist Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765379285,
-        "date_posted": 1765379285,
-        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist-Intern_202512-131284",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genentech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Draper",
-        "id": "f100f055-d4f8-4967-ad1e-162edb9c260a",
-        "title": "GN&C Modeling \u2013 Simulation and Analysis Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765378920,
-        "date_posted": 1765378920,
-        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/GN-C-Modeling--Simulation-and-Analysis-Summer-Intern_JR002045",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Draper",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Motorola",
-        "id": "5c6e2961-0b57-445c-bf01-6f4438047070",
-        "title": "North America Solutions Deployment & Integration \u2013 Engineering Operations Summer Intern - Sdi - 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765382004,
-        "date_posted": 1765382004,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/North-America-Solutions-Deployment---Integration--NA-SDI--Engineering-Operations-Summer-Intern--2026_R60147",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Walt Disney Company",
-        "id": "e0245201-81c0-4392-9f3e-c2166c0a07f0",
-        "title": "Software Engineering AI Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765381540,
-        "date_posted": 1765381540,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineering-AI-Intern--Summer-2026_10136353",
-        "locations": [
-            "Glendale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Nokia",
         "id": "64fef2ad-7032-4697-ad29-4970221e9bd5",
@@ -22578,29 +22473,6 @@
             "Everett, WA"
         ],
         "company_url": "https://simplify.jobs/c/Protech-Automotive-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thales",
-        "id": "4a817403-fc81-46fd-85d7-c7ac03411510",
-        "title": "Industrial Placement Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765379557,
-        "date_posted": 1765379557,
-        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/Industrial-Placement-Intern_R0310192-1",
-        "locations": [
-            "Trafford, UK",
-            "Yeovil, UK",
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Thales",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -227304,7 +227176,7 @@
         "company_name": "Lennox International",
         "id": "d565c190-51ef-4bd5-af51-6c97526c1a1a",
         "title": "IT Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247970,7 +247842,7 @@
         "company_name": "Meta",
         "id": "180cdc97-01ab-4340-9dbd-7d3d84a4cc85",
         "title": "Research Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295586,7 +295458,7 @@
         "company_name": "Ciena",
         "id": "5110ed9d-97da-4a84-9d8e-2bc857dc3dc5",
         "title": "Optical Modem Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
