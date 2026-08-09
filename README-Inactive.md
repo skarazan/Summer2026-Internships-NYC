@@ -799,7 +799,7 @@
 <td>Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong>Specialisterne</strong></td>
