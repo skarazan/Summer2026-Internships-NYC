@@ -319389,7 +319389,7 @@
         "company_name": "Pennsylvania State University",
         "id": "cff6c5a6-5c4a-4f30-bb48-4543328cc059",
         "title": "Research Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -331571,7 +331571,7 @@
         "company_name": "GE Vernova",
         "id": "f6c11914-46a2-4cc1-af73-a4ddaa2fd4be",
         "title": "Digital Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
