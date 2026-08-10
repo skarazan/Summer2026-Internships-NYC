@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Samsung Research America",
-        "id": "9e526384-3d8b-4539-ab24-847a6231ca0e",
-        "title": "Intern - Computer Vision/AI",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1765610206,
-        "date_posted": 1765610206,
-        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8216250002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung-Research-America",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Semtech",
         "id": "691f93ac-60e5-4bbd-b4db-e0328a0030f8",
@@ -4209,27 +4187,6 @@
             "Milpitas, CA"
         ],
         "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Rolls Royce",
-        "id": "8c2d99c6-94fa-45c5-853c-adb46218ff05",
-        "title": "Production Digitalization Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765610087,
-        "date_posted": 1765610087,
-        "url": "https://jobs.bmwgroup.com/job/Spartanburg-Production-Digitalization-Intern-(Summer-2026)-Sout/1276074601/?ats=successfactors",
-        "locations": [
-            "Spartanburg, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -265384,7 +265341,7 @@
         "company_name": "Canadian Tire",
         "id": "0f463052-90cf-461f-8e7e-1212e29e75df",
         "title": "Data Engineering Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -326374,7 +326331,7 @@
         "company_name": "Microsoft",
         "id": "9fe00265-7716-44f9-bc43-1017aa863220",
         "title": "Software Engineer Intern - CoreAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332436,7 +332393,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "88a09a9b-285b-45b6-ba4d-2fda5b97f778",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
