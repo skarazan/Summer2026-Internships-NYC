@@ -15895,27 +15895,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Harris Computer",
-        "id": "dcb0f70a-f1e3-4bff-a8f1-265f4b73b499",
-        "title": "Information Management Student",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765651989,
-        "date_posted": 1765651989,
-        "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Charlottetown-Prince-Edward-Island/Information-Management-Student--Co-op-Work-Term---Internship-_R0031084",
-        "locations": [
-            "Charlottetown, PE, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Harris-Computer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "AMC Networks",
         "id": "1ed78cbb-38bf-4362-bda9-56a223e0b8ac",
         "title": "Intern",
@@ -16754,27 +16733,6 @@
             "Cambridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ASML",
-        "id": "4ffb5d82-3f85-40ee-9ab8-972d27565c3c",
-        "title": "Intern - System Integration",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765652293,
-        "date_posted": 1765652293,
-        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---System-Integration-Summer-2026_J-00328615",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASML",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -36678,29 +36636,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas - Austin",
-        "id": "13b7c776-b6dc-4c75-98d1-5e69dc3770bf",
-        "title": "Postdoctoral Fellow - Transmission Electron Microscopy",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1765651238,
-        "date_posted": 1765651238,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---Transmission-Electron-Microscopy--Texas-Materials-Institute--Cockrell-School-of-Engineering_R_00043435",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -309600,7 +309535,7 @@
         "company_name": "Ditto",
         "id": "9b52fccb-d8e8-4e83-bcf6-81d70ecd30e7",
         "title": "Ditto Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326839,7 +326774,7 @@
         "company_name": "CNO Financial Group ",
         "id": "4eea3ea9-aa50-418f-912f-105c7ecd705a",
         "title": "Artificial Intelligence Information Technology Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333673,5 +333608,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OH.io",
+        "id": "ee56e04b-7138-4fe5-a28a-7649cd80c668",
+        "title": "GTM Engineer - Data & Analytics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786388221,
+        "date_posted": 1786388170,
+        "url": "https://job-boards.greenhouse.io/ohio/jobs/4361901009",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/OH-Io",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
