@@ -317347,7 +317347,7 @@
         "company_name": "Deloitte",
         "id": "4b79443f-64b0-4381-aa54-5febee12149d",
         "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -334330,5 +334330,304 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deloitte",
+        "id": "e87551ad-e266-4369-aa66-b85287a56ea2",
+        "title": "Summer Scholar Intern - Government & Public Services - Cyber Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786401573,
+        "date_posted": 1786401419,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Software-Engineering/362346",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mujin",
+        "id": "af90f319-0d2d-4222-9f22-92f3dab0d342",
+        "title": "Software Integration Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1786401572,
+        "date_posted": 1786401415,
+        "url": "https://mujin.bamboohr.com/careers/166/",
+        "locations": [
+            "Suwanee, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mujin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "1782c7ab-120f-498c-b0af-430d269e5bf4",
+        "title": "Data Management Solutions Summer Scholar Intern - Government & Public Services - Data Management Solutions",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786401578,
+        "date_posted": 1786401418,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Data-Management-Solutions/362366",
+        "locations": [
+            "Rosslyn, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "0b10eb53-ff2e-4bfb-bbac-181b11ff4891",
+        "title": "Risk Analytics Analyst Intern - Government & Public Services",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786401557,
+        "date_posted": 1785191054,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Risk-Analytics/360270",
+        "locations": [
+            "Rosslyn, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "05b3995e-c81d-477e-a460-1dcd73950118",
+        "title": "Issue Discovery Operations Intern - Content Ecosystem",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786401576,
+        "date_posted": 1786401451,
+        "url": "https://lifeattiktok.com/search/7667582040108222773",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "7bbcfe14-7ce8-4103-b65b-a360fd4a2fa3",
+        "title": "Software Engineer Intern - AML-Engine-Orchestration",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786401541,
+        "date_posted": 1786401392,
+        "url": "https://jobs.bytedance.com/en/position/7671162985123907845/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rockwell Automation",
+        "id": "64937bd9-0018-42de-9034-181d0d384f1d",
+        "title": "Embedded Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1786401549,
+        "date_posted": 1786320000,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473-1",
+        "locations": [
+            "Mayfield Heights, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citadel",
+        "id": "de926b0a-99e7-4dbd-94cd-334ec565be9f",
+        "title": "Sector Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786401402,
+        "date_posted": 1786401263,
+        "url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Mujin",
+        "id": "64520db5-19f9-4d78-80a3-c0baa9feff7e",
+        "title": "Product Development Intern - Spring 2027",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1786401407,
+        "date_posted": 1786401256,
+        "url": "https://mujin.bamboohr.com/careers/168/",
+        "locations": [
+            "Suwanee, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mujin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mujin",
+        "id": "245185f0-482e-4f3d-b036-598acb899969",
+        "title": "Software Development Intern - Spring 2027",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1786401403,
+        "date_posted": 1786401253,
+        "url": "https://mujin.bamboohr.com/careers/165/",
+        "locations": [
+            "Suwanee, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mujin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Altamira Technologies",
+        "id": "b7fbd5a6-7308-4c37-bb15-59d65f8a156f",
+        "title": "Research and Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786401001,
+        "date_posted": 1786400983,
+        "url": "https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false",
+        "locations": [
+            "Fairborn, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Altamira-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altamira Technologies",
+        "id": "60f8cb68-d09b-40e1-83e3-85541cc9d3d4",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786401001,
+        "date_posted": 1786400984,
+        "url": "https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8?nl=1&nl=1&fr=false",
+        "locations": [
+            "Fairborn, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Altamira-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Figma",
+        "id": "10e605f7-ddf1-4da3-81d0-198db01cd0b8",
+        "title": "Software Engineer Intern - Winter 2027",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1786401001,
+        "date_posted": 1786400910,
+        "url": "https://boards.greenhouse.io/figma/jobs/6131089004",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Figma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
