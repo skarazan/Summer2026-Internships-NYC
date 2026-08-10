@@ -15915,27 +15915,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "05e7612f-663c-407f-b254-06aa3c818000",
-        "title": "Intern \u2013 Probe Equipment Engineer",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765643083,
-        "date_posted": 1765643083,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Probe-Equipment-Engineer_JR81059",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AMC Networks",
         "id": "1ed78cbb-38bf-4362-bda9-56a223e0b8ac",
@@ -35130,30 +35109,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Avis Budget Group",
-        "id": "95546583-c57a-4303-a47b-ed41e3bc1f69",
-        "title": "Accelerate - Business Insights Analyst - Post Graduation Opportunity",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1765640056,
-        "date_posted": 1765640056,
-        "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Business-Insights-Analyst--Post-Graduation-Opportunity-_R0181082",
-        "locations": [
-            "Parsippany-Troy Hills, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Avis-Budget-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "British Columbia Investment",
         "id": "efcf2bcd-b5e8-4c93-a2db-7d560e17f645",
@@ -45734,30 +45689,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "d83a6452-602f-437b-bd53-f9e7b112fb0a",
-        "title": "Product Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765639896,
-        "date_posted": 1765639896,
-        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Product-Engineering-Intern_R51691-2",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -333338,7 +333269,7 @@
         "company_name": "Eko Health",
         "id": "ccc26e13-7964-413d-8db2-404361781e7a",
         "title": "Clinical Product Strategy Intern - Clinical Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
