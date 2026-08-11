@@ -330866,7 +330866,7 @@
         "company_name": "Canva",
         "id": "8695d3de-326d-44ff-976a-ba070dbbe750",
         "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331488,7 +331488,7 @@
         "company_name": "Canva",
         "id": "24e7466f-1151-4ad5-80f0-97bc9df8d2c8",
         "title": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335158,5 +335158,75 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "7a92d604-830a-4f21-a20c-32848b58f8d0",
+        "title": "Software Developer Intern - Interactive Graphics, Media & Entertainment",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1786457763,
+        "date_posted": 1786406400,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "9988a888-3523-44f0-9be3-6ca66f7e7508",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1786457764,
+        "date_posted": 1786406400,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "University System of New Hampshire",
+        "id": "99e903c0-da46-483d-a9f4-02bf4ee4d92a",
+        "title": "Robotics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786457444,
+        "date_posted": 1786406400,
+        "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8972",
+        "locations": [
+            "Durham, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/University-System-Of-New-Hampshire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
