@@ -274289,7 +274289,7 @@
         "company_name": "Ciena",
         "id": "32e24b4c-ba64-4d4b-b70b-2cdc68dc2aab",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -285076,7 +285076,7 @@
         "company_name": "Palantir",
         "id": "d58f726c-620e-4c0c-89d7-8b54421280ab",
         "title": "Forward Deployed Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2028",
             "Spring 2028",
@@ -309708,7 +309708,7 @@
         "company_name": "Odin Dynamics, Inc",
         "id": "7e9c41e0-72f6-4e65-8150-4a44cf26d415",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326724,7 +326724,7 @@
         "company_name": "Microsoft",
         "id": "4fa5508b-be5b-43c6-8651-fcb4753d6e99",
         "title": "Software Engineer Intern - Data Platform & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331626,7 +331626,7 @@
         "company_name": "RTX",
         "id": "5e274ea4-55e9-4ee0-8e93-82d466c18810",
         "title": "Systems Engineer 1 Intern - Intern Conversion",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335134,6 +335134,27 @@
             "Yellowknife, NT, Canada"
         ],
         "company_url": "https://simplify.jobs/c/ATCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leland",
+        "id": "4e0d8be2-4c96-42c3-96c6-17850b196a60",
+        "title": "AI Education Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786441501,
+        "date_posted": 1777068508,
+        "url": "https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633/application?embed=true",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Leland",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
