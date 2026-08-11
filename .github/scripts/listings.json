@@ -276369,7 +276369,7 @@
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
         "title": "Machine Learning Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -285076,7 +285076,7 @@
         "company_name": "Palantir",
         "id": "d58f726c-620e-4c0c-89d7-8b54421280ab",
         "title": "Forward Deployed Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2028",
             "Spring 2028",
@@ -310483,7 +310483,7 @@
         "company_name": "LightGuide, Inc.",
         "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
         "title": "Product Innovation Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -326769,7 +326769,7 @@
         "company_name": "RTX",
         "id": "0229beda-126f-43a7-a85a-286066c436b8",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -326841,7 +326841,7 @@
         "company_name": "Microsoft",
         "id": "7e143f06-1c28-41b7-9291-53a869d86325",
         "title": "Software Engineer Intern - Cloud & Distributed Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335083,5 +335083,59 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "b54ab32d-a9c1-471a-8365-6e0bdc0eaeb0",
+        "title": "AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786439712,
+        "date_posted": 1786439657,
+        "url": "https://lifeattiktok.com/search/7670529537944766773",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ATCO",
+        "id": "152f0dd1-e6c5-4072-8a15-e122312fc5c7",
+        "title": "Engineering Co-op - Electric Division",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1786439224,
+        "date_posted": 1786439134,
+        "url": "https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20508",
+        "locations": [
+            "Slave Lake, AB, Canada",
+            "Grande Prairie, AB, Canada",
+            "Calgary, AB, Canada",
+            "Lethbridge, AB, Canada",
+            "Edmonton, AB, Canada",
+            "Peace River, AB, Canada",
+            "Red Deer, AB, Canada",
+            "Whitehorse, YT, Canada",
+            "Fort McMurray, AB, Canada",
+            "Yellowknife, NT, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ATCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
