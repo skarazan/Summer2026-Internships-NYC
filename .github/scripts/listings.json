@@ -1,47 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Royal Bank of Canada",
-        "id": "84eb5f67-9a37-41b6-8a9f-6a51ba5e7c7b",
-        "title": "Insurance \u2013 Business and Data Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765671039,
-        "date_posted": 1765671039,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026-Insurance--Summer-Business-and-Data-Analyst--4-16-months-_R-0000152445",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Royal Bank of Canada",
-        "id": "2d2bb44c-f253-49cb-888c-273ccdd02008",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765671034,
-        "date_posted": 1765671034,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---CLAO--Data-Analyst-Intern--4-Months-_R-0000152234",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1765785265,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -36444,27 +36402,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thales",
-        "id": "31f057e0-31a9-40ec-8092-2dace22ec47e",
-        "title": "Test Manufacturing Technician",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1766142410,
-        "date_posted": 1765670980,
-        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/Test-Manufacturing-Technician_R0296700",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Thales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -226903,7 +226840,7 @@
         "company_name": "Regal Rexnord",
         "id": "cbab2238-fe0a-4455-883d-7e0d95e8d4fc",
         "title": "Application Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -271628,7 +271565,7 @@
         "company_name": "Apera AI",
         "id": "44e23e3b-4471-48d6-b46f-01544b865f39",
         "title": "Software Developer Co-op - C++",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -273597,7 +273534,7 @@
         "company_name": "Zipline",
         "id": "02b310b9-4510-4ae2-9b3f-54bcb3eaab3b",
         "title": "Perception Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -278640,7 +278577,7 @@
         "company_name": "Tesla",
         "id": "52919742-2339-4055-82e8-694863cdb915",
         "title": "Automated Diagnostics Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -324550,7 +324487,7 @@
         "company_name": "Rodan Energy Solutions Inc.",
         "id": "f3544c49-d2f8-44f9-9cc4-0a42ee9bc825",
         "title": "Data Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325550,7 +325487,7 @@
         "company_name": "QuEra Computing",
         "id": "3f75b98c-3c6a-4192-8268-3e946dae7519",
         "title": "Photonics Data Engineer Intern - Data Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334626,6 +334563,331 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Figma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PSP Investments",
+        "id": "f545abf5-18c8-42fa-9bc9-37d9184a61a1",
+        "title": "AI Solutions Intern - External Manager Selection & Monitoring",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786410783,
+        "date_posted": 1786320000,
+        "url": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--AI-Solutions-for-External-Manager-Selection---Monitoring--May---August-2027-_R4933",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PSP-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LPL Financial Holdings",
+        "id": "6538dcdb-7ff2-4214-ba47-f53b40274027",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786412259,
+        "date_posted": 1786320000,
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921",
+        "locations": [
+            "Austin, TX",
+            "Fort Mill, SC",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DV Trading",
+        "id": "f845f125-fa49-4e15-a653-128534761cd4",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786412161,
+        "date_posted": 1786412058,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DV-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "LPL Financial Holdings",
+        "id": "46e43e77-a583-4b8b-a107-fac3536b5a7c",
+        "title": "Product Intern - Product",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786412273,
+        "date_posted": 1786320000,
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918",
+        "locations": [
+            "Austin, TX",
+            "Fort Mill, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DV Trading",
+        "id": "2ef5d7c2-ef83-459f-af78-5a0340ba59fe",
+        "title": "Software Engineer Intern - DV Commodities",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786412161,
+        "date_posted": 1786412057,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DV-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LPL Financial Holdings",
+        "id": "14051ce6-a050-4a8e-851b-555583f7ba2c",
+        "title": "Data Engineer Intern - Data",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786412255,
+        "date_posted": 1786320000,
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914",
+        "locations": [
+            "Austin, TX",
+            "Fort Mill, SC",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SkyGig",
+        "id": "87e1bcd4-c2d1-41b8-bd8e-f853c69f7050",
+        "title": "RFIC Design Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786411981,
+        "date_posted": 1786411977,
+        "url": "https://apply.workable.com/skygig/j/10A5A58F9E/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/d8b38913-9598-4670-8ce5-2529b66b9d59",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "OceanComm",
+        "id": "5aceb7eb-24ef-4a7a-abef-73e17a771b6f",
+        "title": "Electronics Technician Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786411981,
+        "date_posted": 1786411936,
+        "url": "https://apply.workable.com/oceancomm/j/AB7EE4F02B/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/1bae0202-f4c3-480c-9bfc-9a725a6c8ee3",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Caddi Workflow Automation",
+        "id": "12ce52b4-da60-4458-9f42-1581e549d94c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786411981,
+        "date_posted": 1786411938,
+        "url": "https://apply.workable.com/trycaddi/j/9D1291C697/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/047db7c6-d1c3-4946-85e6-7b595faee70c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Q5",
+        "id": "56b68b11-760a-4224-ab26-17e3889e11d1",
+        "title": "Research Analyst - Analytics Hub",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786412125,
+        "date_posted": 1786411922,
+        "url": "https://apply.workable.com/q5-partners/j/3D4D022AC0/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/0fe58820-9182-43a2-889c-35bf796a122c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ResponsiveAds",
+        "id": "95179997-e004-4aab-84b7-07ebc63d814a",
+        "title": "Full-Stack Developer Intern - ResponsiveAds - Studio 4",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1786412085,
+        "date_posted": 1786411903,
+        "url": "https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/75dc03e9-6162-44e6-81b4-7c500af77508",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Thingtrax",
+        "id": "36e8bcb9-72d6-4a77-9c62-1a92759cce36",
+        "title": "Vision AI Intern - Vision AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786412102,
+        "date_posted": 1786411912,
+        "url": "https://apply.workable.com/thingtrax/j/5D09B73294/apply",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/3e100d21-0b24-4939-939b-c56b5c46fce5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Generation West Virginia",
+        "id": "561a306f-fda6-4ae9-a6a5-bab849a7227d",
+        "title": "Insights - Project Extension Team - Cohort",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786412077,
+        "date_posted": 1786411902,
+        "url": "https://apply.workable.com/generation-west-virginia-1/j/315616F917/apply",
+        "locations": [
+            "Remote in USA",
+            "West Virginia"
+        ],
+        "company_url": "https://simplify.jobs/c/da1abb13-2a62-44c8-8a2e-f0480d9146c2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "OpusClip",
+        "id": "bbf77bc1-a60b-4e9b-94f4-e788816c9c46",
+        "title": "AI Product Management Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786411981,
+        "date_posted": 1786411846,
+        "url": "https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea/application?embed=true",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/OpusClip",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
