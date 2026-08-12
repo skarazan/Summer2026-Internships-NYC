@@ -141789,7 +141789,7 @@
         "company_name": "Ambarella",
         "id": "74ed046a-1c48-4657-89f1-1f609aefff4b",
         "title": "Software Architecture Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -200163,7 +200163,7 @@
         "company_name": "TikTok",
         "id": "0cc4797c-81ae-43bc-85bb-ba188815da52",
         "title": "Machine Learning Scientist Intern - TikTok Recommendation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313615,7 +313615,7 @@
         "company_name": "Rivian",
         "id": "86d85a8b-7db1-47cc-98e9-ba9b7d14ba7a",
         "title": "UIUC Research Park Intern - Computational Methods Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -322403,7 +322403,7 @@
         "company_name": "University of Rochester",
         "id": "0e65c7e2-117e-4c64-b08a-b54f59660a22",
         "title": "Research Student 1 Co-op - Electronics Shop",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336507,6 +336507,98 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Felix Magazine",
+        "id": "e9c6fbb2-27a0-4da8-bd66-1d4be992ae95",
+        "title": "Web Developer/Programmer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786514959,
+        "date_posted": 1786514758,
+        "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/1538700b-2577-4b98-8b18-62956174eca0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Felix Magazine",
+        "id": "8037d2f8-3be0-4762-96a6-6111a83eabae",
+        "title": "Database Coordinator Volunteer/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786514761,
+        "date_posted": 1786514759,
+        "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83121944",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/1538700b-2577-4b98-8b18-62956174eca0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Felix Magazine",
+        "id": "8ea8d323-6e8b-4380-b4c1-2367ba88c40f",
+        "title": "Web Developer/Programmer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786514952,
+        "date_posted": 1786514758,
+        "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/89098193",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/1538700b-2577-4b98-8b18-62956174eca0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Felix Magazine",
+        "id": "a51d3e95-42ac-4e2b-88ba-5f6d2c3c2595",
+        "title": "Web Developer/Programmer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786514953,
+        "date_posted": 1786514758,
+        "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83337884",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/1538700b-2577-4b98-8b18-62956174eca0",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
