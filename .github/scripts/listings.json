@@ -228614,7 +228614,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "14dcee99-b506-4efe-a80a-63151e541c4d",
         "title": "Quantitative Strategy Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -320598,7 +320598,7 @@
         "company_name": "Marmon Holdings",
         "id": "19d2ffe3-9f24-4342-bfbb-0fe7ddcf3ad5",
         "title": "New Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331056,7 +331056,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "9d5c67c2-016a-400b-a091-495a945e1778",
         "title": "Artificial Intelligence/Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335784,7 +335784,7 @@
         "company_name": "Salesforce",
         "id": "d01ebc03-05a8-45ae-90cb-8456c83c83e2",
         "title": "Software Engineer Intern - Future Pathways",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336914,6 +336914,52 @@
             "East Hartford, CT"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "b560def8-65f9-4a57-a4f0-06cb45b403c3",
+        "title": "Software Engineer Intern - Aeronautics Systems",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786575094,
+        "date_posted": 1786492800,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "685487cc-2bf1-41f3-9324-4441e3ba0475",
+        "title": "Platform Software Engineer 1 Intern - Full-time Intern Conversion",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786574921,
+        "date_posted": 1786574624,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
