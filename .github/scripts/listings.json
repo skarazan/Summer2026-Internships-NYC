@@ -316055,7 +316055,7 @@
         "company_name": "Nokia",
         "id": "48a3b01c-7ec9-4b30-8db4-c264431de5d9",
         "title": "Architecture AI Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327453,7 +327453,7 @@
         "company_name": "Microsoft",
         "id": "c3a88fbe-109d-4f95-b388-630393a1833c",
         "title": "Research Intern - Firmware Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327593,7 +327593,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "430476fa-929a-40d6-baa9-2ff79a9c2899",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -334663,7 +334663,7 @@
         "company_name": "Truist Bank",
         "id": "74882eb7-2f7f-4a33-9ecc-7ad6865fdbd5",
         "title": "Analyst Intern - Equity Research - Sales, Trading & Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336575,6 +336575,243 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "DV Trading",
+        "id": "392dd50b-b4af-4528-b142-9b17e15df06d",
+        "title": "Trading Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786566421,
+        "date_posted": 1786566407,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719135005",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DV-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Assured Guaranty",
+        "id": "26469c50-c009-48da-9415-b146a1d441df",
+        "title": "Product Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786566063,
+        "date_posted": 1786565794,
+        "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8700953002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Assured-Guaranty",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Vertiv",
+        "id": "e83f1c57-b726-4596-b500-63c205af6aa1",
+        "title": "IT Systems Product Management Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786565881,
+        "date_posted": 1786565880,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239",
+        "locations": [
+            "Westerville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Vertiv",
+        "id": "a1440bf8-8375-4616-b7da-7683afde8b6e",
+        "title": "Product Management Intern - MBA - Power Solutions & Distribution",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786565881,
+        "date_posted": 1786565880,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278959",
+        "locations": [
+            "Delaware, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Vertiv",
+        "id": "a042d610-957b-4d5c-a233-944efa6819fc",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786565881,
+        "date_posted": 1786565879,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958",
+        "locations": [
+            "Delaware, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Northwestern Mutual",
+        "id": "afe83bdb-f13d-462d-90e5-43f8851a4563",
+        "title": "Quantitative Analyst Intern - Public Investments",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786566027,
+        "date_posted": 1786492800,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TMEIC Corporation Americas",
+        "id": "b09599dd-d189-40a2-acad-f4fe1006ed76",
+        "title": "Engineer Intern - Spring 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786565995,
+        "date_posted": 1786565621,
+        "url": "https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/975b3d75-c621-42e4-907f-b8063b08c328",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TMEIC Corporation Americas",
+        "id": "6a24db4e-df46-4cfb-94c1-a7709787033d",
+        "title": "Applications Intern - AI and Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786565995,
+        "date_posted": 1786565621,
+        "url": "https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply",
+        "locations": [
+            "Roanoke, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/975b3d75-c621-42e4-907f-b8063b08c328",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TMEIC Corporation Americas",
+        "id": "8805a32d-c38e-4a8a-8843-ed203eec617f",
+        "title": "Engineer Intern - Spring 2027 - Eis",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1786565992,
+        "date_posted": 1786565621,
+        "url": "https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply",
+        "locations": [
+            "Roanoke, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/975b3d75-c621-42e4-907f-b8063b08c328",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "cd2e5e40-ea42-4af5-9d36-9bebaa190e40",
+        "title": "Surface Scientist Intern - Corporate Labs",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786565948,
+        "date_posted": 1786492800,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Corporate-Labs_JR108442",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
