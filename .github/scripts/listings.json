@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1767712029,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://premierinc.wd1.myworkdayjobs.com/en-US/External_Professional/job/Remote/Data-Science-Intern_R0008058",
-        "company_name": "Premier",
-        "title": "Data Science Intern",
-        "locations": [
-            "Remote in USA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "ec4e864e-1ccb-4616-a3ab-4429c207443c",
-        "date_posted": 1765786089,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Sentra",
@@ -193122,7 +193099,7 @@
         "company_name": "ByteDance",
         "id": "0cbe5f0d-bc44-4b45-85bb-9272f05546e8",
         "title": "Research Scientist in AI Foundation Model Infrastructure \u2013 Graduates - Seed",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -284820,7 +284797,7 @@
         "company_name": "TikTok",
         "id": "fd4d4ad1-7cdb-45e6-82a7-3ad24e9bc989",
         "title": "Research Scientist Intern - Trust and Safety",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293906,7 +293883,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327948,7 +327925,7 @@
         "company_name": "The Federal Reserve System",
         "id": "1924d443-3b61-47d4-addf-d6db4308935b",
         "title": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333747,7 +333724,7 @@
         "company_name": "Sargent & Lundy",
         "id": "810c0d4f-1b94-4649-bec6-20b46e134782",
         "title": "AI & Automation Intern - Enterprise Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335286,7 +335263,7 @@
         "company_name": "RTX",
         "id": "d4bd04b2-b4a7-41b4-ab15-339b8e50f45e",
         "title": "Enterprise Extended Reality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
