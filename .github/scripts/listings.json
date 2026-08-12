@@ -265385,7 +265385,7 @@
         "company_name": "Base Power",
         "id": "7d1cf43e-e1f6-4c90-8aff-9370057da6ba",
         "title": "Quantitative Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326492,7 +326492,7 @@
         "company_name": "Intel",
         "id": "7668d718-523e-431c-a2b3-b39a409c2dec",
         "title": "AI Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335608,7 +335608,7 @@
         "company_name": "Analytic Partners",
         "id": "593ee6f1-3e6c-4136-8182-829091448ed2",
         "title": "Software Engineer Co-op - Georgia Tech",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -335730,7 +335730,7 @@
         "company_name": "Analytic Partners",
         "id": "48614093-9c24-4b18-92b5-a3b6f4e55c36",
         "title": "Software Engineer Co-op - University of Waterloo",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -336487,6 +336487,30 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "cd27aaf0-33b6-4d6a-950e-8acff7bbe6ce",
+        "title": "Software Engineer Intern - AI Inference Co Design",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1786507037,
+        "date_posted": 1786505690,
+        "url": "https://www.tesla.com/careers/search/job/279600",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
