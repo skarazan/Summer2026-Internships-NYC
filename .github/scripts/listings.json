@@ -212493,7 +212493,7 @@
         "company_name": "Anthropic",
         "id": "cbd849a6-3f10-4184-9849-bdd8e45f6bc6",
         "title": "Anthropic Fellows Program - Reinforcement Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -229136,7 +229136,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "14dcee99-b506-4efe-a80a-63151e541c4d",
         "title": "Quantitative Strategy Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -273678,7 +273678,7 @@
         "company_name": "LiveRamp",
         "id": "09174c1c-7ac5-489a-8c87-dcb67b971aa0",
         "title": "Software Engineer Co-op - Conversions API",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314972,7 +314972,7 @@
         "company_name": "Golden Pet Brands",
         "id": "c3cb586c-7a74-433e-9247-a5bf6ab308e5",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327994,7 +327994,7 @@
         "company_name": "Lumentum",
         "id": "9ea4299f-1e3a-45fc-b204-aa0870712b23",
         "title": "Optical Verification Technician Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335633,7 +335633,7 @@
         "company_name": "Analytic Partners",
         "id": "08dcec1c-e97a-4c39-978e-cd2dede8bb31",
         "title": "Software Engineer Co-op - Northeastern University",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -335754,7 +335754,7 @@
         "company_name": "Analytic Partners",
         "id": "6162ec1b-8a67-4399-9131-ab748f523281",
         "title": "Software Engineer Co-op - University of Toronto",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -336439,6 +336439,54 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "L\u00e9ger",
+        "id": "48f757b7-e402-4cf2-bbc5-0ab0560d8436",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786497301,
+        "date_posted": 1786497197,
+        "url": "https://jobs.smartrecruiters.com/Leger2/744000141569336",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/46c15424-a4b0-4153-b6ca-26ca134f74fa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ancestry",
+        "id": "06b0612c-a611-422f-8305-6138964b2e4b",
+        "title": "Machine Learning Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786497719,
+        "date_posted": 1786406400,
+        "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ancestry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
