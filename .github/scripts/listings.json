@@ -279150,7 +279150,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -288457,7 +288457,7 @@
         "company_name": "Baker Hughes",
         "id": "fb992b23-820c-466a-a892-242e64f92f4a",
         "title": "Mechanical Production Engineering Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327628,7 +327628,7 @@
         "company_name": "RTX",
         "id": "7a398a79-2792-4181-8700-a5fbd8d17e76",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -336446,6 +336446,190 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Tower Research Capital",
+        "id": "cd194423-9eab-40c1-90e6-bcf43cbdc91e",
+        "title": "Quantitative Research Intern - Central Execution Research",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786546833,
+        "date_posted": 1786546744,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=8113986",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "e68caf69-cb51-4c52-933d-ace225ef6fb3",
+        "title": "Product Manager Intern - Signal and Identity Product",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786545361,
+        "date_posted": 1786545309,
+        "url": "https://lifeattiktok.com/search/7672554809555192117",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "bbd533a0-34b2-491f-a386-2c10df203595",
+        "title": "Product Manager Intern - Ads Interface and Platform",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786545181,
+        "date_posted": 1786545122,
+        "url": "https://lifeattiktok.com/search/7672562486917286149",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "37258bf6-9a8c-4245-bc45-0fb8e73fecca",
+        "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786545181,
+        "date_posted": 1786545121,
+        "url": "https://lifeattiktok.com/search/7672883129493948677",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "0e6104ee-b59a-435c-af2d-24c7e880c109",
+        "title": "Product Manager Intern - Ads Interface and Platform",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786545181,
+        "date_posted": 1786545122,
+        "url": "https://lifeattiktok.com/search/7672569081632229685",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "fc4e61cf-8b0d-41bc-a27f-9081dc511bca",
+        "title": "Product Manager Intern - Commerce Ads",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786545181,
+        "date_posted": 1786545123,
+        "url": "https://lifeattiktok.com/search/7672557943224961333",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "baeedb05-7415-43b1-a352-ff0efdc23b6b",
+        "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786545181,
+        "date_posted": 1786545120,
+        "url": "https://lifeattiktok.com/search/7672920375646488885",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "0d1a5d14-2cc4-4c85-a1a6-aa02ecc2b4f8",
+        "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786545181,
+        "date_posted": 1786545121,
+        "url": "https://lifeattiktok.com/search/7672881840860940597",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
