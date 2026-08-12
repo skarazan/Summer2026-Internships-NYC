@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ripple",
-        "id": "338d7a6a-d9e4-48c2-95df-b839a254e57e",
-        "title": "Data Scientist Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765817229,
-        "date_posted": 1765817229,
-        "url": "https://ripple.com/careers/all-jobs/job/7467052?gh_jid=7467052",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Ripple",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "GE Vernova",
         "id": "89ebb34c-402f-4e54-985f-452cea5f7bf7",
@@ -318577,7 +318556,7 @@
         "company_name": "CVS Health",
         "id": "229ace69-8177-42cc-a85f-c0517803f03b",
         "title": "Analytics & Behavior Change \u2013 Data Science Grad - Conversion",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -326346,7 +326325,7 @@
         "company_name": "Cloudflare",
         "id": "dd4ec464-8abe-43b9-a5a9-cffa389440f6",
         "title": "Marketing Programs and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328786,7 +328765,7 @@
         "company_name": "Swift",
         "id": "af0010c7-8bfd-4664-aa13-4626a4140ee2",
         "title": "Industry Engagement Research Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
