@@ -328714,7 +328714,7 @@
         "company_name": "Terranova",
         "id": "5725405b-6f22-485b-a418-ad3c6148afb4",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332858,7 +332858,7 @@
         "company_name": "RTX",
         "id": "41b56c92-c264-49ff-abb9-86b1d910b890",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -335715,6 +335715,29 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tesla",
+        "id": "6442a0a1-6fb5-447b-b984-3d48c1c6070f",
+        "title": "Product Manager Intern - Residential Energy Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786619728,
+        "date_posted": 1782522660,
+        "url": "https://www.tesla.com/careers/search/job/275178",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
