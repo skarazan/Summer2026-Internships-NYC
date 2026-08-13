@@ -2,90 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Genentech",
-        "id": "258690d6-50c0-4eee-9b5b-3d9e2bcf17b7",
-        "title": "Intern - Large Language Models",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765845284,
-        "date_posted": 1765845284,
-        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2026-Summer-Intern---Large-Language-Models--Prescient-Design---AI-for-Drug-Discovery-_202512-131826-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Genentech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Apex Fintech Solutions",
-        "id": "c143632b-a235-454e-a395-8df616aafa2c",
-        "title": "PCEP Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765844908,
-        "date_posted": 1765844908,
-        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Portland-OR/PCEP-Intern_JR103999",
-        "locations": [
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Royal Bank of Canada",
-        "id": "cdbebe86-9c32-4d75-98b3-f8853e6b4c63",
-        "title": "FC Risk Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765845076,
-        "date_posted": 1765845076,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---GRM--FC-Risk-Analytics-Intern--4-Months-_R-0000152168",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genentech",
-        "id": "b58c3c09-7bfa-4e32-9b3f-73e5133f8ef3",
-        "title": "Intern - Genentech Gred Computational Sciences - Center of Excellence",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765845314,
-        "date_posted": 1765845314,
-        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Genentech-gRED-Computational-Sciences---Center-of-Excellence_202512-131807",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genentech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "LinkedIn",
         "id": "bebf3592-aa39-4da5-9048-c919792c1707",
         "title": "Strategy & Insights-Data Science Intern - Master's - Summer 2026",
@@ -261417,7 +261333,7 @@
         "company_name": "PlusAI",
         "id": "06fdb7fb-f7a7-4d74-9a9c-d59f0d316fe4",
         "title": "Machine Learning Engineer Intern - Planning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261524,7 +261440,7 @@
         "company_name": "PlusAI",
         "id": "ea5d5776-27ae-4cbe-aa4d-47a5dd80052f",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262272,7 +262188,7 @@
         "company_name": "Technergetics",
         "id": "243bb608-6df0-439e-aba6-649ae9e8de1f",
         "title": "R&D Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -303646,7 +303562,7 @@
         "company_name": "Revvity",
         "id": "aec4ad25-f3ea-4386-99cc-b24aaa5e5926",
         "title": "Full-Stack AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -306498,7 +306414,7 @@
         "company_name": "Telesat",
         "id": "a2024e6c-2b1a-4b6a-8378-7ebcde217209",
         "title": "User Terminal Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335090,5 +335006,118 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "acf117a3-c0c1-472f-ad4c-e68012e06ab4",
+        "title": "Software Engineer Intern - AI Focus",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786584468,
+        "date_posted": 1786492800,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineering-Intern--AI-Focus-_2026-22601",
+        "locations": [
+            "Pullman, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "aa733ff3-312d-4f91-935f-9b74817edc2b",
+        "title": "Self-Built Engineer Intern - CDN Platform",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786584421,
+        "date_posted": 1786584315,
+        "url": "https://jobs.bytedance.com/en/position/7670364362450733317/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "2546c60d-b4b4-495a-927e-6a112bdefc69",
+        "title": "Product Operations Intern - TikTok Shop Apps and API",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786583524,
+        "date_posted": 1786583342,
+        "url": "https://lifeattiktok.com/search/7669705525866383621",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dick's Sporting Goods",
+        "id": "39d0143c-975e-465c-812c-8fe6e6401523",
+        "title": "Data Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2022"
+        ],
+        "date_updated": 1786583411,
+        "date_posted": 1786492800,
+        "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/06083-GameChanger/Data-Engineering-Co-Op_202630722",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dicks-Sporting-Goods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Epic Games",
+        "id": "31b6c7b2-864a-4492-8fdc-1e1d94a23ce1",
+        "title": "Gameplay Programmer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786584601,
+        "date_posted": 1786584506,
+        "url": "https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004",
+        "locations": [
+            "Cary, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
