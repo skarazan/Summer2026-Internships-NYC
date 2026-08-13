@@ -295029,7 +295029,7 @@
         "company_name": "Cloudflare",
         "id": "823c7521-30db-4a2c-98a3-b7ec0dd88f1d",
         "title": "AI Builder Intern - Global Customer Engineering - Service Sales",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326811,7 +326811,7 @@
         "company_name": "Canva",
         "id": "40fce4fe-2ffc-4371-9b54-174b5b8f649b",
         "title": "PhD Research Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -326902,7 +326902,7 @@
         "company_name": " impact.com ",
         "id": "e80e3302-1101-475b-8706-adaf4a95d93a",
         "title": "Associate Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334883,7 +334883,7 @@
         "company_name": "InfiniteQuant",
         "id": "9bd5bf91-17e4-4d57-9268-dd61b4b3cdf4",
         "title": "Quantitative Researcher Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -335067,6 +335067,310 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "94d4bdc8-57b1-4c13-b31f-7d40e35cdc0e",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786659301,
+        "date_posted": 1786579200,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Florida---Wesley-Chapel/Engineering-Intern_2026-22361",
+        "locations": [
+            "Wesley Chapel, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Interco",
+        "id": "d05b18bf-6196-4443-8b9a-4bd3ee417cae",
+        "title": "Software Development Intern - React",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786659250,
+        "date_posted": 1786659108,
+        "url": "https://jobs.smartrecruiters.com/Interco/744000143346169",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Interco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SchoolMint",
+        "id": "3635c5ce-e586-43b2-8ef0-643f97cd223d",
+        "title": "Marketing Technology & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Spring 2027"
+        ],
+        "date_updated": 1786661281,
+        "date_posted": 1786661195,
+        "url": "https://job-boards.greenhouse.io/schoolmint/jobs/8697562002",
+        "locations": [
+            "Lafayette, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/SchoolMint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Analytical Mechanics Associates",
+        "id": "1ed38264-654d-4366-b1fc-9e0df58b47a0",
+        "title": "Research Scientist Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786661032,
+        "date_posted": 1786579200,
+        "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1",
+        "locations": [
+            "New Jersey"
+        ],
+        "company_url": "https://simplify.jobs/c/Analytical-Mechanics-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Altera Corporation",
+        "id": "0cde1dc3-c743-448c-bce2-37ae6da5bb38",
+        "title": "Embedded Solutions Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786660741,
+        "date_posted": 1786579200,
+        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R02832",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Laboratory of the Rockies",
+        "id": "b3da019d-7eab-458d-a999-34ab2aea473c",
+        "title": "Transportation Systems Analysis Intern - Year-Round",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786660664,
+        "date_posted": 1786579200,
+        "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14385",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vertiv",
+        "id": "4f23e9dd-6a06-4813-9f65-99da3eb4ef0d",
+        "title": "Sales Data Analytics Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786660561,
+        "date_posted": 1786660455,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293",
+        "locations": [
+            "Westerville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vertiv",
+        "id": "2e09b1ec-85a4-45f3-96cd-df7ac11648e4",
+        "title": "Sales Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786660561,
+        "date_posted": 1786660455,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279291",
+        "locations": [
+            "Westerville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vertiv",
+        "id": "50f54290-690a-4910-9190-93617faf27be",
+        "title": "Operations Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786660561,
+        "date_posted": 1786660455,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279223",
+        "locations": [
+            "Westerville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "ad0c51d0-09a4-4e54-b922-7cccc8b69e6e",
+        "title": "Digital IP Design Engineer Intern - DRAM",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786660508,
+        "date_posted": 1786579200,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "58f7e9f6-b7b9-4af8-bfd7-466b0e3255e7",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786660488,
+        "date_posted": 1786579200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864400",
+        "locations": [
+            "Annapolis, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "45df96a1-aefa-4c09-ae4c-5c32680da300",
+        "title": "Software Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786660489,
+        "date_posted": 1786579200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864370",
+        "locations": [
+            "Annapolis, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Crowe",
+        "id": "8876789e-be2c-4a8f-9478-572e3f0085cb",
+        "title": "AI Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786660201,
+        "date_posted": 1786579200,
+        "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
