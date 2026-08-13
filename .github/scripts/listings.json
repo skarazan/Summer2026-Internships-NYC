@@ -1,115 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LinkedIn",
-        "id": "bebf3592-aa39-4da5-9048-c919792c1707",
-        "title": "Strategy & Insights-Data Science Intern - Master's - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765850561,
-        "date_posted": 1765850561,
-        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000099076986",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/LinkedIn",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LinkedIn",
-        "id": "7ebfec8d-a150-4ca8-b3dc-2fecef4a3104",
-        "title": "Data Engineer-Data Science Intern - Master's - Summer 2026','Mountain View','CA",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765850568,
-        "date_posted": 1765850568,
-        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000099077455",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/LinkedIn",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SolarWinds",
-        "id": "0bcd4246-3e39-4728-aced-1fcf8bdb8726",
-        "title": "Frontier AI & Agentic Automation Intern - People Technology",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765853188,
-        "date_posted": 1765853188,
-        "url": "https://jobs.solarwinds.com/job-detail/?gh_jid=4636316005&gh_jid=4636316005",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/SolarWinds",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LinkedIn",
-        "id": "cf3a243a-a83b-4509-94f3-812bfccb3c0f",
-        "title": "Applied Science-Data Science Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765852262,
-        "date_posted": 1765852262,
-        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000099077086",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/LinkedIn",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "cb32b03e-266a-49cb-88f5-a914bf0c7348",
-        "title": "Research Intern - Post-Training",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765851256,
-        "date_posted": 1765851256,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
-        "locations": [
-            "Washington",
-            "California",
-            "Redmond, WA",
-            "Mountain View, CA",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Baker Hughes",
         "id": "76d54f13-b82e-4e08-bbc4-3c0faf3eab51",
@@ -244806,7 +244697,7 @@
         "company_name": "Marmon Holdings",
         "id": "fd6aa588-63f5-44d4-9253-72d84365341a",
         "title": "Product Management/Marketing Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -255830,7 +255721,7 @@
         "company_name": "PlusAI",
         "id": "681758c6-c283-429d-9627-0f285a799b54",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261215,7 +261106,7 @@
         "company_name": "Quadric",
         "id": "32ef093e-4ade-4a88-bac2-63b0be259cf4",
         "title": "AI Kernel Engineer Intern - Kernel Optimization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286154,7 +286045,7 @@
         "company_name": "Baker Hughes",
         "id": "81eeb1c2-13ff-4cd9-a612-91cfcaa4cfed",
         "title": "Software Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -318866,7 +318757,7 @@
         "company_name": "Marmon Holdings",
         "id": "29df5054-31c5-463e-8ed0-313f0dc2308e",
         "title": "New Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
