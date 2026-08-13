@@ -1,5 +1,6 @@
 """State management: load/save applied.json and pending_applications.json."""
 
+import copy
 import json
 from datetime import datetime
 from pathlib import Path
@@ -24,9 +25,10 @@ def load_applied_state() -> dict[str, Any]:
     """Load the applied.json state file. Returns empty state if file doesn't exist."""
     path = Path(APPLIED_PATH)
     if not path.exists():
-        return json.loads(json.dumps(_EMPTY_STATE))
+        return copy.deepcopy(_EMPTY_STATE)
     with open(path) as f:
-        return json.load(f)
+        state: dict[str, Any] = json.load(f)
+    return state
 
 
 def save_applied_state(state: dict[str, Any]) -> None:
@@ -42,8 +44,9 @@ def load_pending() -> list[dict[str, Any]]:
     if not path.exists():
         return []
     with open(path) as f:
-        data = json.load(f)
-    return data.get("pending", [])
+        data: dict[str, Any] = json.load(f)
+    pending: list[dict[str, Any]] = data.get("pending", [])
+    return pending
 
 
 def get_applied_ids(state: dict[str, Any]) -> set[str]:
@@ -58,10 +61,11 @@ def get_applied_ids(state: dict[str, Any]) -> set[str]:
 
 def _find_or_create_entry(state: dict[str, Any], listing: dict[str, Any]) -> dict[str, Any]:
     """Find existing entry for this listing or create a new one."""
-    for entry in state["applied"]:
+    existing: list[dict[str, Any]] = state["applied"]
+    for entry in existing:
         if entry["listing_id"] == listing["listing_id"]:
             return entry
-    entry: dict[str, Any] = {
+    new_entry: dict[str, Any] = {
         "listing_id": listing["listing_id"],
         "company_name": listing.get("company_name", ""),
         "title": listing.get("title", ""),
@@ -72,8 +76,8 @@ def _find_or_create_entry(state: dict[str, Any], listing: dict[str, Any]) -> dic
         "attempts": 0,
         "last_error": None,
     }
-    state["applied"].append(entry)
-    return entry
+    existing.append(new_entry)
+    return new_entry
 
 
 def mark_applied(state: dict[str, Any], listing: dict[str, Any]) -> None:

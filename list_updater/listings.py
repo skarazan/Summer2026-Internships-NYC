@@ -107,10 +107,7 @@ def filter_nyc(listings: list[Listing]) -> list[Listing]:
     filtered: list[Listing] = []
 
     for listing in listings:
-        nyc_locations = [
-            loc for loc in listing.get("locations", [])
-            if any(kw in loc.lower() for kw in nyc_keywords)
-        ]
+        nyc_locations = [loc for loc in listing.get("locations", []) if any(kw in loc.lower() for kw in nyc_keywords)]
         if nyc_locations:
             # Shallow copy so we don't mutate the original listing
             nyc_listing = {**listing, "locations": nyc_locations}
