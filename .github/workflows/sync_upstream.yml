@@ -2,12 +2,15 @@ name: Sync Upstream Listings & Update NYC READMEs
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # every 5 minutes
+    # Safety net only. GitHub throttles high-frequency crons on shared runners,
+    # so */5 here was really delivering every 45-60 min. Fast cadence comes from
+    # an external scheduler calling the workflow_dispatch API.
+    - cron: "*/30 * * * *"
   workflow_dispatch: # Allow manual trigger
 
 concurrency:
   group: sync_upstream
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   sync-and-update:
@@ -63,6 +66,21 @@ jobs:
         id: detect
         run: python3 .github/scripts/detect_changes.py
 
+      # Runs before the commit: if Discord is down, the notified hashes are not
+      # persisted, so the listings are retried on the next run instead of being
+      # silently marked as sent.
+      - name: Notify Discord
+        if: env.listings_changed == 'true' && steps.detect.outputs.has_new_listings == 'true'
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          jq -c '.[]' .github/scripts/discord_chunks.json | while read -r chunk; do
+            jq -n --argjson content "$chunk" '{"content": $content}' | \
+              curl -sS --fail-with-body -H "Content-Type: application/json" \
+                -d @- "$DISCORD_WEBHOOK_URL"
+            sleep 1
+          done
+
       - name: Commit and push changes
         if: env.listings_changed == 'true'
         run: |
@@ -84,14 +102,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: dev
 
-      - name: Notify Discord
-        if: env.listings_changed == 'true' && steps.detect.outputs.has_new_listings == 'true'
-        run: |
-          MESSAGE=$(cat .github/scripts/discord_message.txt)
-          if [ ${#MESSAGE} -gt 1990 ]; then
-            MESSAGE="${MESSAGE:0:1990}..."
-          fi
-          jq -n --arg content "$MESSAGE" '{"content": $content}' | \
-            curl -s -H "Content-Type: application/json" \
-              -d @- \
-              "${{ secrets.DISCORD_WEBHOOK_URL }}"
