@@ -3508,7 +3508,7 @@
 <td>CSCoE AI for Drug Discovery 🎓 🛂</td>
 <td>New York, NY</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
