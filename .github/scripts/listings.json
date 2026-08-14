@@ -284296,7 +284296,7 @@
         "company_name": "Centerfield",
         "id": "5116a1a4-a977-4162-a4be-3d2edc2d0f4a",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317453,7 +317453,7 @@
         "company_name": "City of Austin",
         "id": "d719e9cc-0e4d-4015-9ad9-367e0858f42d",
         "title": "Research Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327551,7 +327551,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "2115234d-be28-4c20-b435-cbb15464dda9",
         "title": "Global Markets Quantitative Trading Summer Analyst - Capital Markets",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328870,7 +328870,7 @@
         "company_name": "RTX",
         "id": "128dd3ba-dab5-440a-b009-46756de4170e",
         "title": "Digital Finance Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332134,7 +332134,7 @@
         "company_name": "Riverside Research",
         "id": "87c6ebfa-9312-432b-9fc1-a42a8bdcb8a5",
         "title": "Foreign Language Research Analyst - Russian",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -334359,5 +334359,285 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AARP",
+        "id": "ad5fd9f8-d08a-4e9a-b974-0d1f735dccc7",
+        "title": "Data Analyst Intern - Advocacy Data and Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786687021,
+        "date_posted": 1786687016,
+        "url": "https://careers.aarp.org/jobs/7355?icims=1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/AARP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AARP",
+        "id": "5f47f741-a34e-4699-b8f5-02b98d3f86fe",
+        "title": "Data Science and Advanced Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786687021,
+        "date_posted": 1786687015,
+        "url": "https://careers.aarp.org/jobs/7437?icims=1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/AARP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Composio",
+        "id": "4c0cebd4-5e15-474e-8493-34860927bdfb",
+        "title": "Fullstack Engineer Intern - Product Team",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1786687175,
+        "date_posted": 1786687014,
+        "url": "https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Composio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MPR Associates",
+        "id": "3cef95cf-9ef2-4c94-9300-e032d2b20baa",
+        "title": "Engineer Co-op - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1786687163,
+        "date_posted": 1786686966,
+        "url": "https://careers-mpr.icims.com/jobs/1524/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Salt Lake City, UT",
+            "Alexandria, VA",
+            "Burlington, MA",
+            "East Lyme, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/MPR-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pacific Northwest National Laboratory",
+        "id": "d28543b7-a7fc-44e5-8170-698ccc27a4f9",
+        "title": "Masters Intern - Detection Physics",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786687021,
+        "date_posted": 1786686933,
+        "url": "https://careers.pnnl.gov/jobs/11986?icims=1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Pacific-Northwest-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pacific Northwest National Laboratory",
+        "id": "44f2b4fd-9794-4f17-9b94-57b4e1b43ea3",
+        "title": "Detection Physics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786687156,
+        "date_posted": 1786686933,
+        "url": "https://careers.pnnl.gov/jobs/11987?icims=1",
+        "locations": [
+            "Washington"
+        ],
+        "company_url": "https://simplify.jobs/c/Pacific-Northwest-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pacific Northwest National Laboratory",
+        "id": "4a11cda3-4166-42d6-99ed-a4fad1821adb",
+        "title": "Undergraduate Technical Intern - Nuclear Facility",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786687021,
+        "date_posted": 1786686929,
+        "url": "https://careers.pnnl.gov/jobs/12027?icims=1",
+        "locations": [
+            "Richland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pacific-Northwest-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Urban Science",
+        "id": "bde0a523-c49d-4b1f-a46c-f2ff167b4f02",
+        "title": "Data Driven Analysis Intern - Fall 2026",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786687021,
+        "date_posted": 1786686942,
+        "url": "https://careers-urbanscience.icims.com/jobs/5219/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Urban-Science",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "John Deere",
+        "id": "a8b0ed57-9bd2-44a9-9bdc-cd861f297bdb",
+        "title": "Product Engineering Student - Product Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786686869,
+        "date_posted": 1786686721,
+        "url": "https://johndeere.eightfold.ai/careers/job/137482724189",
+        "locations": [
+            "Silvis, IL",
+            "Ames, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "John Deere",
+        "id": "64e37cf1-fc47-4419-9566-1ff18b0512aa",
+        "title": "Technical Data and Analytics Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786686868,
+        "date_posted": 1786686721,
+        "url": "https://johndeere.eightfold.ai/careers/job/137482653232",
+        "locations": [
+            "Champaign, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KeyBank",
+        "id": "093ca891-a330-4763-aeb5-b6195cb0df79",
+        "title": "Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786686516,
+        "date_posted": 1786665600,
+        "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/KeyBank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GSK",
+        "id": "b51925a9-5a99-4ef7-9294-2514bc956ac5",
+        "title": "AI Commercial Strategy & Activation Co-op - AI Strike Team",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786686392,
+        "date_posted": 1786686161,
+        "url": "https://gsk-us-earlytalent.icims.com/jobs/10444/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/GSK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
