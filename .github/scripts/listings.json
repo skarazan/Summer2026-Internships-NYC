@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ensign-Bickford Aerospace & Defense Company",
-        "id": "54225fab-a9fc-4bb9-876f-4d6da5b01bad",
-        "title": "Product Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765940611,
-        "date_posted": 1765940611,
-        "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Product-Engineer-Intern_REQ106959",
-        "locations": [
-            "Simsbury, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Ensign-Bickford-Aerospace-Defense-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Microsoft",
         "id": "99b34e1e-2f56-41b4-8aa7-d8a6719cac6f",
@@ -295958,7 +295937,7 @@
         "company_name": "Zoox",
         "id": "b4979a01-4110-4ef8-a1a3-cf9c33776e5a",
         "title": "Student Worker - Manufacturing Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -331850,7 +331829,7 @@
         "company_name": "RTX",
         "id": "98803f68-563e-4966-9b99-92606c5b702e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333899,5 +333878,486 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KPMG",
+        "id": "449fbbfa-ffc9-46b4-8983-f3bb67052e03",
+        "title": "Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786679879,
+        "date_posted": 1786679751,
+        "url": "https://careers.kpmg.ca/jobs/33306?icims=1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/KPMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KPMG",
+        "id": "69547881-4d9f-4102-b3f4-b7142cd55636",
+        "title": "Product Specialist Intern Co-op - Asset Management Digital Solutions",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786679884,
+        "date_posted": 1786679752,
+        "url": "https://careers.kpmg.ca/jobs/33301?icims=1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/KPMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KPMG",
+        "id": "3df96193-66ef-4f46-b6f1-709ae775a391",
+        "title": "Technical Consultant Intern Co-op - Global Compliance and Transformation",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1786679881,
+        "date_posted": 1786679751,
+        "url": "https://careers.kpmg.ca/jobs/33307?icims=1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/KPMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Teledyne",
+        "id": "b3254ba9-4ac8-4f93-8a5a-67c31517f742",
+        "title": "Software Engineer Intern - NHRC",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786679261,
+        "date_posted": 1786579200,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Teledyne",
+        "id": "46378d7c-8f2b-4684-9119-6454bb14df9b",
+        "title": "Software Engineer Intern - NHRC",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786679256,
+        "date_posted": 1786579200,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "True Anomaly",
+        "id": "8b347fb9-e0fc-41eb-9c15-657806d1607f",
+        "title": "GSE Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786679101,
+        "date_posted": 1786678952,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007",
+        "locations": [
+            "Long Beach, CA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Jane Street",
+        "id": "cfe783b7-14a9-475b-b867-fa47ee7a6ba7",
+        "title": "Trading Desk Operations Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786679124,
+        "date_posted": 1786678903,
+        "url": "https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PIMCO",
+        "id": "d7d2d9a2-c865-47e5-9029-23b28fb08f05",
+        "title": "Client Solutions & Analytics Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786679056,
+        "date_posted": 1786579200,
+        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PIMCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MaxLinear",
+        "id": "8d7b1b4b-f6f4-4db3-929d-3330c61f1430",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786680721,
+        "date_posted": 1786680263,
+        "url": "https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MaxLinear",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Reyes Beverage Group",
+        "id": "c53d912b-b9f7-47d2-b3ee-07e72c708ece",
+        "title": "Commercial Analytics Intern - Beverage Alliance Support",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786680929,
+        "date_posted": 1786680201,
+        "url": "https://jobportal.reyesbeveragegroup.com/jobs/34578?icims=1",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Reyes-Beverage-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MSA Safety",
+        "id": "fd49417f-1327-426c-80eb-88916ec1a934",
+        "title": "Software Engineer Co-op - Product Development",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1786680757,
+        "date_posted": 1786680166,
+        "url": "https://careers.msasafety.com/jobs/9992?icims=1",
+        "locations": [
+            "Cranberry Township, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/MSA-Safety",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Magnera",
+        "id": "fcde5fad-7ca3-4a42-a088-cf0b2bc25cbd",
+        "title": "Data Analyst Intern - Information Technology",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786680689,
+        "date_posted": 1786680140,
+        "url": "https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Evansville, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Magnera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FAST Enterprises",
+        "id": "4c028e78-d6cf-428b-bf6c-595531425a7a",
+        "title": "Implementation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786680001,
+        "date_posted": 1786679934,
+        "url": "https://careers.fastenterprises.com/jobs/1594?icims=1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/FAST-Enterprises",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of China USA",
+        "id": "9dceacf0-6d35-489a-95b3-0b2244d0c8d2",
+        "title": "Data Analytics Audit Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786680166,
+        "date_posted": 1786679921,
+        "url": "https://careers-bocusa.icims.com/jobs/4114/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-China-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of China USA",
+        "id": "fd2f0640-b221-4c71-bf6f-c57f8f5bc712",
+        "title": "Enterprise Risk Management Risk Data Aggregation Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786680153,
+        "date_posted": 1786679916,
+        "url": "https://careers-bocusa.icims.com/jobs/4326/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-China-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bank of China USA",
+        "id": "67073e06-6a56-423e-8829-d36ad479d2fe",
+        "title": "Risk Data Aggregation Intern - Enterprise Risk Management Department",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786680139,
+        "date_posted": 1786679914,
+        "url": "https://careers-bocusa.icims.com/jobs/4470/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-China-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Analysis Group",
+        "id": "e098b71d-fcf5-40ab-b926-e4360d6d93a5",
+        "title": "Research Professional Intern - Generalist",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786680069,
+        "date_posted": 1786679873,
+        "url": "https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Analysis-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arlington County VA",
+        "id": "aba2e6b6-e001-4a16-b50b-cbbb5f6f8ef2",
+        "title": "Business Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786683421,
+        "date_posted": 1786683389,
+        "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1727",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arlington-County-VA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SAM",
+        "id": "4d89d8ce-29c7-48d4-9a03-db3096797ce6",
+        "title": "Geomatics Technician Apprentice - Survey and Mapping",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786682029,
+        "date_posted": 1786680657,
+        "url": "https://careers.sam.biz/jobs/7674?icims=1",
+        "locations": [
+            "Knoxville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/SAM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SAM",
+        "id": "e683494b-e060-4b63-a084-41f4f799a3be",
+        "title": "Geomatics Technician Apprentice - Survey and Mapping",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786682014,
+        "date_posted": 1786680649,
+        "url": "https://careers.sam.biz/jobs/7782?icims=1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/SAM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SAM",
+        "id": "4602a786-39e3-49a4-9555-f9f0c95fc992",
+        "title": "Geomatics Technician Apprentice - Survey and Mapping",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786682014,
+        "date_posted": 1786680649,
+        "url": "https://careers.sam.biz/jobs/7780?icims=1",
+        "locations": [
+            "Warner Robins, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/SAM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
