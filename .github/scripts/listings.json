@@ -1,47 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "99b34e1e-2f56-41b4-8aa7-d8a6719cac6f",
-        "title": "Research Intern - LLM Performance Optimization",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765966757,
-        "date_posted": 1765966757,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556643548",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "f5056a7b-9649-4652-9171-8fffe8930d0b",
-        "title": "Powertrain Software AI Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765966977,
-        "date_posted": 1765966977,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000099316215",
-        "locations": [
-            "Coventry, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1767712029,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -42757,7 +42715,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -285363,7 +285321,7 @@
         "company_name": "Copart",
         "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -285552,7 +285510,7 @@
         "company_name": "Applied Intuition",
         "id": "59023951-9789-4da2-b485-241751672517",
         "title": "Research Intern - Robotic Hardware - Simulation and Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302655,7 +302613,7 @@
         "company_name": "Magna",
         "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
         "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -303026,7 +302984,7 @@
         "company_name": "PGIM",
         "id": "2f47de17-a088-41a1-8238-0a8713c924ae",
         "title": "Private Credit \u2013 Investment Analyst Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -303768,7 +303726,7 @@
         "company_name": "Copart",
         "id": "2852d53d-1e2d-4026-9f6f-90758dc79f0a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -310979,7 +310937,7 @@
         "company_name": "Ambarella",
         "id": "8fc7291e-0de8-484f-8554-ea5ae8d9b5dd",
         "title": "Algorithm Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331361,7 +331319,7 @@
         "company_name": "PathAI",
         "id": "5de68737-25b5-4f5a-bfca-7ade84c68491",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334726,6 +334684,98 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ByteDance",
+        "id": "f9cd7f8b-40b0-42a5-8bd2-f23dfd7d8ac5",
+        "title": "ASIC Design Engineer Intern - Video Silicon IP",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786699981,
+        "date_posted": 1786699870,
+        "url": "https://jobs.bytedance.com/en/position/7673638856678279429/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "acad052e-b794-4a83-82c4-4d5ff40c200d",
+        "title": "Self-Built Engineer Intern - CDN Platform",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786699981,
+        "date_posted": 1786699865,
+        "url": "https://jobs.bytedance.com/en/position/7673617571165620533/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "a46d596b-c711-4444-99f7-3c846ae35bb6",
+        "title": "Self-Built Engineer Intern - CDN Platform",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786699981,
+        "date_posted": 1786699876,
+        "url": "https://jobs.bytedance.com/en/position/7673608499872827701/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Penta Group",
+        "id": "61c28f00-6cc4-4b2c-b4c5-4694f5775150",
+        "title": "Monitoring & Insights Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786703443,
+        "date_posted": 1785852568,
+        "url": "https://jobs.lever.co/pentagrp/501478ea-6890-47e2-8994-96e50b1159f0/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/347fb703-2342-4693-ad31-908e90f7bb34",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
