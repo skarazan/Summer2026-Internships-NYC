@@ -305083,7 +305083,7 @@
         "company_name": "SpreeAI ",
         "id": "b307b311-8a8c-4096-bd3b-0d244f3423f0",
         "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332023,7 +332023,7 @@
         "company_name": "TMEIC Corporation Americas",
         "id": "8805a32d-c38e-4a8a-8843-ed203eec617f",
         "title": "Engineer Intern - Spring 2027 - Eis",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -334781,5 +334781,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SciTec",
+        "id": "8cc2b117-a376-460c-9c26-471a354baad2",
+        "title": "Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786706656,
+        "date_posted": 1774574048,
+        "url": "https://apply.workable.com/scitec/j/3650732037/apply",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SciTec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
