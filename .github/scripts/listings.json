@@ -311384,7 +311384,7 @@
         "company_name": "Magna",
         "id": "75ba4d37-69a8-4034-b556-d8837ef4a500",
         "title": "IoT Systems Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331574,7 +331574,7 @@
         "company_name": "Johnson & Johnson",
         "id": "6c13af7d-5b49-4b19-b7c5-7971752a5cea",
         "title": "AI & Digital Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333458,7 +333458,7 @@
         "company_name": "Intel",
         "id": "67572b55-5985-4ac4-b570-47455734d5f3",
         "title": "Physical Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
