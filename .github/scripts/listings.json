@@ -47822,7 +47822,7 @@
         "company_name": "Boston Consulting Group",
         "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
         "title": "AI Engineer Intern - BCG X",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -328647,7 +328647,7 @@
         "company_name": "Regions Bank",
         "id": "22d53d9b-65a0-477b-8dc6-5dc0de1847f5",
         "title": "Technology, Operations, Digital and Data Development Program Associate - Operations - Digital",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330535,7 +330535,7 @@
         "company_name": "RTX",
         "id": "fc4a0ca4-5bba-4b25-abdc-d15091093548",
         "title": "Validation Engineer Intern - Product Safety - Certification & Validation",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334471,6 +334471,194 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Freeform",
+        "id": "6e3ed174-33a5-41fb-9927-ca07c12a6774",
+        "title": "Software Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786768589,
+        "date_posted": 1786768536,
+        "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/FreeformFuture",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hypercubic",
+        "id": "ee23b508-8622-4e85-a48c-712f76a6db3b",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786768252,
+        "date_posted": 1786768087,
+        "url": "https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/295ce439-0ee2-4097-9da1-3a5cbab21c26",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abridge",
+        "id": "7b78baf6-f74f-4d7b-924f-a68d5e0e0dbf",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786768254,
+        "date_posted": 1786768120,
+        "url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Abridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+        "title": "Quantitative Strategist Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786768208,
+        "date_posted": 1786767954,
+        "url": "https://higher.gs.com/roles/175424?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
+        "title": "Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786768198,
+        "date_posted": 1786767950,
+        "url": "https://higher.gs.com/roles/171437?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
+        "title": "Summer Associate Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786768198,
+        "date_posted": 1786767953,
+        "url": "https://higher.gs.com/roles/171566?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Goldman Sachs",
+        "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
+        "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786768197,
+        "date_posted": 1786767949,
+        "url": "https://higher.gs.com/roles/170935?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+        "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786768197,
+        "date_posted": 1786767954,
+        "url": "https://higher.gs.com/roles/175423?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
         ]
     }
 ]
