@@ -1,71 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Crane Co.",
-        "id": "03f529ba-ec2e-4f9c-91f6-058feebe17d8",
-        "title": "Software Engineer",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766024454,
-        "date_posted": 1766024454,
-        "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Saddle-Brook-New-Jersey/Software-Engineer-Intern_JR100691",
-        "locations": [
-            "Saddle Brook, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Crane-Co",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ASML",
-        "id": "f153b6a1-2724-4f10-8235-60e15e5829a9",
-        "title": "Intern - Optical Product Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766025772,
-        "date_posted": 1766025772,
-        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Optical-Product-Engineering--_J-00327849",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ASML",
-        "id": "06424295-34ca-4f7a-88b7-0bb5ad17827a",
-        "title": "Intern - Platform Software Engineer In Test",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766025770,
-        "date_posted": 1766025770,
-        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Platform-Software-Engineer-In-Test_J-00328058",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ASML",
         "id": "eed51eb7-bede-4f72-acd0-f9bce950b74d",
@@ -81,49 +16,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Atlassian",
-        "id": "4c622495-f710-496f-8956-4dd2962e806e",
-        "title": "PhD AI Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766024813,
-        "date_posted": 1766024813,
-        "url": "https://campus-americas.icims.com/jobs/23008/phd-ai-research-intern%2c-2026-summer-canada/job",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Atlassian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Samsung Research America",
-        "id": "acf9910e-191b-4a1d-b33b-acf03a22163f",
-        "title": "2026 Intern - AI Algorithm NPU Simulation - Spring/Summer",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1766024491,
-        "date_posted": 1766024491,
-        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8329802002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung-Research-America",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -9670,27 +9562,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/AMC-Networks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Marvell",
-        "id": "dbad81b0-1aaf-4d32-8213-f645ba8f1ced",
-        "title": "Design DSP Verification Intern - Bachelor's Degree",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766024265,
-        "date_posted": 1766024265,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-DSP-Verification-Intern---Bachelor-s-Degree_2503928",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -39442,29 +39313,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Marvell",
-        "id": "6831d1e8-ab0d-4b48-b538-12d8658a1fbe",
-        "title": "Design DSP Verification Intern - Bachelor's Degree",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766024265,
-        "date_posted": 1766024265,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-DSP-Verification-Intern---Bachelor-s-Degree_2503928-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -270269,7 +270117,7 @@
         "company_name": "Nidec",
         "id": "cfb9b365-0e85-49d1-ab5a-875453786a75",
         "title": "Application Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326775,7 +326623,7 @@
         "company_name": "Truist Bank",
         "id": "47af09f8-fbb3-4457-8694-17076a62cd06",
         "title": "Technology and Operations Intern Conversion - Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333170,7 +333018,7 @@
         "company_name": "University of Pikeville",
         "id": "7c0230d2-2b89-42c4-a691-ceb3f880dd7b",
         "title": "Economic Development and Tourism Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
