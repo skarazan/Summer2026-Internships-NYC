@@ -1,28 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Atos",
-        "id": "7dc534cf-9069-492d-a481-f5aec67c8483",
-        "title": "Digital & AI Apprenticeship",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766058510,
-        "date_posted": 1766058510,
-        "url": "https://jobs.atos.net/job/Birmingham-Digital-&-AI-Apprenticeship/1269357601/?ats=successfactors",
-        "locations": [
-            "London, UK",
-            "Northwich, UK",
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Atos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1766093228,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -193162,52 +193139,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "0cc4797c-81ae-43bc-85bb-ba188815da52",
-        "title": "Machine Learning Scientist Intern - TikTok Recommendation",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766059734,
-        "date_posted": 1766059734,
-        "url": "https://lifeattiktok.com/search/7519241729582516487",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "aea71032-563a-4c3c-aade-447f8ec52a91",
-        "title": "Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766059093,
-        "date_posted": 1766059093,
-        "url": "https://lifeattiktok.com/search/7527589875165563143",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "TikTok",
         "id": "fe3ab54a-d42a-47ab-acb5-7781d79c5ca8",
@@ -287209,7 +287140,7 @@
         "company_name": "Netflix",
         "id": "dee128c9-ea09-43a7-b1c8-6ab36d14287e",
         "title": "AI/ML Scientist Intern - AIMS AI Foundations",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -311384,7 +311315,7 @@
         "company_name": "Magna",
         "id": "75ba4d37-69a8-4034-b556-d8837ef4a500",
         "title": "IoT Systems Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -326865,7 +326796,7 @@
         "company_name": "RLI",
         "id": "887bd43f-e027-47d5-b8ee-3d03c067e13c",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332934,7 +332865,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "96d0c172-f893-4193-9ab7-44f5238a335c",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333737,7 +333668,7 @@
         "company_name": "Interdigital",
         "id": "7d3756e8-9e17-44bb-b29f-751947fabf50",
         "title": "Wireless Engineering Intern - 6G Wireless Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334464,7 +334395,7 @@
         "company_name": "Goldman Sachs",
         "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -334534,7 +334465,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
