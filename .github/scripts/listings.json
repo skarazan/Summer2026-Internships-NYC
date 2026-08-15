@@ -1,52 +1,5 @@
 [
     {
-        "date_updated": 1766093228,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/77660aee-f8b9-440b-9d4a-93de7178631f",
-        "company_name": "Veolia",
-        "title": "Manufacturing Software Engineer Intern",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "3b4783c2-a632-4cac-a7a8-27bcc1193729",
-        "date_posted": 1766068028,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1766068117,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/the-exploration-company/da63221d-dd60-41fe-8dd5-bb1a565a7824",
-        "company_name": "The Exploration Company",
-        "title": "Crew Systems Engineering Intern - Avionics/Software",
-        "locations": [
-            "Houston, TX"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Winter 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "a90e94a6-f0e5-4b60-b6bf-9fa45dfe9400",
-        "date_posted": 1766068117,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Product",
         "company_name": "Cook Group",
@@ -135048,7 +135001,7 @@
         "company_name": "Tencent",
         "id": "f682356d-55da-4f90-987d-77f140cc652d",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323800,7 +323753,7 @@
         "company_name": "Canva",
         "id": "8695d3de-326d-44ff-976a-ba070dbbe750",
         "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -324422,7 +324375,7 @@
         "company_name": "Canva",
         "id": "24e7466f-1151-4ad5-80f0-97bc9df8d2c8",
         "title": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
