@@ -47739,7 +47739,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -283381,7 +283381,7 @@
         "company_name": "Copart",
         "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289205,7 +289205,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "b36e0497-4128-473a-8643-099bbb5c9d0e",
         "title": "Engineering Intern - Product Development Track",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -303463,7 +303463,7 @@
         "company_name": "Mobius Renewables",
         "id": "8a94a455-b2cb-44e4-9b0b-00bfda978a73",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329140,7 +329140,7 @@
         "company_name": "Zoox",
         "id": "300bffa5-8c04-495e-a2c8-6487f0ae85ec",
         "title": "Machine Learning Engineer Student Worker - Data Mining & VLM",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -331856,7 +331856,7 @@
         "company_name": "RTX",
         "id": "45df96a1-aefa-4c09-ae4c-5c32680da300",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334595,5 +334595,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "aa0ebb73-f646-4f78-ac9d-900e2925f3e9",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786784821,
+        "date_posted": 1786665600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
