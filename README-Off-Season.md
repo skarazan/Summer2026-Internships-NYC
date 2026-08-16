@@ -170,7 +170,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Muru</strong></td>
 <td>Mobile Software Engineer Intern 🛂</td>
 <td>New York, NY</td>
 <td>Fall 2026</td>

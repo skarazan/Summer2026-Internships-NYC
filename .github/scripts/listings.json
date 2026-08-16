@@ -1782,27 +1782,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Bristol Myers Squibb",
-        "id": "3dda6268-4a62-468d-ac00-56d9b4317638",
-        "title": "Intern Statistical Programmer",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766250841,
-        "date_posted": 1766148319,
-        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Boudry---CH/Junior--Statistical-Programming_R1597990",
-        "locations": [
-            "Uxbridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Tencent",
         "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
         "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
@@ -219961,7 +219940,7 @@
         "company_name": "Tencent",
         "id": "ba133a6e-7d68-423a-a0ab-6235909272c2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
