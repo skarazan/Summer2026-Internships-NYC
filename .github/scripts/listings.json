@@ -285517,7 +285517,7 @@
         "company_name": "Palantir",
         "id": "fa7fbaf4-50b2-4148-af69-22df652b6fd5",
         "title": "Forward Deployed Software Engineer Intern - Intel",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2028"
@@ -330038,7 +330038,7 @@
         "company_name": "AltaGas",
         "id": "8a4adc2e-9c94-4aca-a96e-f08577bb106e",
         "title": "Data Science and Analytics Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330481,7 +330481,7 @@
         "company_name": "Dallas College",
         "id": "cec6b144-6a34-4f46-b66b-286ebe63fabd",
         "title": "SAS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
