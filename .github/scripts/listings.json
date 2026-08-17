@@ -315359,7 +315359,7 @@
         "company_name": "Samsara",
         "id": "43a2a7c2-28cb-4d16-9914-b1e324a8c4a5",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2028"
         ],
@@ -328528,7 +328528,7 @@
         "company_name": "SAM",
         "id": "4d89d8ce-29c7-48d4-9a03-db3096797ce6",
         "title": "Geomatics Technician Apprentice - Survey and Mapping",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329236,7 +329236,7 @@
         "company_name": "Arevon",
         "id": "3df0dee1-2ac5-4bbe-b99a-36f1eeb8f927",
         "title": "Data Science Intern - Interconnection & Transmission",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331618,6 +331618,29 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "7244fd6b-6336-4205-9fc3-64dd353ab215",
+        "title": "GridOS Solution Integration Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786994901,
+        "date_posted": 1786924800,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Edinburgh/GridOS-Solution-Integration--Intern_R5049844-1",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
