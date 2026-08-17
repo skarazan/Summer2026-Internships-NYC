@@ -302797,7 +302797,7 @@
         "company_name": "Rivian",
         "id": "c2ae75ae-db63-4c6a-8c96-45db53afbd4c",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -318349,7 +318349,7 @@
         "company_name": "GE Appliances",
         "id": "ea40b09a-1b9a-48b0-8330-24a499d63fe8",
         "title": "Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328410,7 +328410,7 @@
         "company_name": "FAST Enterprises",
         "id": "4c028e78-d6cf-428b-bf6c-595531425a7a",
         "title": "Implementation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331062,5 +331062,370 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "9c12dcc7-3cb4-42ae-9f92-b25cd4e324c3",
+        "title": "DRAM Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786974922,
+        "date_posted": 1786924800,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Smiths Detection Group",
+        "id": "58e947f1-9077-412b-ba6c-b7399ec951f9",
+        "title": "Commercial Intern - Commercial Tools & Business Intelligence",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786974482,
+        "date_posted": 1786974350,
+        "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000143823899",
+        "locations": [
+            "Slough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Smiths-Detection-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Google",
+        "id": "7e2511aa-764b-4960-9904-c05775bf9bce",
+        "title": "Data Science PhD Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786973761,
+        "date_posted": 1786973581,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "W.W. Grainger",
+        "id": "c101d2aa-a5df-4f4b-b719-e88358c1f874",
+        "title": "Business Systems Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786973456,
+        "date_posted": 1786973311,
+        "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Business-Systems-Analyst-IL-60654-4203/1419931200/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/WW-Grainger",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "W.W. Grainger",
+        "id": "bb0509d1-41ed-4c91-ba8b-14fa499ce25c",
+        "title": "Business Intelligence 1 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786973456,
+        "date_posted": 1786973296,
+        "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Business-Intelligence-1-IL-60661-4555/1419931300/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/WW-Grainger",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "W.W. Grainger",
+        "id": "367919b2-9f9f-4104-a7e7-811ae0b98c01",
+        "title": "Software Engineer Intern - Grainger Technology Group",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786973453,
+        "date_posted": 1786973318,
+        "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/WW-Grainger",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "154ae79b-60c6-40a6-9be2-a48637bb96ff",
+        "title": "Machine Learning Engineer Intern - E-Commerce Governance",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786973042,
+        "date_posted": 1786972912,
+        "url": "https://lifeattiktok.com/search/7674029136531015941",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "e95cee0e-a2ed-44d1-9017-9befd82e1561",
+        "title": "Data Engineer Intern - Data Platform Global Live",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786973042,
+        "date_posted": 1786972909,
+        "url": "https://lifeattiktok.com/search/7674032146438162693",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "d4e10f5f-fe79-4c2f-bee7-b413db703e65",
+        "title": "Data Analyst Intern - LIVE",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786973042,
+        "date_posted": 1786972918,
+        "url": "https://lifeattiktok.com/search/7674944387893791029",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dmg Media",
+        "id": "9f12aa49-d6c0-477e-a5c2-057f17231581",
+        "title": "Editorial Innovation Intern - Innovation Team",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786972501,
+        "date_posted": 1786972330,
+        "url": "https://www.dmgmedia.co.uk/careers/jobs/id/8130320?gh_jid=8130320",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Dmg-Media",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dayshape",
+        "id": "baec2182-f1a3-471d-b026-bb9c51afb325",
+        "title": "Software Engineer Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786972501,
+        "date_posted": 1786411944,
+        "url": "https://apply.workable.com/dayshape/j/19F2A4F3F3/apply",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ced14a02-bd75-4f90-8f5e-0c2c7f4573f5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "9831795d-d949-4a7a-87dd-f11aad5dc0c8",
+        "title": "Software Engineer Intern - Enterprise Technology Services",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786972386,
+        "date_posted": 1786972304,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "c344d643-aa8d-4d64-a497-67a78ca63dc9",
+        "title": "Software Engineer Intern - Enterprise Technology Services",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786972383,
+        "date_posted": 1786972303,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian",
+        "id": "b6112e21-7193-4107-bf60-6a9ac74a7a62",
+        "title": "FPGA Design Intern - FPGA Design",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786975776,
+        "date_posted": 1786975587,
+        "url": "https://careers.rivian.com/jobs/32954?icims=1",
+        "locations": [
+            "Champaign, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FAST Enterprises",
+        "id": "7838c307-daa5-4e75-b8c2-7218ab2354cb",
+        "title": "Implementation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786975561,
+        "date_posted": 1786975505,
+        "url": "https://careers.fastenterprises.com/jobs/1709?icims=1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/FAST-Enterprises",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Levi Strauss & Co.",
+        "id": "2d31a59a-d33d-49cb-be61-428d92dfb81f",
+        "title": "Analytics Intern - eCommerce",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786975220,
+        "date_posted": 1786924800,
+        "url": "https://levistraussandco.wd5.myworkdayjobs.com/external/job/London-United-Kingdom/Analytics-Intern_R-0155618-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Levi-Strauss-And-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
