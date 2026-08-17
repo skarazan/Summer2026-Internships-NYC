@@ -285517,7 +285517,7 @@
         "company_name": "Palantir",
         "id": "fa7fbaf4-50b2-4148-af69-22df652b6fd5",
         "title": "Forward Deployed Software Engineer Intern - Intel",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2028"
@@ -310120,7 +310120,7 @@
         "company_name": "CLEAResult",
         "id": "35d8cb0a-56cf-478f-80bb-73ba1dafbac2",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -318349,7 +318349,7 @@
         "company_name": "GE Appliances",
         "id": "ea40b09a-1b9a-48b0-8330-24a499d63fe8",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330481,7 +330481,7 @@
         "company_name": "Dallas College",
         "id": "cec6b144-6a34-4f46-b66b-286ebe63fabd",
         "title": "SAS Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
