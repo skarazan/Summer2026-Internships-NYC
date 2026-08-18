@@ -288936,7 +288936,7 @@
         "company_name": "Horizon Industries",
         "id": "1f3b2933-fe37-4e8a-b727-eb9166e6df99",
         "title": "Appian Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -299517,7 +299517,7 @@
         "company_name": "Gitar, Inc.",
         "id": "c8b23aef-956a-4e8f-bf36-9f747b2a67ef",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -299584,7 +299584,7 @@
         "company_name": "Pendulum Intelligence",
         "id": "3e2fa4d6-9588-4f77-a073-1747d963be9e",
         "title": "Product Manager Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -325613,7 +325613,7 @@
         "company_name": "Sentry",
         "id": "4165516a-c0f2-4f44-a98a-ad4501fb11ad",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327876,7 +327876,7 @@
         "company_name": "Altera Corporation",
         "id": "0cde1dc3-c743-448c-bce2-37ae6da5bb38",
         "title": "Embedded Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333692,5 +333692,48 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AeroVect",
+        "id": "70360c1f-0b61-408f-a791-83eec1e97173",
+        "title": "Autonomy Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787016242,
+        "date_posted": 1787015933,
+        "url": "https://jobs.smartrecruiters.com/AeroVect/743999725988642",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Riveron",
+        "id": "6359c80a-9d69-4dcc-9607-0b4506269693",
+        "title": "Technology & Innovation Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787018778,
+        "date_posted": 1787018698,
+        "url": "https://jobs.ashbyhq.com/riveron/a1c4ef22-34a2-43b8-950d-ca6288cc17a1/application?embed=true",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Riveron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
