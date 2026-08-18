@@ -25848,27 +25848,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "University of Virginia",
-        "id": "d56d3e29-c74e-4d84-bf03-2e5550280d78",
-        "title": "Research Computing Assistant",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1766274592,
-        "date_posted": 1766274592,
-        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Research-Computing-Assistant--Student-Wage-_R0079054",
-        "locations": [
-            "Charlottesville, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Auctane",
         "id": "9a4bb2dd-90a7-47b4-bbc8-f65bfe3a038b",
         "title": "Data Engineering Intern",
@@ -299538,7 +299517,7 @@
         "company_name": "Gitar, Inc.",
         "id": "c8b23aef-956a-4e8f-bf36-9f747b2a67ef",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -299605,7 +299584,7 @@
         "company_name": "Pendulum Intelligence",
         "id": "3e2fa4d6-9588-4f77-a073-1747d963be9e",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333437,6 +333416,281 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fannie Mae",
+        "id": "233be5a1-8ddf-4ec6-b781-965da462a12d",
+        "title": "Business Analysis Associate Intern - Access Management",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787016332,
+        "date_posted": 1787015687,
+        "url": "https://jobs.smartrecruiters.com/FannieMae1SB/743999744532787",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fannie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fannie Mae",
+        "id": "02d12760-33ed-4f97-8ffc-4f561fac43d0",
+        "title": "Data Science Analyst 3 Intern - Cat J",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787016333,
+        "date_posted": 1787015687,
+        "url": "https://jobs.smartrecruiters.com/FannieMae1SB/743999731568800",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fannie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fannie Mae",
+        "id": "c5516e50-b1a8-441d-9076-b94678ed180e",
+        "title": "Business Analysis Associate Intern - Access Management",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787016327,
+        "date_posted": 1787015687,
+        "url": "https://jobs.smartrecruiters.com/FannieMae1SB/743999744544704",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Fannie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Clinical Ink",
+        "id": "755ab199-3b9d-4f50-b01e-64cf91ca54cf",
+        "title": "Data Management Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787015702,
+        "date_posted": 1787015544,
+        "url": "https://jobs.smartrecruiters.com/ClinicalInk/89163444",
+        "locations": [
+            "Horsham, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Clinical-Ink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RegDesk",
+        "id": "7a1b2d0b-fb4d-450e-9f60-44a50b914ab1",
+        "title": "Front End Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787015903,
+        "date_posted": 1787015535,
+        "url": "https://jobs.smartrecruiters.com/RegDeskInc/92145731",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/RegDesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "iFLIP4",
+        "id": "188a7730-e0e6-4d6b-b1fb-5550f2812d43",
+        "title": "PHP Programmer Intern - Social Enterprise",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787015807,
+        "date_posted": 1787015506,
+        "url": "https://jobs.smartrecruiters.com/iFLIP4/75391381",
+        "locations": [
+            "East Hanover, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/IFLIP4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SightCall",
+        "id": "06d4f7fc-332c-4434-9f9b-abc6fc22ddca",
+        "title": "Web Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787015763,
+        "date_posted": 1787015490,
+        "url": "https://jobs.smartrecruiters.com/SightCall/80298252",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/SightCall",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zoomifier",
+        "id": "149cce4b-7421-4fc6-8841-bd40fabd4c41",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787015521,
+        "date_posted": 1787015434,
+        "url": "https://jobs.smartrecruiters.com/CustomShow/75886593",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoomifier",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Encephalo Investments",
+        "id": "a4cdc0e5-bf6b-4620-a36e-7486462931cc",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787015676,
+        "date_posted": 1787015436,
+        "url": "https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349",
+        "locations": [
+            "Woodbury, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Encephalo-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huck Adventures",
+        "id": "c7193815-11e7-469c-8ad5-9b5e6133f685",
+        "title": "Research Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1787015521,
+        "date_posted": 1787015374,
+        "url": "https://jobs.smartrecruiters.com/HuckAdventures/743999747985535",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Huck-Adventures",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KOSTAL Group",
+        "id": "d269fad7-d513-4c35-b790-f31017a09c8a",
+        "title": "Systems Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787015341,
+        "date_posted": 1787015309,
+        "url": "https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225",
+        "locations": [
+            "Troy, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KOSTAL-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Express",
+        "id": "838b7d8e-c2bf-4395-b660-6f3484019451",
+        "title": "AI Engineer Intern - Enterprise Technology Services",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787005012,
+        "date_posted": 1787004631,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
