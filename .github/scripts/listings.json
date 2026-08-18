@@ -71861,7 +71861,7 @@
         "company_name": "Dryft",
         "id": "bc6607ea-5320-4f25-8647-3ba280377230",
         "title": "Full-Stack Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -330650,7 +330650,7 @@
         "company_name": "Goldman Sachs",
         "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -330671,7 +330671,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -330720,7 +330720,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -332635,7 +332635,7 @@
         "company_name": "Centific",
         "id": "68016175-f4c9-47e9-bcd4-d43fd815a73f",
         "title": "Technical Intern - Masters or PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334596,5 +334596,146 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "5b89096d-a6c7-439f-9d03-ebdd62e2588a",
+        "title": "Data Science Project Intern - Advertisement Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1787045041,
+        "date_posted": 1787044950,
+        "url": "https://lifeattiktok.com/search/7675080308216154373",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "d0ef3f91-dcd5-437e-92c9-83432ed6e284",
+        "title": "Product Manager Intern - Business Integrity",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1787045114,
+        "date_posted": 1787044952,
+        "url": "https://lifeattiktok.com/search/7673895973460576517",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "cf6b0d27-3846-4140-9653-2b514487fa4b",
+        "title": "Category Management Project Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1787045041,
+        "date_posted": 1787044951,
+        "url": "https://lifeattiktok.com/search/7674880292247406901",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "5fef5ebc-9956-4edd-8a29-1eee01522d58",
+        "title": "Software Engineer Intern - TikTok Search Data Infrastructure",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1787045041,
+        "date_posted": 1787044949,
+        "url": "https://lifeattiktok.com/search/7675129440242010421",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "b639bba8-cb2b-4262-9125-9b56aeefa4cb",
+        "title": "Software Engineer Intern - TikTok Search Data Infra",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787045041,
+        "date_posted": 1787044952,
+        "url": "https://lifeattiktok.com/search/7675128776856029445",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Reconnaissance Office",
+        "id": "5fc86d18-cd9e-4d79-9edc-a162318dd4fb",
+        "title": "Summer Internship - Dr. Chris Scolese",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787044741,
+        "date_posted": 1787017152,
+        "url": "https://nro.applytojob.com/apply/oZyJp3ZEQh/2027-Dr-Chris-Scolese-Summer-Internship-Program",
+        "locations": [
+            "Aurora, CO",
+            "Chantilly, VA",
+            "White Sands Missile Range, NM",
+            "Fort Belvoir, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Reconnaissance-Office",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
