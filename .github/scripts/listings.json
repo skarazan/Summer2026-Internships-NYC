@@ -224796,7 +224796,7 @@
         "company_name": "Nokia",
         "id": "c3656022-c1f5-43d7-9752-dacfb3d6479d",
         "title": "Hardware Developer Engineer Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -268673,7 +268673,7 @@
         "company_name": "Centerfield",
         "id": "6b82845f-920e-43ac-9aab-77038fb0b19b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -270535,7 +270535,7 @@
         "company_name": "Anduril",
         "id": "c1623229-faaa-4f1d-bdd8-fc0b46bc74a0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -275277,7 +275277,7 @@
         "company_name": "Together AI",
         "id": "8c2dd64a-e3b1-4a40-a38f-718fcba4f293",
         "title": "Research Intern - Model Shaping",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -284647,7 +284647,7 @@
         "company_name": "Magna",
         "id": "3ddc1130-8b7c-449d-ae26-330f7dd9334b",
         "title": "Computer Vision Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -288974,7 +288974,7 @@
         "company_name": "Cadence Design Systems",
         "id": "9778af58-1bb3-45ce-8c29-a47b0cc9fb65",
         "title": "Characterization and Support Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -324624,7 +324624,7 @@
         "company_name": "Cambium Learning Group",
         "id": "ef507edc-8e28-42bb-8700-a616adc2d5cb",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325006,7 +325006,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "072dbf25-7509-499b-9478-b00e9e52963d",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336735,5 +336735,268 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Navi AI",
+        "id": "f604dc8f-746a-458d-a75a-2a032c82eaf7",
+        "title": "Device Build Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787178487,
+        "date_posted": 1787178286,
+        "url": "https://jobs.ashbyhq.com/navi/8fb91a5f-9b08-466f-9106-a0a391777160/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Navi-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "7c6161a2-8ffc-443d-96ee-276bd5edf320",
+        "title": "Fundamental Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787178486,
+        "date_posted": 1787178284,
+        "url": "https://www.citadelsecurities.com/careers/details/trading-fundamental-analyst-intern-us/",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Pikeville",
+        "id": "930e491c-42f6-4293-99d8-389cc8248951",
+        "title": "Policy Analyst Intern - Center for Public Service",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Spring 2027"
+        ],
+        "date_updated": 1787178467,
+        "date_posted": 1787178254,
+        "url": "https://upike.bamboohr.com/careers/511/",
+        "locations": [
+            "Pikeville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Pikeville",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Regions Bank",
+        "id": "8c04dc52-976b-4e59-af17-e239d9f6fb47",
+        "title": "Technology, Operations, Digital, and Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787178261,
+        "date_posted": 1787097600,
+        "url": "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Analytics_R105426",
+        "locations": [
+            "Hoover, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Regions-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "82823c58-ec25-462f-a885-fbf297c25a22",
+        "title": "Workforce Analyst Co-op Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787178123,
+        "date_posted": 1787097600,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Teledyne",
+        "id": "83fcabf7-15f4-4213-8f40-a3a037dc3288",
+        "title": "AI & Automation Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787178119,
+        "date_posted": 1787097600,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/AI---Automation-Engineering-Co-op_REQ36054",
+        "locations": [
+            "Waterloo, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Teledyne",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zipline",
+        "id": "c6c14151-e693-4703-a811-df609af2491a",
+        "title": "Hardware Test Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787177882,
+        "date_posted": 1787177829,
+        "url": "https://www.zipline.com/open-roles?gh_jid=7903483003",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Humana",
+        "id": "3cac9449-de39-427f-a7fd-9b22e0d04497",
+        "title": "Technology Intern - Early ID Participants",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787178093,
+        "date_posted": 1787097600,
+        "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027--Early-ID-Participants-_R-427451",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Humana",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zipline",
+        "id": "d22319c5-1c28-4f5e-80d4-ba370e9bb328",
+        "title": "Computational Physics Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787177882,
+        "date_posted": 1787177826,
+        "url": "https://www.zipline.com/open-roles?gh_jid=7904720003",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Swift",
+        "id": "33253553-587b-447c-a021-ee8d32ddded1",
+        "title": "Standards Strategy & Product Management Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787177882,
+        "date_posted": 1787097600,
+        "url": "https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Standards-Strategy---Product-Management-Intern_2026-16374",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Swift",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zipline",
+        "id": "071765de-4952-4b97-af1c-89b300f431f8",
+        "title": "Hardware Test Intern - Spring 2027",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787178244,
+        "date_posted": 1787177829,
+        "url": "https://www.zipline.com/open-roles?gh_jid=7894349003",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Detroit Lions",
+        "id": "56a21d95-83ac-422a-a120-c42135cb3748",
+        "title": "Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787177701,
+        "date_posted": 1787177538,
+        "url": "https://job-boards.greenhouse.io/detroitlions/jobs/4723291005",
+        "locations": [
+            "Allen Park, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Detroit-Lions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
