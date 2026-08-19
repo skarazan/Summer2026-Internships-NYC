@@ -336203,5 +336203,102 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "b5b15050-2287-4ebf-8a26-f0745c794fd3",
+        "title": "AI Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787128144,
+        "date_posted": 1787127974,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+        "locations": [
+            "Redmond, WA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Normal Computing",
+        "id": "1005bf9b-20cc-4e7e-a770-9c2ce6ed1a37",
+        "title": "Thermodynamic Hardware Resident",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787128138,
+        "date_posted": 1787127897,
+        "url": "https://jobs.ashbyhq.com/normalcomputing/5d57d8b1-612d-4ee0-941e-78a032a1ada2/application?embed=true",
+        "locations": [
+            "Palo Alto, CA",
+            "Silicon Valley, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/NormalComputing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "20db6da0-8e69-4119-8287-080208c765ec",
+        "title": "Machine Learning Engineer Intern - E-Commerce Risk Control - PhD",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787127841,
+        "date_posted": 1787127714,
+        "url": "https://jobs.bytedance.com/en/position/7675478684795881781/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "19652a32-abb6-4c77-8971-0c6514ed8034",
+        "title": "Machine Learning Engineer Intern - E-Commerce Risk Control - PhD",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787127841,
+        "date_posted": 1787127715,
+        "url": "https://jobs.bytedance.com/en/position/7675477254269765941/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
