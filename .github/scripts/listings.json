@@ -1,72 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nokia",
-        "id": "6182ea66-1e56-4555-ae2a-ef6b6162888f",
-        "title": "Cloud AI-RAN R&D Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1766420551,
-        "date_posted": 1766420551,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28498",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "3e2790a0-da8d-4dbe-a24b-673bd4c639e1",
-        "title": "AI Research Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1766420534,
-        "date_posted": 1766420534,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000100086635",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "3032eac0-d6f1-439a-aa74-0b69536094e0",
-        "title": "Software Design Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766419770,
-        "date_posted": 1766419770,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28893",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Banco Bilbao Vizcaya Argentaria",
         "id": "ae4b7d7c-5701-428d-9897-4723880bae0b",
@@ -298140,7 +298074,7 @@
         "company_name": "Vega Investment Technologies",
         "id": "7dafcd00-57dc-437d-ad40-cc064eb2bea8",
         "title": "Product Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
