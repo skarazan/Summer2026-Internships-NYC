@@ -1,149 +1,5 @@
 [
     {
-        "date_updated": 1766409720,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071",
-        "company_name": "ASML",
-        "title": "Internship - Software Development Engineer in Test",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "f1cc7ce7-00a3-49c1-9092-46d88ff06988",
-        "date_posted": 1766409720,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1766428141,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN-03/Software-R-D-Intern--Summer_R52361-1",
-        "company_name": "Cadence",
-        "title": "Software R&D Intern",
-        "locations": [
-            "Austin, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "5213defc-325f-4d4e-93dc-748174eb6036",
-        "date_posted": 1766409774,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1771427587,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/cobot/86933504-7a8f-46d1-a745-edfe53c47427",
-        "company_name": "CoBot",
-        "title": "SWE Intern, AI, Navigation & Controls (Undergraduate)",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "b387b8fd-d859-4028-8a44-d52d123bd16a",
-        "date_posted": 1766409866,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1766428186,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://dexcom.wd1.myworkdayjobs.com/en-US/dexcom/job/San-Diego-California/Intern-I---Software-Test-Development-Engineering_JR115297",
-        "company_name": "Dexcom",
-        "title": "Intern I - Software Test Development Engineering",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "1eaea90d-15f8-4a10-a4d8-f84d049fa6da",
-        "date_posted": 1766409973,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1771250196,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers-gdms.icims.com/jobs/69376/intern-software-and-test-engineer-for-space-and-embedded-crypto-solutions/job",
-        "company_name": "General Dynamics Mission Systems",
-        "title": "Intern Software and Test Engineer for Space and Embedded Crypto Solutions",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "terms": [
-            "Summer 2026",
-            "Winter 2026",
-            "Spring 2026",
-            "Fall 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "bb29a8a6-9770-4447-a710-62efc98bb649",
-        "date_posted": 1766410055,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1771250196,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8236500002",
-        "company_name": "Modernizing Medicine",
-        "title": "GI Software Engineering Intern - Cloud Team",
-        "locations": [
-            "Boca Raton, FL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "6e240e6b-e8d9-4ad6-883e-3d0419456e05",
-        "date_posted": 1766410158,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1767712029,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -305160,7 +305016,7 @@
         "company_name": "American University",
         "id": "a038ee64-00b2-435e-8318-90254ba95b10",
         "title": "Audiovisual Services Assistant - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -317208,7 +317064,7 @@
         "company_name": "Magna",
         "id": "867db835-a4f8-43bf-85e3-5a7430b868f7",
         "title": "Warranty Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333193,7 +333049,7 @@
         "company_name": "Thomson Reuters",
         "id": "ac5989fe-f0e5-4cd6-a149-b8329eda175c",
         "title": "Applied Research Intern - NLP/ML/GenAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334022,7 +333878,7 @@
         "company_name": "RTX",
         "id": "c097ad9b-a7e4-469f-a21b-e51a324f6202",
         "title": "Modeling, Simulation & Analysis Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -335104,7 +334960,7 @@
         "company_name": "Augsburg University",
         "id": "bf6ee548-1e1b-4bf9-a87d-9fe5caa564fa",
         "title": "Career Peer Advisor - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -335379,7 +335235,7 @@
         "company_name": "RTX",
         "id": "8a917451-91ce-4fdb-ab11-e7564dd99c37",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
