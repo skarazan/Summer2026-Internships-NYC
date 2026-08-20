@@ -1,91 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "FHLBank Atlanta",
-        "id": "b6fbdfb9-cebf-429b-a7f2-e5c1e31611ed",
-        "title": "Capital Markets Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766516522,
-        "date_posted": 1766516522,
-        "url": "https://fhlbatl.wd1.myworkdayjobs.com/fhlbatl/job/Atlanta-Georgia/Capital-Markets-Intern_JR275",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/FHLBank-Atlanta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "FHLBank Atlanta",
-        "id": "a1090bd1-558e-4898-b109-65cf35c9f052",
-        "title": "Software Development Workflow Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766516522,
-        "date_posted": 1766516522,
-        "url": "https://fhlbatl.wd1.myworkdayjobs.com/fhlbatl/job/Atlanta-Georgia/Software-Development-Workflow-Intern_JR269",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/FHLBank-Atlanta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "073bc550-abc5-4287-a1d3-a3d7ce1f7184",
-        "title": "Electrical Engineer Co-Op - Test & Validation",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1766516460,
-        "date_posted": 1766516460,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/A01-Rockford---Aerospace-4747-Harrison-Avenue-Rockford-IL-61125-USA/Electrical--Test---Validation--Engineer-Co-Op--Summer---Fall-2026--Onsite-_01808633",
-        "locations": [
-            "Rockford, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "thyssenkrupp",
-        "id": "bbda7e7c-7de0-4db9-91d9-c5964f94704a",
-        "title": "Sustainability Systems Intern",
-        "active": true,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766517527,
-        "date_posted": 1766517527,
-        "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148",
-        "locations": [
-            "Cleveland, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Thyssenkrupp",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "USA for UNHCR",
         "id": "9c8c4a13-2507-42f7-8bc9-42e0b755d0dd",
@@ -4279,27 +4194,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Entegris",
-        "id": "b7c55d94-dbdc-4b32-9f68-abdf8b2b137e",
-        "title": "Research & Development Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766516940,
-        "date_posted": 1766516940,
-        "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Research---Development-Intern---Summer-2026_REQ-9615",
-        "locations": [
-            "San Luis Obispo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Entegris",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Evercore",
         "id": "73f2a6a1-42b0-42e0-83b5-d44e276b2a30",
@@ -4357,27 +4251,6 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Lumentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KBR",
-        "id": "4f91a80f-6de3-4fed-b5d5-91aaedbd79c1",
-        "title": "National Security Solutions Intern - Positioning - Navigation and Timing",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766517854,
-        "date_posted": 1766517854,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS--Internship---Positioning--Navigation-and-Timing--PNT-_R2116882",
-        "locations": [
-            "Beavercreek, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -4610,27 +4483,6 @@
             "Kalamazoo, MI"
         ],
         "company_url": "https://simplify.jobs/c/Zoetis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oshkosh",
-        "id": "35158bee-e683-42c5-9d25-4a1b0c25b881",
-        "title": "Youth Apprentice - Engineering",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1766517672,
-        "date_posted": 1766517672,
-        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Youth-Apprentice---Engineering_R43411",
-        "locations": [
-            "Oshkosh, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Oshkosh",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -319150,7 +319002,7 @@
         "company_name": "Axon",
         "id": "c89c7602-1daa-44bd-a2e1-6c6fa55deb73",
         "title": "Firmware Engineer Intern - Platform Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320469,7 +320321,7 @@
         "company_name": "RTX",
         "id": "912eecfa-63a9-49e1-8eaf-4ee42653061e",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321110,7 +320962,7 @@
         "company_name": "McKesson",
         "id": "8b699e41-5c53-4b40-aaf9-57a6bd162427",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330651,7 +330503,7 @@
         "company_name": "Centific",
         "id": "62fdf5eb-41f2-4c52-93c9-d7b22d35ad57",
         "title": "Research Intern - Healthcare AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332952,7 +332804,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "426f3bcd-19b1-4f6b-ab08-55165013b86b",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335125,7 +334977,7 @@
         "company_name": "Willkie Farr & Gallagher",
         "id": "5646d793-dc8c-4ff6-82d3-e8d00aa58389",
         "title": "Financial Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
