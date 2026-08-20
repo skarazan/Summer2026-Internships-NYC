@@ -328737,7 +328737,7 @@
         "company_name": "RTX",
         "id": "51b1f750-bdc8-4369-865b-5edb226a9d44",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -336746,6 +336746,73 @@
             "North Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pivot Robotics",
+        "id": "eb82de33-71ee-43b9-ae92-39d23132fe53",
+        "title": "Robot Operator Internship",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787238901,
+        "date_posted": 1787238838,
+        "url": "https://jobs.ashbyhq.com/pivotrobotics/5b7e7074-aace-4b9a-9db8-245c8ad66a69/application?embed=true",
+        "locations": [
+            "New Boston, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Pivot-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fifth Third Bank",
+        "id": "7d8242ec-06c9-4afb-abfb-ccbd11a5f47b",
+        "title": "Software Engineer Co-op - Enterprise Finance Applications - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787238416,
+        "date_posted": 1787184000,
+        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Freeform",
+        "id": "74d636b4-f64c-4e45-87b4-df75cb3d1fee",
+        "title": "Materials Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787238936,
+        "date_posted": 1787188150,
+        "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/FreeformFuture",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
