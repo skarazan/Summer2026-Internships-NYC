@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Zoox",
-        "id": "e9ef886b-7a42-4f41-9d7c-e500a741f4f6",
-        "title": "Embedded Software Development Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766507063,
-        "date_posted": 1766507063,
-        "url": "https://jobs.lever.co/zoox/1fcd743b-6bba-4e6e-b926-a164fff73654/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ASSA ABLOY",
-        "id": "e3db4568-562c-4883-976b-b2ef18163834",
-        "title": "Mobile App Developer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766506763,
-        "date_posted": 1766506763,
-        "url": "https://assaabloy.jobs2web.com/job/Kennesaw-Mobile-App-Developer-Intern-GA-30144/1278954101/?ats=successfactors",
-        "locations": [
-            "Kennesaw, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Motional",
         "id": "3a2b196a-03b4-4f67-8176-15858e9163ef",
@@ -26280,28 +26238,6 @@
             "Loveland, CO"
         ],
         "company_url": "https://simplify.jobs/c/UrsaMajor",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vendelux",
-        "id": "08a8a761-d653-47a6-87d0-fb6aeef65d5e",
-        "title": "Part Time Data Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025"
-        ],
-        "date_updated": 1766570462,
-        "date_posted": 1766507162,
-        "url": "https://jobs.ashbyhq.com/vendelux/9d881505-f522-43fd-b99d-be71a397cb43/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Vendelux",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -79306,27 +79242,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "b307e36b-de36-4832-bafb-30d48dfbb6c4",
-        "title": "Photonic Circuit Test Development Engineer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1770718911,
-        "date_posted": 1766507157,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29176",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -306486,7 +306401,7 @@
         "company_name": "Redwood Materials",
         "id": "42a4495c-329d-4277-8dcf-363d9fabcffd",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
