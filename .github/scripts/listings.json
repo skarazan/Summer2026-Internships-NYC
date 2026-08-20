@@ -257168,7 +257168,7 @@
         "company_name": "Ohio State University",
         "id": "bc20d842-e120-4ce2-8864-e9a16796b72c",
         "title": "Student Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -265183,7 +265183,7 @@
         "company_name": "Tesla",
         "id": "0606524d-078f-47d6-8447-f7842723a934",
         "title": "Software Engineer Intern - Vehicle UI Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -265323,7 +265323,7 @@
         "company_name": "Tesla",
         "id": "eee826e6-97e1-40a7-91fd-be9d495e5e43",
         "title": "AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -304246,7 +304246,7 @@
         "company_name": "Axon",
         "id": "a6c8a7bd-365e-48e9-89f6-f884a9809150",
         "title": "Firmware Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
