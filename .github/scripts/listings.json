@@ -1,157 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Motional",
-        "id": "3a2b196a-03b4-4f67-8176-15858e9163ef",
-        "title": "Intern - Perception",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766509598,
-        "date_posted": 1766509598,
-        "url": "https://motional.com/open-positions/?gh_jid=7570001003#/7570001003",
-        "locations": [
-            "Boston, MA",
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Motional",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "National Information Solutions Cooperative (NISC)",
-        "id": "1e9a976a-0c17-4577-b784-558dd7bb726d",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766510226,
-        "date_posted": 1766510226,
-        "url": "https://job-boards.greenhouse.io/nisc/jobs/7493815",
-        "locations": [
-            "Bismarck, ND"
-        ],
-        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-NISC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NT Concepts",
-        "id": "e93560c6-08f4-4406-998b-629c59fb38bd",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766509577,
-        "date_posted": 1766509577,
-        "url": "https://job-boards.greenhouse.io/ntconcepts/jobs/5743018004",
-        "locations": [
-            "Vienna, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/NTConcepts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Motional",
-        "id": "aa2f05e7-38f2-4372-b732-ae42030fe60c",
-        "title": "Intern - Master of Science/Doctor of Philosophy - Infrastructure",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766509596,
-        "date_posted": 1766509596,
-        "url": "https://motional.com/open-positions/?gh_jid=7570086003#/7570086003",
-        "locations": [
-            "Boston, MA",
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Motional",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Motional",
-        "id": "d4499a3e-2a69-4f3a-a2bf-69197577c0de",
-        "title": "Intern - MS/PhD - Motion Planning and Controls",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766509608,
-        "date_posted": 1766509608,
-        "url": "https://motional.com/open-positions/?gh_jid=7570047003#/7570047003",
-        "locations": [
-            "Boston, MA",
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Motional",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Motional",
-        "id": "0c1a9ae1-0575-4e87-8cf4-3de0612a5c2b",
-        "title": "Intern - MS/PhD - Behaviors",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766509594,
-        "date_posted": 1766509594,
-        "url": "https://motional.com/open-positions/?gh_jid=7570040003#/7570040003",
-        "locations": [
-            "Boston, MA",
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Motional",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NT Concepts",
-        "id": "61174df6-9bbd-4206-85da-c0562c943349",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766509573,
-        "date_posted": 1766509573,
-        "url": "https://job-boards.greenhouse.io/ntconcepts/jobs/5742629004",
-        "locations": [
-            "Vienna, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/NTConcepts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "FHLBank Atlanta",
         "id": "b6fbdfb9-cebf-429b-a7f2-e5c1e31611ed",
@@ -309436,7 +309285,7 @@
         "company_name": "Centerstone",
         "id": "a5424485-a1a0-4ab2-adaa-286ac3620977",
         "title": "Bachelor Level Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -309532,7 +309381,7 @@
         "company_name": "University of Virginia",
         "id": "cc98ebfd-dfdd-4624-bc82-696055dd2e7d",
         "title": "Undergraduate Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
