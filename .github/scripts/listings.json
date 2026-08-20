@@ -329712,7 +329712,7 @@
         "company_name": "Vanguard",
         "id": "c5313a71-4df5-476f-839a-59038fb3d8ec",
         "title": "Data Science Intern - College to Corporate IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -336429,6 +336429,29 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/FreeformFuture",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "thyssenkrupp",
+        "id": "bbda7e7c-7de0-4db9-91d9-c5964f94704a",
+        "title": "Sustainability Systems Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787230984,
+        "date_posted": 1778947323,
+        "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Thyssenkrupp",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
