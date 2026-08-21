@@ -292509,7 +292509,7 @@
         "company_name": "Old Mission",
         "id": "b31743bd-7fcf-42a4-aca1-0e6146dfb105",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -314076,7 +314076,7 @@
         "company_name": "Magna",
         "id": "867db835-a4f8-43bf-85e3-5a7430b868f7",
         "title": "Warranty Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -327217,7 +327217,7 @@
         "company_name": "RTX",
         "id": "8fea2128-ad21-47ad-b431-eb973db4321e",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327451,7 +327451,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333471,7 +333471,7 @@
         "company_name": "NVIDIA",
         "id": "99bb5385-4fbf-4456-9493-a5b32eb48953",
         "title": "Ph.D. Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335194,7 +335194,7 @@
         "company_name": "Goldman Sachs",
         "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
         "title": "Summer Analyst Intern - Americas - AWM Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337530,6 +337530,29 @@
             "Sacramento, CA"
         ],
         "company_url": "https://simplify.jobs/c/Crowe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "6eed2e3d-bae2-4bba-82dc-8be571a93b1b",
+        "title": "Chemistry Materials Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787310248,
+        "date_posted": 1787184000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Chemistry-Materials-Engineer-Intern--Onsite-_01868041",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
