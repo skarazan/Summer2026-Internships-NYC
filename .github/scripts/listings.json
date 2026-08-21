@@ -44,69 +44,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Altera Corporation",
-        "id": "7615c9e8-d202-4515-be61-e53f14b3fa93",
-        "title": "FPGA Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766617896,
-        "date_posted": 1766617896,
-        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Software-Engineer-Intern_R01718",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Altera-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Health Research",
-        "id": "f771f793-3565-4322-9b39-024adeee7c29",
-        "title": "Hourly Data Analyst 2 - Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766618712,
-        "date_posted": 1766618712,
-        "url": "https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Hourly-Data-Analyst-II--Internship-_JR-0001960",
-        "locations": [
-            "Albany, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Health-Research",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Altera Corporation",
-        "id": "882ce61c-4e21-47ad-84f6-14bc7baf9428",
-        "title": "AI/ML Intern in Design Automation",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766617900,
-        "date_posted": 1766617900,
-        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/AI-ML-Intern-in-Design-Automation_R01749",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Altera-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Archer",
         "id": "c68d829e-34ea-40c0-89be-cd356436d699",
         "title": "Software Engineer Intern - Electric Engine",
@@ -268055,7 +267992,7 @@
         "company_name": "Rivian and Volkswagen Group Technologies",
         "id": "e4b179d2-a8ba-49ee-b372-b9eca60450d2",
         "title": "Software Engineer Intern - Vehicle Controls",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -268152,7 +268089,7 @@
         "company_name": "Rivian and Volkswagen Group Technologies",
         "id": "ca54e8e6-3ece-423f-ae13-aa1fa705c812",
         "title": "Android Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -301508,7 +301445,7 @@
         "company_name": "StepStone Group",
         "id": "8d443e92-a10b-41cc-b162-f76fbb2686fa",
         "title": "Junior Analyst - Data & Technology Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -311411,7 +311348,7 @@
         "company_name": "AcreTrader",
         "id": "fd7fd37a-f2c7-4788-9c80-409d4ae8a683",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -316440,7 +316377,7 @@
         "company_name": "Nokia",
         "id": "6cc4c3a7-299f-479c-a751-f3bb037c6cc1",
         "title": "AI R&D Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323100,7 +323037,7 @@
         "company_name": "IES Holdings",
         "id": "42960649-79d6-42ff-8329-1cefc5a6d223",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334361,7 +334298,7 @@
         "company_name": "Western Magnetics",
         "id": "67334d37-7e0d-42f1-8946-bdab22643cc3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335316,7 +335253,7 @@
         "company_name": "Geico",
         "id": "9316e11a-93d7-473d-96fb-9246383ff169",
         "title": "Technology Development Program Intern - Software Engineer Development Track",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338621,6 +338558,166 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Eudia",
+        "id": "2533cf48-d1d8-4e5f-bed0-485c583da8a6",
+        "title": "Product Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787352885,
+        "date_posted": 1787352765,
+        "url": "https://job-boards.greenhouse.io/eudia/jobs/4379570009",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eudia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Solid Power",
+        "id": "214fc73f-c4d9-4c6d-8455-16b74d79ce68",
+        "title": "Product Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787352341,
+        "date_posted": 1787352175,
+        "url": "https://job-boards.greenhouse.io/solidpower/jobs/6150710004",
+        "locations": [
+            "Thornton, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/SolidPower",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Eaton",
+        "id": "faf1be1b-2e81-44f4-8523-a7ca9105f6f1",
+        "title": "Application Engineer Co-op - Marketing",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787353870,
+        "date_posted": 1787353635,
+        "url": "https://eaton.eightfold.ai/careers/job/687238323389",
+        "locations": [
+            "Ellisville, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Eaton-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SimIS",
+        "id": "733e27ec-57f0-4e26-8f45-410e4fd4aed5",
+        "title": "Artificial Intelligence Developer Intern - Aerospace/Aviation",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787353876,
+        "date_posted": 1787353633,
+        "url": "https://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern",
+        "locations": [
+            "Suffolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/SimIS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ambrook",
+        "id": "45b27f18-198a-4ef0-b8f3-abb8018e7c99",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1787353889,
+        "date_posted": 1787353655,
+        "url": "https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ambrook",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Availity",
+        "id": "b364c68b-8fda-447b-b50d-dfa7fcd4039f",
+        "title": "Software Engineer Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787353899,
+        "date_posted": 1787270400,
+        "url": "https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Availity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Weave",
+        "id": "3a9d445d-6bcb-43b3-8183-0437d5b6c332",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787353741,
+        "date_posted": 1787353604,
+        "url": "https://jobs.ashbyhq.com/weave/1318e017-3ea6-4a1f-aac7-1c11a46cda8d/application?embed=true",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Weave",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
