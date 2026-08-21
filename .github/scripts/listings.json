@@ -40796,7 +40796,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -314076,7 +314076,7 @@
         "company_name": "Magna",
         "id": "867db835-a4f8-43bf-85e3-5a7430b868f7",
         "title": "Warranty Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327122,7 +327122,7 @@
         "company_name": "RTX",
         "id": "dfbe29a3-2c22-426e-9544-2185963e401f",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327360,7 +327360,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327381,7 +327381,7 @@
         "company_name": "Goldman Sachs",
         "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -332247,7 +332247,7 @@
         "company_name": "RTX",
         "id": "8a917451-91ce-4fdb-ab11-e7564dd99c37",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334645,7 +334645,7 @@
         "company_name": "StudyFetch",
         "id": "179e11a1-a541-4256-a6c3-e36544663802",
         "title": "AI Research Assistant - Machine Learning & AI",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -337317,7 +337317,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "705aa0dc-9caf-4a10-8196-9c201a884e84",
         "title": "Finance Intern - Risk Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -337510,6 +337510,30 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Crowe",
+        "id": "6c0e9a46-463c-43dc-8bb1-7b4c40a5ab14",
+        "title": "Power Platform Business Solutions Intern - Consulting Practice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787308561,
+        "date_posted": 1786665600,
+        "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Power-Platform-Business-Solutions-Intern_R-71035",
+        "locations": [
+            "Chicago, IL",
+            "Sacramento, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
