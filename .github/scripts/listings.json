@@ -293896,7 +293896,7 @@
         "company_name": "Magna",
         "id": "bd081463-2c78-438c-87f7-e4ad5d580efa",
         "title": "AI Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -310196,7 +310196,7 @@
         "company_name": "JP Morgan Chase",
         "id": "98635871-6276-41e4-ad95-172485704a2c",
         "title": "Data & AI Intern - Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337581,6 +337581,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "cc92e86c-fbd6-4ac9-9dd6-416843dc0e27",
+        "title": "Graduate Assistant - AI-Powered Career Success Systems",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787317293,
+        "date_posted": 1787184000,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Graduate-Assistant--AI-Powered-Career-Success-Systems_R_00048148",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
