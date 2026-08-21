@@ -3,69 +3,6 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "BMO ",
-        "id": "10b6e08e-f9d8-47e3-9126-fef0108c4498",
-        "title": "Data Analyst \u2013 Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766592650,
-        "date_posted": 1766592650,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Data-Analyst--Summer-2026--Co-op-Internship----10-Weeks_R250032685",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "L3Harris Technologies",
-        "id": "da0154a0-c2bd-4897-935b-63a971c492d6",
-        "title": "Engineering Intern - Process Improvement",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766593322,
-        "date_posted": 1766593322,
-        "url": "https://jobs.l3harris.com/job/Ottawa-Engineering-Intern-(Process-Improvement)-ON-K2H-9N6/1352040000/?ats=successfactors",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Velera",
-        "id": "adfe3ee5-b567-46d6-be44-56f55a7ece41",
-        "title": "Intern ServiceNow Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766593027,
-        "date_posted": 1766593027,
-        "url": "https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/Intern---ServiceNow-Engineer--REMOTE-_8898",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Velera",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BMO ",
         "id": "f51d9057-e3dd-4346-9d9a-2982fa3d5c38",
         "title": "Data Analyst",
         "active": false,
@@ -334537,7 +334474,7 @@
         "company_name": "Boston Consulting Group",
         "id": "f6f17706-f32e-4624-8175-889945a160e5",
         "title": "Forward Deployed AI Engineer - Campus",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
