@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BMO ",
-        "id": "f51d9057-e3dd-4346-9d9a-2982fa3d5c38",
-        "title": "Data Analyst",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766601116,
-        "date_posted": 1766601116,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst-Summer-2026--Co-op-Internship----4-Months_R250032683",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Archer",
         "id": "18e1312e-37f3-4c1e-ae79-aacd913fa813",
@@ -2969,28 +2948,6 @@
             "El Segundo, CA"
         ],
         "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AMC Networks",
-        "id": "1ed78cbb-38bf-4362-bda9-56a223e0b8ac",
-        "title": "Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766601431,
-        "date_posted": 1766601431,
-        "url": "https://amcn.wd5.myworkdayjobs.com/amcnetworks/job/New-York-NY/Summer-Intern---Global-Technology---Operations_R-4754",
-        "locations": [
-            "Santa Monica, CA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/AMC-Networks",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -28806,29 +28763,6 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bank of Montreal",
-        "id": "fef4ede2-6838-4e1e-adb2-c65b0d52f1d8",
-        "title": "Data Analyst",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766601116,
-        "date_posted": 1766601116,
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analyst-Summer-2026--Co-op-Internship----4-Months_R250032683-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -267981,7 +267915,7 @@
         "company_name": "Rivian and Volkswagen Group Technologies",
         "id": "7f52dc88-e098-42c9-91f1-4af924f417f9",
         "title": "Data Engineering Intern - AI & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -268146,7 +268080,7 @@
         "company_name": "Rivian and Volkswagen Group Technologies",
         "id": "fb2e9338-c69e-43f9-b4ce-171c9c842408",
         "title": "Software Engineer Intern - Embedded Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328346,7 +328280,7 @@
         "company_name": "Pelmorex",
         "id": "614a41e6-d722-4681-aea0-bd4ffc1dfd8b",
         "title": "Product Co-op - Digital Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335430,7 +335364,7 @@
         "company_name": "Geico",
         "id": "7af6a875-2bee-47cb-9a79-edb11bb5bac6",
         "title": "Insurance Pricing Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
