@@ -267964,7 +267964,7 @@
         "company_name": "Rivian and Volkswagen Group Technologies",
         "id": "01796556-ceb0-436a-b501-b3da05d779a7",
         "title": "Software Engineer Intern Co-op - Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -267988,7 +267988,7 @@
         "company_name": "Rivian and Volkswagen Group Technologies",
         "id": "eb5fcd55-8960-46a6-8ce8-c8cf29450489",
         "title": "Software Engineer Intern Co-op - Systems Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -319145,7 +319145,7 @@
         "company_name": "Global Partners",
         "id": "583fdb8b-7707-41fb-afa9-ce4d972d9bf0",
         "title": "Advanced Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329954,7 +329954,7 @@
         "company_name": "Readystate Asset Management",
         "id": "efac2095-406f-4054-9c6c-843eb79c6144",
         "title": "Investment Intern - Summer 2027 & 2028",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Summer 2028"
@@ -335040,7 +335040,7 @@
         "company_name": "Goldman Sachs",
         "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
         "title": "Summer Analyst Intern - Americas - AWM Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335064,7 +335064,7 @@
         "company_name": "Goldman Sachs",
         "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
         "title": "AWM Product Management Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338423,6 +338423,200 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "feab6170-0da2-4e27-b0ab-3fd9be40aef4",
+        "title": "Data Enablement Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787350889,
+        "date_posted": 1787270400,
+        "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/September-2027---Data-Enablement--Non-CPA----8-month-Co-op---Calgary_754211WD-1",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "dc42c118-273e-4eda-b0ee-e5b47a65e974",
+        "title": "Data Enablement Co-op - Data Enablement",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1787350888,
+        "date_posted": 1787270400,
+        "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/September-2027---Data-Enablement--Non-CPA----8-month-Co-op---Montreal_754063WD",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "73b10260-156f-459b-b9f2-25385571ae99",
+        "title": "Data Enablement Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787350891,
+        "date_posted": 1787270400,
+        "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Vancouver/September-2027---Data-Enablement--CPA----8-month-Co-op---Vancouver_754069WD",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "ebd87bba-2182-484a-a223-57512cd8ca69",
+        "title": "Data Enablement Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787350891,
+        "date_posted": 1787270400,
+        "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Toronto/September-2027---Data-Enablement--Non-CPA----8-month-Co-op---Toronto_754067WD",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "db42cd6e-0049-465b-9501-5f2e08640942",
+        "title": "Data Analyst Co-op - Data Enablement",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1787350893,
+        "date_posted": 1787270400,
+        "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/September-2027---Data-Enablement--CPA----8-month-Co-op---Montreal_754061WD",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "4eebc60e-4321-4b2b-863e-a883806b4375",
+        "title": "Data Enablement Co-op - Data Enablement",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787350889,
+        "date_posted": 1787270400,
+        "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Toronto/September-2027---Data-Enablement--CPA----8-month-Co-op---Toronto_754065WD",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "1ed4cb37-6662-4b66-a3fe-06105391908f",
+        "title": "Data Enablement Co-op - CPA",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787350895,
+        "date_posted": 1787270400,
+        "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/September-2027---Data-Enablement--CPA----8-month-Co-op---Calgary_754208WD",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "150b6524-0509-433a-9344-1826d854cb92",
+        "title": "Data Enablement Co-op - Data Enablement",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1787350889,
+        "date_posted": 1787270400,
+        "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Vancouver/September-2027---Data-Enablement--Non-CPA----8-month-Co-op---Vancouver_754085WD",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marsh",
+        "id": "2e60bfbc-eba1-46bb-b68b-c273e8465412",
+        "title": "Government Health Consulting Informatics Intern - College Program",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787350502,
+        "date_posted": 1787270400,
+        "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073",
+        "locations": [
+            "Phoenix, AZ",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Marsh",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
