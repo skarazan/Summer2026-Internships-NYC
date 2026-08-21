@@ -1,31 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "182476d6-bbc5-4742-b451-45a2bc54ac7e",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766589621,
-        "date_posted": 1766589621,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Intern-Software-Engineer_R10217175",
-        "locations": [
-            "Palmdale, CA",
-            "Oklahoma City, OK",
-            "Grand Forks, ND",
-            "San Diego, CA",
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "BMO ",
         "id": "10b6e08e-f9d8-47e3-9126-fef0108c4498",
@@ -321436,7 +321411,7 @@
         "company_name": "Commence",
         "id": "687a78c1-ad67-4744-8aee-fbbb8b656b5c",
         "title": "Health Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
