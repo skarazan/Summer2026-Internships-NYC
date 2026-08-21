@@ -2,72 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Archer",
-        "id": "97c67d11-7750-40ca-bca6-8c9a540741b5",
-        "title": "IOS Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766562033,
-        "date_posted": 1766562033,
-        "url": "https://job-boards.greenhouse.io/archer56/jobs/7565625003",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Archer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Archer",
-        "id": "193cba01-84fa-45bd-ab80-8d9b48d7a0b7",
-        "title": "AI Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766562031,
-        "date_posted": 1766562031,
-        "url": "https://job-boards.greenhouse.io/archer56/jobs/7565626003",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Archer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tencent",
-        "id": "67b29de5-f1d6-4d5c-aafe-081ab1a45d9a",
-        "title": "Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1766559950,
-        "date_posted": 1766559950,
-        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship--Multimodal-LLM--Speech-Music-Audio-Vision-Language-_R106665-1",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "182476d6-bbc5-4742-b451-45a2bc54ac7e",
         "title": "Software Engineer Intern",
@@ -285285,7 +285219,7 @@
         "company_name": "Figure",
         "id": "84fa7902-5663-4610-8dbc-b43afd8c2691",
         "title": "Special Projects Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -296625,7 +296559,7 @@
         "company_name": "Fluency",
         "id": "9ec02aa1-92f0-4290-9d73-e1fc81c000e6",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326487,7 +326421,7 @@
         "company_name": "RTX",
         "id": "f097b101-bba2-4782-92c8-8b5bf641c43d",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
