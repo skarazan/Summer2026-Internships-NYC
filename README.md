@@ -73,38 +73,6 @@
 
 
 
-## 📱 Product Management Internship Roles
-
-[Back to top](#summer-2026-nyc-tech-internships)
-
-> 📅 Curious when Big Tech product internships typically open? Simplify put together an [openings tracker](https://simplify.jobs/top-list/Associate-Product-Manager-Intern?utm_source=GHList&utm_medium=ot) based on historical data for those companies.
-
-<table>
-<thead>
-<tr>
-<th>Company</th>
-<th>Role</th>
-<th>Location</th>
-<th>Application</th>
-<th>Age</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Niural</strong></td>
-<td>Product Design Intern 🛂</td>
-<td>New York City, NY</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-</tbody>
-</table>
-
-
-🔒 **[See 57 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
-
-
-
 ## 🤖 Data Science, AI & Machine Learning Internship Roles
 
 [Back to top](#summer-2026-nyc-tech-internships)
