@@ -326053,7 +326053,7 @@
         "company_name": "BerryDunn",
         "id": "7b0e7a72-a5b1-4bc3-b011-3eecb0cf3b6b",
         "title": "Consulting Intern - Healthcare Data Management and Strategy",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -327059,7 +327059,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327080,7 +327080,7 @@
         "company_name": "Goldman Sachs",
         "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -327663,7 +327663,7 @@
         "company_name": "Dmg Media",
         "id": "9f12aa49-d6c0-477e-a5c2-057f17231581",
         "title": "Editorial Innovation Intern - Innovation Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328347,7 +328347,7 @@
         "company_name": "KeyBank",
         "id": "530c60b3-3de0-4a8e-bb7c-5f32553939ac",
         "title": "Data Intern - Key Technology & Services - Data Track",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -337241,7 +337241,7 @@
         "company_name": "RTX",
         "id": "6eed2e3d-bae2-4bba-82dc-8be571a93b1b",
         "title": "Chemistry Materials Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338965,5 +338965,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BP",
+        "id": "749be3e8-6a9a-490f-b0d8-24ef83937c14",
+        "title": "Reservoir Engineer Intern - Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787396312,
+        "date_posted": 1786838400,
+        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655-2",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
