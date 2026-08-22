@@ -301590,7 +301590,7 @@
         "company_name": "Ambarella",
         "id": "22d08295-47cf-4b31-9064-5548c060a73f",
         "title": "ASIC Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -301658,7 +301658,7 @@
         "company_name": "Ambarella",
         "id": "d5dc5d72-f912-436f-8385-faa6dc97d1f4",
         "title": "Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -314216,7 +314216,7 @@
         "company_name": "Louisiana Blue",
         "id": "41322ea3-9446-4196-ad23-37747898216b",
         "title": "Healthcare Price and Transparency Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338767,6 +338767,127 @@
             "Saint-Hubert, Longueuil, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mercor",
+        "id": "fe6e435e-7b34-41cb-b526-98f990b943ad",
+        "title": "Research Fellowship - Apex",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787366397,
+        "date_posted": 1787366199,
+        "url": "https://jobs.ashbyhq.com/mercor/a0a98be0-d856-4129-b500-c0a3e412ef01/application?embed=true",
+        "locations": [
+            "London, UK",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "6245b5b1-9a7d-4d30-aabb-19a2cedbde40",
+        "title": "AI Software Engineer Intern - Edge",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787366400,
+        "date_posted": 1787366266,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+        "locations": [
+            "Redmond, WA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Elevate Semiconductor",
+        "id": "9d5887c5-a484-493a-a9cd-38e0b51c1ef6",
+        "title": "Product Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787366245,
+        "date_posted": 1787366024,
+        "url": "https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Elevate-Semiconductor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "9ad13c92-e5d2-4c4c-987a-f3263f2dd707",
+        "title": "Yield Enhancement Intern - Data Analysis",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787366252,
+        "date_posted": 1787270400,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Yield-Enhancement--Data-Analysis_JR109076",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ecolab",
+        "id": "a9777bd4-5efc-4a60-a627-f2e6cfabbfcf",
+        "title": "Digital & AI Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787365981,
+        "date_posted": 1787270400,
+        "url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249",
+        "locations": [
+            "Naperville, IL",
+            "Eagan, MN",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Ecolab",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
