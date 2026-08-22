@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Archer",
-        "id": "c68d829e-34ea-40c0-89be-cd356436d699",
-        "title": "Software Engineer Intern - Electric Engine",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766651112,
-        "date_posted": 1766651112,
-        "url": "https://job-boards.greenhouse.io/archer56/jobs/7570844003",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Archer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Reli",
         "id": "9d6ed431-6953-4662-997c-c5c35824e4f2",
@@ -38472,7 +38451,7 @@
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
         "title": "Software Engineering Co-op Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
