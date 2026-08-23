@@ -1,97 +1,5 @@
 [
     {
-        "date_updated": 1766764298,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Software-Engineering-Intern---Hyper-RF-Division_6367",
-        "company_name": "AeroVironment",
-        "title": "Software Engineering Intern \u2013 Hyper-RF Division",
-        "locations": [
-            "Germantown, MD"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "3697b474-d02a-477a-949b-63c212baa9a1",
-        "date_posted": 1766764298,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1766764373,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/mcghealth/jobs/8350486002",
-        "company_name": "MCG Health",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "5428a3c8-3c8c-496a-87c2-2afbd536b54f",
-        "date_posted": 1766764373,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1771250294,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "http://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/shc_external_career_site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Summer-2026-Internship---Technology---Digital-Solutions---Digital-Innovation---Software-Development-Internships--Graduate---Hybrid_R2552420",
-        "company_name": "Stanford Health Care",
-        "title": "Technology & Digital Solutions \u2013 Digital Innovation & Software Development Internships (Graduate)",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "8282fc29-4dc4-4b1a-83fc-0c74a4808290",
-        "date_posted": 1766764544,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1767712029,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/gusto/jobs/7471872",
-        "company_name": "Gusto",
-        "title": "CX AI & Automation Internship",
-        "locations": [
-            "Denver, CO"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "2f9ff301-11d7-4772-8453-493df50645a0",
-        "date_posted": 1766764652,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Leidos",
@@ -111,27 +19,6 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Stanford Health Care",
-        "id": "ae623043-896d-440e-be90-928ddc30e3a2",
-        "title": "Intern \u2013 Digital Innovation & Software Development Internships \u2013 Graduate - Technology & Digital Solutions",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766766028,
-        "date_posted": 1766766028,
-        "url": "https://stanfordhealthcare.wd5.myworkdayjobs.com/shc_external_career_site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Summer-2026-Internship---Technology---Digital-Solutions---Digital-Innovation---Software-Development-Internships--Graduate---Hybrid_R2552420",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Stanford-Health-Care",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
