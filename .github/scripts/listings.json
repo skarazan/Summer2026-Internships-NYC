@@ -266036,7 +266036,7 @@
         "company_name": "Mach Industries",
         "id": "a4780b03-762a-4790-bd5e-2d0cc0c66f12",
         "title": "Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -325721,7 +325721,7 @@
         "company_name": "BP",
         "id": "fcc9a4e8-bcc7-4a2b-9be5-d0a57e5760c4",
         "title": "Geoscience Intern - Geoscientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
