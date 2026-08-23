@@ -40495,7 +40495,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -264585,7 +264585,7 @@
         "company_name": "Eurofins",
         "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -265436,7 +265436,7 @@
         "company_name": "Eurofins",
         "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -311768,7 +311768,7 @@
         "company_name": "Samsara",
         "id": "43a2a7c2-28cb-4d16-9914-b1e324a8c4a5",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2028"
         ],
@@ -332733,7 +332733,7 @@
         "company_name": "Normal Computing",
         "id": "1005bf9b-20cc-4e7e-a770-9c2ce6ed1a37",
         "title": "Thermodynamic Hardware Resident",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332828,7 +332828,7 @@
         "company_name": "NVIDIA",
         "id": "31523bd0-3228-448d-b0ce-f99812c17fca",
         "title": "Generative AI Ph.D. Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332997,7 +332997,7 @@
         "company_name": "NVIDIA",
         "id": "02243e49-7e4c-44aa-9dd1-0ba4a235d93d",
         "title": "Developer and Performance Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -334344,7 +334344,7 @@
         "company_name": "StudyFetch",
         "id": "179e11a1-a541-4256-a6c3-e36544663802",
         "title": "AI Research Assistant - Machine Learning & AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -334845,7 +334845,7 @@
         "company_name": "RTX",
         "id": "013fdd20-3235-4aca-8bd4-f5eb44a09c32",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -338149,7 +338149,7 @@
         "company_name": "Capacity",
         "id": "16d31201-b650-445a-bd1c-acf6b02d80b7",
         "title": "Speech Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
