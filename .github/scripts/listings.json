@@ -1,69 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intrinsic",
-        "id": "4318333a-a90a-49a6-bde3-c75a899cd8cf",
-        "title": "Deep Learning Intern - Model Optimization",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766793000,
-        "date_posted": 1766793000,
-        "url": "https://boards.greenhouse.io/intrinsicrobotics/jobs/5743849004",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/IntrinsicAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Micron Technology",
-        "id": "5a029fdb-4fd3-4614-bec1-add72109d99d",
-        "title": "Intern Computer Engineer - AI/LLM",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1766791953,
-        "date_posted": 1766791953,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Computer-Engineer--AI-LLM_JR87533",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Aramark",
-        "id": "1c5ce248-5998-4d96-8834-d2bf0c0fc0ff",
-        "title": "Environmental Sustainability Intern - Yosemite",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766792045,
-        "date_posted": 1766792045,
-        "url": "https://aramarkcareers.com/UnitedStates/job/Yosemite-Environmental-Sustainability-Intern-Yosemite-CA-95389/1346482500/?ats=successfactors",
-        "locations": [
-            "Mammoth Lakes, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aramark",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Qualcomm",
         "id": "5183e112-7170-4c00-a047-89d2819a4b7d",
@@ -22166,29 +22103,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "39799c33-3126-43c2-a071-b8db9bf764d4",
-        "title": "Design Readiness Engineer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1766792029,
-        "date_posted": 1766792029,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Design-Readiness-Engineer_JR81940",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -327278,7 +327192,7 @@
         "company_name": "Smiths Detection Group",
         "id": "58e947f1-9077-412b-ba6c-b7399ec951f9",
         "title": "Commercial Intern - Commercial Tools & Business Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
