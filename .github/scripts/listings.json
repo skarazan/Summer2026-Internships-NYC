@@ -121976,7 +121976,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -243109,7 +243109,7 @@
         "company_name": "Melotech",
         "id": "0ee42cec-fd2b-4ffa-8687-8c302e90fbcf",
         "title": "Full-Stack Developer Intern - Music & Audio",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -316497,7 +316497,7 @@
         "company_name": "ByteDance",
         "id": "aa7eb673-811f-4d32-a109-b840c82a1fab",
         "title": "Network Software Engineer Intern - Network Switch",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
