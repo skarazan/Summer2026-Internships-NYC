@@ -292810,7 +292810,7 @@
         "company_name": "GE Healthcare",
         "id": "287c1182-006f-487e-aa40-c2eef51435aa",
         "title": "Client Service Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -315621,7 +315621,7 @@
         "company_name": "Canva",
         "id": "b42d28f6-494f-4b0a-8e40-29dd669c4846",
         "title": "PhD Research Scientist Intern - Generative AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -315644,7 +315644,7 @@
         "company_name": "Canva",
         "id": "40fce4fe-2ffc-4371-9b54-174b5b8f649b",
         "title": "PhD Research Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -321204,7 +321204,7 @@
         "company_name": "Foxconn Industrial Internet",
         "id": "7fcb2e8c-cda4-468f-b6ff-2d05f6b0b2c6",
         "title": "Software Engineer Intern - Engineering and Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326119,7 +326119,7 @@
         "company_name": "AltaGas",
         "id": "8a4adc2e-9c94-4aca-a96e-f08577bb106e",
         "title": "Data Science and Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333304,7 +333304,7 @@
         "company_name": "RTX",
         "id": "1b75680e-460c-4f8d-99bd-d64c248c45ba",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337239,7 +337239,7 @@
         "company_name": "JP Morgan Chase",
         "id": "7833a92d-102e-4ca4-9a8b-c14f36398bc0",
         "title": "Analytics Solutions Associate - Consumer and Community Banking - Focused Analytics Solutions Team",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337654,7 +337654,7 @@
         "company_name": "Frost",
         "id": "b85f0dff-7b07-42ee-af50-208fab628c1a",
         "title": "Computer Science Intern - Digital Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340159,6 +340159,152 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Audax Group",
+        "id": "47fb79bc-9f49-407b-bb0c-52352eba40be",
+        "title": "Data Analyst Co-op - Business Solutions",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787584467,
+        "date_posted": 1787584040,
+        "url": "https://job-boards.greenhouse.io/audaxgroup/jobs/4722880005",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Audax-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Audax Group",
+        "id": "7f70a436-4619-458c-818b-33252bb0a7c9",
+        "title": "Data Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787584460,
+        "date_posted": 1787584044,
+        "url": "https://job-boards.greenhouse.io/audaxgroup/jobs/4722779005",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Audax-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Audax Group",
+        "id": "451d266b-c459-492a-b5c3-df553f98d6d5",
+        "title": "Data Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787584459,
+        "date_posted": 1787584041,
+        "url": "https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Audax-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Audax Group",
+        "id": "2b1cb4ad-439e-499f-95a2-d30ea699fb24",
+        "title": "AI Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1787584460,
+        "date_posted": 1787584038,
+        "url": "https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Audax-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "InfiniteQuant",
+        "id": "d55a832d-489f-468a-8688-f419fb8b1b38",
+        "title": "Quantitative Developer Internship - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787584027,
+        "date_posted": 1787583369,
+        "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134",
+        "locations": [
+            "Dubai - United Arab Emirates",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/InfiniteQuant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "40a73eb1-1878-4203-a116-82e2ad5c39c2",
+        "title": "Android Application Developer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787585554,
+        "date_posted": 1787529600,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
