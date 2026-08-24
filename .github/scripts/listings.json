@@ -121976,7 +121976,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -301101,7 +301101,7 @@
         "company_name": "International Rescue Committee (IRC)",
         "id": "e3234588-2be6-40da-8aa3-d096c6574e76",
         "title": "Data Integration & Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -310867,7 +310867,7 @@
         "company_name": "Vitalant",
         "id": "a8de70cc-4a6f-4f62-a560-4b7baef84d9b",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -316497,7 +316497,7 @@
         "company_name": "ByteDance",
         "id": "aa7eb673-811f-4d32-a109-b840c82a1fab",
         "title": "Network Software Engineer Intern - Network Switch",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -318043,7 +318043,7 @@
         "company_name": "Flexion Robotics",
         "id": "11e5114f-3ac5-4d35-a25a-64c8f7661b81",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -318373,7 +318373,7 @@
         "company_name": "Sony Music Entertainment",
         "id": "08783e42-22f6-47ea-b391-ad53b2579350",
         "title": "Data Analytics Intern - A&R Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -329453,7 +329453,7 @@
         "company_name": "Thomson Reuters",
         "id": "ac5989fe-f0e5-4cd6-a149-b8329eda175c",
         "title": "Applied Research Intern - NLP/ML/GenAI",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
