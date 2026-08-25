@@ -317254,7 +317254,7 @@
         "company_name": "Atoms",
         "id": "2751af83-9f4f-48b8-8aba-6f534e9681e7",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329339,7 +329339,7 @@
         "company_name": "Intel",
         "id": "2d8fe16e-0d23-496c-9f2a-a5a1dd0f386a",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330030,7 +330030,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "97fb51eb-1ac2-4864-ae06-c8f8ac768c62",
         "title": "Technology and Operations Developer Co-op - Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -335587,7 +335587,7 @@
         "company_name": "Micron Technology",
         "id": "1117caa7-3295-43c8-a83c-b44e449d40eb",
         "title": "Physical Failure Analysis Engineer Intern - Yield Enhancement",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -340892,7 +340892,7 @@
         "company_name": "Atoms",
         "id": "3d9f6139-bedb-4b94-9e84-1b542b3250ac",
         "title": "Robotics Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341794,7 +341794,7 @@
         "company_name": "Philips",
         "id": "327ffcc9-d306-44ce-8b6d-ddbdeb204304",
         "title": "Software Systems Engineering Co-op - Image Guided Therapy Devices - IVUS Clinical Imaging Software Application",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -343431,6 +343431,30 @@
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Celonis",
+        "id": "8d9e3fac-74a7-4c48-9788-7e80245bc5fc",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787671981,
+        "date_posted": 1787671957,
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003",
+        "locations": [
+            "Massachusetts"
+        ],
+        "company_url": "https://simplify.jobs/c/Celonis",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
