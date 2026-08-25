@@ -220502,7 +220502,7 @@
         "company_name": "Astranis",
         "id": "358237a9-7866-40f8-98fc-affcbbc15651",
         "title": "Flight Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -222484,7 +222484,7 @@
         "company_name": "DoorDash",
         "id": "1184bddc-5d14-4805-8849-f08c3efbfd74",
         "title": "AI Research Fellowship Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -226270,7 +226270,7 @@
         "company_name": "Astranis",
         "id": "a4f598b7-9523-41bf-a91b-7ef4589ac1ea",
         "title": "Reliability Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -264278,7 +264278,7 @@
         "company_name": "Eurofins",
         "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -265129,7 +265129,7 @@
         "company_name": "Eurofins",
         "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265775,7 +265775,7 @@
         "company_name": "Block",
         "id": "11aaf289-dda4-4297-8b78-8998a2d45e2f",
         "title": "Applied Research Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -274737,7 +274737,7 @@
         "company_name": "Astranis",
         "id": "04d272dd-0cea-48e3-ab73-31d3f0c7bf44",
         "title": "Reliability Design Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -284292,7 +284292,7 @@
         "company_name": "Jane Street",
         "id": "24534a41-4bd7-4c4d-9ae9-8eb9bbc7c79c",
         "title": "Machine Learning Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -284588,7 +284588,7 @@
         "company_name": "Astranis",
         "id": "d5cec203-67b4-4970-8718-20bdbbe30e43",
         "title": "Radiation Effects Associate Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -284635,7 +284635,7 @@
         "company_name": "Astranis",
         "id": "691cf244-d5c5-4077-969a-e3f3f9af4bb4",
         "title": "Radiation Effects Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -291606,7 +291606,7 @@
         "company_name": "The Trade Desk",
         "id": "1cb48f29-b8a3-47e1-98f2-1a2b893d0027",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -292604,7 +292604,7 @@
         "company_name": "Databricks",
         "id": "ae507b57-02d4-4bfc-a7e8-6e6d6c0a6521",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -299915,7 +299915,7 @@
         "company_name": "Optiver",
         "id": "9b96cf35-590b-4fe5-9a32-caf76a2a6a85",
         "title": "Institutional Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326752,7 +326752,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326773,7 +326773,7 @@
         "company_name": "Goldman Sachs",
         "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -326794,7 +326794,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326820,7 +326820,7 @@
         "company_name": "Goldman Sachs",
         "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
         "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326843,7 +326843,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326935,7 +326935,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326961,7 +326961,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326987,7 +326987,7 @@
         "company_name": "Goldman Sachs",
         "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327033,7 +327033,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327922,7 +327922,7 @@
         "company_name": "SharkNinja",
         "id": "cf68c1ba-7041-4bca-bf76-d41bac3fad43",
         "title": "Performance Data Co-op - Marketplace Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334586,7 +334586,7 @@
         "company_name": "Goldman Sachs",
         "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
         "title": "Summer Analyst Intern - Americas - AWM Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334610,7 +334610,7 @@
         "company_name": "Goldman Sachs",
         "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
         "title": "AWM Product Management Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -336168,7 +336168,7 @@
         "company_name": "AMD",
         "id": "3a7a0552-99e6-49df-a934-5f5f8e97109b",
         "title": "Firmware Engineering Intern Co-op - Undergrad",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -336576,7 +336576,7 @@
         "company_name": "AMD",
         "id": "2b9774d4-2b94-4dc3-9aca-7b5dc857eaa2",
         "title": "Firmware Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -336606,7 +336606,7 @@
         "company_name": "AMD",
         "id": "16ab9e56-fd38-43a4-a048-7cca73f13c2d",
         "title": "Hardware Design Verification Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -336757,7 +336757,7 @@
         "company_name": "Databricks",
         "id": "1a0df397-2083-456f-9ecb-137eec7603ef",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -338196,7 +338196,7 @@
         "company_name": "Solid Power",
         "id": "214fc73f-c4d9-4c6d-8455-16b74d79ce68",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338826,7 +338826,7 @@
         "company_name": "Springs Window Fashions",
         "id": "3ba0ee0f-9499-46e0-a269-8b7c01b0adf3",
         "title": "Product Management Competitive Product Assessment Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339269,7 +339269,7 @@
         "company_name": "The Walt Disney Company",
         "id": "10360e05-db49-4c1b-a62d-7e0038f835fd",
         "title": "Geographic Information Systems Intern - GIS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -339912,7 +339912,7 @@
         "company_name": "BNY",
         "id": "2f4c5900-989e-4b19-afdd-c5d973e9b552",
         "title": "Data Science Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340917,7 +340917,7 @@
         "company_name": "Kodiak Robotics",
         "id": "21abe7e3-285d-4817-a48a-557228cb2228",
         "title": "AI/ML Intern - Artificial Intelligence/Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -342581,7 +342581,7 @@
         "company_name": "Meridian Partners",
         "id": "1e31d74f-0f5b-482c-9140-d0be0ff9eeeb",
         "title": "Python Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342682,7 +342682,7 @@
         "company_name": "Meridian Partners",
         "id": "279f47da-651d-4b99-be89-f25aaa8768d1",
         "title": "Data Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342909,6 +342909,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kodiak Robotics",
+        "id": "078b686b-ef5b-4803-a291-b3762d2b81b9",
+        "title": "Behavior Planning Intern - Motion Planning",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787647069,
+        "date_posted": 1787603743,
+        "url": "https://job-boards.greenhouse.io/kodiak/jobs/4377721009",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
