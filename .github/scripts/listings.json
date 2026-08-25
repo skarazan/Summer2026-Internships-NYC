@@ -318327,7 +318327,7 @@
         "company_name": "InfiniteQuant",
         "id": "9ac6ae38-9b5a-4373-934b-b04f5fbdc09c",
         "title": "Quantitative Researcher Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326562,7 +326562,7 @@
         "company_name": "Dallas College",
         "id": "cec6b144-6a34-4f46-b66b-286ebe63fabd",
         "title": "SAS Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330030,7 +330030,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "97fb51eb-1ac2-4864-ae06-c8f8ac768c62",
         "title": "Technology and Operations Developer Co-op - Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -332762,7 +332762,7 @@
         "company_name": "NVIDIA",
         "id": "60fd19b0-17cd-4cb7-8cf0-99bd3743c1c9",
         "title": "Hardware Verification Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -343339,6 +343339,103 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "InfiniteQuant",
+        "id": "925fd340-08ca-444f-ab27-237fdfe56b27",
+        "title": "Quantitative Researcher Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787667517,
+        "date_posted": 1787582788,
+        "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145264634",
+        "locations": [
+            "Dubai - United Arab Emirates",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/InfiniteQuant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bosch Home Comfort",
+        "id": "4338e55f-78ed-4a37-8c3d-482e13c4cff0",
+        "title": "AI Security Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787667121,
+        "date_posted": 1787667120,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145507908",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "dbb6251b-a60a-494e-aa2b-3d680b0e0b47",
+        "title": "Software Engineer Co-op - Avionics Platform Software",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1787669353,
+        "date_posted": 1787616000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027---Onsite-_01869518",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "4ff921c1-6ccb-40f6-aff2-0f2ae665bc9d",
+        "title": "Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787669346,
+        "date_posted": 1787616000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
