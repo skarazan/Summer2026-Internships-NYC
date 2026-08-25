@@ -314430,7 +314430,7 @@
         "company_name": "GE Appliances",
         "id": "ea40b09a-1b9a-48b0-8330-24a499d63fe8",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -316082,7 +316082,7 @@
         "company_name": "Atoms",
         "id": "5379a4df-fa7a-4799-8978-00d1844415b9",
         "title": "Software Engineer Intern - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -317973,7 +317973,7 @@
         "company_name": "WSP",
         "id": "3e61b1a6-a2f1-43ac-b111-540ea2cf2915",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
