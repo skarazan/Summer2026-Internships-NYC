@@ -211233,7 +211233,7 @@
         "company_name": "Blockhouse",
         "id": "5fd9c494-f770-4b60-8ebc-a384213edb6e",
         "title": "Rust Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -272592,7 +272592,7 @@
         "company_name": "Zoox",
         "id": "63b2b431-dd8a-4ed5-8d8d-ae9abcc4878a",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -290655,7 +290655,7 @@
         "company_name": "McKesson",
         "id": "7c8d7a9c-df34-4d65-8b76-da3a59cdb9bc",
         "title": "AI & Strategic Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335446,7 +335446,7 @@
         "company_name": "Blue Shield of California",
         "id": "f8c3812a-4e5d-48e3-b329-54a28233db3a",
         "title": "Data Full Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337215,7 +337215,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "194afda8-ace4-46b3-b795-65651541bfd3",
         "title": "Data Analytics Intern - FAR Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337239,7 +337239,7 @@
         "company_name": "JP Morgan Chase",
         "id": "7833a92d-102e-4ca4-9a8b-c14f36398bc0",
         "title": "Analytics Solutions Associate - Consumer and Community Banking - Focused Analytics Solutions Team",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338151,7 +338151,7 @@
         "company_name": "Marsh",
         "id": "2e60bfbc-eba1-46bb-b68b-c273e8465412",
         "title": "Government Health Consulting Informatics Intern - College Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341080,7 +341080,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "133fba0a-28f0-4ec8-8ae8-6344885ba200",
         "title": "Data Engineer Intern - Chief Data Office",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -343963,6 +343963,122 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Brunswick",
+        "id": "bbd6e777-012d-4311-bbee-2f7372acaa9d",
+        "title": "Product Management Intern - Oils & Lubricants",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787683363,
+        "date_posted": 1787616000,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213",
+        "locations": [
+            "Fond du Lac, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Brunswick",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Brunswick",
+        "id": "9f7c7e8c-1d6a-4fa5-8877-36b26f0b630a",
+        "title": "Product Management Intern - Parts & Accessories",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787683367,
+        "date_posted": 1787616000,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Merucry-Marine--Product-Management-Intern---Parts---Accessories_JR-051142",
+        "locations": [
+            "Fond du Lac, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Brunswick",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brunswick",
+        "id": "45a90628-8af8-4195-9f94-89cb5bbfe029",
+        "title": "Advanced Manufacturing/Operations Analytics Engineering Co-op - Global Operations Excellence",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787683378,
+        "date_posted": 1787616000,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238",
+        "locations": [
+            "Fond du Lac, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Brunswick",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "99671fe3-39c9-49be-8363-def166f2b883",
+        "title": "Software Engineer Co-op - Deepfield",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787682637,
+        "date_posted": 1787682441,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39908",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "59b202cd-fa24-4379-a08c-73de8711a9a9",
+        "title": "Data Analytics & AI Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787682601,
+        "date_posted": 1787682442,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39743",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
