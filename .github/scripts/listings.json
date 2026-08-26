@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intelcom | Dragonfly",
-        "id": "da14345a-8f19-47d1-9ad1-dfc170c35c20",
-        "title": "Software Development Intern - Mobile Application",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766996604,
-        "date_posted": 1766996604,
-        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Mobile-Application_JR110090",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "TD Bank",
         "id": "ef4518bb-8ae9-44f7-9138-1773bc8ec0da",
@@ -342466,7 +342445,7 @@
         "company_name": "Kodiak Robotics",
         "id": "915b30af-2938-4d48-8548-bc6ea6190333",
         "title": "Controls Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -344565,6 +344544,29 @@
             "Irvine, CA"
         ],
         "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Brunswick",
+        "id": "0bb11c52-e4bf-4eb0-b1e8-68d76b7aefe1",
+        "title": "Transducer Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1787733402,
+        "date_posted": 1787270400,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Transducer-Engineering-Intern_JR-051320",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Brunswick",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
