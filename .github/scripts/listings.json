@@ -262396,7 +262396,7 @@
         "company_name": "Tesla",
         "id": "73ed244d-cc7c-4920-8097-19a925c97233",
         "title": "Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -310533,7 +310533,7 @@
         "company_name": "PNC Financial Services",
         "id": "50302205-471f-44ae-b50c-6d339917d72f",
         "title": "Product Innovation Intern - Retail Product Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332568,7 +332568,7 @@
         "company_name": "RTX",
         "id": "d6ccc1b0-bad2-4c51-af45-22ed47ddb4b5",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333124,7 +333124,7 @@
         "company_name": "Copart",
         "id": "4fa1b683-fa30-44b0-a279-ea52a60e6a84",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336599,7 +336599,7 @@
         "company_name": "RTX",
         "id": "4c51462d-b2c3-4a43-8b72-30b1c98fdf33",
         "title": "Digital Support & Business Intelligence Intern - Computer Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -344571,6 +344571,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GrayMatter Robotics",
+        "id": "27a6ad01-fe1e-43d5-b073-0910ba54f479",
+        "title": "AI Research Intern - Foundation Models",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787734893,
+        "date_posted": 1787734629,
+        "url": "https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429/application?embed=true",
+        "locations": [
+            "LA",
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/GrayMatterRobotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
