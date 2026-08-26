@@ -63,7 +63,7 @@
 <td>Software Engineer Intern 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/91436104816698054?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/cd7682b8-7722-4a26-9813-42ece290a387?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ambrook?utm_source=GHList&utm_medium=company">Ambrook</a></strong></td>

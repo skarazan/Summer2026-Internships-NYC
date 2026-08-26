@@ -1026,27 +1026,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "TD Bank",
-        "id": "94db1c13-fb38-456d-ba6c-c9be3b028a38",
-        "title": "Product Analyst Intern/Co-op - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767179641,
-        "date_posted": 1767018088,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Product-Analyst-Intern-Co-op--Acquisition---Engagement--CPJ--Credit-Cards--SUMMER-2026-_R_1458763",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "DC Water",
         "id": "e99a2913-01d7-40e6-b4c2-d5e4f5b84635",
@@ -260920,7 +260899,7 @@
         "company_name": "Peraton",
         "id": "8ee2c108-7c86-4c94-b7bb-5667b48e3d3a",
         "title": "Generative AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -309058,7 +309037,7 @@
         "company_name": "Rodan Energy Solutions Inc.",
         "id": "8834c0d1-5351-40d0-9bd5-cf8d147e7e0a",
         "title": "AI Solutions Specialist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -315297,7 +315276,7 @@
         "company_name": "Atoms",
         "id": "5379a4df-fa7a-4799-8978-00d1844415b9",
         "title": "Software Engineer Intern - Winter 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -316469,7 +316448,7 @@
         "company_name": "Atoms",
         "id": "2751af83-9f4f-48b8-8aba-6f534e9681e7",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -319316,7 +319295,7 @@
         "company_name": "Q5",
         "id": "56b68b11-760a-4224-ab26-17e3889e11d1",
         "title": "Research Analyst - Analytics Hub",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -320349,7 +320328,7 @@
         "company_name": "Bank of Montreal",
         "id": "7ffcd789-ef9d-4dfa-a950-34fda3485559",
         "title": "Full Stack Engineer Intern - Data Cognition Team",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -340107,7 +340086,7 @@
         "company_name": "Atoms",
         "id": "3d9f6139-bedb-4b94-9e84-1b542b3250ac",
         "title": "Robotics Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -344898,5 +344877,143 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "ffc80c46-0710-4acb-82cc-c1e1d640674c",
+        "title": "AI Hardware Physical Design Engineer Intern - AI Hardware",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787754068,
+        "date_posted": 1787752959,
+        "url": "https://www.tesla.com/careers/search/job/281233",
+        "locations": [
+            "Palo Alto, CA",
+            "Austin, TX",
+            "Fort Collins, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bank of Montreal",
+        "id": "97e495f1-2aae-4889-95a9-4b382506f276",
+        "title": "Full Stack Engineer Intern Co-op - Data Cognition Team",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787755401,
+        "date_posted": 1787702400,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bank of Montreal",
+        "id": "d69b4378-d3d7-4270-8839-244fb787224d",
+        "title": "Full Stack Engineer Intern Co-op - Data Cognition Team",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787755194,
+        "date_posted": 1787702400,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Maxinsights",
+        "id": "16a33b72-1c61-4db1-b55e-63d10155b928",
+        "title": "Data Operations Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787755861,
+        "date_posted": 1786505399,
+        "url": "https://jobs.ashbyhq.com/maxinsights/afbc425f-9543-460d-8f78-792a8017d060/application?embed=true",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Maxinsights",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sabre Systems",
+        "id": "d32abe7f-a579-49b8-9d71-10a16fdf5fc6",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787757301,
+        "date_posted": 1787757273,
+        "url": "https://careers.sabresystems.com/jobs/4759?icims=1",
+        "locations": [
+            "Lexington Park, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Sabre-Systems-LLC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MKS Instruments",
+        "id": "19594723-95da-4b7d-99b1-df2dd9b151f3",
+        "title": "Business Intelligence/Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787757357,
+        "date_posted": 1787702400,
+        "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/MKS-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
