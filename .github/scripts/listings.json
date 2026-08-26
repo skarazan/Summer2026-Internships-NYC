@@ -228775,7 +228775,7 @@
         "company_name": "Magnet Forensics",
         "id": "068879a3-b42f-4394-adff-ac6eebc9038f",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -285493,7 +285493,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "c1d1053c-438a-481e-8375-57149313ea2f",
         "title": "Software and Data Infrastructure Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -326990,7 +326990,7 @@
         "company_name": "SharkNinja",
         "id": "cf68c1ba-7041-4bca-bf76-d41bac3fad43",
         "title": "Performance Data Co-op - Marketplace Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337519,7 +337519,7 @@
         "company_name": "Mercor",
         "id": "fe6e435e-7b34-41cb-b526-98f990b943ad",
         "title": "Research Fellowship - Apex",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -345052,6 +345052,213 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "de753ad7-a941-4751-85c8-ff3d1b697b54",
+        "title": "Fullstack C++ Engineer Intern - Vehicle User Interface",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787772468,
+        "date_posted": 1787772307,
+        "url": "https://www.tesla.com/careers/search/job/280604",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "cb4c69f2-62ef-46ff-b70a-352ab1e61af2",
+        "title": "Embedded Software Engineer Intern - Firmware Platforms",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787772468,
+        "date_posted": 1787772316,
+        "url": "https://www.tesla.com/careers/search/job/281102",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Federal Reserve System",
+        "id": "7a778302-889f-406c-9cbe-8ac4860bf89c",
+        "title": "Technical Intern - Federal Reserve - National IT",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787772473,
+        "date_posted": 1787702400,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Technical-Internship_R-0000033194",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Federal-Reserve-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "0ebaa63f-d5e3-410a-82b7-0234eb9a8e1a",
+        "title": "Fullstack Software Engineer Intern - Fleetnet - Fullstack Software Engineering",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787772479,
+        "date_posted": 1787772314,
+        "url": "https://www.tesla.com/careers/search/job/281099",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "a96f8f9b-926d-483b-ba4f-ab46b0e78ac2",
+        "title": "Software Engineer Intern - Maps & Navigation Validation",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787772470,
+        "date_posted": 1787772317,
+        "url": "https://www.tesla.com/careers/search/job/281271",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "6f67b1f9-a488-41fb-81ab-1c90fbd557d4",
+        "title": "Software Engineer Intern - Maps & Navigation - Robotaxi",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787772477,
+        "date_posted": 1787772312,
+        "url": "https://www.tesla.com/careers/search/job/280960",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "0b09ad76-6210-4b87-94c9-b662b170d268",
+        "title": "Android Engineer Intern - Mobile Software",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787772467,
+        "date_posted": 1787772309,
+        "url": "https://www.tesla.com/careers/search/job/280605",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Canadian Tire",
+        "id": "ad3eb914-96f2-4845-9f67-f265f2fde8ec",
+        "title": "Fraud Strategy Student - 4 months",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787773681,
+        "date_posted": 1787702400,
+        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Welland-ON/Fraud-Strategy-Student--4-months----Winter-2027_JR164531",
+        "locations": [
+            "Welland, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Canadian-Tire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Elk Valley Resources",
+        "id": "38a986fa-b190-4465-b469-3c68fa8f62f4",
+        "title": "Geographic Information Systems Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787773518,
+        "date_posted": 1787773396,
+        "url": "https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Elk-Valley-Resources",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
