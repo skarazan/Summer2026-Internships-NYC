@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Nokia",
-        "id": "6da7e4e6-b7ea-43a7-a78a-849338142df7",
-        "title": "Summer Intern in Novel Computing for AI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767351022,
-        "date_posted": 1767351022,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27757",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Zoetis",
         "id": "7d0d02d8-8858-47ab-8a16-1d14e1f59758",
         "title": "Data Science Intern",
@@ -19033,29 +19012,6 @@
             "Calgary, AB, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Alberta-Investment-Management-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Royal Bank of Canada",
-        "id": "496aaefe-6bb4-41f7-ac02-88c95cfb2471",
-        "title": "Capital Markets QTS",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767347352,
-        "date_posted": 1767347352,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Capital-Markets-QTS--Software-Developer--Summer-2026--Halifax---4-Months-_R-0000152728",
-        "locations": [
-            "Halifax Regional Municipality, NS, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -211043,7 +210999,7 @@
         "company_name": "Tencent",
         "id": "ba133a6e-7d68-423a-a0ab-6235909272c2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272153,7 +272109,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Later",
-        "id": "169ee4eb-3319-4a8b-9ea1-9e765661b92b",
+        "id": "119ba1cb-df5a-4b95-9bed-4d76527e4280",
         "title": "AI Automation Engineer Co-op",
         "active": true,
         "terms": [
@@ -284395,7 +284351,7 @@
         "company_name": "GE Healthcare",
         "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329550,7 +329506,7 @@
         "company_name": "NVIDIA",
         "id": "bb48b7b8-29e9-4f8f-8817-54e325180735",
         "title": "Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336386,7 +336342,7 @@
         "company_name": "The Walt Disney Company",
         "id": "f5178797-4efa-456f-aa5f-fa10203f6b9d",
         "title": "Geographic Information Systems Intern - GIS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -339220,7 +339176,7 @@
         "company_name": "L3Harris Technologies",
         "id": "a2be610b-6555-428e-aa97-517ae6f0f746",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -344041,7 +343997,7 @@
         "company_name": "Leidos",
         "id": "cb7d628c-6b58-4cf9-9201-0b7c8c62c914",
         "title": "Software Engineer Intern - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348442,5 +348398,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "b06bb8f0-2561-491a-833c-68686d80da8e",
+        "title": "Access Control Systems Integration Engineer Intern - Vehicle Software",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788087262,
+        "date_posted": 1784268536,
+        "url": "https://www.tesla.com/careers/search/job/277192",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
