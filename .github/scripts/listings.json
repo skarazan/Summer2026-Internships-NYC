@@ -1,92 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Altom Transport",
-        "id": "91ef8a18-ec73-4cc4-94ba-e9c9e62e712c",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767396730,
-        "date_posted": 1767396730,
-        "url": "https://apply.workable.com/altom-transport/j/3A3D08CBC1/apply",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Altom-Transport",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Royal Bank of Canada",
-        "id": "10b40056-9602-4795-bea4-4e6a6056b737",
-        "title": "Retail Risk Modeling Intern - Grm - 4 Months",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767398299,
-        "date_posted": 1767398299,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---GRM--Retail-Risk-Modeling-Intern--4-Months-_R-0000149612",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Teledyne",
-        "id": "4cdb1e18-79ad-44a0-a493-bb121a3bc379",
-        "title": "Systems Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1767397589,
-        "date_posted": 1767397589,
-        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Camarillo-CA/Systems-Engineering-Intern_REQ32274",
-        "locations": [
-            "Camarillo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics UK",
-        "id": "8d7b83c4-ab84-4cee-b690-ff5a477c6d0c",
-        "title": "Co-op - Coalition and Joint Interoperability - 8-Month",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767396655,
-        "date_posted": 1767396655,
-        "url": "https://jobs.smartrecruiters.com/GDMSI/744000101380164",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "IDEXX",
         "id": "f26ea3fb-4283-40bc-98cf-e895f5052f3e",
@@ -18652,30 +18566,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Alberta Investment Management Corporation",
-        "id": "226ec71c-388e-48ea-883e-88a408903423",
-        "title": "Student Data Developer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767397050,
-        "date_posted": 1767397050,
-        "url": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Data-Developer--Summer-2026-_JR100740",
-        "locations": [
-            "Edmonton, AB, Canada",
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Alberta-Investment-Management-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -259589,7 +259479,7 @@
         "company_name": "Tesla",
         "id": "9ce31f80-9f48-43a4-924d-9739d2b61cf8",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -280154,7 +280044,7 @@
         "company_name": "Citadel Securities",
         "id": "b977109a-8e8c-4173-a584-460e709a733f",
         "title": "Quantitative Research Analyst Bachelor's or master's degree Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312077,7 +311967,7 @@
         "company_name": "Canva",
         "id": "b42d28f6-494f-4b0a-8e40-29dd669c4846",
         "title": "PhD Research Scientist Intern - Generative AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -312100,7 +311990,7 @@
         "company_name": "Canva",
         "id": "40fce4fe-2ffc-4371-9b54-174b5b8f649b",
         "title": "PhD Research Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -314453,7 +314343,7 @@
         "company_name": "ProNexus",
         "id": "7ededa5d-af4b-4f9d-80ae-9e03985190e9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341296,7 +341186,7 @@
         "company_name": "L3Harris Technologies",
         "id": "c0c19994-1b06-4cf8-83db-99b47c5c44f1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341321,7 +341211,7 @@
         "company_name": "L3Harris Technologies",
         "id": "d52a13a3-1624-4695-b00f-1073f8e8c13b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341370,7 +341260,7 @@
         "company_name": "L3Harris Technologies",
         "id": "d66736fe-805c-456b-8e9c-afe4109cf1c4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -345337,7 +345227,7 @@
         "company_name": "Marsh",
         "id": "d51eb451-9f91-449d-8c96-b84c35fbfb16",
         "title": "Summer Analyst - Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345361,7 +345251,7 @@
         "company_name": "Marsh",
         "id": "30f88aa1-c8c9-4587-808f-a3954162cf45",
         "title": "Summer Analyst Intern - Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348064,6 +347954,100 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Equifax",
+        "id": "3e77a1a2-8628-4836-9e07-b43a12a8468e",
+        "title": "Technology Intern - Software Development - Site Reliability Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788152272,
+        "date_posted": 1788048000,
+        "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/USIS-Technology-Intern_J00178784",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equifax",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "PIMCO",
+        "id": "c7058024-f00f-4d66-a0b6-68745ca6c64a",
+        "title": "Product Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788152271,
+        "date_posted": 1788134400,
+        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Product-Analyst--EMEA_R106780",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PIMCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PIMCO",
+        "id": "5f396023-d3b0-4532-8632-b4b75e97bd2b",
+        "title": "Software Engineering Intern - Technology Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788152271,
+        "date_posted": 1788134400,
+        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PIMCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Framatome",
+        "id": "5e006de2-cad9-4e1d-a296-f0c0823c5b22",
+        "title": "Computer Science Engineer Intern Co-op - University Co-op Technical",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788152164,
+        "date_posted": 1788151926,
+        "url": "https://careers-framatome.icims.com/jobs/3294/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Lynchburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Framatome",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
