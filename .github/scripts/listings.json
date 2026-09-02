@@ -286553,7 +286553,7 @@
         "company_name": "Copart",
         "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -293951,7 +293951,7 @@
         "company_name": "Castleton Commodities International",
         "id": "2c656f83-6247-4e1c-a019-3126608b9e23",
         "title": "Data Science Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -293977,7 +293977,7 @@
         "company_name": "Castleton Commodities International",
         "id": "ef340463-f818-4cd0-874c-2b1574493963",
         "title": "Data Science Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -294027,7 +294027,7 @@
         "company_name": "Castleton Commodities International",
         "id": "e01898a9-7ee0-4abc-a2e4-d7973c542041",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -294076,7 +294076,7 @@
         "company_name": "Castleton Commodities International",
         "id": "41018f36-15af-46ed-8719-1fb8d0abe78e",
         "title": "Full-Stack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -306269,7 +306269,7 @@
         "company_name": "StudyFetch",
         "id": "f010c8ee-806d-4f1c-96a4-0ad83bd900a7",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329581,7 +329581,7 @@
         "company_name": "TikTok",
         "id": "4ecdff57-6188-48f4-9540-4521c485bc53",
         "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -345760,7 +345760,7 @@
         "company_name": "Motorola",
         "id": "4dc4645e-2c89-45a4-96ba-afcf66131bb7",
         "title": "Mission Critical Networks Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -362627,7 +362627,7 @@
         "company_name": "Nokia",
         "id": "51e725b4-c103-46c1-8eea-0d03dbc29f66",
         "title": "Software Developer Co-op Intern - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -362992,6 +362992,105 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Qorvo",
+        "id": "fbfa277c-e07d-4122-a980-c9364dbe899d",
+        "title": "Database Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788377221,
+        "date_posted": 1788377042,
+        "url": "https://careers.qorvo.com/job/Apopka-Database-Intern-FL-32703/1425883100/?ats=successfactors",
+        "locations": [
+            "Apopka, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Qorvo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qorvo",
+        "id": "b7652228-e21c-4bcf-a939-6caec413ef71",
+        "title": "Product Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788377221,
+        "date_posted": 1788377045,
+        "url": "https://careers.qorvo.com/job/Greensboro-Product-Engineering-Intern-NC-27409/1425887900/?ats=successfactors",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Qorvo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qorvo",
+        "id": "5e1acef5-f1b5-4245-be98-c3d3b83e9de3",
+        "title": "MMIC Design Intern - Defense & Aerospace Products",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788377221,
+        "date_posted": 1788377047,
+        "url": "https://careers.qorvo.com/job/Denver-MMIC-Design-Intern-CO-80014/1425889900/?ats=successfactors",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Qorvo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qorvo",
+        "id": "98621c93-f516-46e0-8eda-22230c879010",
+        "title": "Product Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788377041,
+        "date_posted": 1788377040,
+        "url": "https://careers.qorvo.com/job/Chelmsford-Product-Engineer-Intern-MA-1824/1425880400/?ats=successfactors",
+        "locations": [
+            "Chelmsford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qorvo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
