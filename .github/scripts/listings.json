@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "A Thinking Ape",
-        "id": "ae679862-5a2f-47ae-80d4-6c2e722d931c",
-        "title": "Software Engineer Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767861798,
-        "date_posted": 1767861798,
-        "url": "https://job-boards.greenhouse.io/athinkingape/jobs/7436071",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/A-Thinking-Ape",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Unity",
         "id": "8386a979-b004-4216-98e2-c7dfe93b8a00",
         "title": "Software Engineer - Engine Support",
@@ -29090,7 +29067,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -192741,7 +192718,7 @@
         "company_name": "Kognitos",
         "id": "58077951-984f-4310-b0ce-55853074ed6e",
         "title": "Software Engineer Intern - AI-Native",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -195709,7 +195686,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -293442,7 +293419,7 @@
         "company_name": "Copart",
         "id": "c63937cc-49b3-4672-b316-c4e35731c6af",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336060,7 +336037,7 @@
         "company_name": "Auto-Owners Insurance",
         "id": "89458fa4-671a-4f16-80d0-b17bfb3af74d",
         "title": "Software Developer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339329,7 +339306,7 @@
         "company_name": "The Walt Disney Company",
         "id": "2988cc76-e6a5-4e83-83b9-4b0ea07da23a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -339493,7 +339470,7 @@
         "company_name": "Booz Allen",
         "id": "0b789ff7-5e0b-41ba-98b2-35370afdd223",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351252,7 +351229,7 @@
         "company_name": "Booz Allen",
         "id": "21c2dbb5-58dc-42ce-b2f5-f7a3eed6a47f",
         "title": "Data Scientist Intern - University - Summer Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361292,7 +361269,7 @@
         "company_name": "Cisco",
         "id": "2e2b9880-d6c9-4502-b647-d93be679e9a2",
         "title": "Machine Learning Engineer 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -362640,7 +362617,7 @@
         "company_name": "Cisco",
         "id": "cc47ac63-57a2-4592-ad46-338af068e454",
         "title": "Machine Learning Engineer 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -365193,7 +365170,7 @@
         "company_name": "Sorting Robotics",
         "id": "64519e07-9f32-4cb2-b293-18460d912c83",
         "title": "Robotics Engineer Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -367016,7 +366993,7 @@
         "company_name": "Brunswick",
         "id": "e6071b93-7dbd-4e00-9f95-3aedd8bda97c",
         "title": "Power BI/Ops Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -369970,7 +369947,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "757dc2f7-3e8d-4e4f-bba1-a5c378ea6ca9",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -378290,7 +378267,7 @@
         "company_name": "Marvell",
         "id": "09fd06f3-ffee-4273-adf4-17b10e35aa2f",
         "title": "Design Verification Intern - BS - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -378615,6 +378592,52 @@
         "date_updated": 1788596901,
         "date_posted": 1788473329,
         "url": "https://jobs.smartrecruiters.com/GDMSI/744000147563929",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wealthsimple",
+        "id": "8e6234ef-f09e-4bd9-b4a9-2ca6c52f8657",
+        "title": "Credit & Fraud Analytics Intern - Winter 2027",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788606901,
+        "date_posted": 1788477064,
+        "url": "https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28/application?embed=true",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Wealthsimple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "d0909b73-ab4c-4cfe-9ff3-d1b9e1dc2929",
+        "title": "Mobile Domain System Engineering Co-op - Months",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788608368,
+        "date_posted": 1788530935,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000147552960",
         "locations": [
             "Calgary, AB, Canada"
         ],
