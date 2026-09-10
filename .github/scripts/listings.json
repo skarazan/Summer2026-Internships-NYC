@@ -1,74 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sigma Computing",
-        "id": "334fbd19-26cd-4df2-9c4c-767bf9514348",
-        "title": "Software Engineering Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768289229,
-        "date_posted": 1768289229,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7588094003",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "5f7f8ea0-cc7b-46b6-9acd-29f0409f5740",
-        "title": "Customer Applications Engineer Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768288319,
-        "date_posted": 1768288319,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28080",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Commvault",
-        "id": "c6de2776-dffd-48d6-a05e-3e84d0e0bbad",
-        "title": "Technical Enablement Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768288766,
-        "date_posted": 1768288766,
-        "url": "https://job-boards.greenhouse.io/commvault/jobs/5051679008",
-        "locations": [
-            "Shrewsbury, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Commvault",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Sigma Computing",
         "id": "4bafe0b5-f17f-45e2-9cb3-51c529b8c67d",
@@ -64422,7 +64354,7 @@
         "company_name": "Oracle",
         "id": "4a0eb1dc-86d2-4a53-bb34-06a44fd94c52",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -212891,7 +212823,7 @@
         "company_name": "Salesforce",
         "id": "3cb45823-f475-44c7-aaca-4a1335faf6ff",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -224592,7 +224524,7 @@
         "company_name": "Quadric",
         "id": "683140b0-3387-4bc2-b341-7ea5fa65f78f",
         "title": "Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -304889,7 +304821,7 @@
         "company_name": "InfiniteQuant",
         "id": "9bd5bf91-17e4-4d57-9268-dd61b4b3cdf4",
         "title": "Quantitative Researcher Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -308108,7 +308040,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308134,7 +308066,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308160,7 +308092,7 @@
         "company_name": "Goldman Sachs",
         "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308206,7 +308138,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -315759,7 +315691,7 @@
         "company_name": "Goldman Sachs",
         "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
         "title": "Summer Analyst Intern - Americas - AWM Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -315783,7 +315715,7 @@
         "company_name": "Goldman Sachs",
         "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
         "title": "AWM Product Management Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -324520,7 +324452,7 @@
         "company_name": "InfiniteQuant",
         "id": "925fd340-08ca-444f-ab27-237fdfe56b27",
         "title": "Quantitative Researcher Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329074,7 +329006,7 @@
         "company_name": "Goldman Sachs",
         "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
         "title": "Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335225,7 +335157,7 @@
         "company_name": "Integra FEC",
         "id": "835bcd4a-32e6-4f60-bb83-e10526416b93",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -344727,7 +344659,7 @@
         "company_name": "Hermeus",
         "id": "768502d1-3bb6-48fe-8605-2c02c23d8e9e",
         "title": "Software Engineer Intern - Modeling & Simulation - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -350279,7 +350211,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "72dee251-66c4-4635-bc10-acd70891dd4c",
         "title": "Protocol and Special Events AI and Digital Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -353462,7 +353394,7 @@
         "company_name": "ABB",
         "id": "8e55e1d9-a6ba-4cf3-b2bd-186d0907c738",
         "title": "Physical AI Robotics Simulation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -363283,7 +363215,7 @@
         "company_name": "Hexagon AB",
         "id": "5e2fa2fd-c884-4674-a59b-5d590403fb0c",
         "title": "Geomatics Engineer Intern - GNSS Algorithms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363853,7 +363785,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363920,7 +363852,7 @@
         "company_name": "Goldman Sachs",
         "id": "59064871-3c04-41bf-8676-945ce2cc7648",
         "title": "Summer Analyst Intern - Wealth Management - Quantitative Finance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363941,7 +363873,7 @@
         "company_name": "Goldman Sachs",
         "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
         "title": "Summer Analyst Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364030,7 +363962,7 @@
         "company_name": "Goldman Sachs",
         "id": "8f346a45-4490-4243-933e-264e3916e701",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364053,7 +363985,7 @@
         "company_name": "Goldman Sachs",
         "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
         "title": "Quantitative Strategist Intern - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364076,7 +364008,7 @@
         "company_name": "Goldman Sachs",
         "id": "765bb91e-34d7-4746-8e11-8598e700e845",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364146,7 +364078,7 @@
         "company_name": "Goldman Sachs",
         "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364170,7 +364102,7 @@
         "company_name": "Goldman Sachs",
         "id": "06098497-6840-4802-8838-81e0dbdec164",
         "title": "Summer Analyst Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364193,7 +364125,7 @@
         "company_name": "Goldman Sachs",
         "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
         "title": "Summer Analyst Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364240,7 +364172,7 @@
         "company_name": "Goldman Sachs",
         "id": "792220f4-3ba1-4cf8-843e-e23208ba8d24",
         "title": "Summer Analyst Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366311,7 +366243,7 @@
         "company_name": "RTX",
         "id": "4137dd61-de8e-40fd-b3a3-47517a95badf",
         "title": "Business Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -368372,7 +368304,7 @@
         "company_name": "Texas Instruments",
         "id": "4494b591-4110-46e8-84bb-6f5752c5e2a3",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -375064,7 +374996,7 @@
         "company_name": "United Airlines",
         "id": "328b3420-d343-4ef8-ac99-d5b626d3490e",
         "title": "Onboard Experience Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378494,7 +378426,7 @@
         "company_name": "Carmeuse",
         "id": "7651cd7a-561c-42d0-b52f-2ba5989fe922",
         "title": "Automation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -379056,7 +378988,7 @@
         "company_name": "Asure",
         "id": "29710cd0-626e-42e1-8df1-cac448ebe72c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -380150,7 +380082,7 @@
         "company_name": "Navy Federal",
         "id": "827d2b4c-173e-49bf-915b-86f7b399e88d",
         "title": "Business Intelligence Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2017"
         ],
@@ -382238,7 +382170,7 @@
         "company_name": "Centific",
         "id": "aa85a66b-b7ad-40d5-b986-339012d241c9",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -385223,6 +385155,79 @@
             "Jersey City, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Tradeweb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Constellation Energy",
+        "id": "3ae54954-c218-444e-aaec-8d2b4da82e49",
+        "title": "Business Performance & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789021140,
+        "date_posted": 1789021035,
+        "url": "https://jobs.constellationenergy.com/jobs/138770?icims=1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "0c9f983c-f1b8-4bca-b322-145dd1b08a99",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789021009,
+        "date_posted": 1788912000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2027-_01872655",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Barr",
+        "id": "043c5fe0-58dc-4412-aeef-db60c9bd78b9",
+        "title": "GIS Specialist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1789021001,
+        "date_posted": 1788998400,
+        "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Internship---GIS-Specialist--Hybrid-_R-102305-1",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Barr",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
