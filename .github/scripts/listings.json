@@ -2,30 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "OLG",
-        "id": "b5806442-ed47-4767-a4a0-9e7141a9fe28",
-        "title": "Digital Analytics Co-op Student",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768375456,
-        "date_posted": 1768375456,
-        "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Digital-Analytics-Co-op-Student_R26_00023",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Sault Ste. Marie, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/OLG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Uline",
         "id": "26cd32f6-45cf-489b-b614-7d195ef04f84",
         "title": "Financial Data Analyst Internship - Summer 2026",
@@ -1765,27 +1741,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Irving Oil",
-        "id": "27c86043-051f-4975-bc49-3cff02d52809",
-        "title": "Continuous Improvement - Asset Integrity Summer Student",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1768375568,
-        "date_posted": 1768375568,
-        "url": "https://irvingoil.wd3.myworkdayjobs.com/iolcareers_allotherpositions/job/Saint-John/Continuous-Improvement---Asset-Integrity--Summer-Student_R127819",
-        "locations": [
-            "Saint John, NB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Irving-Oil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "British Columbia Investment",
         "id": "efcf2bcd-b5e8-4c93-a2db-7d560e17f645",
@@ -1828,29 +1783,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Irving Oil",
-        "id": "cc1bc12c-e1cb-4fa1-849d-0ea3eba32808",
-        "title": "Engineering Services Project Controls-Student",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1768375568,
-        "date_posted": 1768375568,
-        "url": "https://irvingoil.wd3.myworkdayjobs.com/iolcareers_allotherpositions/job/Saint-John/Engineering-Services-Project-Controls--Summer-Student_R127830",
-        "locations": [
-            "Saint John, NB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Irving-Oil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -290534,7 +290466,7 @@
         "company_name": "Samsara",
         "id": "43a2a7c2-28cb-4d16-9914-b1e324a8c4a5",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2028"
         ],
@@ -306106,7 +306038,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -316773,7 +316705,7 @@
         "company_name": "Brunswick",
         "id": "c4bfe952-8e9a-4599-966c-127295b128ad",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338332,7 +338264,7 @@
         "company_name": "Edison International",
         "id": "eac0d398-9f96-4736-880f-8b8bd6a17886",
         "title": "Summer Internship - Data Analytics/Science/Applied Math",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360745,7 +360677,7 @@
         "company_name": "RTX",
         "id": "c48914ab-1f0c-4a5e-a350-c3cf1fbdf3a6",
         "title": "Performance Indicator Development and Process and Project Management Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -362093,7 +362025,7 @@
         "company_name": "Goldman Sachs",
         "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -362953,7 +362885,7 @@
         "company_name": "Boston Scientific",
         "id": "8a34588c-c5ee-4a8a-a5a6-7002eb677f3f",
         "title": "R&D Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365316,7 +365248,7 @@
         "company_name": "Principal Financial Group",
         "id": "12e13643-ecc8-42a5-b20c-2c17fd0c17a0",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365811,7 +365743,7 @@
         "company_name": "Kimley-Horn",
         "id": "18309c3c-eeeb-46d5-af59-0aed871733dd",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -368872,7 +368804,7 @@
         "company_name": "Marvell",
         "id": "c59f85f4-61b5-40c1-886f-14943e17c10e",
         "title": "Physical Design Engineer Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -372964,7 +372896,7 @@
         "company_name": "United Airlines",
         "id": "328b3420-d343-4ef8-ac99-d5b626d3490e",
         "title": "Onboard Experience Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -374178,7 +374110,7 @@
         "company_name": "Northrop Grumman",
         "id": "e7f91d55-7af9-4814-886b-7cec1ce1222e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376138,7 +376070,7 @@
         "company_name": "COUNTRY Financial",
         "id": "a70cad86-89f9-4f7c-881d-a22840ad91ee",
         "title": "Information Technology Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383277,7 +383209,7 @@
         "company_name": "Domino Data Lab",
         "id": "eabf370c-678d-4de3-925f-22d7298aeb68",
         "title": "Forward Deployed Engineer Intern - Campus Recruiting 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -387859,5 +387791,51 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Swarm Aero",
+        "id": "4c49bc10-cd1b-499e-8eac-48cf3b26e69c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1789121341,
+        "date_posted": 1789079891,
+        "url": "https://jobs.ashbyhq.com/swarmaero/04cff1f6-c790-4773-8568-e487a03626f6/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Swarm-Aero",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Allen Control Systems",
+        "id": "86d4a17f-4782-4b97-8cb0-989b8695dc75",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789123301,
+        "date_posted": 1788906718,
+        "url": "https://jobs.ashbyhq.com/allen-control-systems/cc1618f1-e4b8-4dcb-88fd-9771da972220/application?embed=true",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Allen-Control-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
