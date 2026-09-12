@@ -1,129 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "British Columbia Investment",
-        "id": "efcf2bcd-b5e8-4c93-a2db-7d560e17f645",
-        "title": "Enterprise Solutions Software Engineer Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1768478683,
-        "date_posted": 1768478683,
-        "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Enterprise-Solutions--Software-Engineer-Co-op-Internship--Summer-and-or-Fall-2026-_JR101373",
-        "locations": [
-            "Victoria, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/British-Columbia-Investment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "British Columbia Investment",
-        "id": "32c987cf-c90d-4b06-978c-2f21a9176323",
-        "title": "Software Engineering \u2013 Co-op/Internship - Miits - Summer & Fall 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1768478679,
-        "date_posted": 1768478679,
-        "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Software-Engineering--MIITS--Co-op-Internship--Summer---Fall-2026-_JR101364",
-        "locations": [
-            "Victoria, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/British-Columbia-Investment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uline",
-        "id": "27ea59f9-2f7f-4ec8-b315-38329e246e31",
-        "title": "Software Developer Internship - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768479421,
-        "date_posted": 1768479421,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Developer-Internship---Summer-2026_R260582",
-        "locations": [
-            "Kenosha, WI",
-            "Waukegan, IL",
-            "Morton Grove, IL",
-            "Pleasant Prairie, WI",
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uline",
-        "id": "f1c7ce8b-5fe5-44e2-be4d-38cae6d52ece",
-        "title": "Business Intelligence Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768479420,
-        "date_posted": 1768479420,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2026_R260590",
-        "locations": [
-            "Kenosha, WI",
-            "Waukegan, IL",
-            "Morton Grove, IL",
-            "Pleasant Prairie, WI",
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RSM",
-        "id": "82a6ebc5-3c04-4041-954c-17b538fd592b",
-        "title": "D365 Consulting Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768478965,
-        "date_posted": 1768478965,
-        "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Seattle/D365-Consulting-Intern---Summer-2026_JR111185",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/RSM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Auctane",
         "id": "9a4bb2dd-90a7-47b4-bbc8-f65bfe3a038b",
@@ -184309,7 +184186,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -253008,7 +252885,7 @@
         "company_name": "Liberty University",
         "id": "ea053f2a-38d8-4cc1-af0b-e280de37935e",
         "title": "Business Analyst Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -297205,7 +297082,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "14051ce6-a050-4a8e-851b-555583f7ba2c",
         "title": "Data Engineer Intern - Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297231,7 +297108,7 @@
         "company_name": "SkyGig",
         "id": "87e1bcd4-c2d1-41b8-bd8e-f853c69f7050",
         "title": "RFIC Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -322563,7 +322440,7 @@
         "company_name": "Sun Life",
         "id": "b2d3a293-02ed-4860-a76b-6098d2adfcfe",
         "title": "Automation Specialist Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -325643,7 +325520,7 @@
         "company_name": "Leidos",
         "id": "49e6ace2-42ca-46a7-81f9-59a39844f75f",
         "title": "Computer Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -336410,7 +336287,7 @@
         "company_name": "Edison International",
         "id": "77203ce5-b7d4-43d5-a610-f97e1ddee542",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -348558,7 +348435,7 @@
         "company_name": "Stryten",
         "id": "ff18a224-fab9-4b60-93c1-ca580f75a616",
         "title": "System Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352573,7 +352450,7 @@
         "company_name": "NVIDIA",
         "id": "51a4a857-a381-433e-a84a-c418a90df692",
         "title": "Digital Circuit Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -353703,7 +353580,7 @@
         "company_name": "OceanComm",
         "id": "4d73ee07-1a9f-463a-af8b-89f1101f9965",
         "title": "Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -354869,7 +354746,7 @@
         "company_name": "Nio",
         "id": "da434a40-5732-4900-855f-676aa5cd10e7",
         "title": "AI Robotics Researcher Intern - Dexterous Manipulation",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -358685,7 +358562,7 @@
         "company_name": "RTX",
         "id": "4fb34804-5a77-473d-9fdf-a34420e9e45b",
         "title": "Advanced Analytics Products & Change Management Intern - Advanced Analytics AI Evolution Project",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -359548,7 +359425,7 @@
         "company_name": "Walmart",
         "id": "9145a4f8-536c-4cf7-9763-5724c53579f1",
         "title": "Data Scientist 3 Intern - 2026 Intern Conversion: 2027 FT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -359765,7 +359642,7 @@
         "company_name": "Walmart",
         "id": "926d0b7b-a700-40fb-a9c0-6d9f5095bf8d",
         "title": "Software Engineer 2 Intern - Bellevue",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -365013,7 +364890,7 @@
         "company_name": "Marvell",
         "id": "4d5f11db-f4d3-45a0-aaa1-9a429091be83",
         "title": "Design for Test Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -371045,7 +370922,7 @@
         "company_name": "Airbus",
         "id": "4dc86313-ac1f-4d5e-a766-6c8629caffcf",
         "title": "Satellite Digital Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -373333,7 +373210,7 @@
         "company_name": "RTX",
         "id": "76730cc1-91aa-4e2a-84db-89852233810d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380930,7 +380807,7 @@
         "company_name": "Charles Schwab",
         "id": "a6063334-5bb1-4e13-b02e-d2d9b9c069fb",
         "title": "Product Management Intern - Thinkorswim",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390628,5 +390505,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stand Together",
+        "id": "b8af3c73-ae72-4e65-9e91-d90b4215c39d",
+        "title": "Strategic Research Intern - Pacific Legal Foundation",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789212150,
+        "date_posted": 1788993129,
+        "url": "https://jobs.lever.co/standtogether/e4dd1d3c-79a0-435d-87b3-eac542b4c2b5/apply",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stand-Together",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
