@@ -2,30 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Geotab",
-        "id": "aa189ec4-6b0e-44d7-a2ad-8ff65ee4da63",
-        "title": "Data Scientist Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768495286,
-        "date_posted": 1768495286,
-        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5018105008",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Geotab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Olsson",
         "id": "ce534c37-ec54-4ce5-9c8a-b1c154f9575d",
         "title": "GIS Student Internship",
@@ -116654,31 +116630,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Akuna Capital",
-        "id": "533c5cbc-2c31-4f95-b3ee-c79ed5b904ce",
-        "title": "Software Engineer Intern - Python",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768494701,
-        "date_posted": 1768494701,
-        "url": "https://www.akunacapital.com/job-details?gh_jid=7055471",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Akuna-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -390338,5 +390289,51 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Klaviyo",
+        "id": "90073809-4e42-4a91-9c65-c5750c320aba",
+        "title": "Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1789234741,
+        "date_posted": 1789234577,
+        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Klaviyo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Klaviyo",
+        "id": "155087e9-02c4-4e9c-af43-3d7e5a3a6091",
+        "title": "Software Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789234741,
+        "date_posted": 1789234577,
+        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Klaviyo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
