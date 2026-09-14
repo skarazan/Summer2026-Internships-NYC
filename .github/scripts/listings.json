@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "City of Charlotte",
-        "id": "36178f9a-083a-4e1a-b8c8-a0e478b3bde5",
-        "title": "4 Yr Undergrad Intern 1 - Emergency Management",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1768633924,
-        "date_posted": 1768633924,
-        "url": "https://charlottenc.wd12.myworkdayjobs.com/citgov/job/CLT-Center/XMLNAME-4-Yr-Undergrad-Intern-I---Emergency-Management_JR103078-1",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/City-Of-Charlotte",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Samsung Research America",
         "id": "2909b23b-d049-4f31-9d5e-a71faacba4af",
         "title": "2026 Intern - Computer Vision & ML - Summer",
@@ -95131,7 +95108,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -292369,7 +292346,7 @@
         "company_name": "Sun Life",
         "id": "765f9438-c57a-4035-9229-8b41b835beeb",
         "title": "Digital Analytics Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -303413,7 +303390,7 @@
         "company_name": "University of St. Thomas",
         "id": "11983d91-6b4a-466a-af2e-2b3ff670b741",
         "title": "Semiconductor Test AI Intern - Minnesota Semiconductor AI Hub",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -305902,7 +305879,7 @@
         "company_name": "Microsoft",
         "id": "1b2916de-7e46-4f2e-b790-241b1fd38a82",
         "title": "AI for Science Resident - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -310808,7 +310785,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "feab6170-0da2-4e27-b0ab-3fd9be40aef4",
         "title": "Data Enablement Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -310936,7 +310913,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "1ed4cb37-6662-4b66-a3fe-06105391908f",
         "title": "Data Enablement Co-op - CPA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -314218,7 +314195,7 @@
         "company_name": "Bank of Montreal",
         "id": "b1a20c98-1a97-499e-b84e-8ba51e557640",
         "title": "Client Enablement Analyst Co-op Intern - Client Onboarding",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -318566,7 +318543,7 @@
         "company_name": "Bank of Montreal",
         "id": "d69b4378-d3d7-4270-8839-244fb787224d",
         "title": "Full Stack Engineer Intern Co-op - Data Cognition Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -324127,7 +324104,7 @@
         "company_name": "Charles Schwab",
         "id": "09239b96-d26a-4691-b9ab-9b8b442caa9f",
         "title": "Software Engineering Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -324155,7 +324132,7 @@
         "company_name": "Charles Schwab",
         "id": "93f4951e-c280-428f-8f6f-a0611c97b96e",
         "title": "Data Engineering Intern - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325965,7 +325942,7 @@
         "company_name": "Johnson & Johnson",
         "id": "410fe293-036e-43d5-afdd-1139c15645f6",
         "title": "Quality Data Science Co-op - MD Q&C Digital Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337974,7 +337951,7 @@
         "company_name": "Ingredion",
         "id": "c2e6377c-2c49-47ed-a0e6-12520a2d17a4",
         "title": "Digital Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341154,7 +341131,7 @@
         "company_name": "RTX",
         "id": "d49edaed-a9b3-4cd6-84d0-0c0cccecba31",
         "title": "Spectrum Dominance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357375,7 +357352,7 @@
         "company_name": "Xcel Energy",
         "id": "d5fbb53e-5766-47f2-b39c-157d7184a35a",
         "title": "Corporate Impact Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -386692,6 +386669,50 @@
             "Bethlehem, PA"
         ],
         "company_url": "https://simplify.jobs/c/Guardian-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "00b431d7-b27a-42f0-9b16-db2bb8402cf7",
+        "title": "Data Analyst Intern - Global Technology & Solutions",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789367462,
+        "date_posted": 1789257600,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800",
+        "locations": [
+            "Mt Laurel Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Sika",
+        "id": "7fd35988-e3ee-43a5-89c4-7a80a5730d35",
+        "title": "Product Management Apprentice",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789376761,
+        "date_posted": 1789376656,
+        "url": "https://jobs.smartrecruiters.com/SikaAG/744000149271019",
+        "locations": [
+            "Welwyn Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sika",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
