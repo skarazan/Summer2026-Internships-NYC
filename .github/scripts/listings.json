@@ -175012,7 +175012,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -195116,7 +195116,7 @@
         "company_name": "Mechanize",
         "id": "d42b26ee-99ce-44ab-96b5-8554a11325da",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -294657,7 +294657,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -294749,7 +294749,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -301768,7 +301768,7 @@
         "company_name": "Boston Consulting Group",
         "id": "f6f17706-f32e-4624-8175-889945a160e5",
         "title": "Forward Deployed AI Engineer - Campus",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -315418,7 +315418,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325127,7 +325127,7 @@
         "company_name": "Trane Technologies",
         "id": "98540e92-9f57-4fcc-9005-6dc6593e8205",
         "title": "AI Intern - AI Product Management - AI Controls Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331533,7 +331533,7 @@
         "company_name": "United Airlines",
         "id": "97b4860b-2ba5-4a16-b270-99e61c276351",
         "title": "Sales Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -350471,7 +350471,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350494,7 +350494,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350540,7 +350540,7 @@
         "company_name": "Goldman Sachs",
         "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
         "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354435,7 +354435,7 @@
         "company_name": "Invesco",
         "id": "6716499c-74a8-4108-ab04-012b58e19656",
         "title": "Early Career Intern - Corporate Functions Data Office",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -365485,7 +365485,7 @@
         "company_name": "Vercel",
         "id": "940140be-314d-40e2-8614-14d3a19bb049",
         "title": "Software Engineer Intern - Summer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -365883,7 +365883,7 @@
         "company_name": "General Motors",
         "id": "10dda9a8-fdca-4b2e-abf9-94844492a2ab",
         "title": "Global Customer Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -366441,7 +366441,7 @@
         "company_name": "Wells Fargo",
         "id": "accc4a4e-f916-44c7-a0f5-e4260d4d7640",
         "title": "Quantitative Analytics Intern - Applied Computational Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380581,7 +380581,7 @@
         "company_name": "Cozey",
         "id": "9b456cb3-5f2b-4380-9ecc-9b0e2767ce3a",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -381802,7 +381802,7 @@
         "company_name": "Johnson & Johnson",
         "id": "6380881f-a45a-4afd-9856-5388dbf633d9",
         "title": "Postdoctoral Scientist - AI/ML",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -383677,7 +383677,7 @@
         "company_name": "Highgate",
         "id": "fecb09fe-d423-4ee4-8ccd-9aa8b90dfd73",
         "title": "Revenue Management Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384060,7 +384060,7 @@
         "company_name": "Tive",
         "id": "9d613826-b169-4950-9be3-779d329aab98",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -397159,7 +397159,7 @@
         "company_name": "Visa",
         "id": "42074831-4df6-43c3-a5e6-cd8a61daef56",
         "title": "Staff Research Scientist Intern - Agentic AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
