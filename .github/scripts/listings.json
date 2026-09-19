@@ -2,76 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "APL Logistics",
-        "id": "e0fafefb-cdaa-41d6-ac01-53d66afad28a",
-        "title": "Apprentice/Intern - Data Science & BI - Wms",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769077776,
-        "date_posted": 1769077776,
-        "url": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3761",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/APL-Logistics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "7cfbeb0c-af31-4f2f-be63-1929643b91f0",
-        "title": "Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769077919,
-        "date_posted": 1769077919,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556745603",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "0019aa00-913b-4393-8edd-61e92809a205",
-        "title": "Software Engineer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769115848,
-        "date_posted": 1769078091,
-        "url": "https://aexp.eightfold.ai/careers/job/39688514",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Robert Bosch Venture Capital",
         "id": "377cde1b-3654-44ad-8167-02d579b614f7",
         "title": "Calibration Process Data Science Intern",
@@ -5410,7 +5340,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -92282,7 +92212,7 @@
         "company_name": "Tencent",
         "id": "f682356d-55da-4f90-987d-77f140cc652d",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -251708,7 +251638,7 @@
         "company_name": "Aptiv",
         "id": "a62910e6-5d07-4c79-b9be-d6c633815782",
         "title": "Working Student Interior Sensing ML",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -291373,7 +291303,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -291399,7 +291329,7 @@
         "company_name": "Goldman Sachs",
         "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -291445,7 +291375,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -302840,7 +302770,7 @@
         "company_name": "RTX",
         "id": "f96bb586-5dba-40b3-ad65-08b6decf9934",
         "title": "Repair & Overhaul Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -303467,7 +303397,7 @@
         "company_name": "Mastercard",
         "id": "78c03ab4-f50a-445d-9802-fb785330b50f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -312313,7 +312243,7 @@
         "company_name": "Goldman Sachs",
         "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
         "title": "Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -313978,7 +313908,7 @@
         "company_name": "Deloitte",
         "id": "ec27d2f4-0e82-4c2b-b8c2-fc8a682baed1",
         "title": "AI Innovation Summer Scholar Intern - AI Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328131,7 +328061,7 @@
         "company_name": "United Airlines",
         "id": "97b4860b-2ba5-4a16-b270-99e61c276351",
         "title": "Sales Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332646,7 +332576,7 @@
         "company_name": "United Airlines",
         "id": "3af25d9c-26c3-459f-92b5-acad01055a09",
         "title": "Operations Strategy & Analytics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342081,7 +342011,7 @@
         "company_name": "Nio",
         "id": "da434a40-5732-4900-855f-676aa5cd10e7",
         "title": "AI Robotics Researcher Intern - Dexterous Manipulation",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -347361,7 +347291,7 @@
         "company_name": "Goldman Sachs",
         "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
         "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -347385,7 +347315,7 @@
         "company_name": "Goldman Sachs",
         "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -347409,7 +347339,7 @@
         "company_name": "Goldman Sachs",
         "id": "06098497-6840-4802-8838-81e0dbdec164",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -347432,7 +347362,7 @@
         "company_name": "Goldman Sachs",
         "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -350072,7 +350002,7 @@
         "company_name": "Deloitte",
         "id": "2440120c-cae1-4ca3-8e9b-73e8ca4bfac9",
         "title": "Data & AI Solutions Engineering Summer Scholar Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -350655,7 +350585,7 @@
         "company_name": "Principal Financial Group",
         "id": "12e13643-ecc8-42a5-b20c-2c17fd0c17a0",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -354005,7 +353935,7 @@
         "company_name": "Microsoft",
         "id": "19b44777-9f42-489e-8dab-541f494982f6",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -360332,7 +360262,7 @@
         "company_name": "AArete",
         "id": "0ce18659-d44b-4bc1-8341-275eda5c3c69",
         "title": "Data Architecture & Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -375893,7 +375823,7 @@
         "company_name": "Microsoft",
         "id": "ebc7d1a1-b5b8-4837-b209-d99b4aa18795",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -379068,7 +378998,7 @@
         "company_name": "State Farm",
         "id": "5071d3bb-61f2-4896-9065-dc7412d4ba00",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379094,7 +379024,7 @@
         "company_name": "State Farm",
         "id": "2daf141e-9ca0-4441-b4b7-8a3c0ba2ecc4",
         "title": "Technology Product Analyst Intern - Innovation Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379142,7 +379072,7 @@
         "company_name": "State Farm",
         "id": "87971fb5-3996-451a-a4b6-bf5d629dd0c4",
         "title": "Mainframe Software Engineer Intern - Enterprise Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379615,7 +379545,7 @@
         "company_name": "Wells Fargo",
         "id": "14f47481-e076-4f40-8d28-deaccaa6542d",
         "title": "Software Engineering Intern - Early Careers - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384478,7 +384408,7 @@
         "company_name": "RTX",
         "id": "8e2ae72c-1197-4234-9ceb-9e8f692add91",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -384503,7 +384433,7 @@
         "company_name": "RTX",
         "id": "1bd223c7-4d3d-4d64-8dcc-3c5d3d7095dc",
         "title": "Software Engineer Co-op - Summer/Fall 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -385636,7 +385566,7 @@
         "company_name": "Verizon Communications",
         "id": "51022cd5-814f-411e-991c-86b9d9441d02",
         "title": "Marketing Technology Intern - Consumer Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387512,7 +387442,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -391859,7 +391789,7 @@
         "company_name": "KBR",
         "id": "f95d545d-29da-4c64-bed3-f979beb5bd61",
         "title": "Image Processing Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392410,7 +392340,7 @@
         "company_name": "nVent",
         "id": "8801ee08-2b1c-4858-9978-77ec6600fd87",
         "title": "Engineering Lab Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -392703,7 +392633,7 @@
         "company_name": "GE Healthcare",
         "id": "f93a68c5-be5c-43a5-9f4c-2deab0e77c2a",
         "title": "Infant Care 5&5 Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -395491,7 +395421,7 @@
         "company_name": "OCC",
         "id": "cddeab16-284b-4b09-b61f-5bdb9dac600d",
         "title": "Data Intern - Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397145,7 +397075,7 @@
         "company_name": "RTX",
         "id": "a122ed0c-a472-4787-80bd-a028823e70bc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400446,6 +400376,75 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centene",
+        "id": "b1ddd57b-bd0d-4f01-acd3-b803848a6f3f",
+        "title": "Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789814233,
+        "date_posted": 1789689600,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Centene",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Clearwater Analytics",
+        "id": "382357f2-104c-4cb0-a43a-4a11f0f6e6ab",
+        "title": "Technical Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789818516,
+        "date_posted": 1789776000,
+        "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12287",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Clearwater-Analytics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Clearwater Analytics",
+        "id": "8ea8fa3a-2934-4575-8fc0-11bc13157037",
+        "title": "Technical Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789821204,
+        "date_posted": 1789776000,
+        "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12288",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Clearwater-Analytics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
