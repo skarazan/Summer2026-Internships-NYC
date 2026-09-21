@@ -1,78 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "EVgo",
-        "id": "d5522ab9-796e-420b-93ad-c03292ff43ee",
-        "title": "Intern Data Analyst",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1769267788,
-        "date_posted": 1769267788,
-        "url": "https://jobs.jobvite.com/evgo/job/opLmzfwP?nl=1&nl=1&fr=false",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/EVgo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Boston Consulting Group",
-        "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
-        "title": "AI Engineer Intern - BCG X",
-        "active": true,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769267948,
-        "date_posted": 1769267948,
-        "url": "https://careers.bcg.com/global/en/job/56635",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Boston Consulting Group",
-        "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
-        "title": "Data Scientist Intern",
-        "active": true,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769267948,
-        "date_posted": 1769267948,
-        "url": "https://careers.bcg.com/global/en/job/56634",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Virtru",
         "id": "698b89d3-e2db-4dc4-808c-3b352b4f9cfd",
@@ -223501,7 +223429,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257245,7 +257173,7 @@
         "company_name": "ROCKWOOL Group",
         "id": "c26b2364-8f05-423f-8def-b6d4e6b8ffd0",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -278012,7 +277940,7 @@
         "company_name": "BlueLabs Analytics",
         "id": "0df8e8db-3493-4b30-ac6d-81f4e6c21920",
         "title": "Strategic Analytics Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -282369,7 +282297,7 @@
         "company_name": "Wells Fargo",
         "id": "93ceecd3-ef7a-4e11-a4d0-fb7eb399e7f3",
         "title": "Quantitative Analytics Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -284060,7 +283988,7 @@
         "company_name": "Dmg Media",
         "id": "4d2fd538-d00b-4c2f-9137-dd8193ee0066",
         "title": "AI Engineer Intern - Innovation Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -292528,7 +292456,7 @@
         "company_name": "Swift",
         "id": "33253553-587b-447c-a021-ee8d32ddded1",
         "title": "Standards Strategy & Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -295886,7 +295814,7 @@
         "company_name": "Cigna Group",
         "id": "024af855-b60d-44e5-8ca0-8446b24f70e7",
         "title": "Technology Apprentice - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -305383,7 +305311,7 @@
         "company_name": "L3Harris Technologies",
         "id": "15f5617b-df43-41d3-b529-d1458277c5cd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326735,7 +326663,7 @@
         "company_name": "Major League Baseball",
         "id": "6baf79c0-1bd1-4ef7-b360-b5f149641e81",
         "title": "Player Development Associate - Player Development",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -331312,7 +331240,7 @@
         "company_name": "Frost",
         "id": "6318ab90-8bcd-4d0c-af9b-00719bb66676",
         "title": "Model Risk Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -331457,7 +331385,7 @@
         "company_name": "CAE",
         "id": "c416ad28-d7e6-4fca-98ee-f4a2119e49e5",
         "title": "Software Engineering Intern - AI, Automation and Business Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -345503,7 +345431,7 @@
         "company_name": "Invesco",
         "id": "6716499c-74a8-4108-ab04-012b58e19656",
         "title": "Early Career Intern - Corporate Functions Data Office",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358545,7 +358473,7 @@
         "company_name": "CAE",
         "id": "673f25da-a007-4065-9bbc-3bb07080ba59",
         "title": "Junior Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -359476,7 +359404,7 @@
         "company_name": "Garmin",
         "id": "1497b24b-487f-4977-a5ba-8c56c2ffb099",
         "title": "Software Engineer Intern - Real Time Aviation Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -363780,7 +363708,7 @@
         "company_name": "L3Harris Technologies",
         "id": "a91dc2d6-5619-4ff5-a70b-8961fc557d74",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -364398,7 +364326,7 @@
         "company_name": "L3Harris Technologies",
         "id": "cc2a43c3-1ce7-4b42-9f92-236adb09d59e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -365082,7 +365010,7 @@
         "company_name": "Target",
         "id": "8ee871d8-4385-49e0-9f0d-1f89f3ed0863",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366444,7 +366372,7 @@
         "company_name": "Microsoft",
         "id": "4417e2fa-13a3-4601-ab35-e10e9459ca81",
         "title": "Postdoctoral Researcher Intern - Foundational AI: Theory and Architectures",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -373969,7 +373897,7 @@
         "company_name": "AWE",
         "id": "4daa1657-29ca-4573-a285-fd3c5bd338d4",
         "title": "Computer Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -374506,7 +374434,7 @@
         "company_name": "Genworth Financial",
         "id": "a6d458af-c99e-4109-a0f2-8231e3b60c9d",
         "title": "Process Improvement Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377558,7 +377486,7 @@
         "company_name": "Awardco",
         "id": "b7be327f-10fa-4775-8a1c-183ea4b062ce",
         "title": "Front-End Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385910,7 +385838,7 @@
         "company_name": "RTX",
         "id": "9f477186-5000-4fe3-8151-4971b1c4abfb",
         "title": "Software Engineer Co-op - Winter/Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -388463,7 +388391,7 @@
         "company_name": "Howmet Aerospace",
         "id": "57ded721-ead9-440b-999c-b6f3861f72ed",
         "title": "Artificial Intelligence Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389513,7 +389441,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "3f405abf-6caa-4ae6-8c84-3d7c8931051a",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -393152,7 +393080,7 @@
         "company_name": "CME Group",
         "id": "26e8e7c9-e37c-42ee-b931-4f4a447fec2d",
         "title": "Software Engineering Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -393778,7 +393706,7 @@
         "company_name": "MetOx International",
         "id": "01adde08-7298-47e1-8394-bb946ac7ec13",
         "title": "Data Science Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395946,6 +395874,54 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Consulting Group",
+        "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
+        "title": "Forward Deployed AI Engineer Intern - BCG X",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789985372,
+        "date_posted": 1781474863,
+        "url": "https://careers.bcg.com/global/en/job/56635",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boston Consulting Group",
+        "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
+        "title": "Forward Deployed AI Scientist Intern - United Kingdom - BCG X",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789979405,
+        "date_posted": 1781474867,
+        "url": "https://careers.bcg.com/global/en/job/56634",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's",
             "PhD"
         ]
