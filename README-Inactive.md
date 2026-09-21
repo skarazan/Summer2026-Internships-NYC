@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 489 Inactive Internship Roles by Category
+### Browse 487 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (166)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (165)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (51)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (226)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (225)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (33)
 
@@ -543,7 +543,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
+<td>↳</td>
 <td>Software Developer – Co-op/Intern - Summer 2026 - 4 Months</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -984,7 +984,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
+<td>↳</td>
 <td>Junior Developer – Co-op/Internship - Summer 2026 - Weeks</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -1241,13 +1241,6 @@
 <td>NYC</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>NYC</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -1712,7 +1705,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Phamily?utm_source=GHList&utm_medium=company">Phamily</a></strong></td>
+<td>↳</td>
 <td>Machine Learning Intern 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -3222,13 +3215,6 @@
 <td>NYC</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/CVS-Health?utm_source=GHList&utm_medium=company">CVS Health</a></strong></td>
-<td>Data Engineering Undergraduate Internship - Summer 2026</td>
-<td>NYC</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
