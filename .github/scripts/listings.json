@@ -1,53 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "ce908ac5-9d9d-46ba-8bec-b53f8f0e01f9",
-        "title": "Undergraduate Placement Year Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769681482,
-        "date_posted": 1769681482,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000106251380",
-        "locations": [
-            "Stratford-upon-Avon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vivenu",
-        "id": "292a7c90-d3ac-48e1-bc8b-15055b917d43",
-        "title": "Working Student Web Development - d/f/m",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1769683150,
-        "date_posted": 1769683150,
-        "url": "https://jobs.lever.co/vivenu/55c891f2-7f8f-4352-9b2a-1537b36e1865/apply",
-        "locations": [
-            "Neukirchen-Vluyn, Germany",
-            "Frankfurt, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/Vivenu",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Moog ",
         "id": "9346fc4c-d258-4b9b-9ada-b89a5ede6400",
@@ -71337,7 +71290,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -133814,30 +133767,6 @@
         "url": "https://lifeattiktok.com/search/7527613337334188306",
         "locations": [
             "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "841e759c-87fe-4c36-97bd-6940efcf988a",
-        "title": "Frontend Engineer Intern - BS/MS",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769683224,
-        "date_posted": 1769683224,
-        "url": "https://lifeattiktok.com/search/7527615375778416914",
-        "locations": [
-            "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
@@ -228717,7 +228646,7 @@
         "company_name": "Citadel",
         "id": "1f74ca3f-e832-45e6-bc13-b8222034e373",
         "title": "Quantitative Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -228743,7 +228672,7 @@
         "company_name": "Citadel",
         "id": "3781fd12-0d4b-4e6f-a890-013b3381c856",
         "title": "Quantitative Research Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -228768,7 +228697,7 @@
         "company_name": "Citadel",
         "id": "6813e05c-291f-4297-bae8-9e6c59d4a809",
         "title": "Quantitative Researcher \u2013 PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -232393,7 +232322,7 @@
         "company_name": "Citadel",
         "id": "48327e8c-a8f7-4339-83a4-019ef774f663",
         "title": "Quantitative Research Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -233976,7 +233905,7 @@
         "company_name": "Citadel",
         "id": "af41c8d1-6670-4cbb-9111-9204ac3a4da9",
         "title": "Quantitative Trader: Equity Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -237414,7 +237343,7 @@
         "company_name": "Citadel",
         "id": "1ea0ca0e-e61d-4b8d-92fd-4a97c6ba9d82",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -238462,7 +238391,7 @@
         "company_name": "Citadel",
         "id": "bd8719b9-2be8-458c-ad81-df18b03a5ef2",
         "title": "Quantitative Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -255211,7 +255140,7 @@
         "company_name": "Citadel",
         "id": "71e539ff-f839-4f08-8c0f-0c7a934bbf05",
         "title": "Sector Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -268619,7 +268548,7 @@
         "company_name": "Citadel",
         "id": "de926b0a-99e7-4dbd-94cd-334ec565be9f",
         "title": "Sector Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -275621,7 +275550,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -275663,7 +275592,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -275712,7 +275641,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -275804,7 +275733,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -275830,7 +275759,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -275856,7 +275785,7 @@
         "company_name": "Goldman Sachs",
         "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -275902,7 +275831,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -296473,7 +296402,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -296770,7 +296699,7 @@
         "company_name": "Goldman Sachs",
         "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
         "title": "Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -306872,7 +306801,7 @@
         "company_name": "JP Morgan Chase",
         "id": "f0d5c5b8-9d9e-48ed-82e0-b156b9a7f30b",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -306895,7 +306824,7 @@
         "company_name": "JP Morgan Chase",
         "id": "d9c3042a-3bd5-4d48-bf69-87f46d9b0d34",
         "title": "Quantitative Research Intern - Risk and Treasury - Off-Cycle",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -316959,7 +316888,7 @@
         "company_name": "Omnicom Group",
         "id": "75e8f127-6508-489a-85af-6d0bb6299903",
         "title": "Experience Design Engineer Intern Consultant - Design Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -326422,7 +326351,7 @@
         "company_name": "Terranova",
         "id": "b00e8c3d-c02b-420e-a1a1-1ec7196b43f9",
         "title": "Controls/Robotics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331549,7 +331478,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331572,7 +331501,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331637,7 +331566,7 @@
         "company_name": "Goldman Sachs",
         "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
         "title": "Summer Analyst Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331658,7 +331587,7 @@
         "company_name": "Goldman Sachs",
         "id": "5a49d74c-fa9f-4dd4-a66b-24fc3d9c1def",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331679,7 +331608,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331702,7 +331631,7 @@
         "company_name": "Goldman Sachs",
         "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331749,7 +331678,7 @@
         "company_name": "Goldman Sachs",
         "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
         "title": "Quantitative Strategist Intern - Investment Banking",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331772,7 +331701,7 @@
         "company_name": "Goldman Sachs",
         "id": "765bb91e-34d7-4746-8e11-8598e700e845",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331795,7 +331724,7 @@
         "company_name": "Goldman Sachs",
         "id": "5bdec003-2a02-42a4-a602-467541840552",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331818,7 +331747,7 @@
         "company_name": "Goldman Sachs",
         "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
         "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331842,7 +331771,7 @@
         "company_name": "Goldman Sachs",
         "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331866,7 +331795,7 @@
         "company_name": "Goldman Sachs",
         "id": "06098497-6840-4802-8838-81e0dbdec164",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331889,7 +331818,7 @@
         "company_name": "Goldman Sachs",
         "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331913,7 +331842,7 @@
         "company_name": "Goldman Sachs",
         "id": "b2b3a7df-bea1-4290-b988-4c3e567814b8",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331936,7 +331865,7 @@
         "company_name": "Goldman Sachs",
         "id": "792220f4-3ba1-4cf8-843e-e23208ba8d24",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -338200,7 +338129,7 @@
         "company_name": "Procter & Gamble",
         "id": "fed8c199-b652-44c0-b5c3-e935c6e4b0c5",
         "title": "Digital Technologies Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -338947,7 +338876,7 @@
         "company_name": "Marvell",
         "id": "7519dee0-35e8-42b9-ad9c-71201febe2bd",
         "title": "Advanced Packaging Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -344789,7 +344718,7 @@
         "company_name": "AArete",
         "id": "0ce18659-d44b-4bc1-8341-275eda5c3c69",
         "title": "Data Architecture & Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346540,7 +346469,7 @@
         "company_name": "Vercel",
         "id": "940140be-314d-40e2-8614-14d3a19bb049",
         "title": "Software Engineer Intern - Summer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -350684,7 +350613,7 @@
         "company_name": "Barclays",
         "id": "e3d70ac5-dc1d-4c06-b733-8c76af99ef70",
         "title": "Technology Developer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350726,7 +350655,7 @@
         "company_name": "Barclays",
         "id": "aabf19a7-ebea-4712-8c04-87742467726b",
         "title": "Technology Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350747,7 +350676,7 @@
         "company_name": "Barclays",
         "id": "999c4ce7-c078-4671-af20-af4781f19526",
         "title": "Technology Developer Apprentice - Digital & Technology Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350768,7 +350697,7 @@
         "company_name": "Barclays",
         "id": "51c7dc86-7911-4193-80a9-a7f6eab577b2",
         "title": "Marketing Analyst Intern - Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350814,7 +350743,7 @@
         "company_name": "Barclays",
         "id": "2892cb3f-9aea-4076-b536-63a821a5fecd",
         "title": "Technology Developer Intern - Programme",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350900,7 +350829,7 @@
         "company_name": "Barclays",
         "id": "bc0b7e31-28a3-407d-882f-267df776fbd8",
         "title": "Data and Analytics Intern - Customer and Digital",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350921,7 +350850,7 @@
         "company_name": "Barclays",
         "id": "81a0e97d-9eea-4bd4-bbf6-b511c860fa9c",
         "title": "Technology Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350942,7 +350871,7 @@
         "company_name": "Barclays",
         "id": "61a5a0fc-0ce6-46ff-a4d2-50cc78e335f4",
         "title": "Customer and Digital Data and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351687,7 +351616,7 @@
         "company_name": "Intact",
         "id": "a1a4f745-5162-438b-9254-9a09299db5c0",
         "title": "AI Developer Intern Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -357387,7 +357316,7 @@
         "company_name": "Walmart",
         "id": "f00e8399-0777-4e56-b2cb-0fd0631a0655",
         "title": "Software Engineer 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364049,7 +363978,7 @@
         "company_name": "Oshkosh",
         "id": "a95a5a5f-cc5c-44fe-9046-aeebb25d6f3c",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -377794,7 +377723,7 @@
         "company_name": "TD Bank",
         "id": "f23c59b8-2691-43f7-a310-a6ca54c5b6a1",
         "title": "Product Management Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -378332,7 +378261,7 @@
         "company_name": "Visa",
         "id": "cfd0b2db-69a7-43dd-83d9-656ff55efb00",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -381042,7 +380971,7 @@
         "company_name": "Navy Federal",
         "id": "ea2d212a-7ea2-4505-9ff1-36417ed68976",
         "title": "Data Analyst Intern - Workplace Infrastructure & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -384885,7 +384814,7 @@
         "company_name": "Citadel",
         "id": "9a900104-2a94-4f83-8db2-d908f008ed99",
         "title": "Machine Learning Researcher Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -385943,7 +385872,7 @@
         "company_name": "Boston Consulting Group",
         "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
         "title": "Forward Deployed AI Engineer Intern - BCG X",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -386341,7 +386270,7 @@
         "company_name": "Booz Allen",
         "id": "d2afb367-e5e2-4a63-a963-4e920b56ac3b",
         "title": "Systems Engineer Intern - Summer Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387161,7 +387090,7 @@
         "company_name": "Rodan Energy Solutions",
         "id": "bfd666d6-eb74-40ca-8595-5c0e16820216",
         "title": "Data Operations Engineer AI Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -387233,7 +387162,7 @@
         "company_name": "Rodan Energy Solutions",
         "id": "c0b22f53-3c47-45f3-8c12-a94866f7f461",
         "title": "AI Solutions Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -388072,7 +388001,7 @@
         "company_name": "NVIDIA",
         "id": "876c3f6f-84b9-4e5d-a61c-3f403eeed9bb",
         "title": "Research Intern - Robotics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398825,7 +398754,7 @@
         "company_name": "Marvell",
         "id": "6f7bf192-fce8-4fd8-b5b2-80bea38e4c1e",
         "title": "Data Center Silicon Hardware Engineering Intern Co-op - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -399716,7 +399645,7 @@
         "company_name": "Barrios",
         "id": "ee8ed5ad-3be9-407e-8020-0d9a037d60be",
         "title": "Data and Computer Engineering/Computer Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401290,7 +401219,7 @@
         "company_name": "RGA Reinsurance Company",
         "id": "67a06040-d92a-4f48-93d2-49e731514717",
         "title": "Data Science/AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
