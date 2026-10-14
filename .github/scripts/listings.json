@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Obvious",
-        "id": "4cdc1258-1102-47d1-b864-edbb99c89a1a",
-        "title": "AI GTM Engineer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771226133,
-        "date_posted": 1771226133,
-        "url": "https://jobs.ashbyhq.com/obvious/32e103bf-5782-4b27-922a-eb964672dc70/application",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Obvious",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "The Walt Disney Company",
         "id": "7f67f9d3-45fb-4c43-864e-4df9f6642fad",
         "title": "ABC News Insights and Analytics Intern - Summer/Fall 2026",
@@ -10517,7 +10496,7 @@
         "company_name": "Rakuten International",
         "id": "058f10b5-7e10-4926-bb72-004c74c2a665",
         "title": "Intern Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -199635,7 +199614,7 @@
         "company_name": "Jump Trading",
         "id": "43879ce6-c01d-4542-80e8-d3c1d9417f75",
         "title": "Campus FPGA Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -282746,7 +282725,7 @@
         "company_name": "Qualified Health",
         "id": "ad10dd9a-ab7f-4ce4-8057-f55834468051",
         "title": "Clinical AI Evaluation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331297,7 +331276,7 @@
         "company_name": "Howden",
         "id": "45bb0134-eba9-4dfc-8a2a-8f33974172e2",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334396,7 +334375,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -338185,7 +338164,7 @@
         "company_name": "Itron",
         "id": "d0b7cad1-3ef0-49a9-8285-0ff7c9a36015",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -338231,7 +338210,7 @@
         "company_name": "Itron",
         "id": "7e9944eb-4630-4e1a-929f-76f0e8361f47",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -348558,7 +348537,7 @@
         "company_name": "XPENG Motors",
         "id": "96dad35a-89dc-4ab4-81fc-e699ef8ba911",
         "title": "Robotics Center Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363379,7 +363358,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "7d75bd70-f568-420d-985e-c8ccd2632c8f",
         "title": "Artificial Intelligence and Machine Learning Intern - Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365143,7 +365122,7 @@
         "company_name": "Marvell",
         "id": "06dcf017-75e1-4b49-813d-0671772b0592",
         "title": "Board Product Engineer Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365283,7 +365262,7 @@
         "company_name": "Marvell",
         "id": "3c74c48a-effb-4e1e-bd1e-1f4993bc2e98",
         "title": "Board Product Engineer Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366594,7 +366573,7 @@
         "company_name": "OLG",
         "id": "80ab4b4b-a81c-405c-886f-9542bc500695",
         "title": "Performance Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -367791,7 +367770,7 @@
         "company_name": "Itron",
         "id": "1e39ef9b-ab50-405f-808e-28002f4fc72f",
         "title": "Data Science Intern - Distributed Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369389,7 +369368,7 @@
         "company_name": "Marvell",
         "id": "9782dff3-f33f-4032-ab54-8fd1ae055d4c",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369482,7 +369461,7 @@
         "company_name": "Marvell",
         "id": "3e0b372a-84af-415d-bb75-56487eb34820",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370415,7 +370394,7 @@
         "company_name": "Canadian Tire",
         "id": "3d7cb7da-0fdc-49a0-a8a1-a4611ab94d83",
         "title": "Business Analyst Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -371873,7 +371852,7 @@
         "company_name": "Autodesk",
         "id": "c63e96f3-3234-440f-a70f-b754963dcb2c",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -371967,7 +371946,7 @@
         "company_name": "Autodesk",
         "id": "19416511-793e-4611-921a-d3256bb64f2f",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -379030,7 +379009,7 @@
         "company_name": "Moog",
         "id": "d24b72c3-f5e3-47de-8f79-dc8f8911e709",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -384988,7 +384967,7 @@
         "company_name": "StackAdapt",
         "id": "c865e5b0-aae3-48b2-83c4-bc69ff0f7aee",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -386314,7 +386293,7 @@
         "company_name": "CIBC",
         "id": "ce00df4f-d241-4013-897d-9dbdd794d1e1",
         "title": "Business Intelligence Enterprise Anti-Money Laundering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -386337,7 +386316,7 @@
         "company_name": "CIBC",
         "id": "ee4339eb-31e5-4658-ae15-d2e95544773a",
         "title": "Business Intelligence Enterprise Anti-Money Laundering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -392233,7 +392212,7 @@
         "company_name": "KLA",
         "id": "71921694-6090-4a12-af16-6e95203596a0",
         "title": "Applications Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -394467,7 +394446,7 @@
         "company_name": "RTX",
         "id": "b449def0-7da4-4dfc-b873-38eb657e5911",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397831,7 +397810,7 @@
         "company_name": "RTX",
         "id": "ce67de6b-014f-45b0-8b18-54b623767679",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397952,7 +397931,7 @@
         "company_name": "RTX",
         "id": "8f6341ff-47e2-4a91-8d5d-fca1f79014c0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398599,7 +398578,7 @@
         "company_name": "Ameriprise Financial",
         "id": "76a3424a-2acd-4da8-ba77-99e35841317e",
         "title": "Digital Product Owner Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401431,7 +401410,7 @@
         "company_name": "RTX",
         "id": "2bda6894-9fdb-4005-a6e9-43d2f626fd06",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402547,7 +402526,7 @@
         "company_name": "Manulife Financial",
         "id": "55375d9b-dcc7-4e1f-8553-a78100902593",
         "title": "Pharmacy Operations Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -404283,5 +404262,99 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Assurant",
+        "id": "e4f05acb-267f-4e89-a2e9-9ab46db0ddab",
+        "title": "Data Support Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791958558,
+        "date_posted": 1791936000,
+        "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Assurant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Profound Medical",
+        "id": "b2a3e977-0e6f-4197-bdb3-0b8a20ef4317",
+        "title": "Software Development Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791958208,
+        "date_posted": 1791958028,
+        "url": "https://profoundmedical.bamboohr.com/careers/353/",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Profound-Medical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "785bc0ed-564f-4e73-bdae-30e780d1629b",
+        "title": "Software Embedded Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791959630,
+        "date_posted": 1791936000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697",
+        "locations": [
+            "Annapolis, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "1b5bf847-de9c-40e6-848e-cf79836d012b",
+        "title": "Electronics Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791959632,
+        "date_posted": 1791936000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Electronics-Engineering-Intern---Annapolis-MD_R10254689-1",
+        "locations": [
+            "Annapolis, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
