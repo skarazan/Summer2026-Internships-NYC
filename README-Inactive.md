@@ -550,7 +550,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
 <td>Software Developer – Co-op/Intern - Summer 2026 - 4 Months</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -659,7 +659,7 @@
 <td>Intern Engineering</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong>GameChanger</strong></td>
@@ -1523,7 +1523,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Phamily?utm_source=GHList&utm_medium=company">Phamily</a></strong></td>
 <td>Machine Learning Intern 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -1548,7 +1548,7 @@
 <td>AI Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Rho?utm_source=GHList&utm_medium=company">Rho</a></strong></td>
