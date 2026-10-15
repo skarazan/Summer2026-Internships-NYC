@@ -1,76 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Schweitzer Engineering Laboratories",
-        "id": "29e8de0e-1422-4100-b885-56b6b63fe04a",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771296524,
-        "date_posted": 1771296524,
-        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Data-Analyst-Intern_2026-19668",
-        "locations": [
-            "Moscow, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/SEL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "869c6124-e2d3-40d4-8c64-ad392dda3d10",
-        "title": "Internship - Month PEY - Tech. Support','Atts",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1771296144,
-        "date_posted": 1771296144,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---16-month--PEY---Tech-Support--ATTS-_01823159",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "da9a617c-9e5b-4f9d-aaec-fc87d0cc1fc2",
-        "title": "Data Engineer Project Intern - Data Governance Data Cycling Center - 2026 Start','BS/MS",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1771295301,
-        "date_posted": 1771295301,
-        "url": "https://lifeattiktok.com/search/7607589832285899061",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "493d964a-18ee-4627-ba96-37586487b635",
@@ -243397,7 +243327,7 @@
         "company_name": "Bank of Montreal",
         "id": "82823c58-ec25-462f-a885-fbf297c25a22",
         "title": "Workforce Analyst Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -260543,7 +260473,7 @@
         "company_name": "The Walt Disney Company",
         "id": "b12c41ea-1e48-4da2-94c5-dd6437b77911",
         "title": "Systems Application Development and Sustainment Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -311015,7 +310945,7 @@
         "company_name": "Cigna Group",
         "id": "e461cc79-60e8-4159-a7a2-764745fccb27",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -311061,7 +310991,7 @@
         "company_name": "Cigna Group",
         "id": "b4c471c9-9a26-433f-a75a-81237cee7603",
         "title": "Data & Analytics Engineering Intern - Technology Development Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -317134,7 +317064,7 @@
         "company_name": "ISN Software",
         "id": "fb4ab5cb-e947-410e-a3e5-1ff45d3c9a72",
         "title": "Product Strategy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328656,7 +328586,7 @@
         "company_name": "General Motors",
         "id": "d83eb43c-fb28-4eb5-ba2f-dac7c1033fa4",
         "title": "Race Strategy & Analytics Intern - IndyCar",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341291,7 +341221,7 @@
         "company_name": "Qualcomm",
         "id": "1cad741a-2731-4f0f-9a0d-92290a57915a",
         "title": "Analog Design Intern - Hardware Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352384,7 +352314,7 @@
         "company_name": "Vanderlande Industries",
         "id": "6878343a-d336-4e82-a4b7-eaeb1ec3af47",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -354126,7 +354056,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "3faca9c1-e66c-437c-a5bd-9ab5cd608a2f",
         "title": "Software Tools and Assurance Intern - Information Systems and Cyber Division",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -386099,7 +386029,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "95c4cff1-400b-4054-ab5a-96b8ea6662dd",
         "title": "Capital Markets Intern - Quantitative Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386802,7 +386732,7 @@
         "company_name": "DocuSign",
         "id": "2216540f-0c95-48ab-9ac1-9a2581596dce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -389325,7 +389255,7 @@
         "company_name": "First Citizens BancShares",
         "id": "876c9bab-5273-42b9-94c4-323238fbe1a8",
         "title": "Outreach Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394747,7 +394677,7 @@
         "company_name": "Meta",
         "id": "3e1a9b0c-a147-4224-97ba-2a5ca77abd2f",
         "title": "Production Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399090,7 +399020,7 @@
         "company_name": "Meta",
         "id": "2f59ecd0-63ae-4630-83d2-67fdfc52f4d9",
         "title": "Signal Integrity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403537,7 +403467,7 @@
         "company_name": "RTX",
         "id": "4b6bdd02-b381-46a1-8249-e6f77332d028",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406028,6 +405958,193 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "9425b93f-c2dd-40f3-8335-c8ee684f4bf8",
+        "title": "Research Engineer Intern - Video and Edge - Multimedia Lab",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792027655,
+        "date_posted": 1792027475,
+        "url": "https://lifeattiktok.com/search/7696664743112788277",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moment Energy",
+        "id": "0f0d7845-6951-49f6-b62d-4bb28230dd27",
+        "title": "R&D Technician Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792026814,
+        "date_posted": 1792026807,
+        "url": "https://job-boards.greenhouse.io/momentenergy/jobs/4452550009",
+        "locations": [
+            "Surrey, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Moment-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Atom Computing",
+        "id": "f720e544-0a87-4ef0-abb7-449a568af42d",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1792026366,
+        "date_posted": 1792026237,
+        "url": "https://jobs.lever.co/atomcomputing/f17f16bc-d448-4a24-8449-281d660fdbfc/apply",
+        "locations": [
+            "Cambridge, MA",
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Atom-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rockwell Automation",
+        "id": "b5c82d6a-e2fe-4495-9700-19dfe4ae3422",
+        "title": "Test Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792026452,
+        "date_posted": 1791936000,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rockwell Automation",
+        "id": "15c6a273-873e-4b66-ad2d-52b5e8db3043",
+        "title": "Electrical Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1792026451,
+        "date_posted": 1791936000,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706-1",
+        "locations": [
+            "Chelmsford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "9502dcc3-6ca9-499c-8b33-b8fc0cb96b60",
+        "title": "Repair & Overhaul Customer Solutions Group Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792028855,
+        "date_posted": 1791936000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage-Hiver-2027---Groupe-Solutions-Client--Rparation-et-Rvision-----Internship-Winter-2027---Repair---Overhaul-Customer-Solutions-Group-_01867393-1",
+        "locations": [
+            "Saint-Hubert, Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rockwell Automation",
+        "id": "9ba037f5-1b2b-4904-a711-458c06bb1fd3",
+        "title": "Electrical Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1792028223,
+        "date_posted": 1791936000,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706",
+        "locations": [
+            "Chelmsford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rockwell Automation",
+        "id": "316cfbb8-4b14-4903-b22f-b5d43306650c",
+        "title": "Test Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792028222,
+        "date_posted": 1791936000,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
