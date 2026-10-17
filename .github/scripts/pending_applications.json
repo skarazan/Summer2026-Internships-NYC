@@ -1,3 +1,17 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "listing_id": "5771f38d-2069-4503-b8b4-3e17a6228ede",
+      "company_name": "Microsoft",
+      "title": "Research Intern - Machine Learning",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
+      "simplify_url": "https://simplify.jobs/p/5771f38d-2069-4503-b8b4-3e17a6228ede",
+      "locations": [
+        "NYC"
+      ],
+      "source": "Simplify",
+      "category": "AI/ML/Data",
+      "date_detected": 1792199865
+    }
+  ]
 }
