@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hearst",
-        "id": "db9d47f1-f626-440e-83ed-c3000fe346da",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771657642,
-        "date_posted": 1771657642,
-        "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2026032",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Hearst",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "eb1cd785-ab5d-4ffd-819d-6517c4a01c7c",
@@ -219617,7 +219594,7 @@
         "company_name": "Vertiv",
         "id": "a042d610-957b-4d5c-a233-944efa6819fc",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -254933,7 +254910,7 @@
         "company_name": "American Express",
         "id": "9fc62002-c095-4800-9d4f-5225ecf2f861",
         "title": "Data Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351610,7 +351587,7 @@
         "company_name": "Perchwell",
         "id": "70276fbb-025b-4544-b0c0-db8dc7259234",
         "title": "Data Analytics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353273,7 +353250,7 @@
         "company_name": "S&C Electric Company",
         "id": "d2a3ec8c-f8cf-4d52-ac45-66d27ffa39f4",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -357944,7 +357921,7 @@
         "company_name": "Autodesk",
         "id": "a76fe4c5-ec63-4f65-a3d1-11ead25b41b2",
         "title": "AI Data Developer Intern - Winter",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -358062,7 +358039,7 @@
         "company_name": "Autodesk",
         "id": "e6414b54-64ba-4d7b-b52d-df126a7170ab",
         "title": "AI/ML Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -366294,7 +366271,7 @@
         "company_name": "NVIDIA",
         "id": "613293d2-6943-4f9a-ab4a-7bb7883891fc",
         "title": "Hardware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366317,7 +366294,7 @@
         "company_name": "NVIDIA",
         "id": "4cf30745-6f3b-4afc-b4a7-8c156b74804c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366590,7 +366567,7 @@
         "company_name": "Autodesk",
         "id": "ea6fc297-3ea1-4919-a564-a3b6c294af60",
         "title": "PhD Researcher Intern - Machine Learning for Construction",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -366635,7 +366612,7 @@
         "company_name": "Autodesk",
         "id": "96540543-955c-4dd4-a9ab-4382147f9d78",
         "title": "Research Intern - Multimodal AI for Human Experience",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366659,7 +366636,7 @@
         "company_name": "Autodesk",
         "id": "6942172c-4edc-4339-b395-fb8080da9906",
         "title": "Researcher Intern - Machine Learning for Construction",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -367823,7 +367800,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "9e56dcfc-a790-4a64-8f68-0c5d098d75fa",
         "title": "AI Developer Intern - Innovation & AI Center of Excellence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -371681,7 +371658,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "778c7809-1093-4a0c-b72e-bda6dcae46f0",
         "title": "Customer Success Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375803,7 +375780,7 @@
         "company_name": "RTX",
         "id": "9db144d4-09da-4a63-af76-1475efdad52f",
         "title": "Sales Analysis and Marketing Intern - Contract Administration - Sales Analysis & Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -381335,7 +381312,7 @@
         "company_name": "Denver",
         "id": "ddb3be51-5802-4866-a26c-72803474d6d4",
         "title": "Data Analytics College Intern - Analytics and Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -381564,7 +381541,7 @@
         "company_name": "Lendable",
         "id": "3df195c1-6867-4343-8ce2-23a1549e0b09",
         "title": "Credit Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390453,7 +390430,7 @@
         "company_name": "Aon",
         "id": "6af5e7e9-0fa2-4fbf-a037-ce3ebedd3daf",
         "title": "Actuarial Consulting Industrial Placement Intern - Actuarial Consulting - Pensions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391884,7 +391861,7 @@
         "company_name": "RTX",
         "id": "46b35ec8-88e8-4800-ad1a-d17665e52fa1",
         "title": "Electro-Optics Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399610,6 +399587,163 @@
             "Singapore"
         ],
         "company_url": "https://simplify.jobs/c/HeyGen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Ottawa",
+        "id": "e22e5105-4050-4583-95a1-47a24adc4dad",
+        "title": "Teaching Assistant Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792390217,
+        "date_posted": 1792368000,
+        "url": "https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter-2027---Teaching-Assistant---ADM4379_JR40054",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Ottawa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "c9f2736c-ca54-46f8-98a1-81570a3bd159",
+        "title": "Quality Data Science Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792390258,
+        "date_posted": 1792368000,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lendable",
+        "id": "49740871-4c1c-4e2d-9d6d-42cca17e1b2f",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792398817,
+        "date_posted": 1787964322,
+        "url": "https://jobs.ashbyhq.com/lendable/e001dc0b-6e0f-46a7-95ba-38a3733db2f4/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lendable",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "NJ Department of Environmental Protection",
+        "id": "7bfbb5b8-f2fe-4bab-8303-7c54b78aedf8",
+        "title": "Economic Analysis Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792400099,
+        "date_posted": 1791411735,
+        "url": "https://njdepartmentofenvironmentalprotection.applytojob.com/apply/Usjk4gjg3N/CIER202610i-Economic-Analysis-Intern",
+        "locations": [
+            "Trenton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/NJ-Department-Of-Environmental-Protection",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PA Consulting",
+        "id": "d786d131-7861-40ca-a9c7-534a3dd2e8b5",
+        "title": "Digital Intern - Digital - Digital & Data",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792401729,
+        "date_posted": 1792401564,
+        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000156260214",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PA-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ZS",
+        "id": "9dd99ce3-b29a-44bc-afef-611ed1cdc75f",
+        "title": "Decision Analytics Associate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792402383,
+        "date_posted": 1792402246,
+        "url": "https://jobs.zs.com/jobs/68243?icims=1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ZS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bosch Home Comfort",
+        "id": "72e8c51b-2573-4cd6-b027-e42a785f7038",
+        "title": "Data Analyst & Marketing/Sales Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792402269,
+        "date_posted": 1792402149,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156251739",
+        "locations": [
+            "Denham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
