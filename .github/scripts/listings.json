@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "4667fa93-10f5-47fa-9fd5-dd62c6ff8f28",
-        "title": "Intern - HDD Testing",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771744175,
-        "date_posted": 1771744175,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110543825",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Western Digital",
-        "id": "0d1a1aa2-36ac-4351-af65-180d09512b88",
-        "title": "2026 Summer Intern - Data Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771744178,
-        "date_posted": 1771744178,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110544134",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Roku",
         "id": "1d52c618-5d43-475b-8790-f6e679eafe19",
@@ -162458,7 +162410,7 @@
         "company_name": "Nidec",
         "id": "97df1f57-31a3-4b3f-ab52-6214a8ca8f7e",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -228772,7 +228724,7 @@
         "company_name": "Zipline",
         "id": "a1cb0fe2-664f-4b1e-910d-9ec9f155faa1",
         "title": "Long Range Platform Hardware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -246600,7 +246552,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -252138,7 +252090,7 @@
         "company_name": "Nike",
         "id": "1d9f2320-07f1-4deb-bce1-02d20684e4e9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -272059,7 +272011,7 @@
         "company_name": "Zipline",
         "id": "872bbfa9-fd11-4368-812e-cf3fd7a1bcb1",
         "title": "Electrical Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -272080,7 +272032,7 @@
         "company_name": "Zipline",
         "id": "e0e3fb6b-c670-4e50-85df-0341d0708c82",
         "title": "Electrical Engineer Intern - Electrical Engineering Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -324044,7 +323996,7 @@
         "company_name": "RTX",
         "id": "06c5700d-2702-4f7a-a7c1-e713c7de94a4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -345172,7 +345124,7 @@
         "company_name": "Marvell",
         "id": "2d866a2b-fec0-4355-b608-8833148a995f",
         "title": "Analog Design Intern Co-op - Master\u2019s",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351520,7 +351472,7 @@
         "company_name": "RTX",
         "id": "ec00eac5-4585-4280-840e-de9a25fe6595",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -360854,7 +360806,7 @@
         "company_name": "Helion Energy",
         "id": "8c0720bf-747e-4a04-b5c4-846531aa0186",
         "title": "Computational Plasma Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365523,7 +365475,7 @@
         "company_name": "Airbus",
         "id": "db82b403-fb19-409c-bf56-457fd28a9c63",
         "title": "Software Engineer Intern Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367041,7 +366993,7 @@
         "company_name": "NBCUniversal",
         "id": "a6dfb4bb-3901-447a-ac14-bb9b92ef4d21",
         "title": "Feature Technical Direction Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -367543,7 +367495,7 @@
         "company_name": "Electronic Arts",
         "id": "ec223388-d88d-4b7b-ad95-bc08ce04bd3c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370004,7 +369956,7 @@
         "company_name": "Genentech",
         "id": "766c66a6-36c1-4fa9-8bcf-d522a0c71b1f",
         "title": "Applied GenAI Scientist Intern - GenAI Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -372426,7 +372378,7 @@
         "company_name": "Niantic Spatial",
         "id": "8db764f7-caf2-46e5-88d8-976776e63ec3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374120,7 +374072,7 @@
         "company_name": "Moog",
         "id": "2aca0513-4399-42cb-9896-91871273e679",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375215,7 +375167,7 @@
         "company_name": "The Federal Reserve System",
         "id": "1e2d65b2-dacc-4dc5-b8de-85db547440a6",
         "title": "Statistics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385582,7 +385534,7 @@
         "company_name": "General Motors",
         "id": "784b5f74-a3d4-4c11-bd1b-374e89e11e58",
         "title": "Research and Development Intern - Smart Manufacturing Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396901,7 +396853,7 @@
         "company_name": "Eaton",
         "id": "1e52826d-5a68-468b-9c24-ec27f5a243b6",
         "title": "C++ Developer Intern - Research & Development Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398933,7 +398885,7 @@
         "company_name": "Axos Bank",
         "id": "0854004d-3797-4a41-92c7-8b23ea92f186",
         "title": "Data Analyst 1 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399241,7 +399193,7 @@
         "company_name": "NJ Department of Environmental Protection",
         "id": "7bfbb5b8-f2fe-4bab-8303-7c54b78aedf8",
         "title": "Economic Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -399309,7 +399261,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "72e8c51b-2573-4cd6-b027-e42a785f7038",
         "title": "Data Analyst & Marketing/Sales Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402418,6 +402370,260 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "7b0b49ae-7a2d-4ad2-9957-e53861b27064",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792486489,
+        "date_posted": 1790633316,
+        "url": "https://jobs.l3harris.com/job/Clifton-Software-Engineering-Intern-NJ-07014/1413358200/?ats=successfactors",
+        "locations": [
+            "Clinton, MD",
+            "Clifton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Scale AI",
+        "id": "41101dfb-9fa5-4eac-b1cf-f6c93e3c3f48",
+        "title": "Safety Research Scholar Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792485065,
+        "date_posted": 1792188397,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4744402005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Parallel Wireless",
+        "id": "807bcae2-3ba9-4165-9819-a41fe28c13c3",
+        "title": "PHY Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792488491,
+        "date_posted": 1792488367,
+        "url": "https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426/apply",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Parallel-Wireless",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "f9299641-0cec-447d-8ed6-26445441d4ec",
+        "title": "Machine Learning Summer Associate Intern - NLP",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792487598,
+        "date_posted": 1792487487,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "46965922-9d94-4b6d-9e87-ff3889d5d343",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792489565,
+        "date_posted": 1792368000,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1",
+        "locations": [
+            "SF",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SpAItial",
+        "id": "0e636bf2-1fa3-4d8c-bdba-8a04ae7b2206",
+        "title": "Research Intern - 3D World Models",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792489572,
+        "date_posted": 1792489349,
+        "url": "https://jobs.ashbyhq.com/spaitial/39ab566f-8626-4633-a0ab-504e082032d6/application?embed=true",
+        "locations": [
+            "London, UK",
+            "Munich, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/SpAItial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "cac4012f-81b7-43f8-a2fd-c655e91ac0b8",
+        "title": "Data Science \u2013 Forward Deployed Engineer: PhD Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792489392,
+        "date_posted": 1792489226,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040991",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The New York Times",
+        "id": "9540c6d5-a3f9-44ef-bbc8-f2e6f966e07c",
+        "title": "AI Initiatives Fellow",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792489271,
+        "date_posted": 1792489107,
+        "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4740369005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-New-York-Times",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "0bc0ca2c-64dd-461f-92a3-43dc0d4f0fb1",
+        "title": "Generative AI Research Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792495092,
+        "date_posted": 1792454400,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Verizon Communications",
+        "id": "069f3f4c-adc9-4e2d-919c-045fd3bef6b6",
+        "title": "Call Routing Optimization Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792494228,
+        "date_posted": 1792454400,
+        "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398",
+        "locations": [
+            "Basking Ridge, Bernards, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Verizon-Communications",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "3b60a188-d772-469c-99c4-2cc383925ddb",
+        "title": "Wealth Operations Automation Intern Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792494232,
+        "date_posted": 1792454400,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Wealth-Operations-Automation-Intern---Co-Op--Winter-2027-_R_1512131",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
