@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 365 Inactive Internship Roles by Category
+### Browse 366 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (130)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (131)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (45)
 
@@ -107,6 +107,13 @@
 <td>NYC</td>
 <td>🔒</td>
 <td>1mo</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Google?utm_source=GHList&utm_medium=company">Google</a></strong></td>
+<td>Software Engineer Intern 🎓</td>
+<td>NYC</td>
+<td>🔒</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ambrook?utm_source=GHList&utm_medium=company">Ambrook</a></strong></td>
@@ -2451,14 +2458,14 @@
 <td>Disney Ad Sales – Graduate Data Science Engineering Intern - Summer 2026</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/State-Street?utm_source=GHList&utm_medium=company">State Street</a></strong></td>
 <td>Operational Risk Analytics Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
