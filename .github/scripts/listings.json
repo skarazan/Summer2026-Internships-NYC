@@ -201406,7 +201406,7 @@
         "company_name": "Micron Technology",
         "id": "5d13cd38-a186-470d-a3a8-b605e114e041",
         "title": "DRAM Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -273756,7 +273756,7 @@
         "company_name": "Loblaw Companies",
         "id": "270784f8-dc55-49f4-a7d6-34c920ec696d",
         "title": "Supply Chain Business Intelligence Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -308617,7 +308617,7 @@
         "company_name": "Farm Credit Canada",
         "id": "e0b8e129-86f6-4001-9587-d113110e4e9c",
         "title": "Data Analyst Student - Valuations",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -325933,7 +325933,7 @@
         "company_name": "GreatAmerica Financial Services",
         "id": "b2ca9bb2-ab81-4103-871c-c472a2cf595c",
         "title": "Data Governance Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -350348,7 +350348,7 @@
         "company_name": "Fresenius Medical Care",
         "id": "fc6dd952-8dfe-40dc-bb6b-bc812a95c847",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -358371,7 +358371,7 @@
         "company_name": "Moog",
         "id": "2aca0513-4399-42cb-9896-91871273e679",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389522,7 +389522,7 @@
         "company_name": "Applied Materials",
         "id": "c289fea9-67db-45d8-ab27-d9aa699b67cc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390941,7 +390941,7 @@
         "company_name": "Brunswick Group",
         "id": "df6e4384-38fb-46ab-b6b9-bf5cb52126e0",
         "title": "BI Data Analyst Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395836,7 +395836,7 @@
         "company_name": "General Motors",
         "id": "b2c03613-aaeb-429e-86b1-34d237dfe4c0",
         "title": "Fleet Reliability and Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395936,7 +395936,7 @@
         "company_name": "Amazon",
         "id": "8e8525b4-47c1-4431-a6ad-b4a61c3bdc2f",
         "title": "Business Intelligence Engineer Intern - Supply Chain EU SCOT",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395957,7 +395957,7 @@
         "company_name": "Amazon",
         "id": "1da8c15f-8f15-4536-8273-0ff492755d70",
         "title": "Business Intelligence Engineer Intern - Supply Chain EU SCOT",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396693,7 +396693,7 @@
         "company_name": "Circle K",
         "id": "78be02f0-f685-4c52-be58-2170c2d99779",
         "title": "Real Estate Strategy & Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399626,7 +399626,7 @@
         "company_name": "RTX",
         "id": "7ffed1dc-9635-4e2b-87f6-9098f3eab4ac",
         "title": "Electro-Optics Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -404820,7 +404820,7 @@
         "company_name": "Wise",
         "id": "f099275d-3c06-40e4-87c7-21029caedc5f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407136,6 +407136,803 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Visa",
+        "id": "d23757ff-eac9-4620-bfc5-fc65e0a43ed5",
+        "title": "Product Management Intern - Data and AI Team",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793101861,
+        "date_posted": 1793059200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EQT Corporation",
+        "id": "018f57c0-2519-4072-80fe-679c055ee4d6",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793111041,
+        "date_posted": 1793110276,
+        "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/EQT-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Mayo Clinic",
+        "id": "aac5d00d-dcfd-4a76-86c2-2a47a7ced9dc",
+        "title": "Graduate Engineer Intern - Electronics",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1793110352,
+        "date_posted": 1793110021,
+        "url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394029",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Mayo-Clinic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mayo Clinic",
+        "id": "51056e1e-d945-4e0d-a103-a44b919853a3",
+        "title": "Graduate Engineer Intern - Software Development",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1793110347,
+        "date_posted": 1793110020,
+        "url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Mayo-Clinic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CIBC",
+        "id": "40318f39-1594-41db-a897-5e0c2ee04457",
+        "title": "Junior Insights & Analytics Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793110321,
+        "date_posted": 1793059200,
+        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "aaed6a57-f590-49ac-8e77-d080f6f2de89",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793110257,
+        "date_posted": 1793059200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mass General Brigham",
+        "id": "1fb4d9a5-8f47-4cb1-9c46-d18894dde905",
+        "title": "Pre-Doctoral Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793110141,
+        "date_posted": 1793059200,
+        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Pre-Doctoral-Fellow--Radiation-Oncology_RQ4084091",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "e0a98377-2ab5-44f4-a19a-bb11a98699a1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793110253,
+        "date_posted": 1793059200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-1",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "d03f3f61-cfe8-441f-90db-b9831bc5205c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793110253,
+        "date_posted": 1793059200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "ba329d2f-c0c8-448c-a44a-8b5c240afe6a",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793110239,
+        "date_posted": 1793059200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01881090-1",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "7d6d0c79-df4a-4100-b0e6-68dc43dade2a",
+        "title": "Sophomore Program Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793110252,
+        "date_posted": 1793059200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "07c7ac36-a6b7-4d9a-a42c-4243b95697ae",
+        "title": "Software Engineer Intern - AI Agents and Backend Infrastructure",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793110228,
+        "date_posted": 1793059200,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939",
+        "locations": [
+            "Bristol, UK",
+            "Belfast, UK",
+            "Remote in UK",
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "ea89ecc3-ebf3-48b1-8f0a-a496dfa9755b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793110261,
+        "date_posted": 1793059200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "86cb1b02-b094-4e5e-94bf-bb2c80d2c69e",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1793110252,
+        "date_posted": 1793059200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "4bc03fa9-1a0f-4972-b9ba-e0f07d3372ff",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793110260,
+        "date_posted": 1793059200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "08f0c2cf-eaef-46a2-a967-d9b0af6ca50b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793110261,
+        "date_posted": 1793059200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CIBC",
+        "id": "e069b3ec-da07-4fca-9b7f-8c5ebda67df8",
+        "title": "Junior Insights & Analytics Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793112304,
+        "date_posted": 1793059200,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "35e02135-f270-45b6-be5a-9779cc9a4400",
+        "title": "Product Test Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793112156,
+        "date_posted": 1793059200,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Product-Test-Development-Engineer_JR115106",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "f5506af0-7205-497f-8afc-70c81179f25a",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793111964,
+        "date_posted": 1793059200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "aecfefcb-c6a4-4161-ac54-0464570e82a9",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793111965,
+        "date_posted": 1793059200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "78503d4f-7c6f-45bb-bad9-1bd6eadd974b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793111964,
+        "date_posted": 1793059200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "58b2fdc7-432f-48f0-80a9-5e970ba2b3e0",
+        "title": "Sophomore Program Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793111964,
+        "date_posted": 1793059200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "394fd625-992b-45aa-9d72-e2ae53a17bf3",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1793111964,
+        "date_posted": 1793059200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "27ce0059-c008-45e2-93c4-f9e612b9f8e8",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793111965,
+        "date_posted": 1793059200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "6575060e-aaff-40ad-933f-71de9e71e926",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793111966,
+        "date_posted": 1793059200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "b6f3c11d-afce-4ebd-b16f-8f3bfb75b164",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793111965,
+        "date_posted": 1793059200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nissan",
+        "id": "ba6baa73-28e0-4b0f-b45d-543363c573e1",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793111827,
+        "date_posted": 1793059200,
+        "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Irving-Texas---United-States-of-America/AI-Intern---Summer-2027---Dallas--TX-or-Franklin--TN_R00214219",
+        "locations": [
+            "Dallas, TX",
+            "Franklin, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Nissan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Federal Reserve System",
+        "id": "5f0aa1ea-dfb4-4cfb-8224-5f3d9fd07cf0",
+        "title": "REIN Data Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793111805,
+        "date_posted": 1793059200,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Federal-Reserve-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lila Sciences",
+        "id": "9ec1752c-1474-4db2-b945-15fdc3102303",
+        "title": "Robot Perception & State Estimation Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793111618,
+        "date_posted": 1793108078,
+        "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4467398009",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lila-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dominion Energy",
+        "id": "78b657c3-9149-493f-b46d-abe43d480e0a",
+        "title": "Power Systems Time-Series Analytics Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793111603,
+        "date_posted": 1793111426,
+        "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-Power-Systems-Time-Series-Analytics-VA-23060/1444045200/?ats=successfactors",
+        "locations": [
+            "Glen Allen, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dominion-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "6c29c238-5adb-4065-abd8-c8c9179900b5",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793111424,
+        "date_posted": 1793059200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01885074",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "02949bdd-a9da-44b8-9c23-836dbfc84187",
+        "title": "Secure Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793111401,
+        "date_posted": 1793059200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Secure-Software-Intern--Summer-2027-_01884942",
+        "locations": [
+            "Woburn, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "aabec184-6bb9-483c-a9cb-d16e4cea6a01",
+        "title": "Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793111438,
+        "date_posted": 1793059200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineering-Intern--Summer-2027-_01884782",
+        "locations": [
+            "Goleta, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
