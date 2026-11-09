@@ -1,73 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Axos Bank",
-        "id": "db973373-1f37-4a28-a35f-0636e8d7e859",
-        "title": "Strategy & Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773452264,
-        "date_posted": 1773452264,
-        "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Strategy---Data-Analyst-Intern_JR3588",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Axos-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Premera Blue Cross",
-        "id": "aae44879-a3d8-4425-90b1-2d5b3ead21bd",
-        "title": "Intern - Software Development Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773453163,
-        "date_posted": 1773453163,
-        "url": "https://premera.wd5.myworkdayjobs.com/premera/job/Mountlake-Terrace-WA/Summer-Intern---Software-Development-Engineer_R28725",
-        "locations": [
-            "Lynnwood, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/9e9598e3-4c15-4b9b-a2d7-3fa40cd198bd",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Canadian Tire",
-        "id": "bb09b5b8-edb3-426f-b1d8-261cb35b89d1",
-        "title": "Innovation & Testing Student",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773453027,
-        "date_posted": 1773453027,
-        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Calgary-AB/Innovation---Testing-Student--4-months----Summer-2026_JR157796",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Canadian-Tire",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "PHINIA",
         "id": "bb29700d-bb34-4b09-8523-a88619e27507",
@@ -376,29 +309,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Solidigm",
-        "id": "f87753dc-bc75-4150-90fa-9364ecf8a0de",
-        "title": "Talent Acquisition Data Engineering & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773469470,
-        "date_posted": 1773469470,
-        "url": "https://jobs.smartrecruiters.com/Solidigm/744000114789900",
-        "locations": [
-            "Rancho Cordova, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Solidigm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "BJ's Wholesale Club",
         "id": "d8d3ea12-18c9-4f9e-8bdd-ed912dd34ac6",
         "title": "Club Operations Analyst Intern",
@@ -466,27 +376,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "8c3f6098-52ec-4e97-8054-c775774638fe",
-        "title": "Intern \u2013 Economics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773468632,
-        "date_posted": 1773468632,
-        "url": "https://amazon.jobs/en/jobs/3204829/intern-economics-ww-returns-and-recommerce-economics-intelligence",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -221831,7 +221720,7 @@
         "company_name": "Stryten",
         "id": "054be3ce-3039-4545-b02e-d2f875075a76",
         "title": "Industrial or Mechanical Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -232588,7 +232477,7 @@
         "company_name": "Caterpillar",
         "id": "a62e77a9-988b-42c6-abf2-5885839a948c",
         "title": "Corporate Intern - Autonomy & Intelligent Systems Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -269247,7 +269136,7 @@
         "company_name": "Xcel Energy",
         "id": "58e0a934-91a0-40c8-a6bd-305d44b9da55",
         "title": "Residential Energy Product Strategy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -269532,7 +269421,7 @@
         "company_name": "Sun Life",
         "id": "6d28d84c-4927-4e69-87da-3af84ca212c6",
         "title": "Medical Intelligence Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333057,7 +332946,7 @@
         "company_name": "Manulife Financial",
         "id": "8ede2bfe-2073-4a15-844c-e906d6e05de6",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -338269,7 +338158,7 @@
         "company_name": "Johnson & Johnson",
         "id": "d66fb15d-3f14-497d-9099-9814aef7e5a3",
         "title": "IDAR Summer Intern - C&SP",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338296,7 +338185,7 @@
         "company_name": "Johnson & Johnson",
         "id": "fdf4dfa7-1147-46dc-a5e5-0873db565d6f",
         "title": "IDAR Summer Intern - Ease",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367019,7 +366908,7 @@
         "company_name": "Caterpillar",
         "id": "b5513c72-0126-472b-af07-cd37e80ee5b1",
         "title": "Corporate Intern - Digital and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369870,7 +369759,7 @@
         "company_name": "American Express",
         "id": "61fa0744-4831-4c97-9f73-b7fff685dfe2",
         "title": "AI Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374452,7 +374341,7 @@
         "company_name": "Applied Materials",
         "id": "8e8f5c62-75b7-4d21-9a7b-a56d2f2513cf",
         "title": "Data Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -382289,7 +382178,7 @@
         "company_name": "T-Mobile",
         "id": "d5003bb9-4e1d-41af-97fb-843e7f28ae5f",
         "title": "Associate Technical Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384550,7 +384439,7 @@
         "company_name": "CIBC",
         "id": "2b2e5210-8084-4fd3-b375-bdd043c7b676",
         "title": "AI Developer Co-op - Bilingual",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -384571,7 +384460,7 @@
         "company_name": "CIBC",
         "id": "05d25f11-31aa-465e-b08d-99af042a026f",
         "title": "Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -384662,7 +384551,7 @@
         "company_name": "JM Family",
         "id": "ffc6266f-4786-4043-b824-c50c2f564d80",
         "title": "Customer Experience Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390203,7 +390092,7 @@
         "company_name": "NAV CANADA",
         "id": "ba489eda-1455-478f-a4f5-c3cfc0b0675e",
         "title": "Aviation Predictive Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390448,7 +390337,7 @@
         "company_name": "Molina Healthcare",
         "id": "18803ec8-f589-4545-bb91-2d5378346d55",
         "title": "Customer Experience & Analytics Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390471,7 +390360,7 @@
         "company_name": "OLG",
         "id": "bc7d4376-6b3f-4e31-8e71-be0610594d48",
         "title": "Front End Developer Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -394404,7 +394293,7 @@
         "company_name": "T-Mobile",
         "id": "9d1b1bbe-f17b-45fa-9f6e-c944caa8f7eb",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394448,7 +394337,7 @@
         "company_name": "T-Mobile",
         "id": "63d855e1-d1ea-462d-bcca-0d0d3bba5e1e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394605,7 +394494,7 @@
         "company_name": "T-Mobile",
         "id": "76a9adb2-de1f-4c13-8134-c6ae9614a37d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394652,7 +394541,7 @@
         "company_name": "RTX",
         "id": "48ffbc2e-df41-400b-8812-1097f69556c6",
         "title": "Program Fleet Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401533,7 +401422,7 @@
         "company_name": "Zebra Technologies",
         "id": "d21074f9-91d2-4034-bdc6-343e4b7baf92",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402080,7 +401969,7 @@
         "company_name": "Alaska Air Group",
         "id": "dac9ed6b-56bc-46cd-9df0-a15db5581717",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402147,7 +402036,7 @@
         "company_name": "Alaska Air Group",
         "id": "eb8a2e35-b9c4-4e33-89cf-b145e732f581",
         "title": "BI Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402170,7 +402059,7 @@
         "company_name": "Alaska Air Group",
         "id": "2e1a5e1d-e688-49b9-9369-a2f5deb491a6",
         "title": "VR Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402193,7 +402082,7 @@
         "company_name": "Alaska Air Group",
         "id": "cdb6fb97-891a-42fe-8c20-fc82c2234b21",
         "title": "Guest Products Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404804,7 +404693,7 @@
         "company_name": "State Farm",
         "id": "69c2da8d-f16e-4599-a3ab-37ca479de0e2",
         "title": "P&C Actuarial & Underwriting Modeling Intern - Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405104,7 +404993,7 @@
         "company_name": "Centene",
         "id": "b53ea0be-a77d-4a59-9c44-296ccdcd236b",
         "title": "Provider Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409468,6 +409357,52 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samsung",
+        "id": "63b0cc3b-2e81-4428-ab00-769c4524fcb3",
+        "title": "ePro Business & Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794208951,
+        "date_posted": 1794096000,
+        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "2cdfed62-a249-4fe7-b45f-406da7879351",
+        "title": "Electrical Hardware Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794207964,
+        "date_posted": 1794096000,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Electrical-Hardware-Engineer-Intern_1214992",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
