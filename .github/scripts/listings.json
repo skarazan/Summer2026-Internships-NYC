@@ -1,100 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Zscaler",
-        "id": "5ecfc8fd-1a27-4a25-a19b-e41143f1c3fe",
-        "title": "AI/ML Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773796815,
-        "date_posted": 1773796815,
-        "url": "https://job-boards.greenhouse.io/zscaler/jobs/5022413007",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zscaler",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "28910fa5-719d-45a0-9802-f5f97c8a65f1",
-        "title": "Economist Intern - FBA Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773796373,
-        "date_posted": 1773796373,
-        "url": "https://amazon.jobs/en/jobs/3207332/economist-intern-fba-science-fba-science",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Public Service Enterprise Group",
-        "id": "0bf428ae-cfce-4133-b8cd-91fd4d39a862",
-        "title": "Technical Intern - Nuclear Innovation Team",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773796068,
-        "date_posted": 1773796068,
-        "url": "https://jobs.pseg.com/job/Hancocks-Bridge-Summer-2026-Technical-Intern-Nuclear-Innovation-Team-NJ-08038/1374123200/?ats=successfactors",
-        "locations": [
-            "New Castle, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/Public-Service-Enterprise-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "c76731fb-7fe6-4695-af55-0427643c0aa1",
-        "title": "Intern Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773796121,
-        "date_posted": 1773796121,
-        "url": "https://careers-gdms.icims.com/jobs/71195/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pittsfield, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Creatify Lab ",
         "id": "ab5fa332-ca73-429e-83d4-712536d312df",
@@ -11806,30 +11712,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "35e75bcb-b881-40ed-8ab0-915e8611c4c0",
-        "title": "Intern - Failure Analysis Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773813833,
-        "date_posted": 1773813833,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000115355677",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Live Nation Entertainment",
         "id": "60efa159-bb0b-4729-8c28-8e647c75ec28",
@@ -12065,29 +11947,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Arkansas",
-        "id": "613121a0-b6ea-469c-bf10-9bb507ad6f4c",
-        "title": "Cosmos Graduate Research Assistant - ML/AI",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773813929,
-        "date_posted": 1773813929,
-        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--ML-AI-_R0053896",
-        "locations": [
-            "Little Rock, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -159227,7 +159086,7 @@
         "company_name": "TikTok",
         "id": "8b5ac2f9-33b4-434d-b7d0-d7d0afcc5357",
         "title": "Fullstack Software Engineer Intern - Global E-Commerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -239841,7 +239700,7 @@
         "company_name": "Red Hat",
         "id": "24815578-f6f1-4a50-85b5-fc4d793c9966",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -240285,7 +240144,7 @@
         "company_name": "Red Hat",
         "id": "dc64c0e1-cb38-41de-a3e3-804c8de373b8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -243610,7 +243469,7 @@
         "company_name": "Pilot Company",
         "id": "8af537c8-1c4a-4baf-a924-99bf28fc30a0",
         "title": "Process Automation Intern - Process Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -243680,7 +243539,7 @@
         "company_name": "Pilot Company",
         "id": "33258c1b-8a35-41f6-a22e-7156b64f6144",
         "title": "GIS Intern - GIS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -262380,7 +262239,7 @@
         "company_name": "BlackRock",
         "id": "25a6eaee-a2fc-4abd-871b-c4b5e46eb0b3",
         "title": "Quantitative Master's Intern - Investments - Quantitative Investing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -262917,7 +262776,7 @@
         "company_name": "BlackRock",
         "id": "e7067c38-ffd5-4e91-b625-6732557cb064",
         "title": "Quantitative Master\u2019s Intern - Investments - Quantitative Investing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -262961,7 +262820,7 @@
         "company_name": "BlackRock",
         "id": "9f717eea-aa90-43b0-b625-5d82064e049e",
         "title": "Quantitative Master\u2019s Intern - Investments - Quantitative Investing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -263076,7 +262935,7 @@
         "company_name": "BlackRock",
         "id": "b4c7e3c7-8f68-4c61-80da-98ab3347b7b6",
         "title": "Quantitative Master\u2019s Internship - Technology - Analytics & Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -270541,7 +270400,7 @@
         "company_name": "Emerson Electric",
         "id": "24774d9b-0c8e-4321-bcc0-934b0dc99931",
         "title": "Electrical Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -283942,7 +283801,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -301527,7 +301386,7 @@
         "company_name": "Clay",
         "id": "773da2cb-d9d3-4abc-aa5d-04b61ce3c66c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -305590,7 +305449,7 @@
         "company_name": "Nokia",
         "id": "8b385727-658a-459e-8709-2c4192ab4c20",
         "title": "AI R&D Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -307411,7 +307270,7 @@
         "company_name": "Affirm",
         "id": "b7368293-9c8c-4b02-8787-dddbcf2af626",
         "title": "Software Engineer Intern - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308068,7 +307927,7 @@
         "company_name": "General Motors",
         "id": "93b4a798-697c-42d2-a104-cda1bb152b83",
         "title": "Software Engineer Intern - AV/AI Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -319063,7 +318922,7 @@
         "company_name": "Nokia",
         "id": "75eae133-33cf-40a0-80fd-3aabdf37a56f",
         "title": "AI Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -323321,7 +323180,7 @@
         "company_name": "GE Vernova",
         "id": "b10edb5a-e520-4da4-988d-a8a730bef747",
         "title": "SCS Commercial Strategy & Growth Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323344,7 +323203,7 @@
         "company_name": "GE Vernova",
         "id": "fe9397ed-ce82-451a-b4fa-143376c31614",
         "title": "SCS Commercial Intern - : AI Data Mining Agent",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -323367,7 +323226,7 @@
         "company_name": "GE Vernova",
         "id": "ba21fb5b-f6ae-4a75-a5ce-cb99ba4a0b97",
         "title": "SCS Commercial Strategy & Growth Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323390,7 +323249,7 @@
         "company_name": "GE Vernova",
         "id": "202659ad-f0b5-439c-b21e-caa711b9c30d",
         "title": "SCS Commercial Intern - : AI Data Mining Agent",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -324969,7 +324828,7 @@
         "company_name": "Merck",
         "id": "d7f43d08-985d-44a8-a3d4-4fd4ee837899",
         "title": "International Pricing Analytics Intern - International Pricing Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339168,7 +339027,7 @@
         "company_name": "Johnson & Johnson",
         "id": "eed65ade-e9b6-4281-bfea-94e030327a6d",
         "title": "External Manufacturing Center of Excellence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -350966,7 +350825,7 @@
         "company_name": "American Electric Power",
         "id": "5598e445-4a5d-4330-9b66-07544b0d3b7a",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -352838,7 +352697,7 @@
         "company_name": "KeyBank",
         "id": "a1713031-4b7f-4d1b-969c-fbfcee4f1a57",
         "title": "Marketing Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353157,7 +353016,7 @@
         "company_name": "ABB",
         "id": "38820a89-81bd-460a-9b63-b3f7eea30e73",
         "title": "Power BI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358935,7 +358794,7 @@
         "company_name": "TD Bank",
         "id": "b9b52922-5041-4125-b7c7-84b0dd7df700",
         "title": "Graduate Leadership Program Commercial Banking Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362123,7 +361982,7 @@
         "company_name": "Navy Federal",
         "id": "c5d18f1d-65ab-49c8-86ae-b293e6a1c377",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -365397,7 +365256,7 @@
         "company_name": "HCSC",
         "id": "359fb94c-188d-4ed5-966d-09be72212149",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374395,7 +374254,7 @@
         "company_name": "Micron Technology",
         "id": "919323ab-0bec-4059-9bad-aa2b7fad6c40",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375297,7 +375156,7 @@
         "company_name": "Sherwin-Williams",
         "id": "e96c73df-1dd2-4b9f-9018-b6e5c937fe68",
         "title": "R&D Data Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377126,7 +376985,7 @@
         "company_name": "Pernod Ricard, cr\u00e9ateurs de convivialit\u00e9",
         "id": "79c4704a-2757-414c-8d3f-8786e245bc77",
         "title": "Data & Business Transformation Placement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381681,7 +381540,7 @@
         "company_name": "CIBC",
         "id": "22025afc-69c8-4dde-a41e-7278af3ae802",
         "title": "Project Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -381813,7 +381672,7 @@
         "company_name": "Nokia",
         "id": "17481db4-7b68-4ead-b8cc-e7f82118697d",
         "title": "Silicon Photonics Packaging Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -383760,7 +383619,7 @@
         "company_name": "Bristol Myers Squibb",
         "id": "fc31f420-a553-440f-b4e2-14bf2e7fdf26",
         "title": "Quality Control Strategy and Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -390225,7 +390084,7 @@
         "company_name": "RGA Reinsurance Company",
         "id": "e76577d0-95e5-4dca-baf2-86a80fd28131",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391168,7 +391027,7 @@
         "company_name": "JM Family",
         "id": "62fcafce-1c3e-423e-b12d-6f064a41a6a3",
         "title": "AI Center of Excellence Delivery Team Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391191,7 +391050,7 @@
         "company_name": "JM Family",
         "id": "a4762cb5-97a1-457e-a071-427b1e9dd672",
         "title": "AI & Decision Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396810,7 +396669,7 @@
         "company_name": "Parsons",
         "id": "79f9478e-8da8-40c2-9ec5-ae55ac3157ba",
         "title": "Embedded Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399454,7 +399313,7 @@
         "company_name": "T-Mobile",
         "id": "e069ea1c-b571-46be-95e2-d1071dbcb2dd",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402276,7 +402135,7 @@
         "company_name": "RTX",
         "id": "c8c804f9-c25c-4c84-92f3-f6d5d3544b52",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404264,7 +404123,7 @@
         "company_name": "UiPath",
         "id": "9cd6fe4b-5705-4c78-bd3f-42710712db27",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407047,7 +406906,7 @@
         "company_name": "Renesas Electronics",
         "id": "f44d9e10-bd09-4c58-9683-71c26a6fc716",
         "title": "Applications Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407121,7 +406980,7 @@
         "company_name": "RTX",
         "id": "3978f6f3-57fe-4e9f-808a-e68e8daa32ca",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407145,7 +407004,7 @@
         "company_name": "RTX",
         "id": "f0ed27e9-ca10-424f-8305-319c157dc9db",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408125,7 +407984,7 @@
         "company_name": "Art of Problem Solving",
         "id": "99f21d5c-7198-4ea0-af0f-623286ed3a1f",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408610,7 +408469,7 @@
         "company_name": "RTX",
         "id": "cbf0ae78-7117-4952-b05e-ab26f07e9803",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -409206,7 +409065,7 @@
         "company_name": "Unisys",
         "id": "5c47d2c6-87fd-41d7-ad7b-88e3b69a6a63",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -409507,7 +409366,7 @@
         "company_name": "Tacit",
         "id": "bcd6d25f-bd8c-4b5e-93ef-c9702e3f39ba",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -412757,7 +412616,7 @@
         "company_name": "Lightmatter",
         "id": "3ccd0b28-1c06-43f2-be85-1902e772f95b",
         "title": "Data & AI Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413896,6 +413755,1197 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CoStar Group",
+        "id": "be6ad631-0dc1-427c-aaf1-88f8916fd4e9",
+        "title": "Vision & Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794536822,
+        "date_posted": 1794441600,
+        "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zoox",
+        "id": "b8ad3dc7-cf43-4e11-909c-85b6cf1d5722",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794536822,
+        "date_posted": 1794536650,
+        "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db/apply",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "0481fb67-c0ea-4fc5-b59c-316b5ffb6870",
+        "title": "Hardware Test Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794536137,
+        "date_posted": 1794441600,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "4fe1b8d3-32c5-424c-84bf-74003c96c4bd",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794535961,
+        "date_posted": 1794441600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01885543",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "E2 Consulting Engineers",
+        "id": "8f0be6fa-e4b9-467b-bcd6-654bb5eb2f65",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794535742,
+        "date_posted": 1794441600,
+        "url": "https://careers-e2.icims.com/jobs/6496/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/E2-Consulting-Engineers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ASML",
+        "id": "234a1357-b370-4f07-aa8b-2eebcdcd4464",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794535405,
+        "date_posted": 1794441600,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462",
+        "locations": [
+            "Wilton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huawei",
+        "id": "ff35d928-bda9-4876-80f6-102b8df3d1e4",
+        "title": "Engineer Co-op - Compiler",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538295,
+        "date_posted": 1781539148,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-compiler-7",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huawei",
+        "id": "f285604b-c7e7-4333-9901-870a103aaca1",
+        "title": "Engineer Co-op - Intelligent Real-Time Operating System",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538295,
+        "date_posted": 1785854802,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-intelligent-real-time-operating-system",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "e9dce874-b516-4714-aa32-2c74b599fc5d",
+        "title": "Researcher Intern - AI/ML Technology Insight and Planning",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538279,
+        "date_posted": 1781547243,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-aiml-technology-insight-and-planning",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "e04fc4ce-39fe-4ca9-98b7-f8d9f899924c",
+        "title": "Researcher Co-op - Machine Learning - Speech & Audio AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538277,
+        "date_posted": 1787332102,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-machine-learning-speech-audio-ai",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huawei",
+        "id": "b5e0adf9-5977-4432-ae4d-aa1803b66414",
+        "title": "Engineer Co-op - Openjiuwen AI Agent Platform",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538279,
+        "date_posted": 1785932833,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-openjiuwen-ai-agent-platform",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "a73caa08-a120-4dbc-9b79-976602108991",
+        "title": "Researcher Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538277,
+        "date_posted": 1791995347,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-5",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "9980bf28-c8da-43cc-990a-cf5e2fb55015",
+        "title": "Audio Researcher Intern - Speech & Acoustic AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538277,
+        "date_posted": 1791900970,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-audio-speech-acoustic-ai",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "8713ed6c-50c6-470d-a81a-2e35ebc67528",
+        "title": "Researcher Computer Vision Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538281,
+        "date_posted": 1793724069,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-computer-vision-3",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "f7c06d5d-b0fb-479e-875c-f9eab2439b43",
+        "title": "LLM Researcher Intern - Agentic AI - RL",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538297,
+        "date_posted": 1778267665,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-llms-agentic-ai-and-rl",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "f686a734-346e-428f-8765-b0f4f114ff0c",
+        "title": "Intern Researcher - AI Foundation Model Training",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538263,
+        "date_posted": 1777386310,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-ai-foundation-model-training",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "75ad31e5-8869-42ee-b746-6f59add9f04b",
+        "title": "Researcher Intern - Agentic AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538282,
+        "date_posted": 1783435671,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-agentic-ai-1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "751cb9fa-f552-4980-b185-35dd46e6f18e",
+        "title": "Intern Researcher - AI Agents",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538280,
+        "date_posted": 1793279889,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-ai-agents-1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "690be9b5-93e1-4b65-95be-44f1ca50492d",
+        "title": "Researcher Co-op - AI Computing System",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538281,
+        "date_posted": 1775083935,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "625c7e2c-e13b-460f-9730-12a155fa8639",
+        "title": "Researcher Applied 3D AIGC Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538276,
+        "date_posted": 1791900984,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-applied-3d-aigc",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "5c6c5599-9754-435d-a9eb-8b5203dee989",
+        "title": "Researcher Intern - Multimodal Learning",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538289,
+        "date_posted": 1780498828,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-learning",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "52bbf56a-d355-47d0-9bab-5bd8ee11476f",
+        "title": "Physical AI Researcher Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538295,
+        "date_posted": 1778267679,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-physical-ai",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "471baf47-a970-4f86-9b64-150b4c12e205",
+        "title": "Engineer Intern - RL Post-Training for LLMs",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538295,
+        "date_posted": 1780954168,
+        "url": "https://huaweicanada.recruitee.com/o/intern-engineer-rl-post-training-for-llms",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huawei",
+        "id": "326351dd-6d13-457e-90d4-f2bda553dbde",
+        "title": "Engineer-Mobile AI Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538281,
+        "date_posted": 1778270810,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-mobile-ai",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "ec617af8-e6b5-4f09-97c4-5fe0308f7811",
+        "title": "Researcher Co-op - LLM Post-Training & Agentic Coding",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538296,
+        "date_posted": 1787331645,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-llm-post-training-agentic-coding",
+        "locations": [
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "e3bcb790-c388-46ce-8b5c-8c536b958af8",
+        "title": "Engineer Intern - AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538278,
+        "date_posted": 1782153992,
+        "url": "https://huaweicanada.recruitee.com/o/intern-engineer-ai",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "af6d58e7-f6ef-4a94-9d9d-80f9fdb8352f",
+        "title": "Researcher Co-op - Video Generation & 3D Computer Vision",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538297,
+        "date_posted": 1787331955,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-video-generation-3d-computer-vision",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huawei",
+        "id": "98b99dd7-cba9-4350-be70-6983b108701f",
+        "title": "Engineer Distributed Agent System Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538280,
+        "date_posted": 1783953981,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-distributed-agent-system-1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huawei",
+        "id": "775dd1f4-1211-4500-9c9e-8e8a47553158",
+        "title": "Intern Engineer - Game Engine System",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538263,
+        "date_posted": 1780504219,
+        "url": "https://huaweicanada.recruitee.com/o/intern-engineer-game-engine-system",
+        "locations": [
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "71b697b9-33da-44f6-b74c-1a18fd876b98",
+        "title": "Embodied AI Researcher Intern - Embodied AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538284,
+        "date_posted": 1782234610,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huawei",
+        "id": "5e9eca7f-524c-44e5-85c0-cb5bbe2163f3",
+        "title": "Software Engineer Co-op - AI Software Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538298,
+        "date_posted": 1781728922,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-ai-software-engineering",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huawei",
+        "id": "58ca9177-7b2c-4472-8fe2-05c124cca7dd",
+        "title": "Researcher Intern - Multimodal AI & Interaction",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538285,
+        "date_posted": 1788550327,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-ai-interaction",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "4e1cfabf-de23-45ca-b706-8e2f202b62e8",
+        "title": "Researcher Intern - Embodied AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538277,
+        "date_posted": 1794510270,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-3",
+        "locations": [
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "30b61d83-12c1-4029-a529-980253b6f7e1",
+        "title": "Researcher Co-op - Physical AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538275,
+        "date_posted": 1787331527,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-physical-ai",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "24a69d69-e63c-49fc-a986-1bf03a1c9a84",
+        "title": "Researcher Co-op - Large Language Models - Computer Vision",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538277,
+        "date_posted": 1787331557,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-llms-computer-vision-1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "0def37d6-27d0-4efb-ae81-34835557d23e",
+        "title": "Researcher Co-op - Agentic AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538277,
+        "date_posted": 1787836425,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-agentic-ai",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "03941a8f-ba62-4a38-b795-23b63cb0869a",
+        "title": "Researcher Co-op - LLM - Computer Vision",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538281,
+        "date_posted": 1787331781,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-llms-computer-vision",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AB InBev",
+        "id": "0be20f8c-3098-44d2-88ab-cbc0d29cdb13",
+        "title": "Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794537920,
+        "date_posted": 1787875200,
+        "url": "https://wd1.myworkdaysite.com/recruiting/abinbev/CAN/job/Toronto-Ontario/Technology-Internship_30102805",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AB-InBev",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "8f47d73c-faa0-4332-89e2-eebc74191786",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794537364,
+        "date_posted": 1794537318,
+        "url": "https://lifeattiktok.com/search/7698822572474583301",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "98dc807a-1c66-4aa7-be8a-e92415806904",
+        "title": "Research Scientist Intern - Content Ecology - Local Services",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794537364,
+        "date_posted": 1794537318,
+        "url": "https://lifeattiktok.com/search/7707222170826623285",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "54dd4a2d-1c29-46fc-abe9-339b86237bc5",
+        "title": "Hardware Test Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794537218,
+        "date_posted": 1794441600,
+        "url": "https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lightmatter",
+        "id": "ddf05d15-149a-411e-8f61-81a01fceaaf2",
+        "title": "Quality & Reliability Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794537227,
+        "date_posted": 1794531669,
+        "url": "https://boards.greenhouse.io/lightmatter/jobs/5474812008",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "613121a0-b6ea-469c-bf10-9bb507ad6f4c",
+        "title": "Graduate Research Assistant Intern - ML/AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792833308,
+        "date_posted": 1778940427,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--ML-AI-_R0053896",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Arkansas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Federal Home Loan Bank of Dallas",
+        "id": "92e97129-5157-407c-a20a-583d03213c24",
+        "title": "Digital Transformation Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1794554900,
+        "date_posted": 1793232000,
+        "url": "https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/XMLNAME-2027-Spring-Digital-Transformation-Intern_REQ-456",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Federal-Home-Loan-Bank-Of-Dallas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Federal Home Loan Bank of Dallas",
+        "id": "82e09811-c21f-4f33-87de-90a940f52865",
+        "title": "Accounting Tech Solutions Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794554901,
+        "date_posted": 1792972800,
+        "url": "https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Accounting-Tech-Solutions-Intern_REQ-444",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Federal-Home-Loan-Bank-Of-Dallas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "f6983ddf-02f7-4973-ba32-f5ca9ec6ba43",
+        "title": "Software Engineer Intern - Energy Engineering",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1794554293,
+        "date_posted": 1794554109,
+        "url": "https://www.tesla.com/careers/search/job/289796",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Envita Solutions",
+        "id": "b38678ed-cd5b-41bc-9453-c63367824c7b",
+        "title": "Data Scientist Intern - Applied AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1794554103,
+        "date_posted": 1789084800,
+        "url": "https://thgrp.wd12.myworkdayjobs.com/envita/job/Indianapolis-IN/Data-Scientist-Intern--Applied-AI_R-1728",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Envita-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Envita Solutions",
+        "id": "84683a1c-87f6-45c9-a94e-879f4dd879e8",
+        "title": "Software Engineer Intern - Applied AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1794554117,
+        "date_posted": 1789084800,
+        "url": "https://thgrp.wd12.myworkdayjobs.com/envita/job/Indianapolis-IN/Software-Engineering-Intern--Applied-AI_R-1727",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Envita-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JSX",
+        "id": "3776b303-0849-4822-8f8b-efd9d1b813dc",
+        "title": "Commercial Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794553928,
+        "date_posted": 1793577600,
+        "url": "https://jsx.wd503.myworkdayjobs.com/JSX_Careers/job/Dallas-Headquarters/Commercial-Intern_R-100729",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/JSX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aurora Innovation",
+        "id": "d52ae577-609f-49a7-bc5e-5c2a1e928841",
+        "title": "Software Engineer Intern - Vehicle Platforms",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794556262,
+        "date_posted": 1794528000,
+        "url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Toro Company",
+        "id": "380d6f38-7127-4d0c-a076-883abe2a4254",
+        "title": "CX and Customer Lifetime Value Intern - Operations Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794556305,
+        "date_posted": 1794528000,
+        "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Toro-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SJI",
+        "id": "f4545b1a-8339-44b7-a20d-2deda4699348",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1794555542,
+        "date_posted": 1790553600,
+        "url": "https://sjindustries.wd1.myworkdayjobs.com/SJI/job/Folsom-NJ/Engineering-Design-Intern_R4369",
+        "locations": [
+            "Folsom, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SJI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "0a8f361d-eac9-4e93-9219-0611e828cf85",
+        "title": "Machine Learning Scientist Intern - Local Services",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794555542,
+        "date_posted": 1794555446,
+        "url": "https://lifeattiktok.com/search/7703925583541979445",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Samsung",
+        "id": "710b4782-710d-4d0d-b636-26fef8fa8649",
+        "title": "Compiler Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794555217,
+        "date_posted": 1794551014,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
