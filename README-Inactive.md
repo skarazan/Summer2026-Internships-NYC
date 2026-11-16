@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 226 Inactive Internship Roles by Category
+### Browse 222 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (90)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (89)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (29)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (80)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (77)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (21)
 
@@ -627,7 +627,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
 <td>Software Developer – Co-op/Intern - Summer 2026 - 4 Months</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -697,7 +697,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Impiricus?utm_source=GHList&utm_medium=company">Impiricus</a></strong></td>
+<td><strong>Impiricus</strong></td>
 <td>Intern - Software Engineer (Backend)</td>
 <td>New York, NY</td>
 <td>🔒</td>
@@ -707,13 +707,6 @@
 <td><strong>Coverdash</strong></td>
 <td>Software Engineering Intern</td>
 <td>New York, NY</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Impiricus?utm_source=GHList&utm_medium=company">Impiricus</a></strong></td>
-<td>Software Engineer Intern - Full Stack</td>
-<td>NYC</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -967,7 +960,7 @@
 <td>Data Analytics Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TIAA?utm_source=GHList&utm_medium=company">TIAA</a></strong></td>
@@ -1054,7 +1047,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Phamily?utm_source=GHList&utm_medium=company">Phamily</a></strong></td>
 <td>Machine Learning Intern 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -1072,7 +1065,7 @@
 <td>AI Research Scientist PhD Intern 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTW-Investments?utm_source=GHList&utm_medium=company">RTW Investments</a></strong></td>
@@ -1497,27 +1490,6 @@
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company">Capital One</a></strong></td>
 <td>Current PhD – Applied Research Intern Program 🎓</td>
-<td>NYC</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Sony?utm_source=GHList&utm_medium=company">Sony</a></strong></td>
-<td>Research Intern on Generative and Protective AI for Content Creation 🎓</td>
-<td>NYC</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Impiricus?utm_source=GHList&utm_medium=company">Impiricus</a></strong></td>
-<td>Intern Data Analytics</td>
-<td>NYC</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Intern - Data & Business Intelligence</td>
 <td>NYC</td>
 <td>🔒</td>
 <td>7mo</td>
