@@ -104,18 +104,11 @@
 <td><div align="center"><a href="https://vaneck.rec.pro.ukg.net/VAN1502VEAC/JobBoard/9158c56d-61c9-447f-98b1-4ba0b04ca31d/OpportunityDetail?opportunityId=185d986f-8f9f-40ac-bf05-a26e3aa02f9e&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fff3ccea-5d6d-46fa-8997-e175018be362?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Publicis-Groupe?utm_source=GHList&utm_medium=company">Publicis Groupe</a></strong></td>
-<td>Product Intern</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://careers.publicisgroupe.com/jobs/172717?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7a225481-17bf-4ff1-809f-c42cf1757c2b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 </tbody>
 </table>
 
 
-🔒 **[See 26 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
+🔒 **[See 27 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
 
 
 
