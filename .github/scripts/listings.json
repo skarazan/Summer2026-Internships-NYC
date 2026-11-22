@@ -1,124 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Applied Materials",
-        "id": "6f0a65e5-a954-40aa-b9c9-d00ef4edcdab",
-        "title": "Application Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774587398,
-        "date_posted": 1774575207,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer---Application-Engineer-Intern--Santa-Clara--CA-_R2520060",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SiFive",
-        "id": "de32672b-e299-4728-857a-e9714510e0de",
-        "title": "CPU Design Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774591625,
-        "date_posted": 1774591625,
-        "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/CPU-Design-Intern_R-101043",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SiFive",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "NBCUniversal",
-        "id": "d3beceeb-585c-49d6-8478-ae5480fd807f",
-        "title": "Culinary Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774617561,
-        "date_posted": 1774591575,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000117141938",
-        "locations": [
-            "North Hollywood, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Rolls-Royce Motorcars",
-        "id": "75cfa15d-4740-4b16-bde7-92b946730038",
-        "title": "Intern Technical Service Electrical or Mechanical & Digitalization",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774617068,
-        "date_posted": 1774591493,
-        "url": "https://jobs.bmwgroup.com/job/Woodcliff-Lake-Intern-Technical-Service-Electrical-or-Mechanical-&-Digitalization-New/1378078933/?ats=successfactors",
-        "locations": [
-            "Paramus, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "5f65a98d-7f74-4256-ac22-44ba5c68e076",
-        "title": "Copyright Solution Product Manager Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774591943,
-        "date_posted": 1774591943,
-        "url": "https://lifeattiktok.com/search/7615924066587232517",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Socure",
         "id": "f926c3eb-b1ea-4028-b59a-bc891b3e6b9f",
@@ -268540,7 +268422,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279145,7 +279027,7 @@
         "company_name": "Rhoda AI",
         "id": "1736ee29-1f1e-4421-8616-9c616abc3f8e",
         "title": "Robot Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -311923,7 +311805,7 @@
         "company_name": "Workday",
         "id": "0a37326a-6eb6-4459-8249-044ccfac8600",
         "title": "Software Application Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335239,7 +335121,7 @@
         "company_name": "Expedia Group",
         "id": "a99e2f5f-e8a1-4b4f-9c09-643e09df2f89",
         "title": "Machine Learning Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -336993,7 +336875,7 @@
         "company_name": "TD Bank",
         "id": "2d43585f-8138-4d37-97ac-3ac58db1d2cc",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344153,7 +344035,7 @@
         "company_name": "Thomson Reuters",
         "id": "afa3c0c7-940c-4de0-847a-f6af71fecffb",
         "title": "Applied Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382632,7 +382514,7 @@
         "company_name": "The Federal Reserve System",
         "id": "e10ce551-2780-4df7-898b-4416e1679bd9",
         "title": "Statistics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398129,7 +398011,7 @@
         "company_name": "Verisk",
         "id": "f080ba31-67e8-4a12-a748-8d74a2b6067b",
         "title": "Data Science/AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399582,7 +399464,7 @@
         "company_name": "Capital Group",
         "id": "2090dcc2-c489-4ec4-bd16-8b1af5aa79f2",
         "title": "Global Technology Summer Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401832,7 +401714,7 @@
         "company_name": "ServiceNow",
         "id": "a2fe1cc0-aff1-49f6-bc73-fc65ecaa526f",
         "title": "Associate Forward Deployed Solution Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412686,7 +412568,7 @@
         "company_name": "Blackberry",
         "id": "aea2626a-4582-4875-ab5a-aeed57c50f4d",
         "title": "Hardware Engineering Student Intern - Radar",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -412886,5 +412768,170 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Neros Technologies",
+        "id": "c2b3d6cb-a6e8-4677-b5cb-24255710302d",
+        "title": "Firmware/Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795313343,
+        "date_posted": 1795311965,
+        "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Neros-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Interdigital",
+        "id": "b2252d03-ef88-4b77-a90b-a1f565ba425b",
+        "title": "PhD Research Intern - AI Lab",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795316043,
+        "date_posted": 1794873600,
+        "url": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/LosAltos_CA/PhD-Research-Intern--AI-Lab_REQ26-1172",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Interdigital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Schnucks",
+        "id": "0f52b6f8-706e-404f-8ce4-13343631217f",
+        "title": "Data Science Generative AI Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1795315522,
+        "date_posted": 1795046400,
+        "url": "https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971",
+        "locations": [
+            "St. Louis, MO",
+            "Missouri",
+            "Indiana",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Schnucks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allegion",
+        "id": "e56bb330-9e8e-4e5e-99c1-e672a0a01031",
+        "title": "Digital Manufacturing Intern - Digital Manufacturing",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795316461,
+        "date_posted": 1790035200,
+        "url": "https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Colorado-Springs-CO/Summer-Intern---Digital-Manufacturing_JR37704",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Allegion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Allegion",
+        "id": "976af7b5-d97e-481d-be47-56972cb2e171",
+        "title": "Hardware Engineering Intern - Product Lifecycle Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795316462,
+        "date_posted": 1789084800,
+        "url": "https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering---Indianapolis--Indiana_JR37467",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Allegion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "e8ff9442-41f5-41b5-83e0-6bfd57fd8f6b",
+        "title": "Data Analyst Intern - Wealth Management",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795333873,
+        "date_posted": 1793923200,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/o-2027-Wealth-Management--Winter-Data-Analyst_R-0000192288",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NBCUniversal",
+        "id": "454fafe8-96a5-4072-9e93-ab09c827aa64",
+        "title": "Business Data Intern - Film IT",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795333336,
+        "date_posted": 1795188377,
+        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153444475",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NBCUniversal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
